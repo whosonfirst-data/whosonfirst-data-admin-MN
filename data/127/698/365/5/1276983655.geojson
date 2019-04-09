@@ -1,0 +1,80 @@
+{
+  "id": 1276983655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.71806,46.19444,100.71806,46.19444",
+    "geom:latitude":46.19444,
+    "geom:longitude":100.71806,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bayanhongor",
+    "gn:country_code":"MN",
+    "gn:dem":1873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":2032533,
+    "gn:latitude":46.19444,
+    "gn:longitude":100.71806,
+    "gn:modification_date":"2013-08-04",
+    "gn:name":"Bayanhongor",
+    "gn:population":26252,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0445\u043e\u043d\u0433\u043e\u0440"
+    ],
+    "name:mon_x_variant":[
+        "Bayanhongor"
+    ],
+    "name:und_x_variant":[
+        "Youth City",
+        "Dzaluuchuud"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092034307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032533
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"41170fb6668f5370b3001a09c69d12f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034307,
+            "locality_id":1276983655,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1276983655,
+    "wof:lastmodified":1537665724,
+    "wof:name":"Bayanhongor",
+    "wof:parent_id":1092034307,
+    "wof:placetype":"locality",
+    "wof:population":26252,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.71806,
+    46.19444,
+    100.71806,
+    46.19444
+],
+  "geometry": {"coordinates":[100.71805999999999,46.19444],"type":"Point"}
+}

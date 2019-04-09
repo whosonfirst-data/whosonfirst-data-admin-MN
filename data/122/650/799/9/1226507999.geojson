@@ -1,0 +1,73 @@
+{
+  "id": 1226507999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.75,49.2,93.75,49.2",
+    "geom:latitude":49.2,
+    "geom:longitude":93.75,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Huryee Deresenii Ortoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515646,
+    "gn:latitude":49.2,
+    "gn:longitude":93.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00fcryee Deresenii \u00d6rt\u00f6\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khure deresuni urto",
+        "Huryee-Deresen-\u00d6rt\u00f6\u00f6",
+        "H\u00fcryee Deresenii \u00d6rt\u00f6\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092044117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515646
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7a7d90629817ccbf1d16c4eaf2de4f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044117,
+            "locality_id":1226507999,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1226507999,
+    "wof:lastmodified":1537665583,
+    "wof:name":"Huryee Deresenii Ortoo",
+    "wof:parent_id":1092044117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.75,
+    49.2,
+    93.75,
+    49.2
+],
+  "geometry": {"coordinates":[93.75,49.2],"type":"Point"}
+}

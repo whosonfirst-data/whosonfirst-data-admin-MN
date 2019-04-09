@@ -1,0 +1,67 @@
+{
+  "id": 1192989931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.23333,47.36667,112.23333,47.36667",
+    "geom:latitude":47.36667,
+    "geom:longitude":112.23333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bureen-Nuur",
+    "gn:country_code":"MN",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032171,
+    "gn:latitude":47.36667,
+    "gn:longitude":112.23333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"B\u00fcreen-Nuur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092042269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032171
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8055d794d100fed0161323baf36615bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042269,
+            "locality_id":1192989931,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1192989931,
+    "wof:lastmodified":1536381998,
+    "wof:name":"Bureen-Nuur",
+    "wof:parent_id":1092042269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.23333,
+    47.36667,
+    112.23333,
+    47.36667
+],
+  "geometry": {"coordinates":[112.23333,47.36667],"type":"Point"}
+}

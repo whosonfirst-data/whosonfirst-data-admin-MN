@@ -1,0 +1,67 @@
+{
+  "id": 1344131299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.06667,47.88333,107.06667,47.88333",
+    "geom:latitude":47.88333,
+    "geom:longitude":107.06667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Dugang Sume",
+    "gn:country_code":"MN",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031774,
+    "gn:latitude":47.88333,
+    "gn:longitude":107.06667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Dugang S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674783,
+        1092034375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031774
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3f1021d30afca355ecb05596ff13b26f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034375,
+            "locality_id":1344131299,
+            "region_id":85674783
+        }
+    ],
+    "wof:id":1344131299,
+    "wof:lastmodified":1536774106,
+    "wof:name":"Dugang Sume",
+    "wof:parent_id":1092034375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.06667,
+    47.88333,
+    107.06667,
+    47.88333
+],
+  "geometry": {"coordinates":[107.06667,47.88333],"type":"Point"}
+}

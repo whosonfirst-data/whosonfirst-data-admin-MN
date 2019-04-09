@@ -1,0 +1,76 @@
+{
+  "id": 1243337287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.73333,43.33333,104.73333,43.33333",
+    "geom:latitude":43.33333,
+    "geom:longitude":104.73333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Godoli Balgasanii Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031266,
+    "gn:latitude":43.33333,
+    "gn:longitude":104.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Godoli Balgasanii Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balgas-Nu-Khit",
+        "Godli balgasuin khid",
+        "Godoli Balgasanii Hiyd",
+        "Godli balgasuyn khid",
+        "Godli Balgasun Hiid",
+        "Godoli Balgasanii Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092043239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031266
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"283b3937be9df84815b87f0384d93f12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043239,
+            "locality_id":1243337287,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1243337287,
+    "wof:lastmodified":1537665686,
+    "wof:name":"Godoli Balgasanii Hiid",
+    "wof:parent_id":1092043239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.73333,
+    43.33333,
+    104.73333,
+    43.33333
+],
+  "geometry": {"coordinates":[104.73333,43.33333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226741475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.06667,43.35,108.06667,43.35",
+    "geom:latitude":43.35,
+    "geom:longitude":108.06667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tsabchiriin Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":836,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028842,
+    "gn:latitude":43.35,
+    "gn:longitude":108.06667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsabchiriin Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsabchirin-Khural",
+        "Tsabchir\u00f6yn Khural",
+        "Tsabchiryyn khural",
+        "Tsabchir\u2019in hural",
+        "Tsabchiriin Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028842
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"93476f54fdd27fa8e6c3bbfa4b26ac78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043405,
+            "locality_id":1226741475,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1226741475,
+    "wof:lastmodified":1537665620,
+    "wof:name":"Tsabchiriin Hural",
+    "wof:parent_id":1092043405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.06667,
+    43.35,
+    108.06667,
+    43.35
+],
+  "geometry": {"coordinates":[108.06667,43.35],"type":"Point"}
+}

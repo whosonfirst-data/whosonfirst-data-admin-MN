@@ -1,0 +1,74 @@
+{
+  "id": 1259981479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.45,49.05,90.45,49.05",
+    "geom:latitude":49.05,
+    "geom:longitude":90.45,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsagaantungi",
+    "gn:country_code":"MN",
+    "gn:dem":1602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515124,
+    "gn:latitude":49.05,
+    "gn:longitude":90.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaant\u00fcngi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Tsagaant\u00fcngi"
+    ],
+    "name:und_x_variant":[
+        "Altants\u00f6gts"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092032021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515124,
+        "wk:page":"Altants%C3%B6gts"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0719e547d06f3b6f4d6ded6ab980e4fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032021,
+            "locality_id":1259981479,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1259981479,
+    "wof:lastmodified":1537665571,
+    "wof:name":"Tsagaantungi",
+    "wof:parent_id":1092032021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.45,
+    49.05,
+    90.45,
+    49.05
+],
+  "geometry": {"coordinates":[90.45,49.05],"type":"Point"}
+}

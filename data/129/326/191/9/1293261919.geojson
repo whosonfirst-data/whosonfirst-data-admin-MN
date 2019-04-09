@@ -1,0 +1,72 @@
+{
+  "id": 1293261919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.85,49.86667,106.85,49.86667",
+    "geom:latitude":49.86667,
+    "geom:longitude":106.85,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Hujirta",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030424,
+    "gn:latitude":49.86667,
+    "gn:longitude":106.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hujirta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuchzhirtu",
+        "Hujirta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092044215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030424
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"32bc1a471081b49536f8cb9dfa4caec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044215,
+            "locality_id":1293261919,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1293261919,
+    "wof:lastmodified":1537665665,
+    "wof:name":"Hujirta",
+    "wof:parent_id":1092044215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.85,
+    49.86667,
+    106.85,
+    49.86667
+],
+  "geometry": {"coordinates":[106.84999999999999,49.86667],"type":"Point"}
+}

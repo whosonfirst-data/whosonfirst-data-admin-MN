@@ -1,0 +1,79 @@
+{
+  "id": 1226322815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.61673,46.93678,93.61673,46.93678",
+    "geom:latitude":46.93678,
+    "geom:longitude":93.61673,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Darvi",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516186,
+    "gn:latitude":46.93678,
+    "gn:longitude":93.61673,
+    "gn:modification_date":"2012-12-15",
+    "gn:name":"Darvi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darbi",
+        "Darwi",
+        "Derubi",
+        "Darbi Suma",
+        "Darbi Sume",
+        "Darbi sumu",
+        "Darvi",
+        "Darbi Somon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674737,
+        1092036463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516186,
+        "wk:page":"Darvi%2C_Khovd"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c5871038ccd465e57a16cebc8845e77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036463,
+            "locality_id":1226322815,
+            "region_id":85674737
+        }
+    ],
+    "wof:id":1226322815,
+    "wof:lastmodified":1537665596,
+    "wof:name":"Darvi",
+    "wof:parent_id":1092036463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.61673,
+    46.93678,
+    93.61673,
+    46.93678
+],
+  "geometry": {"coordinates":[93.61673,46.93678],"type":"Point"}
+}

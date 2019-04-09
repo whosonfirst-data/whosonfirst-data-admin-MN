@@ -1,0 +1,90 @@
+{
+  "id": 1343663749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.43798,49.04372,89.43798,49.04372",
+    "geom:latitude":49.04372,
+    "geom:longitude":89.43798,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Biluu",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516240,
+    "gn:latitude":49.04372,
+    "gn:longitude":89.43798,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Bil\u00fc\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bil\u00fc\u00fc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0425\u0443\u0441"
+    ],
+    "name:und_x_variant":[
+        "Ulan-Us-Khushu",
+        "Ulaan husu",
+        "Ulaan Husa Suma",
+        "Ulaan-Hushu",
+        "Ulaanhust",
+        "Ulaan Husa",
+        "Ulan husu",
+        "Ulaanhus",
+        "Ulan-Usu",
+        "Ulaankhus",
+        "Ulan-khusu somon",
+        "Wu-lan-wu-su",
+        "Ulan Khusu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092042649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516240,
+        "wk:page":"Ulaankhus"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3e857f5030c163e14ad5e4ed818f2988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042649,
+            "locality_id":1343663749,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1343663749,
+    "wof:lastmodified":1537665599,
+    "wof:name":"Biluu",
+    "wof:parent_id":1092042649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.43798000000002,
+    49.04372,
+    89.43798000000002,
+    49.04372
+],
+  "geometry": {"coordinates":[89.43798000000002,49.04372],"type":"Point"}
+}

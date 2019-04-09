@@ -1,0 +1,67 @@
+{
+  "id": 1309871275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.06667,49.68333,95.06667,49.68333",
+    "geom:latitude":49.68333,
+    "geom:longitude":95.06667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Ondorhangay-Sum",
+    "gn:country_code":"MN",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515427,
+    "gn:latitude":49.68333,
+    "gn:longitude":95.06667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"\u00d6nd\u00f6rhangay-Sum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092032563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515427
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"bb3910808baf809b1163b5a392b55151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032563,
+            "locality_id":1309871275,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1309871275,
+    "wof:lastmodified":1536835812,
+    "wof:name":"Ondorhangay-Sum",
+    "wof:parent_id":1092032563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.06667,
+    49.68333,
+    95.06667,
+    49.68333
+],
+  "geometry": {"coordinates":[95.06667,49.68333],"type":"Point"}
+}

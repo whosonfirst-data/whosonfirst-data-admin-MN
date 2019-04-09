@@ -1,0 +1,67 @@
+{
+  "id": 1309770525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.75583,48.40083,102.75583,48.40083",
+    "geom:latitude":48.40083,
+    "geom:longitude":102.75583,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Jargalant",
+    "gn:country_code":"MN",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030174,
+    "gn:latitude":48.40083,
+    "gn:longitude":102.75583,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Jargalant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092039077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030174
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"49355aa873bef8e36d2820301eda0986",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039077,
+            "locality_id":1309770525,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1309770525,
+    "wof:lastmodified":1536981402,
+    "wof:name":"Jargalant",
+    "wof:parent_id":1092039077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.75583,
+    48.40083,
+    102.75583,
+    48.40083
+],
+  "geometry": {"coordinates":[102.75583,48.40083],"type":"Point"}
+}

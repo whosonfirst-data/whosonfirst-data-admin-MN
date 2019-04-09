@@ -1,0 +1,78 @@
+{
+  "id": 1309708283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.96667,46.0,104.96667,46.0",
+    "geom:latitude":46.0,
+    "geom:longitude":104.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sangiin Dalay Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029501,
+    "gn:latitude":46.0,
+    "gn:longitude":104.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sangiin Dalay Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sangin-Dalayn-Khure",
+        "Sang\u00f6in Dalay Khid",
+        "Sang-Dalay-Hiyd",
+        "Sang\u2019iin dalay\u2019iin h\u00fcrie",
+        "Sangyyn Dalay Khid",
+        "Sangoyn dalay khid",
+        "Sangyin daloy Khid",
+        "Sangiin Dalay Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092037217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029501
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d1b2d2c0060f8406e8c310aec7727913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037217,
+            "locality_id":1309708283,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1309708283,
+    "wof:lastmodified":1537665635,
+    "wof:name":"Sangiin Dalay Hiid",
+    "wof:parent_id":1092037217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.96667,
+    46.0,
+    104.96667,
+    46.0
+],
+  "geometry": {"coordinates":[104.96666999999999,46.0],"type":"Point"}
+}

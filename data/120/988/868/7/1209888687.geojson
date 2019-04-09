@@ -1,0 +1,74 @@
+{
+  "id": 1209888687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.58333,48.95,106.58333,48.95",
+    "geom:latitude":48.95,
+    "geom:longitude":106.58333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Orhirogiin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029590,
+    "gn:latitude":48.95,
+    "gn:longitude":106.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Orhirogiin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Orhirogin-Dugan",
+        "Orkhirogin dugang",
+        "Orhiroogiin Dugan",
+        "Orhirogiin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092038649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029590
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"58598e52f910cd8f9e602127a37428e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038649,
+            "locality_id":1209888687,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1209888687,
+    "wof:lastmodified":1537665636,
+    "wof:name":"Orhirogiin Dugang",
+    "wof:parent_id":1092038649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.58333,
+    48.95,
+    106.58333,
+    48.95
+],
+  "geometry": {"coordinates":[106.58333,48.95],"type":"Point"}
+}

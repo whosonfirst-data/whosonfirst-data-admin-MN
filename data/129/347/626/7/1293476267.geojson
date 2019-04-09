@@ -1,0 +1,85 @@
+{
+  "id": 1293476267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.15667,49.50083,99.15667,49.50083",
+    "geom:latitude":49.50083,
+    "geom:longitude":99.15667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Burenhaan",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516174,
+    "gn:latitude":49.50083,
+    "gn:longitude":99.15667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00fcrenhaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u00fcrenhaan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u044d\u043d-\u0425\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Burin khan somon",
+        "Buren-khan",
+        "Burin khan Sume",
+        "B\u00fcrin han sumu",
+        "B\u00fcrin Haan Suma",
+        "B\u00fcrenkhaan",
+        "Burin-khan",
+        "B\u00fcrin han",
+        "B\u00fcrenhaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092034765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516174
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"89b4bab61dd23cb2368934601e05746a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034765,
+            "locality_id":1293476267,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1293476267,
+    "wof:lastmodified":1537665596,
+    "wof:name":"Burenhaan",
+    "wof:parent_id":1092034765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.15667,
+    49.50083,
+    99.15667,
+    49.50083
+],
+  "geometry": {"coordinates":[99.15667000000001,49.50083],"type":"Point"}
+}

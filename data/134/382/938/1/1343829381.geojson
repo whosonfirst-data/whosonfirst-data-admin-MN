@@ -1,0 +1,67 @@
+{
+  "id": 1343829381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.3,46.61667,113.3,46.61667",
+    "geom:latitude":46.61667,
+    "geom:longitude":113.3,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Gurvan-Bulak",
+    "gn:country_code":"MN",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031210,
+    "gn:latitude":46.61667,
+    "gn:longitude":113.3,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Gurvan-Bulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092032453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031210
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5f359e3993ed8d74eab063bcab0265b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032453,
+            "locality_id":1343829381,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1343829381,
+    "wof:lastmodified":1536711849,
+    "wof:name":"Gurvan-Bulak",
+    "wof:parent_id":1092032453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.3,
+    46.61667,
+    113.3,
+    46.61667
+],
+  "geometry": {"coordinates":[113.3,46.61667],"type":"Point"}
+}

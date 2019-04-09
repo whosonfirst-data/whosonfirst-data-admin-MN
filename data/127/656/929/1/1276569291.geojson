@@ -1,0 +1,71 @@
+{
+  "id": 1276569291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.0005,47.65013,95.0005,47.65013",
+    "geom:latitude":47.65013,
+    "geom:longitude":95.0005,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buga",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516199,
+    "gn:latitude":47.65013,
+    "gn:longitude":95.0005,
+    "gn:modification_date":"2007-10-28",
+    "gn:name":"Buga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dorvoljin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674727,
+        1092037039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516199
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3d1a9d7d8890f566af51c06a3befd2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037039,
+            "locality_id":1276569291,
+            "region_id":85674727
+        }
+    ],
+    "wof:id":1276569291,
+    "wof:lastmodified":1537665597,
+    "wof:name":"Buga",
+    "wof:parent_id":1092037039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.0005,
+    47.65013,
+    95.0005,
+    47.65013
+],
+  "geometry": {"coordinates":[95.0005,47.65013],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326852561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.76667,49.4,113.76667,49.4",
+    "geom:latitude":49.4,
+    "geom:longitude":113.76667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ugtamiin Araiin Ortoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028495,
+    "gn:latitude":49.4,
+    "gn:longitude":113.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ugtamiin Araiin \u00d6rt\u00f6\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ugtumyn Aryn Urto",
+        "Ugtumyin Aryyn Urto",
+        "Ugtumyyn aryyn urto",
+        "Ugtamiin Araiin \u00d6rt\u00f6\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092033601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028495
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"312c67586517900f9e22a9181950034a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033601,
+            "locality_id":1326852561,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1326852561,
+    "wof:lastmodified":1537665611,
+    "wof:name":"Ugtamiin Araiin Ortoo",
+    "wof:parent_id":1092033601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.76667,
+    49.4,
+    113.76667,
+    49.4
+],
+  "geometry": {"coordinates":[113.76667,49.4],"type":"Point"}
+}

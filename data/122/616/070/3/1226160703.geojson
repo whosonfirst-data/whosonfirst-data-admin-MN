@@ -1,0 +1,80 @@
+{
+  "id": 1226160703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.46667,47.86667,99.46667,47.86667",
+    "geom:latitude":47.86667,
+    "geom:longitude":99.46667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Hunt",
+    "gn:country_code":"MN",
+    "gn:dem":2130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515659,
+    "gn:latitude":47.86667,
+    "gn:longitude":99.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hunt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Hunt"
+    ],
+    "name:und_x_variant":[
+        "Hangai",
+        "Hangay",
+        "Hangay Suma",
+        "Hangay sumu",
+        "Khangai",
+        "Khangai Sume",
+        "Khangay",
+        "Khangay Somon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092043153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515659
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3081c1a66f3e8dc503bde4e0e3cd13bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043153,
+            "locality_id":1226160703,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1226160703,
+    "wof:lastmodified":1537665584,
+    "wof:name":"Hunt",
+    "wof:parent_id":1092043153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.46667,
+    47.86667,
+    99.46667,
+    47.86667
+],
+  "geometry": {"coordinates":[99.46666999999999,47.86667],"type":"Point"}
+}

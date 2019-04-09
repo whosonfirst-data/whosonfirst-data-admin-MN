@@ -1,0 +1,80 @@
+{
+  "id": 1259496145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.98333,46.3,100.98333,46.3",
+    "geom:latitude":46.3,
+    "geom:longitude":100.98333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lamaiin Gegeenii Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030107,
+    "gn:latitude":46.3,
+    "gn:longitude":100.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lamaiin Gegeenii H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laman-Gegen",
+        "Kurya-Laman-gegen",
+        "Lamain gegeni Khid",
+        "Lamyn-Gegeni-Khid",
+        "Lamaiin Gegeenii Hiid",
+        "Lama\u2019iin gegen\u2019i hiid",
+        "Lamain Gegen Khit",
+        "Lamain gegeni hiid",
+        "Lamain gegeni hurie",
+        "Lamaiin Gegeenii H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092037209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030107
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f32bd1fd13adb8d20e89e2ac115cee25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037209,
+            "locality_id":1259496145,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1259496145,
+    "wof:lastmodified":1537665656,
+    "wof:name":"Lamaiin Gegeenii Huryee",
+    "wof:parent_id":1092037209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.98333,
+    46.3,
+    100.98333,
+    46.3
+],
+  "geometry": {"coordinates":[100.98333,46.3],"type":"Point"}
+}

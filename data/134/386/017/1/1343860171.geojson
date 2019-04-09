@@ -1,0 +1,73 @@
+{
+  "id": 1343860171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.28333,49.16667,89.28333,49.16667",
+    "geom:latitude":49.16667,
+    "geom:longitude":89.28333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Oygor",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515400,
+    "gn:latitude":49.16667,
+    "gn:longitude":89.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Oygor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uygar",
+        "O\u00efgor",
+        "Oygor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092042649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515400
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c94c0f75289f1fade42cb8ee2b1ecacc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042649,
+            "locality_id":1343860171,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1343860171,
+    "wof:lastmodified":1537665578,
+    "wof:name":"Oygor",
+    "wof:parent_id":1092042649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.28333,
+    49.16667,
+    89.28333,
+    49.16667
+],
+  "geometry": {"coordinates":[89.28333000000001,49.16667],"type":"Point"}
+}

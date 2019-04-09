@@ -1,0 +1,106 @@
+{
+  "id": 102547097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.646004,48.1357,114.646004,48.1357",
+    "geom:latitude":48.1357,
+    "geom:longitude":114.646004,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u55ac\u5df4\u5c71\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Choibalsan Airport"
+    ],
+    "name:eng_x_variant":[
+        "COQ",
+        "KCOQ"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Choibalsan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30a4\u30d0\u30eb\u30b5\u30f3\u7a7a\u6e2f"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0686\u0648\u06cc\u0628\u0627\u0644\u0633\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Czojbalsan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u043e\u0439\u0431\u0430\u043b\u0441\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Tjojbalsan nisech buudal"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0447\u0443\u0438\u0431\u043e\u043b\u0441\u043e\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u043e\u0439\u0431\u0430\u043b\u0441\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Choibalsan"
+    ],
+    "oa:elevation_ft":"2457",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424887,
+        "planet_id":1,
+        "state_id":2346160
+    },
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092034075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514740,
+        "iata:code":"COQ",
+        "icao:code":"KCOQ",
+        "oa:id":"27208",
+        "wd:id":"Q1932815",
+        "wk:page":"Choibalsan_airport"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"2bf3dac61a7d22bd6eee4dc82308b659",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547097,
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034075,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":102547097,
+    "wof:lastmodified":1514485049,
+    "wof:name":"Choybalsan Northeast Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    114.646004,
+    48.1357,
+    114.646004,
+    48.1357
+],
+  "geometry": {"coordinates":[114.646004,48.1357],"type":"Point"}
+}

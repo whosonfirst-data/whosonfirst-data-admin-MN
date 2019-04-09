@@ -1,0 +1,66 @@
+{
+  "id": 1209419161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.3,48.3,101.3,48.3",
+    "geom:latitude":48.3,
+    "geom:longitude":101.3,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Burigiin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032126,
+    "gn:latitude":48.3,
+    "gn:longitude":101.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Burigiin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burigiin-dugan",
+        "Burigiin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032126
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"94dde79eb09cf279560a4e455b5cf4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209419161
+        }
+    ],
+    "wof:id":1209419161,
+    "wof:lastmodified":1537665710,
+    "wof:name":"Burigiin Dugang",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.3,
+    48.3,
+    101.3,
+    48.3
+],
+  "geometry": {"coordinates":[101.3,48.3],"type":"Point"}
+}

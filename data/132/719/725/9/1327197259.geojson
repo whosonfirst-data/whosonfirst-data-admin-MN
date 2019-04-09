@@ -1,0 +1,75 @@
+{
+  "id": 1327197259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.96667,48.35,108.96667,48.35",
+    "geom:latitude":48.35,
+    "geom:longitude":108.96667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Hereleng Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030775,
+    "gn:latitude":48.35,
+    "gn:longitude":108.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hereleng Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kherulun-Dugan",
+        "Herlen Dugan",
+        "Kherulun-dugang",
+        "Kherlen dugang",
+        "Hereleng Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092038853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030775
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"6a2b956b1d0789a97132f48285c2935d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038853,
+            "locality_id":1327197259,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1327197259,
+    "wof:lastmodified":1537665676,
+    "wof:name":"Hereleng Dugang",
+    "wof:parent_id":1092038853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.96667,
+    48.35,
+    108.96667,
+    48.35
+],
+  "geometry": {"coordinates":[108.96666999999999,48.35],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310593579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.91667,47.98333,113.91667,47.98333",
+    "geom:latitude":47.98333,
+    "geom:longitude":113.91667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Naydanii Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029837,
+    "gn:latitude":47.98333,
+    "gn:longitude":113.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Naydanii Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naydaniy khure",
+        "Naydaniy Khuzal",
+        "Naydaniy khural",
+        "Naydanii Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092034981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029837
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"657285ce7e67f90cde7b1254fd5b02cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034981,
+            "locality_id":1310593579,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1310593579,
+    "wof:lastmodified":1537665645,
+    "wof:name":"Naydanii Hural",
+    "wof:parent_id":1092034981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.91667,
+    47.98333,
+    113.91667,
+    47.98333
+],
+  "geometry": {"coordinates":[113.91667,47.98333],"type":"Point"}
+}

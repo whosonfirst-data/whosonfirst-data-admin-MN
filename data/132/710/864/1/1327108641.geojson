@@ -1,0 +1,72 @@
+{
+  "id": 1327108641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.71667,49.13333,103.71667,49.13333",
+    "geom:latitude":49.13333,
+    "geom:longitude":103.71667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Yumiin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028170,
+    "gn:latitude":49.13333,
+    "gn:longitude":103.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yumiin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yumyyn dugang",
+        "Yumiin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092034835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028170
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f366a1ca8f626da5d06cf1e75525491d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034835,
+            "locality_id":1327108641,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1327108641,
+    "wof:lastmodified":1537665604,
+    "wof:name":"Yumiin Dugang",
+    "wof:parent_id":1092034835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.71667,
+    49.13333,
+    103.71667,
+    49.13333
+],
+  "geometry": {"coordinates":[103.71666999999999,49.13333],"type":"Point"}
+}

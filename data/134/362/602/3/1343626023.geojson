@@ -1,0 +1,72 @@
+{
+  "id": 1343626023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.21667,49.66667,103.21667,49.66667",
+    "geom:latitude":49.66667,
+    "geom:longitude":103.21667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Uragiin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028325,
+    "gn:latitude":49.66667,
+    "gn:longitude":103.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uragiin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uragyyn dugang",
+        "Uragiin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092044071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028325
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"4cdc4c02d04619379e60fe46879283b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044071,
+            "locality_id":1343626023,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1343626023,
+    "wof:lastmodified":1537665608,
+    "wof:name":"Uragiin Dugang",
+    "wof:parent_id":1092044071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.21667,
+    49.66667,
+    103.21667,
+    49.66667
+],
+  "geometry": {"coordinates":[103.21666999999999,49.66667],"type":"Point"}
+}

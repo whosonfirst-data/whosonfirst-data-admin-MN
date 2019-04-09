@@ -1,0 +1,79 @@
+{
+  "id": 1293087343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.2,50.3,102.2,50.3",
+    "geom:latitude":50.3,
+    "geom:longitude":102.2,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Arigiin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032849,
+    "gn:latitude":50.3,
+    "gn:longitude":102.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arigiin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Arigiin Dugang"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0438\u0433\u0438\u0439\u043d-\u0414\u0443\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Arigyyn dugang",
+        "Arigyin Dugang",
+        "Arigiin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092037205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032849
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f2b216daf6d99569a589d76af0349236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037205,
+            "locality_id":1293087343,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1293087343,
+    "wof:lastmodified":1537665734,
+    "wof:name":"Arigiin Dugang",
+    "wof:parent_id":1092037205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.2,
+    50.3,
+    102.2,
+    50.3
+],
+  "geometry": {"coordinates":[102.2,50.3],"type":"Point"}
+}

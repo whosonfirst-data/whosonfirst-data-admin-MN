@@ -1,0 +1,73 @@
+{
+  "id": 1243237409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.58333,43.2,105.58333,43.2",
+    "geom:latitude":43.2,
+    "geom:longitude":105.58333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Nalihin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029899,
+    "gn:latitude":43.2,
+    "gn:longitude":105.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nalihin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nalikhin dugang",
+        "Nalihan Dugan",
+        "Nalihin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092033095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029899
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"caef8f231e1029e8443963829b6f7fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033095,
+            "locality_id":1243237409,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1243237409,
+    "wof:lastmodified":1537665647,
+    "wof:name":"Nalihin Dugang",
+    "wof:parent_id":1092033095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.58333,
+    43.2,
+    105.58333,
+    43.2
+],
+  "geometry": {"coordinates":[105.58333,43.2],"type":"Point"}
+}

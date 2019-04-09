@@ -1,0 +1,76 @@
+{
+  "id": 1226736041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.51611,50.15806,99.51611,50.15806",
+    "geom:latitude":50.15806,
+    "geom:longitude":99.51611,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Sumber",
+    "gn:country_code":"MN",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515266,
+    "gn:latitude":50.15806,
+    "gn:longitude":99.51611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00fcmber",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "S\u00fcmber"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043c\u0431\u044d\u0440"
+    ],
+    "name:und_x_variant":[
+        "S\u00fcmber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092032103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515266
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ebec45d3b32af7f18e0f4844c76a789a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032103,
+            "locality_id":1226736041,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1226736041,
+    "wof:lastmodified":1537665575,
+    "wof:name":"Sumber",
+    "wof:parent_id":1092032103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.51611,
+    50.15806,
+    99.51611,
+    50.15806
+],
+  "geometry": {"coordinates":[99.51611,50.15806],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259446189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.28333,48.23333,107.28333,48.23333",
+    "geom:latitude":48.23333,
+    "geom:longitude":107.28333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dzaanii Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2031703,
+    "gn:latitude":48.23333,
+    "gn:longitude":107.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzaanii Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Tszanyy dugang",
+        "Dzaanii Dugan",
+        "Dzaanii Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092037393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031703
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7f093ac34ca10d62ac81833f11ab6d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037393,
+            "locality_id":1259446189,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1259446189,
+    "wof:lastmodified":1537665697,
+    "wof:name":"Dzaanii Dugang",
+    "wof:parent_id":1092037393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.28333,
+    48.23333,
+    107.28333,
+    48.23333
+],
+  "geometry": {"coordinates":[107.28333000000001,48.23333],"type":"Point"}
+}

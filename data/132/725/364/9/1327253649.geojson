@@ -1,0 +1,72 @@
+{
+  "id": 1327253649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.73333,45.96667,107.73333,45.96667",
+    "geom:latitude":45.96667,
+    "geom:longitude":107.73333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzuun Tsorgo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031493,
+    "gn:latitude":45.96667,
+    "gn:longitude":107.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dz\u00fc\u00fcn Tsorgo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tszun tsorga",
+        "Dz\u00fc\u00fcn Tsorgo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092037607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031493
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f3664e087712a229635b86b0cf6563c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037607,
+            "locality_id":1327253649,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1327253649,
+    "wof:lastmodified":1537665692,
+    "wof:name":"Dzuun Tsorgo",
+    "wof:parent_id":1092037607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.73333,
+    45.96667,
+    107.73333,
+    45.96667
+],
+  "geometry": {"coordinates":[107.73333,45.96667],"type":"Point"}
+}

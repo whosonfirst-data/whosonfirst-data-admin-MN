@@ -1,0 +1,72 @@
+{
+  "id": 1242595249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.33333,47.83333,98.33333,47.83333",
+    "geom:latitude":47.83333,
+    "geom:longitude":98.33333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Baytsaiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516255,
+    "gn:latitude":47.83333,
+    "gn:longitude":98.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baytsaiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baytsain Khure",
+        "Baytsaiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092035517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516255
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0cdb06e6dd8ea8a54fa5fd2f404e47e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035517,
+            "locality_id":1242595249,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1242595249,
+    "wof:lastmodified":1537665599,
+    "wof:name":"Baytsaiin Huryee",
+    "wof:parent_id":1092035517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.33333,
+    47.83333,
+    98.33333,
+    47.83333
+],
+  "geometry": {"coordinates":[98.33333,47.83333],"type":"Point"}
+}

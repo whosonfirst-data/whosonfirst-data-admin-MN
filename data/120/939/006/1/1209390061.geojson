@@ -1,0 +1,72 @@
+{
+  "id": 1209390061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.90424,49.77849,91.90424,49.77849",
+    "geom:latitude":49.77849,
+    "geom:longitude":91.90424,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Harhiraa",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515838,
+    "gn:latitude":49.77849,
+    "gn:longitude":91.90424,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Harhiraa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Harhiraa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u044f\u043b\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Tarialan",
+        "Taryaalang Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515838
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"dd9c104f1958e1e47e7640a61de6a8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209390061
+        }
+    ],
+    "wof:id":1209390061,
+    "wof:lastmodified":1537665587,
+    "wof:name":"Harhiraa",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.90424,
+    49.77849000000001,
+    91.90424,
+    49.77849000000001
+],
+  "geometry": {"coordinates":[91.90424,49.77849000000001],"type":"Point"}
+}

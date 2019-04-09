@@ -1,0 +1,79 @@
+{
+  "id": 421202031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.05111,48.14444,101.05111,48.14444",
+    "geom:latitude":48.14444,
+    "geom:longitude":101.05111,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Khanu\u00ef"
+    ],
+    "qs:gn_country":"MN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2031006,
+    "qs:gn_pop":0,
+    "qs:name":"Hanuy",
+    "qs:name_adm0":"Mongolia",
+    "qs:name_adm1":"Arhangay",
+    "qs:photos":102,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":102,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":1354372,
+    "qs:woe_adm0":23424887,
+    "qs:woe_id":2266655,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092039845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031006,
+        "gp:id":2266655,
+        "qs:id":1354372
+    },
+    "wof:country":"MN",
+    "wof:created":1459010101,
+    "wof:geomhash":"8e5548787a7f3be622d674cfa26574f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039845,
+            "locality_id":421202031,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":421202031,
+    "wof:lastmodified":1501225247,
+    "wof:name":"Hanuy",
+    "wof:parent_id":1092039845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.05111,
+    48.14444,
+    101.05111,
+    48.14444
+],
+  "geometry": {"coordinates":[101.05110999999999,48.14444],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226464787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.66667,48.01667,114.66667,48.01667",
+    "geom:latitude":48.01667,
+    "geom:longitude":114.66667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Han-Uul",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031007,
+    "gn:latitude":48.01667,
+    "gn:longitude":114.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Han-Uul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khan-Uul",
+        "Han-Uul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092034075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031007
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8b13fdaa9978377eab92707f62f7b26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034075,
+            "locality_id":1226464787,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1226464787,
+    "wof:lastmodified":1537665680,
+    "wof:name":"Han-Uul",
+    "wof:parent_id":1092034075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.66667,
+    48.01667,
+    114.66667,
+    48.01667
+],
+  "geometry": {"coordinates":[114.66667,48.01667],"type":"Point"}
+}

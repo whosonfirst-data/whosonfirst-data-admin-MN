@@ -1,0 +1,72 @@
+{
+  "id": 1225829019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.0,46.8,96.0,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":96.0,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hongoriin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515721,
+    "gn:latitude":46.8,
+    "gn:longitude":96.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hongoriin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khongoriin Khure",
+        "Hongoriin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092038087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515721
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8c8baa5a3698f49220f4f1f33b88f016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038087,
+            "locality_id":1225829019,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1225829019,
+    "wof:lastmodified":1537665585,
+    "wof:name":"Hongoriin Huryee",
+    "wof:parent_id":1092038087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.0,
+    46.8,
+    96.0,
+    46.8
+],
+  "geometry": {"coordinates":[96.0,46.8],"type":"Point"}
+}

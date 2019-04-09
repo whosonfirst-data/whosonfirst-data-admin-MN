@@ -1,0 +1,82 @@
+{
+  "id": 1260373361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.38333,44.66667,102.38333,44.66667",
+    "geom:latitude":44.66667,
+    "geom:longitude":102.38333,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Hovd",
+    "gn:country_code":"MN",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030473,
+    "gn:latitude":44.66667,
+    "gn:longitude":102.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hovd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Hovd"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0434\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khobdo somon",
+        "Hobdo sumu",
+        "Khobdo",
+        "Hobdo",
+        "Khordo Somon",
+        "Hobdo Suma",
+        "Khowd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092034601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030473
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"691ec18d8fafb84c9aeb2fd06b5bab6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034601,
+            "locality_id":1260373361,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1260373361,
+    "wof:lastmodified":1537665667,
+    "wof:name":"Hovd",
+    "wof:parent_id":1092034601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.38333,
+    44.66667,
+    102.38333,
+    44.66667
+],
+  "geometry": {"coordinates":[102.38333,44.66667],"type":"Point"}
+}

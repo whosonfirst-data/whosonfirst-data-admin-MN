@@ -1,0 +1,67 @@
+{
+  "id": 1343535373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.41667,48.5,102.41667,48.5",
+    "geom:latitude":48.5,
+    "geom:longitude":102.41667,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Rashaant",
+    "gn:country_code":"MN",
+    "gn:dem":1393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029526,
+    "gn:latitude":48.5,
+    "gn:longitude":102.41667,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Rashaant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092040657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029526
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"22cc7e627aeb221309aa073dbb511642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040657,
+            "locality_id":1343535373,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1343535373,
+    "wof:lastmodified":1536637045,
+    "wof:name":"Rashaant",
+    "wof:parent_id":1092040657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.41667,
+    48.5,
+    102.41667,
+    48.5
+],
+  "geometry": {"coordinates":[102.41667,48.5],"type":"Point"}
+}

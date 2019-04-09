@@ -1,0 +1,74 @@
+{
+  "id": 1276305593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.6,45.91667,102.6,45.91667",
+    "geom:latitude":45.91667,
+    "geom:longitude":102.6,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Dugang Shaydaiin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031775,
+    "gn:latitude":45.91667,
+    "gn:longitude":102.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dugang Shaydaiin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dugang shaydyyn khid",
+        "Dugan Shaydaiin Hiid",
+        "Dugang shayd\u00f6yn khid",
+        "Dugang Shaydaiin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092041601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031775
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3f613adc3c867fc3e9dae091f4e123f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041601,
+            "locality_id":1276305593,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1276305593,
+    "wof:lastmodified":1537665699,
+    "wof:name":"Dugang Shaydaiin Hiid",
+    "wof:parent_id":1092041601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.6,
+    45.91667,
+    102.6,
+    45.91667
+],
+  "geometry": {"coordinates":[102.59999999999999,45.91667],"type":"Point"}
+}

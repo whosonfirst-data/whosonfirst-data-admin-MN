@@ -1,0 +1,76 @@
+{
+  "id": 1309793051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.63333,46.8,93.63333,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":93.63333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Sudayn Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515272,
+    "gn:latitude":46.8,
+    "gn:longitude":93.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sudayn H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sudayn h\u00fcrie",
+        "Sotay\u2019iin h\u00fcrie",
+        "Suday Khure",
+        "Sudain",
+        "Sudayn-khure",
+        "Sudayn H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674737,
+        1092036463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515272
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c6cc917a355ccdd13059c83f7b06c115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036463,
+            "locality_id":1309793051,
+            "region_id":85674737
+        }
+    ],
+    "wof:id":1309793051,
+    "wof:lastmodified":1537665575,
+    "wof:name":"Sudayn Huryee",
+    "wof:parent_id":1092036463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.63333,
+    46.8,
+    93.63333,
+    46.8
+],
+  "geometry": {"coordinates":[93.63333,46.8],"type":"Point"}
+}

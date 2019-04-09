@@ -1,0 +1,77 @@
+{
+  "id": 1209027989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.8,45.51667,108.8,45.51667",
+    "geom:latitude":45.51667,
+    "geom:longitude":108.8,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ihjargalan",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030228,
+    "gn:latitude":45.51667,
+    "gn:longitude":108.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ihjargalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yihe Jirgalan Suma",
+        "Ikhe-Dzhargalanta-Somon",
+        "Yihe Jirgalang Suma",
+        "Ihe jirgalan Sumu",
+        "Yihe Jirgalang",
+        "Ikhe-Dzhangalant",
+        "Ikhe Djirgalan Sume",
+        "Ikhjargalan",
+        "Ihe Jirgalang",
+        "Ikhe-chzhargalanta Somon",
+        "Ikhe Jargalanta Somon",
+        "Ikhe Dzhirgalang",
+        "Ihjargalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030228
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"87596192ea1f0ecfcb1588b6109d357a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209027989
+        }
+    ],
+    "wof:id":1209027989,
+    "wof:lastmodified":1537665660,
+    "wof:name":"Ihjargalan",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.8,
+    45.51667,
+    108.8,
+    45.51667
+],
+  "geometry": {"coordinates":[108.8,45.51667],"type":"Point"}
+}

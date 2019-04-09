@@ -1,0 +1,73 @@
+{
+  "id": 1259369353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.26667,49.46667,97.26667,49.46667",
+    "geom:latitude":49.46667,
+    "geom:longitude":97.26667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Hara Boomiin Ortoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515866,
+    "gn:latitude":49.46667,
+    "gn:longitude":97.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hara Boomiin \u00d6rt\u00f6\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khara boomiin urto",
+        "Har-boom-ortoo",
+        "Hara Boomiin \u00d6rt\u00f6\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515866
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"36fba2a4985a4fef33caa4ff6347a5c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035669,
+            "locality_id":1259369353,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1259369353,
+    "wof:lastmodified":1537665587,
+    "wof:name":"Hara Boomiin Ortoo",
+    "wof:parent_id":1092035669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.26667,
+    49.46667,
+    97.26667,
+    49.46667
+],
+  "geometry": {"coordinates":[97.26667,49.46667],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1326606495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.23333,50.68333,99.23333,50.68333",
+    "geom:latitude":50.68333,
+    "geom:longitude":99.23333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Vlaa Vula",
+    "gn:country_code":"MN",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515194,
+    "gn:latitude":50.68333,
+    "gn:longitude":99.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vlaa Vula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "T\u00f6g\u00f6l"
+    ],
+    "name:mon_x_preferred":[
+        "T\u00f6g\u00f6l"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0423\u043b\u0430"
+    ],
+    "name:und_x_variant":[
+        "Ulaan Uula sumu",
+        "Ulaan uula",
+        "Ulaan-Uul",
+        "Ulaan Uula Suma",
+        "Vlaa Vula",
+        "Ulan Ula Somon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092042557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515194,
+        "wk:page":"Ulaan-Uul%2C_Kh%C3%B6vsg%C3%B6l"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e7a8209438f7d9c663797e7e04021b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042557,
+            "locality_id":1326606495,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1326606495,
+    "wof:lastmodified":1537665573,
+    "wof:name":"Vlaa Vula",
+    "wof:parent_id":1092042557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.23333,
+    50.68333,
+    99.23333,
+    50.68333
+],
+  "geometry": {"coordinates":[99.23333,50.68333],"type":"Point"}
+}

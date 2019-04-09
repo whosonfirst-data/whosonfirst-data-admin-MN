@@ -1,0 +1,79 @@
+{
+  "id": 1243462177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.73289,49.50938,89.73289,49.50938",
+    "geom:latitude":49.50938,
+    "geom:longitude":89.73289,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tsagaannuur",
+    "gn:country_code":"MN",
+    "gn:dem":2110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515136,
+    "gn:latitude":49.50938,
+    "gn:longitude":89.73289,
+    "gn:modification_date":"2013-09-12",
+    "gn:name":"Tsagaannuur",
+    "gn:population":200,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsagaannuur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0433\u0430\u043d-\u041d\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Tsagan-nur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092039367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515136
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7fa8672a33177ce8d0c87f46099595e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039367,
+            "locality_id":1243462177,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1243462177,
+    "wof:lastmodified":1537665571,
+    "wof:name":"Tsagaannuur",
+    "wof:parent_id":1092039367,
+    "wof:placetype":"locality",
+    "wof:population":200,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.73289,
+    49.50938,
+    89.73289,
+    49.50938
+],
+  "geometry": {"coordinates":[89.73289,49.50938],"type":"Point"}
+}

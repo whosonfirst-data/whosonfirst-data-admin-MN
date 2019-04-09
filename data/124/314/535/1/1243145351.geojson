@@ -1,0 +1,73 @@
+{
+  "id": 1243145351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.26667,45.31667,102.26667,45.31667",
+    "geom:latitude":45.31667,
+    "geom:longitude":102.26667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Argalintayn Ortoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032863,
+    "gn:latitude":45.31667,
+    "gn:longitude":102.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Argalintayn \u00d6rt\u00f6\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Argalintiin Urto",
+        "Argalintiin yurt",
+        "Argalintayn \u00d6rt\u00f6\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092037651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032863
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e387efe0cef7bb59bc312e801c1897c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037651,
+            "locality_id":1243145351,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1243145351,
+    "wof:lastmodified":1537665735,
+    "wof:name":"Argalintayn Ortoo",
+    "wof:parent_id":1092037651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.26667,
+    45.31667,
+    102.26667,
+    45.31667
+],
+  "geometry": {"coordinates":[102.26667,45.31667],"type":"Point"}
+}

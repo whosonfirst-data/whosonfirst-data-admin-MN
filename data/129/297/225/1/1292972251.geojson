@@ -1,0 +1,89 @@
+{
+  "id": 1292972251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.92778,50.47278,100.92778,50.47278",
+    "geom:latitude":50.47278,
+    "geom:longitude":100.92778,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Undur Sume",
+    "gn:country_code":"MN",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030646,
+    "gn:latitude":50.47278,
+    "gn:longitude":100.92778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Undur Sume",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "H\u00f6h\u00f6\u00f6"
+    ],
+    "name:mon_x_preferred":[
+        "H\u00f6h\u00f6\u00f6"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043d\u0434\u043c\u0430\u043d\u044c-\u0423\u043d\u0434\u044d\u0440"
+    ],
+    "name:und_x_variant":[
+        "Chandman \u00d6nd\u00f6r",
+        "Undur Sume",
+        "Chindamani \u00d6nd\u00f6r",
+        "Chandman\u2019",
+        "Chindamani",
+        "Chandman\u012d-\u00d6nd\u00f6r",
+        "Chindamani somon",
+        "Chindamani Suma",
+        "Chindamani-Undur",
+        "Chindamani \u00d6nd\u00f6r Suma",
+        "Chindamani \u00fcnd\u00fcr sumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030646
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f5085cc931e41934692c1c36dc908410",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035901,
+            "locality_id":1292972251,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1292972251,
+    "wof:lastmodified":1537665673,
+    "wof:name":"Undur Sume",
+    "wof:parent_id":1092035901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.92778,
+    50.47278,
+    100.92778,
+    50.47278
+],
+  "geometry": {"coordinates":[100.92778,50.47278],"type":"Point"}
+}

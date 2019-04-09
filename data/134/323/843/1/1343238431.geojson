@@ -1,0 +1,92 @@
+{
+  "id": 1343238431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.66257,51.50725,100.66257,51.50725",
+    "geom:latitude":51.50725,
+    "geom:longitude":100.66257,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Turt",
+    "gn:country_code":"MN",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028534,
+    "gn:latitude":51.50725,
+    "gn:longitude":100.66257,
+    "gn:modification_date":"2017-08-05",
+    "gn:name":"Turt",
+    "gn:population":2140,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Turt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0445"
+    ],
+    "name:und_x_variant":[
+        "Hanh",
+        "Khangin",
+        "Hangin",
+        "Khanga Sume",
+        "Hanga Suma",
+        "Khanga",
+        "Hanga",
+        "Khankh",
+        "Hanga Sumu",
+        "Khankha Somon",
+        "T'u-erh-t'u",
+        "Turtu",
+        "Turta"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092043281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028534,
+        "wk:page":"Khankh%2C_Kh%C3%B6vsg%C3%B6l"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"36df7179dbdcd281b84f2ef56168ef74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043281,
+            "locality_id":1343238431,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1343238431,
+    "wof:lastmodified":1537665612,
+    "wof:name":"Turt",
+    "wof:parent_id":1092043281,
+    "wof:placetype":"locality",
+    "wof:population":2140,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.66257,
+    51.50725,
+    100.66257,
+    51.50725
+],
+  "geometry": {"coordinates":[100.66257,51.50725],"type":"Point"}
+}

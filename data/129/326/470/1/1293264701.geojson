@@ -1,0 +1,73 @@
+{
+  "id": 1293264701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.41667,49.26667,105.41667,49.26667",
+    "geom:latitude":49.26667,
+    "geom:longitude":105.41667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Tsagaan Tologoy Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028693,
+    "gn:latitude":49.26667,
+    "gn:longitude":105.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaan Tologoy Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsagan-tologoy dugang",
+        "Tsagaan-Tologoy-Dugan",
+        "Tsagaan Tologoy Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092040865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028693
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"26bae86026fffacebac4e3b6a7924c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040865,
+            "locality_id":1293264701,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1293264701,
+    "wof:lastmodified":1537665616,
+    "wof:name":"Tsagaan Tologoy Dugang",
+    "wof:parent_id":1092040865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.41667,
+    49.26667,
+    105.41667,
+    49.26667
+],
+  "geometry": {"coordinates":[105.41667,49.26667],"type":"Point"}
+}

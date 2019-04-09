@@ -1,0 +1,72 @@
+{
+  "id": 1242974947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.28333,48.45,100.28333,48.45",
+    "geom:latitude":48.45,
+    "geom:longitude":100.28333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Otochin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029567,
+    "gn:latitude":48.45,
+    "gn:longitude":100.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Otochin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otochin-Dugan",
+        "Otochin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092041727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029567
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"806047a4983537cbec637a9a8c156939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041727,
+            "locality_id":1242974947,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1242974947,
+    "wof:lastmodified":1537665636,
+    "wof:name":"Otochin Dugang",
+    "wof:parent_id":1092041727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.28333,
+    48.45,
+    100.28333,
+    48.45
+],
+  "geometry": {"coordinates":[100.28333000000001,48.45],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209787303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.75,46.71667,111.75,46.71667",
+    "geom:latitude":46.71667,
+    "geom:longitude":111.75,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Burentsogt",
+    "gn:country_code":"MN",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032167,
+    "gn:latitude":46.71667,
+    "gn:longitude":111.75,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"B\u00fcrentsogt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092038897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032167
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c1f58a20635ddff997b405c7abd976fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038897,
+            "locality_id":1209787303,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1209787303,
+    "wof:lastmodified":1536396607,
+    "wof:name":"Burentsogt",
+    "wof:parent_id":1092038897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.75,
+    46.71667,
+    111.75,
+    46.71667
+],
+  "geometry": {"coordinates":[111.75,46.71667],"type":"Point"}
+}

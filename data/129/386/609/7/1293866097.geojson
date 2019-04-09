@@ -1,0 +1,67 @@
+{
+  "id": 1293866097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05,49.45,105.05,49.45",
+    "geom:latitude":49.45,
+    "geom:longitude":105.05,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Amar Hiyd",
+    "gn:country_code":"MN",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032936,
+    "gn:latitude":49.45,
+    "gn:longitude":105.05,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Amar Hiyd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092032535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032936
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"9fb2c750e1663a5fbeef52272101cfbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032535,
+            "locality_id":1293866097,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1293866097,
+    "wof:lastmodified":1536738367,
+    "wof:name":"Amar Hiyd",
+    "wof:parent_id":1092032535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05,
+    49.45,
+    105.05,
+    49.45
+],
+  "geometry": {"coordinates":[105.05,49.45],"type":"Point"}
+}

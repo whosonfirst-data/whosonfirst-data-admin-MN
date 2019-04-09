@@ -1,0 +1,73 @@
+{
+  "id": 1259705033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.2,46.25,109.2,46.25",
+    "geom:latitude":46.25,
+    "geom:longitude":109.2,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tsagaan Usanii Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028681,
+    "gn:latitude":46.25,
+    "gn:longitude":109.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaan Usanii Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsagan-usunyy-khural",
+        "Tsagon usun\u00f6y Khural",
+        "Tsagaan Usanii Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092036325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028681
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"62ebd40ac5cb7b612d95333a105549c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036325,
+            "locality_id":1259705033,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1259705033,
+    "wof:lastmodified":1537665616,
+    "wof:name":"Tsagaan Usanii Hural",
+    "wof:parent_id":1092036325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.2,
+    46.25,
+    109.2,
+    46.25
+],
+  "geometry": {"coordinates":[109.2,46.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276619617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.4,49.91667,91.4,49.91667",
+    "geom:latitude":49.91667,
+    "geom:longitude":91.4,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Togos Bulteyn Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515188,
+    "gn:latitude":49.91667,
+    "gn:longitude":91.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Togos B\u00fclteyn H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Togos-Buyantayn H\u00fcree",
+        "Tugus bulitiin khure",
+        "Togos B\u00fclteyn H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092042359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515188
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"863473c9486db1170d667ba25f9dbd9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042359,
+            "locality_id":1276619617,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1276619617,
+    "wof:lastmodified":1537665572,
+    "wof:name":"Togos Bulteyn Huryee",
+    "wof:parent_id":1092042359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.4,
+    49.91667,
+    91.4,
+    49.91667
+],
+  "geometry": {"coordinates":[91.40000000000001,49.91667],"type":"Point"}
+}

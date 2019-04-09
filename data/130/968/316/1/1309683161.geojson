@@ -1,0 +1,77 @@
+{
+  "id": 1309683161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.19222,43.60083,102.19222,43.60083",
+    "geom:latitude":43.60083,
+    "geom:longitude":102.19222,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tsagaan Subarga Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028710,
+    "gn:latitude":43.60083,
+    "gn:longitude":102.19222,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaan Subarga Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsagan-Suburgani-Khural",
+        "Tsagaansurvaga",
+        "Tsagan suburga khural",
+        "Tsagaan Suwraga Hural",
+        "Tsagaan suburga\u2019in hural",
+        "Tsagaan suburgan\u2019i hural",
+        "Tsagaan Subarga Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092041035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028710
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"81c53bbd9f4cdd1782737edf552b86e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041035,
+            "locality_id":1309683161,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1309683161,
+    "wof:lastmodified":1537665617,
+    "wof:name":"Tsagaan Subarga Hural",
+    "wof:parent_id":1092041035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.19222,
+    43.60083,
+    102.19222,
+    43.60083
+],
+  "geometry": {"coordinates":[102.19222000000001,43.60083],"type":"Point"}
+}

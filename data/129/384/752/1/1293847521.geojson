@@ -1,0 +1,73 @@
+{
+  "id": 1293847521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.25,46.08333,112.25,46.08333",
+    "geom:latitude":46.08333,
+    "geom:longitude":112.25,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Lamatangiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030095,
+    "gn:latitude":46.08333,
+    "gn:longitude":112.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lamatangiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lamatyngin Khure",
+        "Lamatongin Khure",
+        "Lamatangiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092033509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030095
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8eae4231f845564b546ba3256e1c1d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033509,
+            "locality_id":1293847521,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1293847521,
+    "wof:lastmodified":1537665654,
+    "wof:name":"Lamatangiin Huryee",
+    "wof:parent_id":1092033509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.25,
+    46.08333,
+    112.25,
+    46.08333
+],
+  "geometry": {"coordinates":[112.25,46.08333],"type":"Point"}
+}

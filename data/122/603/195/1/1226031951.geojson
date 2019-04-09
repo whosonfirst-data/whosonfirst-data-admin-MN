@@ -1,0 +1,67 @@
+{
+  "id": 1226031951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.63088,48.33252,92.63088,48.33252",
+    "geom:latitude":48.33252,
+    "geom:longitude":92.63088,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Seer",
+    "gn:country_code":"MN",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6619112,
+    "gn:latitude":48.33252,
+    "gn:longitude":92.63088,
+    "gn:modification_date":"2007-10-24",
+    "gn:name":"Seer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674737,
+        1092036999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6619112
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"302b5a1fddca4bb94dbcec58d759752f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036999,
+            "locality_id":1226031951,
+            "region_id":85674737
+        }
+    ],
+    "wof:id":1226031951,
+    "wof:lastmodified":1536744755,
+    "wof:name":"Seer",
+    "wof:parent_id":1092036999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.63088,
+    48.33252,
+    92.63088,
+    48.33252
+],
+  "geometry": {"coordinates":[92.63088,48.33252],"type":"Point"}
+}

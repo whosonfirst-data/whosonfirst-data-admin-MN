@@ -1,0 +1,73 @@
+{
+  "id": 1276843925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.11861,43.12556,107.11861,43.12556",
+    "geom:latitude":43.12556,
+    "geom:longitude":107.11861,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Demchig Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031878,
+    "gn:latitude":43.12556,
+    "gn:longitude":107.11861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Demchig Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demchig khid",
+        "Demchig-Hiyd",
+        "Demchig Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092043105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031878
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"086818ca91b21678c23bcd77c19696fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043105,
+            "locality_id":1276843925,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1276843925,
+    "wof:lastmodified":1537665701,
+    "wof:name":"Demchig Hiid",
+    "wof:parent_id":1092043105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.11861,
+    43.12556,
+    107.11861,
+    43.12556
+],
+  "geometry": {"coordinates":[107.11861,43.12556],"type":"Point"}
+}

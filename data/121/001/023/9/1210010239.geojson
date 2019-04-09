@@ -1,0 +1,72 @@
+{
+  "id": 1210010239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.23333,45.46667,98.23333,45.46667",
+    "geom:latitude":45.46667,
+    "geom:longitude":98.23333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Oldzeyte Bulagiin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515441,
+    "gn:latitude":45.46667,
+    "gn:longitude":98.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6ldzeyte Bulagiin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ultszeytu Bulagiin Khid",
+        "\u00d6ldzeyte Bulagiin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092035941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515441
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1998d1093a540cc9f10bd69ae333431f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035941,
+            "locality_id":1210010239,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1210010239,
+    "wof:lastmodified":1537665579,
+    "wof:name":"Oldzeyte Bulagiin Hiid",
+    "wof:parent_id":1092035941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.23333,
+    45.46667,
+    98.23333,
+    45.46667
+],
+  "geometry": {"coordinates":[98.23333,45.46667],"type":"Point"}
+}

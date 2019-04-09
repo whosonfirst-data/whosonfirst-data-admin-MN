@@ -1,0 +1,73 @@
+{
+  "id": 1259659519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.05,46.91667,105.05,46.91667",
+    "geom:latitude":46.91667,
+    "geom:longitude":105.05,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bayantohom",
+    "gn:country_code":"MN",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2032480,
+    "gn:latitude":46.91667,
+    "gn:longitude":105.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayant\u00f6h\u00f6m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Bayant\u00f6h\u00f6m"
+    ],
+    "name:und_x_variant":[
+        "B\u00fcren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092034745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032480
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"cd7cac30550838c406d19530bbadec55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034745,
+            "locality_id":1259659519,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1259659519,
+    "wof:lastmodified":1537665722,
+    "wof:name":"Bayantohom",
+    "wof:parent_id":1092034745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.05,
+    46.91667,
+    105.05,
+    46.91667
+],
+  "geometry": {"coordinates":[105.05,46.91667],"type":"Point"}
+}

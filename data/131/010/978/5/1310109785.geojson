@@ -1,0 +1,72 @@
+{
+  "id": 1310109785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.5,48.1,102.5,48.1",
+    "geom:latitude":48.1,
+    "geom:longitude":102.5,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bayan Hayrhan",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032537,
+    "gn:latitude":48.1,
+    "gn:longitude":102.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayan Hayrhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bain khayerkhen",
+        "Bayan Hayrhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092039645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032537
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0ea47a3357d21e4836a3cadc20acc5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039645,
+            "locality_id":1310109785,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1310109785,
+    "wof:lastmodified":1537665724,
+    "wof:name":"Bayan Hayrhan",
+    "wof:parent_id":1092039645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.5,
+    48.1,
+    102.5,
+    48.1
+],
+  "geometry": {"coordinates":[102.5,48.1],"type":"Point"}
+}

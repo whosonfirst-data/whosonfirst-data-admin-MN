@@ -1,0 +1,67 @@
+{
+  "id": 1343236141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.98333,49.43333,103.98333,49.43333",
+    "geom:latitude":49.43333,
+    "geom:longitude":103.98333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Terete",
+    "gn:country_code":"MN",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028934,
+    "gn:latitude":49.43333,
+    "gn:longitude":103.98333,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Terete",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092040913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028934
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c8daec506dc68cc8fbd8ecb172428a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040913,
+            "locality_id":1343236141,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1343236141,
+    "wof:lastmodified":1537067218,
+    "wof:name":"Terete",
+    "wof:parent_id":1092040913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.98333,
+    49.43333,
+    103.98333,
+    49.43333
+],
+  "geometry": {"coordinates":[103.98333,49.43333],"type":"Point"}
+}

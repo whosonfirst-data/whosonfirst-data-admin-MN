@@ -1,0 +1,85 @@
+{
+  "id": 1293221803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.13333,43.15,109.13333,43.15",
+    "geom:latitude":43.15,
+    "geom:longitude":109.13333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ergel",
+    "gn:country_code":"MN",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2031368,
+    "gn:latitude":43.15,
+    "gn:longitude":109.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ergel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Ergel"
+    ],
+    "name:und_x_variant":[
+        "Khaton-Bulag-Sumu",
+        "Haton bulag sumu",
+        "Khatyn-bulak somon",
+        "Khatun-bulak Somon",
+        "Khatun Bulak",
+        "Hatan Bulag Suma",
+        "Hatanbulag",
+        "Hatau Bulag Suma",
+        "Khaton Buluk Sume",
+        "Hat\u00fcn Bulag",
+        "Khatan-Bulak",
+        "Khatanbulag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031368,
+        "wk:page":"Khatanbulag"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"79a6f2946992f1f7fa8893f6a70df1c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043405,
+            "locality_id":1293221803,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1293221803,
+    "wof:lastmodified":1537665689,
+    "wof:name":"Ergel",
+    "wof:parent_id":1092043405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.13333,
+    43.15,
+    109.13333,
+    43.15
+],
+  "geometry": {"coordinates":[109.13333,43.15],"type":"Point"}
+}

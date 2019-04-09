@@ -1,0 +1,75 @@
+{
+  "id": 1343357009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.05,47.3,119.05,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":119.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Khoshu-Sume",
+    "gn:country_code":"MN",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030503,
+    "gn:latitude":47.3,
+    "gn:longitude":119.05,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khoshu-Sume",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khosho Sume",
+        "Fushu mein ob\u014d",
+        "Khoshu-Sume",
+        "Hosh\u014d S\u016bmu",
+        "Ho-shih-miao",
+        "H\u00f6sh\u00f6\u00f6 S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092042979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030503
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"704d73dd2d84f0c5194c9dcc9a5007ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042979,
+            "locality_id":1343357009,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1343357009,
+    "wof:lastmodified":1537665669,
+    "wof:name":"Khoshu-Sume",
+    "wof:parent_id":1092042979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.05,
+    47.3,
+    119.05,
+    47.3
+],
+  "geometry": {"coordinates":[119.05,47.3],"type":"Point"}
+}

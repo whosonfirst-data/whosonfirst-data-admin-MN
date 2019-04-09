@@ -1,0 +1,76 @@
+{
+  "id": 1260000939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.91667,46.25,109.91667,46.25",
+    "geom:latitude":46.25,
+    "geom:longitude":109.91667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hashaatayn Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030875,
+    "gn:latitude":46.25,
+    "gn:longitude":109.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hashaatayn Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khashat\u00f6yn khural",
+        "Hashaatayn-Hural",
+        "Khashat\u00f6n Khural",
+        "Khashatyyn khural",
+        "Khashatyn-khural",
+        "Hashaatayn Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092037939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030875
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5b0d84918128037197f2821847f12b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037939,
+            "locality_id":1260000939,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1260000939,
+    "wof:lastmodified":1537665678,
+    "wof:name":"Hashaatayn Hural",
+    "wof:parent_id":1092037939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.91667,
+    46.25,
+    109.91667,
+    46.25
+],
+  "geometry": {"coordinates":[109.91667,46.25],"type":"Point"}
+}

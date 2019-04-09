@@ -1,0 +1,67 @@
+{
+  "id": 1293169433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.95,49.31667,105.95,49.31667",
+    "geom:latitude":49.31667,
+    "geom:longitude":105.95,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Burhanii",
+    "gn:country_code":"MN",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032149,
+    "gn:latitude":49.31667,
+    "gn:longitude":105.95,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Burhanii",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674769,
+        1092043645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032149
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c7524f1ac65fc3766c262902efbf591a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043645,
+            "locality_id":1293169433,
+            "region_id":85674769
+        }
+    ],
+    "wof:id":1293169433,
+    "wof:lastmodified":1536748594,
+    "wof:name":"Burhanii",
+    "wof:parent_id":1092043645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.95,
+    49.31667,
+    105.95,
+    49.31667
+],
+  "geometry": {"coordinates":[105.95,49.31667],"type":"Point"}
+}

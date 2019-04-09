@@ -1,0 +1,72 @@
+{
+  "id": 1260186423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.26667,48.01667,99.26667,48.01667",
+    "geom:latitude":48.01667,
+    "geom:longitude":99.26667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dzogiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516000,
+    "gn:latitude":48.01667,
+    "gn:longitude":99.26667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzogiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tszogiin khure",
+        "Dzogiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092043153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516000
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a8db1abd865dfc2b60c27995c8add077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043153,
+            "locality_id":1260186423,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1260186423,
+    "wof:lastmodified":1537665590,
+    "wof:name":"Dzogiin Huryee",
+    "wof:parent_id":1092043153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.26667,
+    48.01667,
+    99.26667,
+    48.01667
+],
+  "geometry": {"coordinates":[99.26667,48.01667],"type":"Point"}
+}

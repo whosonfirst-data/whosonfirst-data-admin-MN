@@ -1,0 +1,72 @@
+{
+  "id": 1276859301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.68333,46.41667,109.68333,46.41667",
+    "geom:latitude":46.41667,
+    "geom:longitude":109.68333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gedzegen Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031287,
+    "gn:latitude":46.41667,
+    "gn:longitude":109.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gedzegen Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gedzegin Khural",
+        "Gedzegen Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092036549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031287
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"40dd149afcd009ca038f9d8abf942f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036549,
+            "locality_id":1276859301,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1276859301,
+    "wof:lastmodified":1537665687,
+    "wof:name":"Gedzegen Hural",
+    "wof:parent_id":1092036549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.68333,
+    46.41667,
+    109.68333,
+    46.41667
+],
+  "geometry": {"coordinates":[109.68333,46.41667],"type":"Point"}
+}

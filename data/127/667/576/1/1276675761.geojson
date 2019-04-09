@@ -1,0 +1,76 @@
+{
+  "id": 1276675761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.85,47.71667,101.85,47.71667",
+    "geom:latitude":47.71667,
+    "geom:longitude":101.85,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bayan-Uul",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032444,
+    "gn:latitude":47.71667,
+    "gn:longitude":101.85,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayan-Uul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayan ulaan",
+        "Bayan Ulan",
+        "Bayan Ulaan Suma",
+        "Bayan Ulan Somon",
+        "Bayan Ulaan sumu",
+        "Bayan-Uul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092032647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032444
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a9b2dffe5aad7b8cd8548c6b1258fc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032647,
+            "locality_id":1276675761,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1276675761,
+    "wof:lastmodified":1537665721,
+    "wof:name":"Bayan-Uul",
+    "wof:parent_id":1092032647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.85,
+    47.71667,
+    101.85,
+    47.71667
+],
+  "geometry": {"coordinates":[101.84999999999999,47.71667],"type":"Point"}
+}

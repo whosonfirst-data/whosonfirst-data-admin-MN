@@ -1,0 +1,77 @@
+{
+  "id": 1259856673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.16667,47.41667,92.16667,47.41667",
+    "geom:latitude":47.41667,
+    "geom:longitude":92.16667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Togorigiin Sume",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515189,
+    "gn:latitude":47.41667,
+    "gn:longitude":92.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"T\u00f6g\u00f6rigiin S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tugurigin Khure",
+        "Tugurikin Sume",
+        "T\u00f6g\u00f6rigiinhurie",
+        "Tugurig\u2019iin h\u00fcrie",
+        "T\u2019u-kou-liu-k\u2019o-yin",
+        "Tugyuryuk-In",
+        "T\u00f6g\u00f6rigiin S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674737,
+        1092038773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515189
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5b7f64b99f0fdc4083284dfe24ebc656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038773,
+            "locality_id":1259856673,
+            "region_id":85674737
+        }
+    ],
+    "wof:id":1259856673,
+    "wof:lastmodified":1537665573,
+    "wof:name":"Togorigiin Sume",
+    "wof:parent_id":1092038773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.16667,
+    47.41667,
+    92.16667,
+    47.41667
+],
+  "geometry": {"coordinates":[92.16667,47.41667],"type":"Point"}
+}

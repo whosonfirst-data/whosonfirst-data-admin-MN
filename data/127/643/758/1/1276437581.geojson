@@ -1,0 +1,74 @@
+{
+  "id": 1276437581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.11667,45.71667,107.11667,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":107.11667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Oldzey Abagayn Jisa",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029719,
+    "gn:latitude":45.71667,
+    "gn:longitude":107.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6ldzey Abagayn Jisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulitszey Abugayn Chzhisa",
+        "Ultszey abugayn Chzhisa",
+        "Ultszey Abugay chzhisa",
+        "\u00d6ldzey Abagayn Jisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092037785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029719
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"94ecbe18df12ac7cb4a4e6a8e39d7284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037785,
+            "locality_id":1276437581,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1276437581,
+    "wof:lastmodified":1537665641,
+    "wof:name":"Oldzey Abagayn Jisa",
+    "wof:parent_id":1092037785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.11667,
+    45.71667,
+    107.11667,
+    45.71667
+],
+  "geometry": {"coordinates":[107.11667,45.71667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293209303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.44834,46.28575,100.44834,46.28575",
+    "geom:latitude":46.28575,
+    "geom:longitude":100.44834,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hohburd",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030696,
+    "gn:latitude":46.28575,
+    "gn:longitude":100.44834,
+    "gn:modification_date":"2007-10-21",
+    "gn:name":"H\u00f6hb\u00fcrd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayan-Owoo",
+        "Bayan-Ovoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092033065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030696
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1db9b48a924ea046ecd37d37d0fcfd4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033065,
+            "locality_id":1293209303,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1293209303,
+    "wof:lastmodified":1537665674,
+    "wof:name":"Hohburd",
+    "wof:parent_id":1092033065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.44834,
+    46.28575,
+    100.44834,
+    46.28575
+],
+  "geometry": {"coordinates":[100.44834,46.28575],"type":"Point"}
+}

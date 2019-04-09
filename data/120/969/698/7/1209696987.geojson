@@ -1,0 +1,72 @@
+{
+  "id": 1209696987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.73333,47.28333,108.73333,47.28333",
+    "geom:latitude":47.28333,
+    "geom:longitude":108.73333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dulaan",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031767,
+    "gn:latitude":47.28333,
+    "gn:longitude":108.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dulaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Herlenbayan-Ulaan",
+        "Dulaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092036851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031767
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5766ffeab9d30b5118f882421ffb3802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036851,
+            "locality_id":1209696987,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1209696987,
+    "wof:lastmodified":1537665699,
+    "wof:name":"Dulaan",
+    "wof:parent_id":1092036851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.73333,
+    47.28333,
+    108.73333,
+    47.28333
+],
+  "geometry": {"coordinates":[108.73333,47.28333],"type":"Point"}
+}

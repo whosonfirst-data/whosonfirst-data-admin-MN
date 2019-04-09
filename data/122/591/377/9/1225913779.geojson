@@ -1,0 +1,80 @@
+{
+  "id": 1225913779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11667,49.91667,105.11667,49.91667",
+    "geom:latitude":49.91667,
+    "geom:longitude":105.11667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nomon Haan Lamaiin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029806,
+    "gn:latitude":49.91667,
+    "gn:longitude":105.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nomon Haan Lamaiin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naman Han H\u00fcryee",
+        "Nomon-khan-lamyyn khid",
+        "Nomon khan lamain khid",
+        "Nomon-Haan-Lamaiin-Hiyd",
+        "Nomonkhan Lamiin Khit",
+        "Naman Khan",
+        "Naman-khan-khure",
+        "Kure Naman-Khana",
+        "Kurya-nomon-han",
+        "Nomon Haan Lamaiin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092035355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029806
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"dbd86b4b326cada6e3d4bf1fc2734307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035355,
+            "locality_id":1225913779,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1225913779,
+    "wof:lastmodified":1537665644,
+    "wof:name":"Nomon Haan Lamaiin Hiid",
+    "wof:parent_id":1092035355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11667,
+    49.91667,
+    105.11667,
+    49.91667
+],
+  "geometry": {"coordinates":[105.11667,49.91667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310683349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.45,49.73333,107.45,49.73333",
+    "geom:latitude":49.73333,
+    "geom:longitude":107.45,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Galgatay",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031337,
+    "gn:latitude":49.73333,
+    "gn:longitude":107.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Galgatay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golsotoy",
+        "Golsotay",
+        "Galgatay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092043817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031337
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e2a0b001ec1cbbe7b3e9b9a2a8c6955c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043817,
+            "locality_id":1310683349,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1310683349,
+    "wof:lastmodified":1537665687,
+    "wof:name":"Galgatay",
+    "wof:parent_id":1092043817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.45,
+    49.73333,
+    107.45,
+    49.73333
+],
+  "geometry": {"coordinates":[107.45,49.73333],"type":"Point"}
+}

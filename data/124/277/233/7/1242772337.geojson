@@ -1,0 +1,67 @@
+{
+  "id": 1242772337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.2,45.28333,111.2,45.28333",
+    "geom:latitude":45.28333,
+    "geom:longitude":111.2,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bayan-monho-sum",
+    "gn:country_code":"MN",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032512,
+    "gn:latitude":45.28333,
+    "gn:longitude":111.2,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Bayan-m\u00f6nh\u00f6-s\u00fcm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092039985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032512
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0b4caca402afa78bb5ea50f7e4ad72a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039985,
+            "locality_id":1242772337,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1242772337,
+    "wof:lastmodified":1536783714,
+    "wof:name":"Bayan-monho-sum",
+    "wof:parent_id":1092039985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.2,
+    45.28333,
+    111.2,
+    45.28333
+],
+  "geometry": {"coordinates":[111.2,45.28333],"type":"Point"}
+}

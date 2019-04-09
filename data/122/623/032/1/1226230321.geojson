@@ -1,0 +1,73 @@
+{
+  "id": 1226230321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.65,46.61667,110.65,46.61667",
+    "geom:latitude":46.61667,
+    "geom:longitude":110.65,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dzuun Ganjir Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031537,
+    "gn:latitude":46.61667,
+    "gn:longitude":110.65,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dz\u00fc\u00fcn Ganjir Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dzun Ganjur Khural",
+        "Dzun-gandzhur-khural",
+        "Dz\u00fc\u00fcn Ganjir Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092037487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031537
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0bf42697fe569a3d4ce431e2559f4792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037487,
+            "locality_id":1226230321,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1226230321,
+    "wof:lastmodified":1537665693,
+    "wof:name":"Dzuun Ganjir Hural",
+    "wof:parent_id":1092037487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.65,
+    46.61667,
+    110.65,
+    46.61667
+],
+  "geometry": {"coordinates":[110.65000000000001,46.61667],"type":"Point"}
+}

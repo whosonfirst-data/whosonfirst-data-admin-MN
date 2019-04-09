@@ -1,0 +1,86 @@
+{
+  "id": 1259494961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.28333,48.41667,90.28333,48.41667",
+    "geom:latitude":48.41667,
+    "geom:longitude":90.28333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tolbo",
+    "gn:country_code":"MN",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515180,
+    "gn:latitude":48.41667,
+    "gn:longitude":90.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tolbo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tolbo"
+    ],
+    "name:mon_x_preferred":[
+        "Tolbo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u043b\u0431\u043e"
+    ],
+    "name:und_x_variant":[
+        "Tolbonuur",
+        "Tolbo-Nur-Somon",
+        "Tolbo Nuur Suma",
+        "Tolbo-Nur-Khoshu",
+        "Tolbo nuur hoshu",
+        "Tolbo Nuur Hoshuun",
+        "Tolbo-Nur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092042079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515180,
+        "wk:page":"Tolbo"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"73db7ca637d9e3921709d792aae208e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042079,
+            "locality_id":1259494961,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1259494961,
+    "wof:lastmodified":1537665572,
+    "wof:name":"Tolbo",
+    "wof:parent_id":1092042079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.28333,
+    48.41667,
+    90.28333,
+    48.41667
+],
+  "geometry": {"coordinates":[90.28333000000001,48.41667],"type":"Point"}
+}

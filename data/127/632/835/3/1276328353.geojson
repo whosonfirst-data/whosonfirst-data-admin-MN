@@ -1,0 +1,67 @@
+{
+  "id": 1276328353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.31667,45.53333,95.31667,45.53333",
+    "geom:latitude":45.53333,
+    "geom:longitude":95.31667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bayangol",
+    "gn:country_code":"MN",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516297,
+    "gn:latitude":45.53333,
+    "gn:longitude":95.31667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Bayangol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092035699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516297
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"bcc0ffa63a04c9e46ff14e83753f1219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035699,
+            "locality_id":1276328353,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1276328353,
+    "wof:lastmodified":1536785789,
+    "wof:name":"Bayangol",
+    "wof:parent_id":1092035699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.31667,
+    45.53333,
+    95.31667,
+    45.53333
+],
+  "geometry": {"coordinates":[95.31667,45.53333],"type":"Point"}
+}

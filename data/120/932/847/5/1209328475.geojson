@@ -1,0 +1,66 @@
+{
+  "id": 1209328475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.18333,48.28333,100.18333,48.28333",
+    "geom:latitude":48.28333,
+    "geom:longitude":100.18333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dashilingiin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031940,
+    "gn:latitude":48.28333,
+    "gn:longitude":100.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dashilingiin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashilingiin Dugan",
+        "Dashilingiin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031940
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"87639eee171a4dd429e489536e052fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209328475
+        }
+    ],
+    "wof:id":1209328475,
+    "wof:lastmodified":1537665703,
+    "wof:name":"Dashilingiin Dugang",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.18333,
+    48.28333,
+    100.18333,
+    48.28333
+],
+  "geometry": {"coordinates":[100.18333,48.28333],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209076369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66667,46.0,102.66667,46.0",
+    "geom:latitude":46.0,
+    "geom:longitude":102.66667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Baruun Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032651,
+    "gn:latitude":46.0,
+    "gn:longitude":102.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baruun Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barun Khural",
+        "Baruun Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032651
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1271b67f97433481d63f6ce6d5e3c788",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209076369
+        }
+    ],
+    "wof:id":1209076369,
+    "wof:lastmodified":1537665729,
+    "wof:name":"Baruun Hural",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66667,
+    46.0,
+    102.66667,
+    46.0
+],
+  "geometry": {"coordinates":[102.66667,46.0],"type":"Point"}
+}

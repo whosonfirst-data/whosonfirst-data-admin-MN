@@ -1,0 +1,73 @@
+{
+  "id": 421204595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"106.14556,50.3086955,106.14556,50.3086955",
+    "geom:latitude":50.308695,
+    "geom:longitude":106.14556,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kyakhtinskiy Raion",
+    "qs:name_adm0":"Russia",
+    "qs:name_adm1":"Buryatia Republic",
+    "qs:photos":152,
+    "qs:photos_1k":31,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":396,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1312468,
+    "qs:woe_adm0":23424936,
+    "qs:woe_id":12597289,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12597289,
+        "qs:id":1312468
+    },
+    "wof:country":"MN",
+    "wof:created":1459010191,
+    "wof:geomhash":"fb9614e8e39dc8172e8866479d69af84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":421204595,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":421204595,
+    "wof:lastmodified":1473969735,
+    "wof:name":"Kyakhtinskiy Raion",
+    "wof:parent_id":85674761,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.14556,
+    50.3086955,
+    106.14556,
+    50.3086955
+],
+  "geometry": {"coordinates":[106.14556,50.3086955],"type":"Point"}
+}

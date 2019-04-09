@@ -1,0 +1,69 @@
+{
+  "id": 1209290829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.98333,46.8,111.98333,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":111.98333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Baruun Ganjir Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032670,
+    "gn:latitude":46.8,
+    "gn:longitude":111.98333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baruun Ganjir Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barut Gonzhur Khid",
+        "Barun Ganchzhur Khid",
+        "Barut Ganzhur Khid",
+        "Baruud Ganjir Hiid",
+        "Baruun Ganjir Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032670
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"bdaf63079f6139178468b386c0b89d24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209290829
+        }
+    ],
+    "wof:id":1209290829,
+    "wof:lastmodified":1537665729,
+    "wof:name":"Baruun Ganjir Hiid",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.98333,
+    46.8,
+    111.98333,
+    46.8
+],
+  "geometry": {"coordinates":[111.98333,46.8],"type":"Point"}
+}

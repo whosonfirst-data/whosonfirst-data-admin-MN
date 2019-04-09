@@ -1,0 +1,78 @@
+{
+  "id": 1309682605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.18333,45.85,103.18333,45.85",
+    "geom:latitude":45.85,
+    "geom:longitude":103.18333,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Undur-unts somon",
+    "gn:country_code":"MN",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029647,
+    "gn:latitude":45.85,
+    "gn:longitude":103.18333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Undur-unts somon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Undur Untsa Somon",
+        "\u00d6nd\u00f6r untsa",
+        "Undur-Ontsa-Somon",
+        "\u00d6nd\u00f6r Untsa Suma",
+        "Undur-Untsa",
+        "\u00dcnd\u00fcr untsa sumu",
+        "Undur-unts somon",
+        "Under-Onts",
+        "\u00d6nd\u00f6r-\u00d6nts"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092033635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029647
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c332681df4669d2106489ebf2b9ffc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033635,
+            "locality_id":1309682605,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1309682605,
+    "wof:lastmodified":1537665638,
+    "wof:name":"Undur-unts somon",
+    "wof:parent_id":1092033635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.18333,
+    45.85,
+    103.18333,
+    45.85
+],
+  "geometry": {"coordinates":[103.18333,45.85],"type":"Point"}
+}

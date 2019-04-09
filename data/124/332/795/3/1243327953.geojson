@@ -1,0 +1,67 @@
+{
+  "id": 1243327953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.4,49.45,104.4,49.45",
+    "geom:latitude":49.45,
+    "geom:longitude":104.4,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Galdatay Dugang",
+    "gn:country_code":"MN",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031338,
+    "gn:latitude":49.45,
+    "gn:longitude":104.4,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Galdatay Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092043201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031338
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d63384bb82ba7f37f2279c0cb6619d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043201,
+            "locality_id":1243327953,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1243327953,
+    "wof:lastmodified":1536975985,
+    "wof:name":"Galdatay Dugang",
+    "wof:parent_id":1092043201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.4,
+    49.45,
+    104.4,
+    49.45
+],
+  "geometry": {"coordinates":[104.40000000000001,49.45],"type":"Point"}
+}

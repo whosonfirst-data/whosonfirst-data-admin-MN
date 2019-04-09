@@ -1,0 +1,74 @@
+{
+  "id": 1310267409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.23333,49.4,94.23333,49.4",
+    "geom:latitude":49.4,
+    "geom:longitude":94.23333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tsagaanhayrhan",
+    "gn:country_code":"MN",
+    "gn:dem":1804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515532,
+    "gn:latitude":49.4,
+    "gn:longitude":94.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaanhayrhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "M\u00f6nd\u00f6\u00f6h\u00f6\u00f6"
+    ],
+    "name:und_x_variant":[
+        "Tsagaankha\u00efrkhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092035431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515532,
+        "wk:page":"Tsagaankhairkhan%2C_Uvs"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"cbcc98bc136780fc004708570a63f61d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035431,
+            "locality_id":1310267409,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1310267409,
+    "wof:lastmodified":1537665581,
+    "wof:name":"Tsagaanhayrhan",
+    "wof:parent_id":1092035431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.23333,
+    49.4,
+    94.23333,
+    49.4
+],
+  "geometry": {"coordinates":[94.23333,49.4],"type":"Point"}
+}

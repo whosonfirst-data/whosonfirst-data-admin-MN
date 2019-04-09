@@ -1,0 +1,78 @@
+{
+  "id": 1225808425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.9219,48.03791,105.9219,48.03791",
+    "geom:latitude":48.03791,
+    "geom:longitude":105.9219,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Dund-Urt",
+    "gn:country_code":"MN",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2031728,
+    "gn:latitude":48.03791,
+    "gn:longitude":105.9219,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dund-Urt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Dund-Urt"
+    ],
+    "name:und_x_variant":[
+        "Bayan-tsokuto",
+        "Bayan Tsogto Suma",
+        "Bayan tsogtu sumu",
+        "Bayan Tsogtu Somon",
+        "Bayan Tsogtu",
+        "Bayantsogt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092033433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031728
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a49e4b0972ce1b7842321e23db6ad363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033433,
+            "locality_id":1225808425,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1225808425,
+    "wof:lastmodified":1537665698,
+    "wof:name":"Dund-Urt",
+    "wof:parent_id":1092033433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.9219,
+    48.03791,
+    105.9219,
+    48.03791
+],
+  "geometry": {"coordinates":[105.92189999999999,48.03791],"type":"Point"}
+}

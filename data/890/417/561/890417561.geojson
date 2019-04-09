@@ -1,0 +1,66 @@
+{
+  "id": 890417561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.95276,47.70693,106.95276,47.70693",
+    "geom:latitude":47.70693,
+    "geom:longitude":106.95276,
+    "gn:country":"MN",
+    "gn:fcode":"PPL",
+    "gn:pop":17630,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u0417\u0443\u0443\u043d\u043c\u043e\u0434",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092044801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648817,
+        "gp:id":2266540,
+        "qs:id":695732
+    },
+    "wof:country":"MN",
+    "wof:created":1469051209,
+    "wof:geomhash":"96dc19529f05362e3a892275aa5d976a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044801,
+            "locality_id":890417561,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":890417561,
+    "wof:lastmodified":1505343439,
+    "wof:name":"\u0417\u0443\u0443\u043d\u043c\u043e\u0434",
+    "wof:parent_id":1092044801,
+    "wof:placetype":"locality",
+    "wof:population":17630,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.95276,
+    47.70693,
+    106.95276,
+    47.70693
+],
+  "geometry": {"coordinates":[106.95276,47.70693],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1209805217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.29428,48.51672,94.29428,48.51672",
+    "geom:latitude":48.51672,
+    "geom:longitude":94.29428,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hungiy",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515662,
+    "gn:latitude":48.51672,
+    "gn:longitude":94.29428,
+    "gn:modification_date":"2007-10-28",
+    "gn:name":"Hungiy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hungiy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0440\u0433\u0430\u043c\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "\u00dcrgomal sumu",
+        "Urgumal",
+        "Urgomal somon",
+        "Urgamal Suma",
+        "Urgomal",
+        "Urgumal Sume",
+        "Urgamal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674727,
+        1092042727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515662,
+        "wk:page":"Urgamal%2C_Zavkhan"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0524cc9231586659b64682cef7e30ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042727,
+            "locality_id":1209805217,
+            "region_id":85674727
+        }
+    ],
+    "wof:id":1209805217,
+    "wof:lastmodified":1537665584,
+    "wof:name":"Hungiy",
+    "wof:parent_id":1092042727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.29428,
+    48.51672,
+    94.29428,
+    48.51672
+],
+  "geometry": {"coordinates":[94.29428,48.51672],"type":"Point"}
+}

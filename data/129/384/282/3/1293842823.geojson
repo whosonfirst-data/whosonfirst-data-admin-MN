@@ -1,0 +1,72 @@
+{
+  "id": 1293842823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.11667,49.16667,103.11667,49.16667",
+    "geom:latitude":49.16667,
+    "geom:longitude":103.11667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Altatayn Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032952,
+    "gn:latitude":49.16667,
+    "gn:longitude":103.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Altatayn Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Altatuin dugang",
+        "Altatayn Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092034835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032952
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"b9816917a6b677719eda3b5dc7593524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034835,
+            "locality_id":1293842823,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1293842823,
+    "wof:lastmodified":1537665737,
+    "wof:name":"Altatayn Dugang",
+    "wof:parent_id":1092034835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.11667,
+    49.16667,
+    103.11667,
+    49.16667
+],
+  "geometry": {"coordinates":[103.11667,49.16667],"type":"Point"}
+}

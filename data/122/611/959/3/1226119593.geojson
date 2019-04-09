@@ -1,0 +1,83 @@
+{
+  "id": 1226119593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.11667,46.91667,92.11667,46.91667",
+    "geom:latitude":46.91667,
+    "geom:longitude":92.11667,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Tsenher",
+    "gn:country_code":"MN",
+    "gn:dem":2800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515101,
+    "gn:latitude":46.91667,
+    "gn:longitude":92.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsenher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Tsenher"
+    ],
+    "name:und_x_variant":[
+        "M\u00f6nk\u00f6 Khairkhan Sume",
+        "M\u00f6nh\u00f6 hayrhan",
+        "M\u00f6nhhayrhan",
+        "M\u00f6nh\u00f6 hayrhan sumu",
+        "Munkhu Khayrkhan Somon",
+        "Munhe-hairuhan",
+        "M\u00f6nkhkha\u00efrkhan",
+        "Munkhu-khayrkhan",
+        "Tsastu Ula Somon",
+        "M\u00f6nh\u00f6 Hayrhan Suma",
+        "Munkhe-Khayrkhan-Sumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674737,
+        1092038923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515101
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"84435079da8d6a79d052facf4eaa56f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038923,
+            "locality_id":1226119593,
+            "region_id":85674737
+        }
+    ],
+    "wof:id":1226119593,
+    "wof:lastmodified":1537665570,
+    "wof:name":"Tsenher",
+    "wof:parent_id":1092038923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.11667,
+    46.91667,
+    92.11667,
+    46.91667
+],
+  "geometry": {"coordinates":[92.11667,46.91667],"type":"Point"}
+}

@@ -1,0 +1,112 @@
+{
+  "id": 421196245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.31647,47.38254,110.31647,47.38254",
+    "geom:latitude":47.38254,
+    "geom:longitude":110.31647,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:deu_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:dsb_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:est_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u0646\u060c \u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:gle_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e8\u05d5\u05df"
+    ],
+    "name:spa_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:unk_x_variant":[
+        "Muren-sumu"
+    ],
+    "qs:gn_country":"MN",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":2029947,
+    "qs:gn_pop":0,
+    "qs:name":"M\u00f6r\u00f6n",
+    "qs:name_adm0":"Mongolia",
+    "qs:name_adm1":"Hentiy",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":913015,
+    "qs:woe_adm0":23424887,
+    "qs:woe_id":2266679,
+    "src:geom":"quattroshapes",
+    "wd:latitude":49.6375,
+    "wd:longitude":100.161389,
+    "wd:wordcount":738,
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092038961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029947,
+        "gp:id":2266679,
+        "qs:id":913015
+    },
+    "wof:country":"MN",
+    "wof:created":1459009874,
+    "wof:geomhash":"a5125bedb042aed74d67d353e505ea30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038961,
+            "locality_id":421196245,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":421196245,
+    "wof:lastmodified":1527716361,
+    "wof:name":"M\u00f6r\u00f6n",
+    "wof:parent_id":1092038961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.31647,
+    47.38254,
+    110.31647,
+    47.38254
+],
+  "geometry": {"coordinates":[110.31647,47.38254],"type":"Point"}
+}

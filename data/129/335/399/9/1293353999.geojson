@@ -1,0 +1,80 @@
+{
+  "id": 1293353999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.66667,45.71667,112.66667,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":112.66667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Bayshinta Sume",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032429,
+    "gn:latitude":45.71667,
+    "gn:longitude":112.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayshinta S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayshint",
+        "Bayshintu Sume",
+        "Baishintu",
+        "Bayshintu hiid",
+        "Bayshintu",
+        "Baishintu-Sume",
+        "Bayshintuin hiid",
+        "Bayshinta Hiid",
+        "Biashintu sume",
+        "Bayshinta S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092033509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032429
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7a247e0f0fde73f59cb985ebc2abe838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033509,
+            "locality_id":1293353999,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1293353999,
+    "wof:lastmodified":1537665720,
+    "wof:name":"Bayshinta Sume",
+    "wof:parent_id":1092033509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.66667,
+    45.71667,
+    112.66667,
+    45.71667
+],
+  "geometry": {"coordinates":[112.66667,45.71667],"type":"Point"}
+}

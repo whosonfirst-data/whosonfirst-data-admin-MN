@@ -1,0 +1,76 @@
+{
+  "id": 1327209685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7,48.2,104.7,48.2",
+    "geom:latitude":48.2,
+    "geom:longitude":104.7,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Gal Badaraha Suma",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031342,
+    "gn:latitude":48.2,
+    "gn:longitude":104.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gal Badaraha Suma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gal badarahu",
+        "Gal Badaraha",
+        "Galbadarkhu",
+        "Galta-badarakhu somon",
+        "Galbadarhu sumu",
+        "Gal Badaraha Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092044343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031342
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"888638878a68e512cfe2c610af5f38ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044343,
+            "locality_id":1327209685,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1327209685,
+    "wof:lastmodified":1537665688,
+    "wof:name":"Gal Badaraha Suma",
+    "wof:parent_id":1092044343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7,
+    48.2,
+    104.7,
+    48.2
+],
+  "geometry": {"coordinates":[104.7,48.2],"type":"Point"}
+}

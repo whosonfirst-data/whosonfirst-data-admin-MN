@@ -1,0 +1,70 @@
+{
+  "id": 1226067137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.20978,48.93781,113.20978,48.93781",
+    "geom:latitude":48.93781,
+    "geom:longitude":113.20978,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Buuriin Haan",
+    "gn:country_code":"MN",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7842881,
+    "gn:latitude":48.93781,
+    "gn:longitude":113.20978,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Buuriin Haan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u0430\u044f \u0431\u0430\u0437\u0430 \u041f\u0412\u041e \u0421\u0421\u0421\u0420"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092033191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7842881
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"4daea420a7cb1be724f2fff7abb428a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033191,
+            "locality_id":1226067137,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1226067137,
+    "wof:lastmodified":1537665740,
+    "wof:name":"Buuriin Haan",
+    "wof:parent_id":1092033191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.20978,
+    48.93781,
+    113.20978,
+    48.93781
+],
+  "geometry": {"coordinates":[113.20977999999999,48.93781],"type":"Point"}
+}

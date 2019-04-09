@@ -1,0 +1,80 @@
+{
+  "id": 1327213141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.87389,48.77278,99.87389,48.77278",
+    "geom:latitude":48.77278,
+    "geom:longitude":99.87389,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ider",
+    "gn:country_code":"MN",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515621,
+    "gn:latitude":48.77278,
+    "gn:longitude":99.87389,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ider",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ider"
+    ],
+    "name:mon_x_preferred":[
+        "Ider"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043b\u0442"
+    ],
+    "name:und_x_variant":[
+        "Galt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092037525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515621,
+        "wk:page":"Galt%2C_Kh%C3%B6vsg%C3%B6l"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c4658d1f9bcd0cdd11bc84d6adda5801",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037525,
+            "locality_id":1327213141,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1327213141,
+    "wof:lastmodified":1537665583,
+    "wof:name":"Ider",
+    "wof:parent_id":1092037525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.87389,
+    48.77278,
+    99.87389,
+    48.77278
+],
+  "geometry": {"coordinates":[99.87389,48.77278],"type":"Point"}
+}

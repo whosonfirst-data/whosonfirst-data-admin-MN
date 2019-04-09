@@ -1,0 +1,61 @@
+{
+  "id": 1209204217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.25,47.58333,95.25,47.58333",
+    "geom:latitude":47.58333,
+    "geom:longitude":95.25,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Tsogtjargalan",
+    "gn:country_code":"MN",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515088,
+    "gn:latitude":47.58333,
+    "gn:longitude":95.25,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Tsogtjargalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515088
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c52e49fb945b92636dd2e207e7ccfdfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209204217
+        }
+    ],
+    "wof:id":1209204217,
+    "wof:lastmodified":1536294507,
+    "wof:name":"Tsogtjargalan",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.25,
+    47.58333,
+    95.25,
+    47.58333
+],
+  "geometry": {"coordinates":[95.25,47.58333],"type":"Point"}
+}

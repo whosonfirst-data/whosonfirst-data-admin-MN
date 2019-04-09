@@ -1,0 +1,85 @@
+{
+  "id": 1292980337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.04306,50.12139,100.04306,50.12139",
+    "geom:latitude":50.12139,
+    "geom:longitude":100.04306,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Manhan",
+    "gn:country_code":"MN",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030053,
+    "gn:latitude":50.12139,
+    "gn:longitude":100.04306,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Manhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Manhan"
+    ],
+    "name:mon_x_preferred":[
+        "Manhan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0433-\u042d\u0440\u0434\u044d\u043d\u044d"
+    ],
+    "name:und_x_variant":[
+        "Alag Erdeni",
+        "Alag Erdeni Sume",
+        "Alag Erdeni Suma",
+        "Alag-Erdeni-Sumu",
+        "Alag-erdeni somon",
+        "Alag-Erdene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092031765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030053,
+        "wk:page":"Alag-Erdene%2C_Kh%C3%B6vsg%C3%B6l"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"439dfa61ee36c8ea1f491650d9e132d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092031765,
+            "locality_id":1292980337,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1292980337,
+    "wof:lastmodified":1537665651,
+    "wof:name":"Manhan",
+    "wof:parent_id":1092031765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.04306,
+    50.12139000000001,
+    100.04306,
+    50.12139000000001
+],
+  "geometry": {"coordinates":[100.04306,50.12139000000001],"type":"Point"}
+}

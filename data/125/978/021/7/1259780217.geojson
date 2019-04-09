@@ -1,0 +1,75 @@
+{
+  "id": 1259780217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.1,45.98333,110.1,45.98333",
+    "geom:latitude":45.98333,
+    "geom:longitude":110.1,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nudengiin Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029782,
+    "gn:latitude":45.98333,
+    "gn:longitude":110.1,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"N\u00fcdengiin Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nudungoyn Khural",
+        "Nudungin Khural",
+        "Nudungyyn khural",
+        "K\u00f6k\u00f6 N\u00fcd\u00fcni khural",
+        "N\u00fcdengiin Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092037939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029782
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7fb5a8386047b21c3c3de4cfc3d0b340",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037939,
+            "locality_id":1259780217,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1259780217,
+    "wof:lastmodified":1537665643,
+    "wof:name":"Nudengiin Hural",
+    "wof:parent_id":1092037939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.1,
+    45.98333,
+    110.1,
+    45.98333
+],
+  "geometry": {"coordinates":[110.09999999999999,45.98333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259670099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.83333,49.2,97.83333,49.2",
+    "geom:latitude":49.2,
+    "geom:longitude":97.83333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Jirantayn Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515570,
+    "gn:latitude":49.2,
+    "gn:longitude":97.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jirantayn Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chzhirantain dugang",
+        "Jirantayn Dugan",
+        "Jirantayn Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035669
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515570
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f97684b69915503c40c5e6d24d954050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035669,
+            "locality_id":1259670099,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1259670099,
+    "wof:lastmodified":1537665582,
+    "wof:name":"Jirantayn Dugang",
+    "wof:parent_id":1092035669,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.83333,
+    49.2,
+    97.83333,
+    49.2
+],
+  "geometry": {"coordinates":[97.83333,49.2],"type":"Point"}
+}

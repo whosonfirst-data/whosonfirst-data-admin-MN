@@ -1,0 +1,77 @@
+{
+  "id": 1243052373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.96259,48.87284,96.96259,48.87284",
+    "geom:latitude":48.87284,
+    "geom:longitude":96.96259,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hodrogo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515762,
+    "gn:latitude":48.87284,
+    "gn:longitude":96.96259,
+    "gn:modification_date":"2007-10-28",
+    "gn:name":"H\u00f6dr\u00f6g\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u00f6m\u00f6rge",
+        "Numurge",
+        "N\u00f6mr\u00f6g",
+        "Numerge",
+        "Numurge somon",
+        "Numurge-sumu",
+        "N\u00f6m\u00f6rg\u00f6 Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674727,
+        1092039319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515762
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"6352ab708895a69b865e47ed31a61d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039319,
+            "locality_id":1243052373,
+            "region_id":85674727
+        }
+    ],
+    "wof:id":1243052373,
+    "wof:lastmodified":1537665586,
+    "wof:name":"Hodrogo",
+    "wof:parent_id":1092039319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.96259,
+    48.87284,
+    96.96259,
+    48.87284
+],
+  "geometry": {"coordinates":[96.96259000000001,48.87284],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343335429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.04813,43.23245,101.04813,43.23245",
+    "geom:latitude":43.23245,
+    "geom:longitude":101.04813,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Urt",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028313,
+    "gn:latitude":43.23245,
+    "gn:longitude":101.04813,
+    "gn:modification_date":"2007-10-13",
+    "gn:name":"Urt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurvantes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092037813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028313
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"030a0db5ab89ae243a2f6a8d6b17a923",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037813,
+            "locality_id":1343335429,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1343335429,
+    "wof:lastmodified":1537665608,
+    "wof:name":"Urt",
+    "wof:parent_id":1092037813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.04813,
+    43.23245,
+    101.04813,
+    43.23245
+],
+  "geometry": {"coordinates":[101.04813,43.23245],"type":"Point"}
+}

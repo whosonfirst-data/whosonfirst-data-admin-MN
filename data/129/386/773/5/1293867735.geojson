@@ -1,0 +1,73 @@
+{
+  "id": 1293867735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.7,46.55,95.7,46.55",
+    "geom:latitude":46.55,
+    "geom:longitude":95.7,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dashi Choyling Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516096,
+    "gn:latitude":46.55,
+    "gn:longitude":95.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dashi Choyling H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashi Choylin H\u00fcryee",
+        "Dashichoyling Khure",
+        "Dashi Choyling H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092041123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516096
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ea8e5b210667b3180706eb706eda4d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041123,
+            "locality_id":1293867735,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1293867735,
+    "wof:lastmodified":1537665592,
+    "wof:name":"Dashi Choyling Huryee",
+    "wof:parent_id":1092041123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.7,
+    46.55,
+    95.7,
+    46.55
+],
+  "geometry": {"coordinates":[95.7,46.55],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421194507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.1423,44.915008,110.1423,44.915008",
+    "geom:latitude":44.915008,
+    "geom:longitude":110.1423,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Buyant-Uhaa",
+    "qs:name_adm0":"Mongolia",
+    "qs:name_adm1":"Dornogovi",
+    "qs:photos":103,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":103,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1211335,
+    "qs:woe_adm0":23424887,
+    "qs:woe_id":2265454,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092040513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2265454,
+        "qs:id":1211335
+    },
+    "wof:country":"MN",
+    "wof:created":1459009809,
+    "wof:geomhash":"20f2d422ca9ec8de2193b88f3cd38fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040513,
+            "locality_id":421194507,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":421194507,
+    "wof:lastmodified":1500013783,
+    "wof:name":"Buyant-Uhaa",
+    "wof:parent_id":1092040513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.1423,
+    44.915008,
+    110.1423,
+    44.915008
+],
+  "geometry": {"coordinates":[110.14230000000001,44.915008],"type":"Point"}
+}

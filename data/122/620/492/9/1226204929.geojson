@@ -1,0 +1,67 @@
+{
+  "id": 1226204929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.25,49.3,95.25,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":95.25,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hanhohiy-Huree",
+    "gn:country_code":"MN",
+    "gn:dem":1976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515870,
+    "gn:latitude":49.3,
+    "gn:longitude":95.25,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Hanh\u00f6hiy-H\u00fcree",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092044717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515870
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"66024767b0bf03e908698d4954f3bcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044717,
+            "locality_id":1226204929,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1226204929,
+    "wof:lastmodified":1536991778,
+    "wof:name":"Hanhohiy-Huree",
+    "wof:parent_id":1092044717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.25,
+    49.3,
+    95.25,
+    49.3
+],
+  "geometry": {"coordinates":[95.25,49.3],"type":"Point"}
+}

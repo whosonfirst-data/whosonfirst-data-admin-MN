@@ -1,0 +1,81 @@
+{
+  "id": 1276776173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.574,45.41171,100.574,45.41171",
+    "geom:latitude":45.41171,
+    "geom:longitude":100.574,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bodi",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2032373,
+    "gn:latitude":45.41171,
+    "gn:longitude":100.574,
+    "gn:modification_date":"2007-10-21",
+    "gn:name":"Bod\u012d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinsatu",
+        "Djinsetu Sume",
+        "Jinsetu sumu",
+        "Dzhinsetu somon",
+        "Jinsete Suma",
+        "Dzhinsetu",
+        "Jinst",
+        "Chzhinsetu somon",
+        "Jinsete",
+        "Dzhinsetu-Sumu",
+        "Jinset\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092038457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032373
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"42da205d4fe02504433046cb6b9d39bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038457,
+            "locality_id":1276776173,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1276776173,
+    "wof:lastmodified":1537665718,
+    "wof:name":"Bodi",
+    "wof:parent_id":1092038457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.574,
+    45.41171,
+    100.574,
+    45.41171
+],
+  "geometry": {"coordinates":[100.574,45.41171],"type":"Point"}
+}

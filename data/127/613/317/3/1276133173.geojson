@@ -1,0 +1,72 @@
+{
+  "id": 1276133173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.88333,48.5,100.88333,48.5",
+    "geom:latitude":48.5,
+    "geom:longitude":100.88333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hutambaiin Bayshing",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030312,
+    "gn:latitude":48.5,
+    "gn:longitude":100.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hutambaiin Bayshing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khutumbuinbayshing",
+        "Hutambaiin Bayshing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092038131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030312
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"74d513a1bec7a6d553b435867fc7b1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038131,
+            "locality_id":1276133173,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1276133173,
+    "wof:lastmodified":1537665662,
+    "wof:name":"Hutambaiin Bayshing",
+    "wof:parent_id":1092038131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.88333,
+    48.5,
+    100.88333,
+    48.5
+],
+  "geometry": {"coordinates":[100.88333,48.5],"type":"Point"}
+}

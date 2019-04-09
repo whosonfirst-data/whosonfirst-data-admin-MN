@@ -1,0 +1,83 @@
+{
+  "id": 1193012889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.25,44.4,108.25,44.4",
+    "geom:latitude":44.4,
+    "geom:longitude":108.25,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Naran-mandokhu Somon",
+    "gn:country_code":"MN",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028905,
+    "gn:latitude":44.4,
+    "gn:longitude":108.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Naran-mandokhu Somon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "T\u00f6h\u00f6m"
+    ],
+    "name:und_x_variant":[
+        "Naran-Mandakhu-Somon",
+        "Mandohu",
+        "Mandaho",
+        "Naran Mandaha",
+        "Mandah",
+        "Naran Mandaha Suma",
+        "Mandohu sumu",
+        "Mandakh",
+        "Mandaha Suma",
+        "Naran-mandokhu Somon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092038691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028905,
+        "wk:page":"Mandakh%2C_Dornogovi"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a4f4811734430fca0a80d8fbe91c3f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038691,
+            "locality_id":1193012889,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1193012889,
+    "wof:lastmodified":1537665621,
+    "wof:name":"Naran-mandokhu Somon",
+    "wof:parent_id":1092038691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.25,
+    44.4,
+    108.25,
+    44.4
+],
+  "geometry": {"coordinates":[108.25,44.4],"type":"Point"}
+}

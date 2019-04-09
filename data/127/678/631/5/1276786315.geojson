@@ -1,0 +1,75 @@
+{
+  "id": 1276786315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.73333,46.25,107.73333,46.25",
+    "geom:latitude":46.25,
+    "geom:longitude":107.73333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tsagaan Ergin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028783,
+    "gn:latitude":46.25,
+    "gn:longitude":107.73333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaan Ergin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsagan Erg\u00f6in Khid",
+        "Tsagan ergyin khid",
+        "Tsagaan Ereg",
+        "Tsagan erg\u00f6yn khid",
+        "Tsagaan Ergin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092035311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028783
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a4e12e3ba1670e7bc2f92d9c5c921456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035311,
+            "locality_id":1276786315,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1276786315,
+    "wof:lastmodified":1537665619,
+    "wof:name":"Tsagaan Ergin Hiid",
+    "wof:parent_id":1092035311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.73333,
+    46.25,
+    107.73333,
+    46.25
+],
+  "geometry": {"coordinates":[107.73333,46.25],"type":"Point"}
+}

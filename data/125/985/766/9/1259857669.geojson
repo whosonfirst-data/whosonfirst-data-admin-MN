@@ -1,0 +1,75 @@
+{
+  "id": 1259857669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.58333,46.71667,110.58333,46.71667",
+    "geom:latitude":46.71667,
+    "geom:longitude":110.58333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Huraiin Sume",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030379,
+    "gn:latitude":46.71667,
+    "gn:longitude":110.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Huraiin S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khur\u00f6yn Sume",
+        "Khur\u00f6yn Sumu",
+        "Khuryyn sume",
+        "Khuryyn-sumu",
+        "Huraiin S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092037487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030379
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0aaeaea1a65562df27d2ba0d49eceaa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037487,
+            "locality_id":1259857669,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1259857669,
+    "wof:lastmodified":1537665664,
+    "wof:name":"Huraiin Sume",
+    "wof:parent_id":1092037487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.58333,
+    46.71667,
+    110.58333,
+    46.71667
+],
+  "geometry": {"coordinates":[110.58333,46.71667],"type":"Point"}
+}

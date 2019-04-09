@@ -1,0 +1,73 @@
+{
+  "id": 1343439285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.66667,48.48333,109.66667,48.48333",
+    "geom:latitude":48.48333,
+    "geom:longitude":109.66667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tarihaiin Sume",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029004,
+    "gn:latitude":48.48333,
+    "gn:longitude":109.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tarihaiin S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarih\u00efn",
+        "Tarikhuin-Sume",
+        "Tarihaiin S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092039761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029004
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3cccfc3bf1353828afc7e5c8db0c60e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039761,
+            "locality_id":1343439285,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1343439285,
+    "wof:lastmodified":1537665623,
+    "wof:name":"Tarihaiin Sume",
+    "wof:parent_id":1092039761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.66667,
+    48.48333,
+    109.66667,
+    48.48333
+],
+  "geometry": {"coordinates":[109.66667,48.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193116571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.31667,49.3,99.31667,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":99.31667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Burentogtok",
+    "gn:country_code":"MN",
+    "gn:dem":2333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516172,
+    "gn:latitude":49.3,
+    "gn:longitude":99.31667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"B\u00fcrentogtok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092034765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516172
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ab1a4883da95254aaf8f46bf1a7e924d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034765,
+            "locality_id":1193116571,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1193116571,
+    "wof:lastmodified":1536367350,
+    "wof:name":"Burentogtok",
+    "wof:parent_id":1092034765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.31667,
+    49.3,
+    99.31667,
+    49.3
+],
+  "geometry": {"coordinates":[99.31667,49.3],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293448811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.9812,48.27394,102.9812,48.27394",
+    "geom:latitude":48.27394,
+    "geom:longitude":102.9812,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Erhet",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2031357,
+    "gn:latitude":48.27394,
+    "gn:longitude":102.9812,
+    "gn:modification_date":"2007-10-15",
+    "gn:name":"Erhet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Erhet"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u0434"
+    ],
+    "name:und_x_variant":[
+        "Mogot",
+        "Mogot sumu",
+        "Mogot somon",
+        "Mogod",
+        "Mogod Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092039077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031357,
+        "wk:page":"Mogod"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f042d1c23819ebac787aefa2d2add4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039077,
+            "locality_id":1293448811,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1293448811,
+    "wof:lastmodified":1537665688,
+    "wof:name":"Erhet",
+    "wof:parent_id":1092039077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.9812,
+    48.27394,
+    102.9812,
+    48.27394
+],
+  "geometry": {"coordinates":[102.9812,48.27394],"type":"Point"}
+}

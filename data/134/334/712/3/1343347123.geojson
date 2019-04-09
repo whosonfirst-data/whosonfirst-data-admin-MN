@@ -1,0 +1,77 @@
+{
+  "id": 1343347123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.51667,45.53333,104.51667,45.53333",
+    "geom:latitude":45.53333,
+    "geom:longitude":104.51667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Oldzey Delgerehe Suma",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029718,
+    "gn:latitude":45.53333,
+    "gn:longitude":104.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6ldzey Delgerehe Suma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ultszey Delgerekhu Somon",
+        "\u00d6ldzey Delgereh",
+        "Uldzey-Del\u2019gerekhu",
+        "\u00d6ldzey delgereh\u00fc",
+        "Ul\u2019dzey del\u2019gerehu Sumu",
+        "Oldzey Delgerehe",
+        "\u00d6ldzey Delgerehe Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092040611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029718
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"114ef3548f53836a191e255dced97a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040611,
+            "locality_id":1343347123,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1343347123,
+    "wof:lastmodified":1537665641,
+    "wof:name":"Oldzey Delgerehe Suma",
+    "wof:parent_id":1092040611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.51667,
+    45.53333,
+    104.51667,
+    45.53333
+],
+  "geometry": {"coordinates":[104.51667,45.53333],"type":"Point"}
+}

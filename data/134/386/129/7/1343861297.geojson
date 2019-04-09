@@ -1,0 +1,80 @@
+{
+  "id": 1343861297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.5714,47.23123,98.5714,47.23123",
+    "geom:latitude":47.23123,
+    "geom:longitude":98.5714,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hoeviyn Am",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515694,
+    "gn:latitude":47.23123,
+    "gn:longitude":98.5714,
+    "gn:modification_date":"2007-10-21",
+    "gn:name":"H\u00f6viyn Am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurban Bulag Suma",
+        "Gurvan-Bulak",
+        "Gurban Buluk Sume",
+        "Gurban bulag sumu",
+        "Gurban Bulak Somon",
+        "Gurban bulag",
+        "Gurvanbulag",
+        "Gurban Bulak",
+        "Gurwanbulag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092037695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515694,
+        "wk:page":"Gurvanbulag%2C_Bayankhongor"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"441d7a04f583006906e3167fbb50a0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037695,
+            "locality_id":1343861297,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1343861297,
+    "wof:lastmodified":1537665584,
+    "wof:name":"Hoeviyn Am",
+    "wof:parent_id":1092037695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.5714,
+    47.23123,
+    98.5714,
+    47.23123
+],
+  "geometry": {"coordinates":[98.5714,47.23123],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343829395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.08333,45.21667,114.08333,45.21667",
+    "geom:latitude":45.21667,
+    "geom:longitude":114.08333,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Burgaasatayn Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032162,
+    "gn:latitude":45.21667,
+    "gn:longitude":114.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Burgaasatayn Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burgastayn Dugang",
+        "Burgaasatayn Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092036391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032162
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"4689100d037ef47894f51a03f2b9e9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036391,
+            "locality_id":1343829395,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1343829395,
+    "wof:lastmodified":1537665712,
+    "wof:name":"Burgaasatayn Dugang",
+    "wof:parent_id":1092036391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.08333,
+    45.21667,
+    114.08333,
+    45.21667
+],
+  "geometry": {"coordinates":[114.08333,45.21667],"type":"Point"}
+}

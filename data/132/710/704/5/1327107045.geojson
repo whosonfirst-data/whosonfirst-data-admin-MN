@@ -1,0 +1,81 @@
+{
+  "id": 1327107045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.04583,50.31556,105.04583,50.31556",
+    "geom:latitude":50.31556,
+    "geom:longitude":105.04583,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dzelter",
+    "gn:country_code":"MN",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2031613,
+    "gn:latitude":50.31556,
+    "gn:longitude":105.04583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dzelter",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzelter"
+    ],
+    "name:mon_x_preferred":[
+        "Dzelter"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u044d\u043b\u0442\u044d\u0440"
+    ],
+    "name:und_x_variant":[
+        "Tsagaannuur",
+        "T\u00fcshig"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092042389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031613,
+        "wk:page":"T%C3%BCshig%2C_Selenge"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"46abdd1d1a3e2996c682c2bdb9a5fee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042389,
+            "locality_id":1327107045,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1327107045,
+    "wof:lastmodified":1537665696,
+    "wof:name":"Dzelter",
+    "wof:parent_id":1092042389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.04583,
+    50.31556,
+    105.04583,
+    50.31556
+],
+  "geometry": {"coordinates":[105.04583,50.31556],"type":"Point"}
+}

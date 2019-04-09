@@ -1,0 +1,67 @@
+{
+  "id": 1260371559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.96667,47.63333,110.96667,47.63333",
+    "geom:latitude":47.63333,
+    "geom:longitude":110.96667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Guunnii Shuteen",
+    "gn:country_code":"MN",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031179,
+    "gn:latitude":47.63333,
+    "gn:longitude":110.96667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Guunnii Sh\u00fcteen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092043447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031179
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e5024ec487f302af21fe741631696de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043447,
+            "locality_id":1260371559,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1260371559,
+    "wof:lastmodified":1537087713,
+    "wof:name":"Guunnii Shuteen",
+    "wof:parent_id":1092043447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.96667,
+    47.63333,
+    110.96667,
+    47.63333
+],
+  "geometry": {"coordinates":[110.96666999999999,47.63333],"type":"Point"}
+}

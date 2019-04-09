@@ -1,0 +1,83 @@
+{
+  "id": 1243533827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.88944,49.47833,100.88944,49.47833",
+    "geom:latitude":49.47833,
+    "geom:longitude":100.88944,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tsengel",
+    "gn:country_code":"MN",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028614,
+    "gn:latitude":49.47833,
+    "gn:longitude":100.88944,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsengel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsengel"
+    ],
+    "name:mon_x_preferred":[
+        "Tsengel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0441\u043e\u043d-\u0426\u044d\u043d\u0433\u044d\u043b"
+    ],
+    "name:und_x_variant":[
+        "Toson tsengel sumu",
+        "Toson Tsengel Suma",
+        "Toson-tsengel somon",
+        "Tosontsengel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092042149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028614,
+        "wk:page":"Tosontsengel%2C_Kh%C3%B6vsg%C3%B6l"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"31f493afcaa663988321148153601c5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042149,
+            "locality_id":1243533827,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1243533827,
+    "wof:lastmodified":1537665615,
+    "wof:name":"Tsengel",
+    "wof:parent_id":1092042149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.88944,
+    49.47833,
+    100.88944,
+    49.47833
+],
+  "geometry": {"coordinates":[100.88943999999999,49.47833],"type":"Point"}
+}

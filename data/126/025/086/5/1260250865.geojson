@@ -1,0 +1,73 @@
+{
+  "id": 1260250865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.0,49.41667,106.0,49.41667",
+    "geom:latitude":49.41667,
+    "geom:longitude":106.0,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Yihe Tsahil",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028188,
+    "gn:latitude":49.41667,
+    "gn:longitude":106.0,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yihe Tsahil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikhe-tzakhil",
+        "Ikhe-Tsakhil",
+        "Yihe Tsahil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674769,
+        1092043645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028188
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"34030d0d93e5e60f5af6ddee14445df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043645,
+            "locality_id":1260250865,
+            "region_id":85674769
+        }
+    ],
+    "wof:id":1260250865,
+    "wof:lastmodified":1537665605,
+    "wof:name":"Yihe Tsahil",
+    "wof:parent_id":1092043645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.0,
+    49.41667,
+    106.0,
+    49.41667
+],
+  "geometry": {"coordinates":[106.0,49.41667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 421201133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.95,47.05,102.95,47.05",
+    "geom:latitude":47.05,
+    "geom:longitude":102.95,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Shankha Somon"
+    ],
+    "qs:gn_country":"MN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2029372,
+    "qs:gn_pop":0,
+    "qs:name":"Shanh",
+    "qs:name_adm0":"Mongolia",
+    "qs:name_adm1":"Ovorhangay",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":913013,
+    "qs:woe_adm0":23424887,
+    "qs:woe_id":2266710,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092043327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029372,
+        "gp:id":2266710,
+        "qs:id":913013
+    },
+    "wof:country":"MN",
+    "wof:created":1459010057,
+    "wof:geomhash":"15da5f10c00213d4ba1a46b40589a13d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043327,
+            "locality_id":421201133,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":421201133,
+    "wof:lastmodified":1501225187,
+    "wof:name":"Shanh",
+    "wof:parent_id":1092043327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.95,
+    47.05,
+    102.95,
+    47.05
+],
+  "geometry": {"coordinates":[102.95,47.05],"type":"Point"}
+}

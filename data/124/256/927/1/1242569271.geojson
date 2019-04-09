@@ -1,0 +1,82 @@
+{
+  "id": 1242569271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.63806,43.60639,109.63806,43.60639",
+    "geom:latitude":43.60639,
+    "geom:longitude":109.63806,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khuvsget",
+    "gn:country_code":"MN",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030470,
+    "gn:latitude":43.60639,
+    "gn:longitude":109.63806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khuvsget",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "H\u00f6vsg\u00f6l"
+    ],
+    "name:und_x_variant":[
+        "Khubsugul Somon",
+        "Hubsugul sumu",
+        "Kh\u00f6wsg\u00f6l",
+        "H\u00f6bs\u00f6g\u00f6l Suma",
+        "Khubsugul Sume",
+        "H\u00f6bs\u00f6g\u00f6l Sumu",
+        "Khuvsgel",
+        "Khubsugul",
+        "Khubsugul-Sumu",
+        "Khuvsget"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030470
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a78256c04152604219bbc34985863f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043555,
+            "locality_id":1242569271,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1242569271,
+    "wof:lastmodified":1537665667,
+    "wof:name":"Khuvsget",
+    "wof:parent_id":1092043555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.63806,
+    43.60639000000001,
+    109.63806,
+    43.60639000000001
+],
+  "geometry": {"coordinates":[109.63806,43.60639000000001],"type":"Point"}
+}

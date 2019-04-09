@@ -1,0 +1,73 @@
+{
+  "id": 1242754447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.16667,48.68333,100.16667,48.68333",
+    "geom:latitude":48.68333,
+    "geom:longitude":100.16667,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yihe Hujirtayn Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028205,
+    "gn:latitude":48.68333,
+    "gn:longitude":100.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yihe Hujirtayn H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikhe Khuchzhirtuin Khure",
+        "Ih-Hujirtayn-H\u00fcree",
+        "Yihe Hujirtayn H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092037525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028205
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c4614e87bc22f4808ec572863be67f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037525,
+            "locality_id":1242754447,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1242754447,
+    "wof:lastmodified":1537665606,
+    "wof:name":"Yihe Hujirtayn Huryee",
+    "wof:parent_id":1092037525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.16667,
+    48.68333,
+    100.16667,
+    48.68333
+],
+  "geometry": {"coordinates":[100.16667,48.68333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310598145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.78333,43.78333,109.78333,43.78333",
+    "geom:latitude":43.78333,
+    "geom:longitude":109.78333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Deresenii Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031861,
+    "gn:latitude":43.78333,
+    "gn:longitude":109.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Deresenii Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deresunyy khural",
+        "Deresun\u00f6y Khural",
+        "Deresenii Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031861
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"36d6de8cd67d28426c522f5be87073d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043555,
+            "locality_id":1310598145,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1310598145,
+    "wof:lastmodified":1537665701,
+    "wof:name":"Deresenii Hural",
+    "wof:parent_id":1092043555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.78333,
+    43.78333,
+    109.78333,
+    43.78333
+],
+  "geometry": {"coordinates":[109.78333000000001,43.78333],"type":"Point"}
+}

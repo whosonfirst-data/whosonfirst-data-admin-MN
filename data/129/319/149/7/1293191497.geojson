@@ -1,0 +1,72 @@
+{
+  "id": 1293191497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.35,45.5,106.35,45.5",
+    "geom:latitude":45.5,
+    "geom:longitude":106.35,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Horin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030515,
+    "gn:latitude":45.5,
+    "gn:longitude":106.35,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Horin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khorin khid",
+        "Horin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092040571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030515
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d97e1ae90d5a08425d629a81a9b09f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040571,
+            "locality_id":1293191497,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1293191497,
+    "wof:lastmodified":1537665669,
+    "wof:name":"Horin Hiid",
+    "wof:parent_id":1092040571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.35,
+    45.5,
+    106.35,
+    45.5
+],
+  "geometry": {"coordinates":[106.34999999999999,45.5],"type":"Point"}
+}

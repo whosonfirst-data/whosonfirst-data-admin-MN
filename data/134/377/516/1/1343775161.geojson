@@ -1,0 +1,77 @@
+{
+  "id": 1343775161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.69173,46.1664,98.69173,46.1664",
+    "geom:latitude":46.1664,
+    "geom:longitude":98.69173,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Buyant",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516147,
+    "gn:latitude":46.1664,
+    "gn:longitude":98.69173,
+    "gn:modification_date":"2007-10-21",
+    "gn:name":"Buyant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buyanta Tsagaan Gol Suma",
+        "Buyantu tsagaan gol",
+        "Buutsagaan",
+        "Buyantu Tsagan Gol Somon",
+        "Buyantu Tsagan gol Sumu",
+        "Buyantu-Tsagan-Gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092035069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516147,
+        "wk:page":"Buutsagaan"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7bc027bb57a440a13d77a5bbb6908142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035069,
+            "locality_id":1343775161,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1343775161,
+    "wof:lastmodified":1537665595,
+    "wof:name":"Buyant",
+    "wof:parent_id":1092035069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.69173,
+    46.1664,
+    98.69173,
+    46.1664
+],
+  "geometry": {"coordinates":[98.69173000000001,46.1664],"type":"Point"}
+}

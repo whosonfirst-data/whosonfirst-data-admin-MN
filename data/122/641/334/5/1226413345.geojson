@@ -1,0 +1,75 @@
+{
+  "id": 1226413345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.68333,43.8,104.68333,43.8",
+    "geom:latitude":43.8,
+    "geom:longitude":104.68333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Artsatayn Shiliin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032822,
+    "gn:latitude":43.8,
+    "gn:longitude":104.68333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Artsatayn Shiliin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Artsatii Shiliin Hiyd",
+        "Artsatuyn shiliin khid",
+        "Artsatuin shiliin khid",
+        "Artsatii Shiliin Hiid",
+        "Artsatayn Shiliin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092043239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032822
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"9a2fb93396a9f96cf6acbec3e8dfd0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043239,
+            "locality_id":1226413345,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1226413345,
+    "wof:lastmodified":1537665733,
+    "wof:name":"Artsatayn Shiliin Hiid",
+    "wof:parent_id":1092043239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.68333,
+    43.8,
+    104.68333,
+    43.8
+],
+  "geometry": {"coordinates":[104.68333,43.8],"type":"Point"}
+}

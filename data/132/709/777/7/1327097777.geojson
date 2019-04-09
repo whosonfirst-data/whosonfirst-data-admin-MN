@@ -1,0 +1,73 @@
+{
+  "id": 1327097777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.61667,46.91667,105.61667,46.91667",
+    "geom:latitude":46.91667,
+    "geom:longitude":105.61667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Shine Usanii Jisa",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029245,
+    "gn:latitude":46.91667,
+    "gn:longitude":105.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shine Usanii Jisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shine usunyy chzhisa",
+        "Shine usunoy chzhisa",
+        "Shine Usanii Jisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092033019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029245
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7927481e5bd1257d8ae97165b2cc934c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033019,
+            "locality_id":1327097777,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1327097777,
+    "wof:lastmodified":1537665628,
+    "wof:name":"Shine Usanii Jisa",
+    "wof:parent_id":1092033019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.61667,
+    46.91667,
+    105.61667,
+    46.91667
+],
+  "geometry": {"coordinates":[105.61667,46.91667],"type":"Point"}
+}

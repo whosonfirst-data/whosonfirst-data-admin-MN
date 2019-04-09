@@ -1,0 +1,98 @@
+{
+  "id": 421195233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.61667,46.1,95.61667,46.1",
+    "geom:latitude":46.1,
+    "geom:longitude":95.61667,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Bajan"
+    ],
+    "name:fin_x_preferred":[
+        "Bajan"
+    ],
+    "name:ita_x_preferred":[
+        "Bajan"
+    ],
+    "name:nld_x_preferred":[
+        "Bajan"
+    ],
+    "name:pol_x_preferred":[
+        "Bajan"
+    ],
+    "name:slv_x_preferred":[
+        "Bajan"
+    ],
+    "name:unk_x_variant":[
+        "Bayan Suma"
+    ],
+    "qs:gn_country":"MN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1516310,
+    "qs:gn_pop":0,
+    "qs:name":"Bajan",
+    "qs:name_adm0":"Mongolia",
+    "qs:name_adm1":"Govi-Altay",
+    "qs:photos":71,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":71,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":133111,
+    "qs:woe_adm0":23424887,
+    "qs:woe_id":2266569,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092042937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516310,
+        "gp:id":2266569,
+        "qs:id":133111
+    },
+    "wof:country":"MN",
+    "wof:created":1459009836,
+    "wof:geomhash":"127697a19cba798f24e9f0baa5871ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042937,
+            "locality_id":421195233,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":421195233,
+    "wof:lastmodified":1527716120,
+    "wof:name":"Bajan",
+    "wof:parent_id":1092042937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.61667,
+    46.1,
+    95.61667,
+    46.1
+],
+  "geometry": {"coordinates":[95.61667,46.1],"type":"Point"}
+}

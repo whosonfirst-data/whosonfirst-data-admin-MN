@@ -1,0 +1,77 @@
+{
+  "id": 1292992559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.83333,45.98333,108.83333,45.98333",
+    "geom:latitude":45.98333,
+    "geom:longitude":108.83333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hongor Suma",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030554,
+    "gn:latitude":45.98333,
+    "gn:longitude":108.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hongor Suma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khongor Sume",
+        "Hongor",
+        "Khongor Somon",
+        "Hongor Sumu",
+        "Khongor",
+        "Hongoru",
+        "Hongor Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092036325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030554
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3587ba4e9ec8e259acd9b08834f77f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036325,
+            "locality_id":1292992559,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1292992559,
+    "wof:lastmodified":1537665671,
+    "wof:name":"Hongor Suma",
+    "wof:parent_id":1092036325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.83333,
+    45.98333,
+    108.83333,
+    45.98333
+],
+  "geometry": {"coordinates":[108.83333,45.98333],"type":"Point"}
+}

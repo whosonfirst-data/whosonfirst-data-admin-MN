@@ -1,0 +1,71 @@
+{
+  "id": 1343443889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.46667,46.5,103.46667,46.5",
+    "geom:latitude":46.5,
+    "geom:longitude":103.46667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Baruun Sume",
+    "gn:country_code":"MN",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032632,
+    "gn:latitude":46.5,
+    "gn:longitude":103.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Baruun S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barun Sume",
+        "Baruun S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092039721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032632
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"58459da6c8d5ad6e5028b8f69aff239f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039721,
+            "locality_id":1343443889,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1343443889,
+    "wof:lastmodified":1537665728,
+    "wof:name":"Baruun Sume",
+    "wof:parent_id":1092039721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.46667,
+    46.5,
+    103.46667,
+    46.5
+],
+  "geometry": {"coordinates":[103.46666999999999,46.5],"type":"Point"}
+}

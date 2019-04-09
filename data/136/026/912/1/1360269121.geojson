@@ -1,0 +1,67 @@
+{
+  "id": 1360269121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.63333,45.06667,96.63333,45.06667",
+    "geom:latitude":45.06667,
+    "geom:longitude":96.63333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Suhaytayn Bulag",
+    "gn:country_code":"MN",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515271,
+    "gn:latitude":45.06667,
+    "gn:longitude":96.63333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Suhaytayn Bulag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092036241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515271
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5b38515fc142650d134826083e5de9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036241,
+            "locality_id":1360269121,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1360269121,
+    "wof:lastmodified":1536680176,
+    "wof:name":"Suhaytayn Bulag",
+    "wof:parent_id":1092036241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.63333,
+    45.06667,
+    96.63333,
+    45.06667
+],
+  "geometry": {"coordinates":[96.63333,45.06667],"type":"Point"}
+}

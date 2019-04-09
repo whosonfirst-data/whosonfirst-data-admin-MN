@@ -1,0 +1,74 @@
+{
+  "id": 1293679857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86667,44.46667,105.86667,44.46667",
+    "geom:latitude":44.46667,
+    "geom:longitude":105.86667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Biluunii Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032386,
+    "gn:latitude":44.46667,
+    "gn:longitude":105.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bil\u00fc\u00fcnii Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilyunyy khural",
+        "Bilyun\u00f6y khural",
+        "Bilyunay Khural",
+        "Bil\u00fc\u00fcnii Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092039685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032386
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"05e960407cea46b66d3c0be18f784bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039685,
+            "locality_id":1293679857,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1293679857,
+    "wof:lastmodified":1537665719,
+    "wof:name":"Biluunii Hural",
+    "wof:parent_id":1092039685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86667,
+    44.46667,
+    105.86667,
+    44.46667
+],
+  "geometry": {"coordinates":[105.86667,44.46667],"type":"Point"}
+}

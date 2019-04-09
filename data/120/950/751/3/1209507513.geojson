@@ -1,0 +1,68 @@
+{
+  "id": 1209507513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.31667,49.31667,114.31667,49.31667",
+    "geom:latitude":49.31667,
+    "geom:longitude":114.31667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Subsal Burideiin Horshoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029164,
+    "gn:latitude":49.31667,
+    "gn:longitude":114.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Subsal B\u00fcrideiin Horshoo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Subsul Burdii Khorshoo",
+        "Subsul-Burdii Khorsho",
+        "Subsul Burdin Khorsho",
+        "Subsal B\u00fcrideiin Horshoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029164
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3274eea3940b1a15bb92c48b748d904c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209507513
+        }
+    ],
+    "wof:id":1209507513,
+    "wof:lastmodified":1537665626,
+    "wof:name":"Subsal Burideiin Horshoo",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.31667,
+    49.31667,
+    114.31667,
+    49.31667
+],
+  "geometry": {"coordinates":[114.31667,49.31667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276747277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.7,45.98333,94.7,45.98333",
+    "geom:latitude":45.98333,
+    "geom:longitude":94.7,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Urda Goliin Bayshing",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1514994,
+    "gn:latitude":45.98333,
+    "gn:longitude":94.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Urda Goliin Bayshing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urdugoliin bayshing",
+        "Urdu Galiin Bayshing",
+        "Yrda Goliin Bayshing",
+        "Urda Goliin Bayshing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092041923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514994
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8f64f5b7b534ccd05925bbcd3b612317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041923,
+            "locality_id":1276747277,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1276747277,
+    "wof:lastmodified":1537665568,
+    "wof:name":"Urda Goliin Bayshing",
+    "wof:parent_id":1092041923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.7,
+    45.98333,
+    94.7,
+    45.98333
+],
+  "geometry": {"coordinates":[94.7,45.98333],"type":"Point"}
+}

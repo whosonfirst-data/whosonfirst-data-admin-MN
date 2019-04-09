@@ -1,0 +1,79 @@
+{
+  "id": 1293363529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.45977,45.96404,101.45977,45.96404",
+    "geom:latitude":45.96404,
+    "geom:longitude":101.45977,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Tsagaan-Ovoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028720,
+    "gn:latitude":45.96404,
+    "gn:longitude":101.45977,
+    "gn:modification_date":"2007-10-21",
+    "gn:name":"Tsagaan-Ovoo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Narin teeli",
+        "Nariin Teeli Suma",
+        "Nariyntee",
+        "Narin del' Somon",
+        "Nari\u00efnteel",
+        "Narin-Teeli-Somon",
+        "Nariynteel",
+        "Narin Teli Sume",
+        "Narin-Teli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092039295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028720
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"62d460539476918167fc8f8464006d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039295,
+            "locality_id":1293363529,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1293363529,
+    "wof:lastmodified":1537665617,
+    "wof:name":"Tsagaan-Ovoo",
+    "wof:parent_id":1092039295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.45977,
+    45.96404,
+    101.45977,
+    45.96404
+],
+  "geometry": {"coordinates":[101.45977000000001,45.96404],"type":"Point"}
+}

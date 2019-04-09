@@ -1,0 +1,72 @@
+{
+  "id": 1209719611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.08333,48.36667,101.08333,48.36667",
+    "geom:latitude":48.36667,
+    "geom:longitude":101.08333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dashi Jabiin Bayshing",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031941,
+    "gn:latitude":48.36667,
+    "gn:longitude":101.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dashi Jabiin Bayshing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashichzhabiin bayshing",
+        "Dashi Jabiin Bayshing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092037323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031941
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"886b8f6923550d4379ca63292f26a300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037323,
+            "locality_id":1209719611,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1209719611,
+    "wof:lastmodified":1537665703,
+    "wof:name":"Dashi Jabiin Bayshing",
+    "wof:parent_id":1092037323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.08333,
+    48.36667,
+    101.08333,
+    48.36667
+],
+  "geometry": {"coordinates":[101.08333,48.36667],"type":"Point"}
+}

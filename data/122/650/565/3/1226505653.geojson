@@ -1,0 +1,71 @@
+{
+  "id": 1226505653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.924,48.80189,105.924,48.80189",
+    "geom:latitude":48.80189,
+    "geom:longitude":105.924,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Javhlant",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030159,
+    "gn:latitude":48.80189,
+    "gn:longitude":105.924,
+    "gn:modification_date":"2007-10-14",
+    "gn:name":"Javhlant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00fcmber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092041439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030159
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"40756246eea7229ca8a21271af3d3ec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041439,
+            "locality_id":1226505653,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1226505653,
+    "wof:lastmodified":1537665657,
+    "wof:name":"Javhlant",
+    "wof:parent_id":1092041439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.924,
+    48.80189,
+    105.924,
+    48.80189
+],
+  "geometry": {"coordinates":[105.92400000000001,48.80189],"type":"Point"}
+}

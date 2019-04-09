@@ -1,0 +1,81 @@
+{
+  "id": 1276419995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33333,49.99806,100.33333,49.99806",
+    "geom:latitude":49.99806,
+    "geom:longitude":100.33333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tsagaan Burgaasanii Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028832,
+    "gn:latitude":49.99806,
+    "gn:longitude":100.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaan Burgaasanii H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019a-kan-pu-erh-ha-su",
+        "Kuren\u2019 Tsagan-Burgas",
+        "Tsagan Burgasuni",
+        "Tsagan-burugasu",
+        "Tsagan-burgasuni Khure",
+        "Tsagaan burgasun\u2019i h\u00fcrie",
+        "Tsagaan burgasui\u2019n h\u00fcrie",
+        "Tsagan-Burgasu Khure",
+        "Tsagan Burgas",
+        "Tsagaan Burgaasa",
+        "Tsagaan Burgaasanii H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092031765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028832
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"9177a6b9a6ac11bce627f17333e8f7be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092031765,
+            "locality_id":1276419995,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1276419995,
+    "wof:lastmodified":1537665619,
+    "wof:name":"Tsagaan Burgaasanii Huryee",
+    "wof:parent_id":1092031765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33333,
+    49.99806,
+    100.33333,
+    49.99806
+],
+  "geometry": {"coordinates":[100.33333,49.99806],"type":"Point"}
+}

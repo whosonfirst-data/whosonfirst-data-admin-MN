@@ -1,0 +1,67 @@
+{
+  "id": 1293065497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7,49.26667,103.7,49.26667",
+    "geom:latitude":49.26667,
+    "geom:longitude":103.7,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Mogoyn Dugang",
+    "gn:country_code":"MN",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029980,
+    "gn:latitude":49.26667,
+    "gn:longitude":103.7,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Mogoyn Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092034835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029980
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e4d85f9ff8c3ee50358ccd185a9e9380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034835,
+            "locality_id":1293065497,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1293065497,
+    "wof:lastmodified":1536898587,
+    "wof:name":"Mogoyn Dugang",
+    "wof:parent_id":1092034835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7,
+    49.26667,
+    103.7,
+    49.26667
+],
+  "geometry": {"coordinates":[103.7,49.26667],"type":"Point"}
+}

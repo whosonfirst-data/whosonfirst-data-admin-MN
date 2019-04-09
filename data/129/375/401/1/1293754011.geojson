@@ -1,0 +1,73 @@
+{
+  "id": 1293754011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.91667,46.8,101.91667,46.8",
+    "geom:latitude":46.8,
+    "geom:longitude":101.91667,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Burgaasatayn Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032160,
+    "gn:latitude":46.8,
+    "gn:longitude":101.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Burgaasatayn Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burgasutuyn khid",
+        "Burgasutuin khid",
+        "Burgaasatayn Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092032607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032160
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"05e765081e7a6e5a5454b9b544e3b912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032607,
+            "locality_id":1293754011,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1293754011,
+    "wof:lastmodified":1537665712,
+    "wof:name":"Burgaasatayn Hiid",
+    "wof:parent_id":1092032607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.91667,
+    46.8,
+    101.91667,
+    46.8
+],
+  "geometry": {"coordinates":[101.91667,46.8],"type":"Point"}
+}

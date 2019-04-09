@@ -1,0 +1,72 @@
+{
+  "id": 1226315303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.9,48.93333,104.9,48.93333",
+    "geom:latitude":48.93333,
+    "geom:longitude":104.9,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Hogshinii Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030700,
+    "gn:latitude":48.93333,
+    "gn:longitude":104.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6gshinii Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khugshinyy dugang",
+        "H\u00f6gshinii Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092040193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030700
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"55b8ea449d18bc19b9599c4715ad91e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040193,
+            "locality_id":1226315303,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1226315303,
+    "wof:lastmodified":1537665674,
+    "wof:name":"Hogshinii Dugang",
+    "wof:parent_id":1092040193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.9,
+    48.93333,
+    104.9,
+    48.93333
+],
+  "geometry": {"coordinates":[104.90000000000001,48.93333],"type":"Point"}
+}

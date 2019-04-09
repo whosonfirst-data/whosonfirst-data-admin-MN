@@ -1,0 +1,81 @@
+{
+  "id": 1276398143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.42556,48.29667,103.42556,48.29667",
+    "geom:latitude":48.29667,
+    "geom:longitude":103.42556,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Maanit",
+    "gn:country_code":"MN",
+    "gn:dem":1306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030078,
+    "gn:latitude":48.29667,
+    "gn:longitude":103.42556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maan\u012dt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maan\u012dt"
+    ],
+    "name:mon_x_preferred":[
+        "Maan\u012dt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0448\u0438\u0433-\u0423\u043d\u0434\u044d\u0440"
+    ],
+    "name:und_x_variant":[
+        "Hishig-\u00d6nd\u00f6r",
+        "Khishig-\u00d6nd\u00f6r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092043487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030078,
+        "wk:page":"Khishig-%C3%96nd%C3%B6r"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8b4077d433ce591bdaeb798471065b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043487,
+            "locality_id":1276398143,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1276398143,
+    "wof:lastmodified":1537665652,
+    "wof:name":"Maanit",
+    "wof:parent_id":1092043487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.42556,
+    48.29667,
+    103.42556,
+    48.29667
+],
+  "geometry": {"coordinates":[103.42556,48.29667],"type":"Point"}
+}

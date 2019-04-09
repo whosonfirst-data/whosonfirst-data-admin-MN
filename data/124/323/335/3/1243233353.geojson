@@ -1,0 +1,67 @@
+{
+  "id": 1243233353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.89962,49.13702,105.89962,49.13702",
+    "geom:latitude":49.13702,
+    "geom:longitude":105.89962,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Erkhet  Ehrkheht",
+    "gn:country_code":"MN",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7522139,
+    "gn:latitude":49.13702,
+    "gn:longitude":105.89962,
+    "gn:modification_date":"2010-08-28",
+    "gn:name":"Erkhet  \u042d\u0440\u0445\u044d\u0442",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674769,
+        1092043645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7522139
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"48e61e8a555d6e5c8a01e7dad4da1b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043645,
+            "locality_id":1243233353,
+            "region_id":85674769
+        }
+    ],
+    "wof:id":1243233353,
+    "wof:lastmodified":1536613453,
+    "wof:name":"Erkhet  Ehrkheht",
+    "wof:parent_id":1092043645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.89962,
+    49.13702,
+    105.89962,
+    49.13702
+],
+  "geometry": {"coordinates":[105.89962,49.13702],"type":"Point"}
+}

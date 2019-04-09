@@ -1,0 +1,67 @@
+{
+  "id": 1276840435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.41667,46.41667,103.41667,46.41667",
+    "geom:latitude":46.41667,
+    "geom:longitude":103.41667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ulaan-am",
+    "gn:country_code":"MN",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028463,
+    "gn:latitude":46.41667,
+    "gn:longitude":103.41667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Ulaan-am",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092039721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028463
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ae01a8c2bee2bb59cde73722234816b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039721,
+            "locality_id":1276840435,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1276840435,
+    "wof:lastmodified":1537090806,
+    "wof:name":"Ulaan-am",
+    "wof:parent_id":1092039721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.41667,
+    46.41667,
+    103.41667,
+    46.41667
+],
+  "geometry": {"coordinates":[103.41667,46.41667],"type":"Point"}
+}

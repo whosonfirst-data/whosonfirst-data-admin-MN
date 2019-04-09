@@ -1,0 +1,77 @@
+{
+  "id": 1360077637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.96667,48.68333,115.96667,48.68333",
+    "geom:latitude":48.68333,
+    "geom:longitude":115.96667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Alata",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032967,
+    "gn:latitude":48.68333,
+    "gn:longitude":115.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aletu",
+        "Aleta",
+        "A-la-erh-t\u2019u",
+        "Alartu",
+        "Alata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85669847,
+        102191569,
+        85632695,
+        136253041,
+        1108732385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032967
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"b26028f6fa09e44b635acbd483393bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632695,
+            "county_id":1108732385,
+            "empire_id":136253041,
+            "locality_id":1360077637,
+            "region_id":85669847
+        }
+    ],
+    "wof:id":1360077637,
+    "wof:lastmodified":1537665737,
+    "wof:name":"Alata",
+    "wof:parent_id":1108732385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.96667,
+    48.68333,
+    115.96667,
+    48.68333
+],
+  "geometry": {"coordinates":[115.96666999999999,48.68333],"type":"Point"}
+}

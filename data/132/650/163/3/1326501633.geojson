@@ -1,0 +1,78 @@
+{
+  "id": 1326501633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.8,45.16667,113.8,45.16667",
+    "geom:latitude":45.16667,
+    "geom:longitude":113.8,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Moltsog Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029973,
+    "gn:latitude":45.16667,
+    "gn:longitude":113.8,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Moltsog Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moltsog-khid",
+        "Montsuku-suji",
+        "Montchuk",
+        "Moltsok Khid",
+        "Morutsogin-fururu",
+        "Kumirnya Montsuk Sume",
+        "Man-ch\u2019u-k\u2019o Tz\u2019u",
+        "Moltsog Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092039249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029973
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"9675e04b168d6127810d2f911d05340c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039249,
+            "locality_id":1326501633,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1326501633,
+    "wof:lastmodified":1537665649,
+    "wof:name":"Moltsog Hiid",
+    "wof:parent_id":1092039249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.8,
+    45.16667,
+    113.8,
+    45.16667
+],
+  "geometry": {"coordinates":[113.8,45.16667],"type":"Point"}
+}

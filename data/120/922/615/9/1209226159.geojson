@@ -1,0 +1,69 @@
+{
+  "id": 1209226159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.51667,49.3,90.51667,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":90.51667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hovd",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515697,
+    "gn:latitude":49.3,
+    "gn:longitude":90.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hovd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0431\u0434\u043e"
+    ],
+    "name:und_x_variant":[
+        "Khowd",
+        "Hovd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515697
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c6da8c1a68a2d58f7156500abefa4102",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209226159
+        }
+    ],
+    "wof:id":1209226159,
+    "wof:lastmodified":1537665585,
+    "wof:name":"Hovd",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.51667,
+    49.3,
+    90.51667,
+    49.3
+],
+  "geometry": {"coordinates":[90.51667,49.3],"type":"Point"}
+}

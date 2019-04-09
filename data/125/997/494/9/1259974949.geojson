@@ -1,0 +1,72 @@
+{
+  "id": 1259974949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.08333,45.11667,108.08333,45.11667",
+    "geom:latitude":45.11667,
+    "geom:longitude":108.08333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dalayn Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031992,
+    "gn:latitude":45.11667,
+    "gn:longitude":108.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dalayn Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalayn Khural",
+        "Dalayn Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092039859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031992
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d9b1bd7536eba1109cd57661d215f70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039859,
+            "locality_id":1259974949,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1259974949,
+    "wof:lastmodified":1537665706,
+    "wof:name":"Dalayn Hural",
+    "wof:parent_id":1092039859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.08333,
+    45.11667,
+    108.08333,
+    45.11667
+],
+  "geometry": {"coordinates":[108.08333,45.11667],"type":"Point"}
+}

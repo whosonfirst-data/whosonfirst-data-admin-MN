@@ -1,0 +1,67 @@
+{
+  "id": 1225827329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.43005,49.23733,106.43005,49.23733",
+    "geom:latitude":49.23733,
+    "geom:longitude":106.43005,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Sharingol",
+    "gn:country_code":"MN",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029315,
+    "gn:latitude":49.23733,
+    "gn:longitude":106.43005,
+    "gn:modification_date":"2007-10-14",
+    "gn:name":"Shar\u00efngol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674769,
+        1092041159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029315
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"12260b5d8710fd62e1f3e583d17bd553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041159,
+            "locality_id":1225827329,
+            "region_id":85674769
+        }
+    ],
+    "wof:id":1225827329,
+    "wof:lastmodified":1537038585,
+    "wof:name":"Sharingol",
+    "wof:parent_id":1092041159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.43005,
+    49.23733,
+    106.43005,
+    49.23733
+],
+  "geometry": {"coordinates":[106.43004999999999,49.23733],"type":"Point"}
+}

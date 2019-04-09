@@ -1,0 +1,83 @@
+{
+  "id": 1259380293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.37427,49.2436,113.37427,49.2436",
+    "geom:latitude":49.2436,
+    "geom:longitude":113.37427,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Naranbulag",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029886,
+    "gn:latitude":49.2436,
+    "gn:longitude":113.37427,
+    "gn:modification_date":"2007-10-07",
+    "gn:name":"Naranbulag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Naranbulag"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bayan D\u00fcng Suma",
+        "Bayan d\u00fcng sumu",
+        "Bayan-d\u00fcng",
+        "Bayandun",
+        "Bayan-Dung-Somon",
+        "Bayan Dun Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092033601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029886,
+        "wk:page":"Bayandun"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a754ef6b031aba541508cf1e4cd99a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033601,
+            "locality_id":1259380293,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1259380293,
+    "wof:lastmodified":1537665647,
+    "wof:name":"Naranbulag",
+    "wof:parent_id":1092033601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.37427,
+    49.2436,
+    113.37427,
+    49.2436
+],
+  "geometry": {"coordinates":[113.37427,49.2436],"type":"Point"}
+}

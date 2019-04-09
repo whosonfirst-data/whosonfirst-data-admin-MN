@@ -1,0 +1,72 @@
+{
+  "id": 1276183579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.7,48.38333,103.7,48.38333",
+    "geom:latitude":48.38333,
+    "geom:longitude":103.7,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Dzoboiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031605,
+    "gn:latitude":48.38333,
+    "gn:longitude":103.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dz\u00f6b\u00f6iin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tszubyyn Khure",
+        "Dz\u00f6b\u00f6iin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092034707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031605
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"67bf30113d988719f45a2ab3118b3ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034707,
+            "locality_id":1276183579,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1276183579,
+    "wof:lastmodified":1537665695,
+    "wof:name":"Dzoboiin Huryee",
+    "wof:parent_id":1092034707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.7,
+    48.38333,
+    103.7,
+    48.38333
+],
+  "geometry": {"coordinates":[103.7,48.38333],"type":"Point"}
+}

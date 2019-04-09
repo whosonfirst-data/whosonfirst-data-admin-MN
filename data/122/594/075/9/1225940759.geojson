@@ -1,0 +1,72 @@
+{
+  "id": 1225940759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"97.28333,47.23333,97.28333,47.23333",
+    "geom:latitude":47.23333,
+    "geom:longitude":97.28333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Orgon Shirigiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515414,
+    "gn:latitude":47.23333,
+    "gn:longitude":97.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6rg\u00f6n Shirigiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urgun Shirigin Khure",
+        "\u00d6rg\u00f6n Shirigiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674727,
+        1092041205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515414
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"cd077d59c3988219a7fe54ca3b752b40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041205,
+            "locality_id":1225940759,
+            "region_id":85674727
+        }
+    ],
+    "wof:id":1225940759,
+    "wof:lastmodified":1537665578,
+    "wof:name":"Orgon Shirigiin Huryee",
+    "wof:parent_id":1092041205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    97.28333,
+    47.23333,
+    97.28333,
+    47.23333
+],
+  "geometry": {"coordinates":[97.28333000000001,47.23333],"type":"Point"}
+}

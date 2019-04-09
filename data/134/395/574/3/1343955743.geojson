@@ -1,0 +1,73 @@
+{
+  "id": 1343955743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.66667,49.11667,112.66667,49.11667",
+    "geom:latitude":49.11667,
+    "geom:longitude":112.66667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Onon",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029609,
+    "gn:latitude":49.11667,
+    "gn:longitude":112.66667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Onon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uuldza",
+        "Ul\u2019dza",
+        "Onon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092033191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029609
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c3d59d4fb88ed67ed3c3e41e633724a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033191,
+            "locality_id":1343955743,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1343955743,
+    "wof:lastmodified":1537665637,
+    "wof:name":"Onon",
+    "wof:parent_id":1092033191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.66667,
+    49.11667,
+    112.66667,
+    49.11667
+],
+  "geometry": {"coordinates":[112.66667,49.11667],"type":"Point"}
+}

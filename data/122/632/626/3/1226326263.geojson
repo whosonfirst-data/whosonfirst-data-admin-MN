@@ -1,0 +1,72 @@
+{
+  "id": 1226326263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.83333,46.6,94.83333,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":94.83333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ovoot",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515404,
+    "gn:latitude":46.6,
+    "gn:longitude":94.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ovoot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Owoot",
+        "Ovoot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092041123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515404
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3c17b8ae01bfb6f6f7684eea2f5d6aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041123,
+            "locality_id":1226326263,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1226326263,
+    "wof:lastmodified":1537665578,
+    "wof:name":"Ovoot",
+    "wof:parent_id":1092041123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.83333,
+    46.6,
+    94.83333,
+    46.6
+],
+  "geometry": {"coordinates":[94.83333,46.6],"type":"Point"}
+}

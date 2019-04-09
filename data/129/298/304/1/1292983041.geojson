@@ -1,0 +1,78 @@
+{
+  "id": 1292983041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.66582,49.2001,105.66582,49.2001",
+    "geom:latitude":49.2001,
+    "geom:longitude":105.66582,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Nomgon",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029816,
+    "gn:latitude":49.2001,
+    "gn:longitude":105.66582,
+    "gn:modification_date":"2007-10-14",
+    "gn:name":"Nomgon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nomgon"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u043c\u0433\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Sayhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092040745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029816,
+        "wk:page":"Nomgon%2C_Selenge"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"81f3509f78ff4b19169d4264683d9860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040745,
+            "locality_id":1292983041,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1292983041,
+    "wof:lastmodified":1537665645,
+    "wof:name":"Nomgon",
+    "wof:parent_id":1092040745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.66582,
+    49.2001,
+    105.66582,
+    49.2001
+],
+  "geometry": {"coordinates":[105.66582,49.2001],"type":"Point"}
+}

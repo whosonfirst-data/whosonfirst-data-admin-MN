@@ -1,0 +1,72 @@
+{
+  "id": 1310015495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.41667,47.71667,99.41667,47.71667",
+    "geom:latitude":47.71667,
+    "geom:longitude":99.41667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Noyon Hangay Ashan",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515457,
+    "gn:latitude":47.71667,
+    "gn:longitude":99.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Noyon Hangay Ashan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noyan khingai ashan",
+        "Noyon Hangay Ashan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092043153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515457
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e0b74e9f5b99228bc7bc5c2a03f1a0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043153,
+            "locality_id":1310015495,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1310015495,
+    "wof:lastmodified":1537665579,
+    "wof:name":"Noyon Hangay Ashan",
+    "wof:parent_id":1092043153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.41667,
+    47.71667,
+    99.41667,
+    47.71667
+],
+  "geometry": {"coordinates":[99.41667,47.71667],"type":"Point"}
+}

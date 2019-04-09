@@ -1,0 +1,73 @@
+{
+  "id": 1259578499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.15,49.31667,112.15,49.31667",
+    "geom:latitude":49.31667,
+    "geom:longitude":112.15,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ara Unarshi Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032883,
+    "gn:latitude":49.31667,
+    "gn:longitude":112.15,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ara Unarshi Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ara \u00dcn\u00fcrchi Dugan",
+        "Ara-Unurshi-dugang",
+        "Ara Unarshi Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092033191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032883
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"91ce93badbc3890b26769c2356aebee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033191,
+            "locality_id":1259578499,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1259578499,
+    "wof:lastmodified":1537665735,
+    "wof:name":"Ara Unarshi Dugang",
+    "wof:parent_id":1092033191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.15,
+    49.31667,
+    112.15,
+    49.31667
+],
+  "geometry": {"coordinates":[112.15000000000001,49.31667],"type":"Point"}
+}

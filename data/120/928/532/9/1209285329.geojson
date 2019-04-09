@@ -1,0 +1,78 @@
+{
+  "id": 1209285329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.51284,43.46787,103.51284,43.46787",
+    "geom:latitude":43.46787,
+    "geom:longitude":103.51284,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dalay",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2031998,
+    "gn:latitude":43.46787,
+    "gn:longitude":103.51284,
+    "gn:modification_date":"2007-10-13",
+    "gn:name":"Dalay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayshintu hiid",
+        "Kumirnya Bayshinte",
+        "Bayandala\u00ef",
+        "Bayandalay",
+        "Bayshintu",
+        "Pai-shen-t'ai Miao",
+        "Bayshinta",
+        "Vaishinte",
+        "Baishintu",
+        "Bayshinta Hiid",
+        "Baishinte",
+        "Bayan Dalai Baishintu Khit",
+        "Bayshintuin hiid",
+        "Bayshintu khid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031998
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"fcc4a7b01645ae84685455eebf0250b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209285329
+        }
+    ],
+    "wof:id":1209285329,
+    "wof:lastmodified":1537665707,
+    "wof:name":"Dalay",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.51284,
+    43.46787,
+    103.51284,
+    43.46787
+],
+  "geometry": {"coordinates":[103.51284,43.46787],"type":"Point"}
+}

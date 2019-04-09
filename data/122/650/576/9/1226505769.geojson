@@ -1,0 +1,72 @@
+{
+  "id": 1226505769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.51667,46.83333,107.51667,46.83333",
+    "geom:latitude":46.83333,
+    "geom:longitude":107.51667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Naydan Jisa",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029836,
+    "gn:latitude":46.83333,
+    "gn:longitude":107.51667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Naydan Jisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naydan chzhisa",
+        "Naydan Jisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092033353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029836
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"fd5a7c1e6680ef3166048421b6fae7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033353,
+            "locality_id":1226505769,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1226505769,
+    "wof:lastmodified":1537665645,
+    "wof:name":"Naydan Jisa",
+    "wof:parent_id":1092033353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.51667,
+    46.83333,
+    107.51667,
+    46.83333
+],
+  "geometry": {"coordinates":[107.51667,46.83333],"type":"Point"}
+}

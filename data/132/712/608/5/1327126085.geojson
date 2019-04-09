@@ -1,0 +1,76 @@
+{
+  "id": 1327126085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.3,44.96667,109.3,44.96667",
+    "geom:latitude":44.96667,
+    "geom:longitude":109.3,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Arshaantayn Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032835,
+    "gn:latitude":44.96667,
+    "gn:longitude":109.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arshaantayn H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arshantyn-khure",
+        "Arshantyyn Khure",
+        "Arshantin Khure",
+        "Arshant\u00f6yn Khure",
+        "Arshaantayn-H\u00fcree",
+        "Arshaantayn H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092040705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032835
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"823ffe85cf8239d3bedd1b5e48f80e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040705,
+            "locality_id":1327126085,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1327126085,
+    "wof:lastmodified":1537665734,
+    "wof:name":"Arshaantayn Huryee",
+    "wof:parent_id":1092040705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.3,
+    44.96667,
+    109.3,
+    44.96667
+],
+  "geometry": {"coordinates":[109.3,44.96667],"type":"Point"}
+}

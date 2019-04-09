@@ -1,0 +1,71 @@
+{
+  "id": 1344123265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.81156,48.12554,105.81156,48.12554",
+    "geom:latitude":48.12554,
+    "geom:longitude":105.81156,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Bayantsogt",
+    "gn:country_code":"MN",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8504568,
+    "gn:latitude":48.12554,
+    "gn:longitude":105.81156,
+    "gn:modification_date":"2013-03-12",
+    "gn:name":"Bayantsogt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0446\u043e\u0433\u0442"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092033433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8504568,
+        "wk:page":"Bayantsogt"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"60dc37c717963663b02496e2f8781450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033433,
+            "locality_id":1344123265,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1344123265,
+    "wof:lastmodified":1537568526,
+    "wof:name":"Bayantsogt",
+    "wof:parent_id":1092033433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.81156,
+    48.12554,
+    105.81156,
+    48.12554
+],
+  "geometry": {"coordinates":[105.81156,48.12554],"type":"Point"}
+}

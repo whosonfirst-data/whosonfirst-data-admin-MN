@@ -1,0 +1,86 @@
+{
+  "id": 1327309051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.71782,49.10641,91.71782,49.10641",
+    "geom:latitude":49.10641,
+    "geom:longitude":91.71782,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Namir",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515506,
+    "gn:latitude":49.10641,
+    "gn:longitude":91.71782,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Namir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Namir"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043c\u043d\u044d-\u0413\u043e\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "\u00d6m\u00f6n\u00f6 Gobi",
+        "\u00d6mn\u00f6gov\u012d",
+        "\u00d6mn\u00f6gow'",
+        "Umne-Gobi",
+        "Umun-gobi somon",
+        "\u00d6m\u00f6n\u00f6 Gobi Suma",
+        "\u00d6m\u00f6n\u00f6 Gobi Sumu",
+        "Umun Gobi",
+        "\u00d6m\u00f6n\u00f6 Gobi Sume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092039801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515506,
+        "wk:page":"%C3%96mn%C3%B6govi%2C_Uvs"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"894c40d009e49add96af34fc291c8119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039801,
+            "locality_id":1327309051,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1327309051,
+    "wof:lastmodified":1537665581,
+    "wof:name":"Namir",
+    "wof:parent_id":1092039801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.71782,
+    49.10641,
+    91.71782,
+    49.10641
+],
+  "geometry": {"coordinates":[91.71782,49.10641],"type":"Point"}
+}

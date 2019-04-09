@@ -1,0 +1,71 @@
+{
+  "id": 1360277097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.9,43.26667,108.9,43.26667",
+    "geom:latitude":43.26667,
+    "geom:longitude":108.9,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Hashaata Hiid",
+    "gn:country_code":"MN",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030887,
+    "gn:latitude":43.26667,
+    "gn:longitude":108.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hashaata Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khashatu Khid",
+        "Hashaata Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030887
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7fd3464f956c8a7e2b42d41edff84c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043405,
+            "locality_id":1360277097,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1360277097,
+    "wof:lastmodified":1537665678,
+    "wof:name":"Hashaata Hiid",
+    "wof:parent_id":1092043405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.9,
+    43.26667,
+    108.9,
+    43.26667
+],
+  "geometry": {"coordinates":[108.90000000000001,43.26667],"type":"Point"}
+}

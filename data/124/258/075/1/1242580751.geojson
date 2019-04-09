@@ -1,0 +1,72 @@
+{
+  "id": 1242580751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.61667,46.53333,98.61667,46.53333",
+    "geom:latitude":46.53333,
+    "geom:longitude":98.61667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Olon Bulagiin Bayshing",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515434,
+    "gn:latitude":46.53333,
+    "gn:longitude":98.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Olon Bulagiin Bayshing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olon Bulagiin Bayshin",
+        "Olon Bulagiin Bayshing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092043865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515434
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e1e349c1335bc8f258b9f72e9d8df70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043865,
+            "locality_id":1242580751,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1242580751,
+    "wof:lastmodified":1537665579,
+    "wof:name":"Olon Bulagiin Bayshing",
+    "wof:parent_id":1092043865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.61667,
+    46.53333,
+    98.61667,
+    46.53333
+],
+  "geometry": {"coordinates":[98.61667,46.53333],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277092003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.97235,47.79309,101.97235,47.79309",
+    "geom:latitude":47.79309,
+    "geom:longitude":101.97235,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jargalant",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030175,
+    "gn:latitude":47.79309,
+    "gn:longitude":101.97235,
+    "gn:modification_date":"2007-10-19",
+    "gn:name":"Jargalant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Battsengel",
+        "Tamiriin Khure",
+        "Tamiriin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092032647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030175,
+        "wk:page":"Battsengel"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5804d8dd93cc4ed672e303de401086b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032647,
+            "locality_id":1277092003,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1277092003,
+    "wof:lastmodified":1537665658,
+    "wof:name":"Jargalant",
+    "wof:parent_id":1092032647,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.97235,
+    47.79309,
+    101.97235,
+    47.79309
+],
+  "geometry": {"coordinates":[101.97235000000001,47.79309],"type":"Point"}
+}

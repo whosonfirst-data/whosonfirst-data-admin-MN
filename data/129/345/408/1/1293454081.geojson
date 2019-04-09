@@ -1,0 +1,71 @@
+{
+  "id": 1293454081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.53333,47.63333,103.53333,47.63333",
+    "geom:latitude":47.63333,
+    "geom:longitude":103.53333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Buuriin Hural",
+    "gn:country_code":"MN",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032095,
+    "gn:latitude":47.63333,
+    "gn:longitude":103.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Buuriin Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buriin Khural",
+        "Buuriin Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092037737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032095
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"b00276e69447a5e64aeb4ea7582451fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037737,
+            "locality_id":1293454081,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1293454081,
+    "wof:lastmodified":1537665710,
+    "wof:name":"Buuriin Hural",
+    "wof:parent_id":1092037737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.53333,
+    47.63333,
+    103.53333,
+    47.63333
+],
+  "geometry": {"coordinates":[103.53333000000001,47.63333],"type":"Point"}
+}

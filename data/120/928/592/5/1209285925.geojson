@@ -1,0 +1,65 @@
+{
+  "id": 1209285925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.68378,45.13507,113.68378,45.13507",
+    "geom:latitude":45.13507,
+    "geom:longitude":113.68378,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Hongor",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030572,
+    "gn:latitude":45.13507,
+    "gn:longitude":113.68378,
+    "gn:modification_date":"2007-10-07",
+    "gn:name":"Hongor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030572
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"33bdcd9b122465436cfaab1835bc637d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209285925
+        }
+    ],
+    "wof:id":1209285925,
+    "wof:lastmodified":1537665672,
+    "wof:name":"Hongor",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.68378,
+    45.13507,
+    113.68378,
+    45.13507
+],
+  "geometry": {"coordinates":[113.68378,45.13507],"type":"Point"}
+}

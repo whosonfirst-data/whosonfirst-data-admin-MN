@@ -1,0 +1,67 @@
+{
+  "id": 1276844325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.8,48.31667,103.8,48.31667",
+    "geom:latitude":48.31667,
+    "geom:longitude":103.8,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Burga",
+    "gn:country_code":"MN",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032166,
+    "gn:latitude":48.31667,
+    "gn:longitude":103.8,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Burga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092034707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032166
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"19c03c5b844820eb3e2b8e33931b8a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034707,
+            "locality_id":1276844325,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1276844325,
+    "wof:lastmodified":1537085606,
+    "wof:name":"Burga",
+    "wof:parent_id":1092034707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.8,
+    48.31667,
+    103.8,
+    48.31667
+],
+  "geometry": {"coordinates":[103.8,48.31667],"type":"Point"}
+}

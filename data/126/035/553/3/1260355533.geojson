@@ -1,0 +1,72 @@
+{
+  "id": 1260355533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.31769,48.4538,105.31769,48.4538",
+    "geom:latitude":48.4538,
+    "geom:longitude":105.31769,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Orgil",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029597,
+    "gn:latitude":48.4538,
+    "gn:longitude":105.31769,
+    "gn:modification_date":"2007-10-14",
+    "gn:name":"Orgil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tseel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092035741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029597,
+        "wk:page":"Tseel"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ca76f2fda26e875b9c635ba25c6587a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035741,
+            "locality_id":1260355533,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1260355533,
+    "wof:lastmodified":1537665637,
+    "wof:name":"Orgil",
+    "wof:parent_id":1092035741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.31768999999998,
+    48.4538,
+    105.31768999999998,
+    48.4538
+],
+  "geometry": {"coordinates":[105.31768999999998,48.4538],"type":"Point"}
+}

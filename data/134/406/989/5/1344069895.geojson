@@ -1,0 +1,81 @@
+{
+  "id": 1344069895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.76667,45.2,100.76667,45.2",
+    "geom:latitude":45.2,
+    "geom:longitude":100.76667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Horiult",
+    "gn:country_code":"MN",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030512,
+    "gn:latitude":45.2,
+    "gn:longitude":100.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Horiult",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Horiult"
+    ],
+    "name:und_x_variant":[
+        "Bogda ula somon",
+        "Bogdo Uula Suma",
+        "Bogda Uula",
+        "Bogd",
+        "Bogdo Ula Sume",
+        "Bogdo-Ula",
+        "Bogda ula sumu",
+        "Bogudo-kara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092034563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030512,
+        "wk:page":"Bogd%2C_Bayankhongor"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f4d1f4918df07d159ae5fca1af686cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034563,
+            "locality_id":1344069895,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1344069895,
+    "wof:lastmodified":1537665669,
+    "wof:name":"Horiult",
+    "wof:parent_id":1092034563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.76667,
+    45.2,
+    100.76667,
+    45.2
+],
+  "geometry": {"coordinates":[100.76667,45.2],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293670321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.11667,48.91667,110.11667,48.91667",
+    "geom:latitude":48.91667,
+    "geom:longitude":110.11667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hashingiin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030858,
+    "gn:latitude":48.91667,
+    "gn:longitude":110.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hashingiin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khashingin-Dugan",
+        "Khashingin-Dugang",
+        "Hashingiin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092032725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030858
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"cf2d682bf72b2695a908a500fd0fcdad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032725,
+            "locality_id":1293670321,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1293670321,
+    "wof:lastmodified":1537665678,
+    "wof:name":"Hashingiin Dugang",
+    "wof:parent_id":1092032725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.11667,
+    48.91667,
+    110.11667,
+    48.91667
+],
+  "geometry": {"coordinates":[110.11667,48.91667],"type":"Point"}
+}

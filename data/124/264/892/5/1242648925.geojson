@@ -1,0 +1,72 @@
+{
+  "id": 1242648925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.4,46.16667,115.4,46.16667",
+    "geom:latitude":46.16667,
+    "geom:longitude":115.4,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Erigtsegiin Ortoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031353,
+    "gn:latitude":46.16667,
+    "gn:longitude":115.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Erigtsegiin \u00d6rt\u00f6\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erigtsegin Urto",
+        "Erigtsegiin \u00d6rt\u00f6\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092037207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031353
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"b271d1333eea5af69a461c0dc89c0f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037207,
+            "locality_id":1242648925,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1242648925,
+    "wof:lastmodified":1537665688,
+    "wof:name":"Erigtsegiin Ortoo",
+    "wof:parent_id":1092037207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.4,
+    46.16667,
+    115.4,
+    46.16667
+],
+  "geometry": {"coordinates":[115.40000000000001,46.16667],"type":"Point"}
+}

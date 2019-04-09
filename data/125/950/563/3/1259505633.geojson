@@ -1,0 +1,72 @@
+{
+  "id": 1259505633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.86667,47.9,117.86667,47.9",
+    "geom:latitude":47.9,
+    "geom:longitude":117.86667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mongolryba",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029965,
+    "gn:latitude":47.9,
+    "gn:longitude":117.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mongolryba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mongol Ruiba",
+        "Mongolryba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092042979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029965
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"123fd88bec874c20e3d88443c4ce3f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042979,
+            "locality_id":1259505633,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1259505633,
+    "wof:lastmodified":1537665649,
+    "wof:name":"Mongolryba",
+    "wof:parent_id":1092042979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.86667,
+    47.9,
+    117.86667,
+    47.9
+],
+  "geometry": {"coordinates":[117.86667,47.9],"type":"Point"}
+}

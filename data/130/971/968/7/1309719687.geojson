@@ -1,0 +1,67 @@
+{
+  "id": 1309719687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.8,48.38333,90.8,48.38333",
+    "geom:latitude":48.38333,
+    "geom:longitude":90.8,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bayan-Enger",
+    "gn:country_code":"MN",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516298,
+    "gn:latitude":48.38333,
+    "gn:longitude":90.8,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Bayan-Enger",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092042079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516298
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"81dd2ff0db6033fddfdede0b802e42bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042079,
+            "locality_id":1309719687,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1309719687,
+    "wof:lastmodified":1537052914,
+    "wof:name":"Bayan-Enger",
+    "wof:parent_id":1092042079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.8,
+    48.38333,
+    90.8,
+    48.38333
+],
+  "geometry": {"coordinates":[90.8,48.38333],"type":"Point"}
+}

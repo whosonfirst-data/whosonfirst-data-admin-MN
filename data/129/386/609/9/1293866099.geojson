@@ -1,0 +1,81 @@
+{
+  "id": 1293866099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.42,50.10361,105.42,50.10361",
+    "geom:latitude":50.10361,
+    "geom:longitude":105.42,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Huurch",
+    "gn:country_code":"MN",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030296,
+    "gn:latitude":50.10361,
+    "gn:longitude":105.42,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Huurch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Huurch"
+    ],
+    "name:mon_x_preferred":[
+        "Huurch"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0440\u0447"
+    ],
+    "name:und_x_variant":[
+        "Tsagaannuur",
+        "Tsagan-Nur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092035355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030296,
+        "wk:page":"Tsagaannuur%2C_Selenge"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e2d620827c8d77e21f0718df91fd5983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035355,
+            "locality_id":1293866099,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1293866099,
+    "wof:lastmodified":1537665662,
+    "wof:name":"Huurch",
+    "wof:parent_id":1092035355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.42,
+    50.10361,
+    105.42,
+    50.10361
+],
+  "geometry": {"coordinates":[105.42,50.10361],"type":"Point"}
+}

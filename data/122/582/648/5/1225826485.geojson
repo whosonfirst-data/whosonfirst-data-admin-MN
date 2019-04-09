@@ -1,0 +1,76 @@
+{
+  "id": 1225826485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.43333,49.18333,111.43333,49.18333",
+    "geom:latitude":49.18333,
+    "geom:longitude":111.43333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hilbariin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030748,
+    "gn:latitude":49.18333,
+    "gn:longitude":111.43333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hilbariin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khilboryn khid",
+        "Hilbariyn Hiyd",
+        "Kulberiin Khiit",
+        "Khilboryyn khid",
+        "Khilberyyn-Khid",
+        "Hilbariin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092036283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030748
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5dea3faf427ae5fd3b55d81db522f896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036283,
+            "locality_id":1225826485,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1225826485,
+    "wof:lastmodified":1537665675,
+    "wof:name":"Hilbariin Hiid",
+    "wof:parent_id":1092036283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.43333,
+    49.18333,
+    111.43333,
+    49.18333
+],
+  "geometry": {"coordinates":[111.43333,49.18333],"type":"Point"}
+}

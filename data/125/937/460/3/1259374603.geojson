@@ -1,0 +1,72 @@
+{
+  "id": 1259374603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.7,43.6,109.7,43.6",
+    "geom:latitude":43.6,
+    "geom:longitude":109.7,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boro Hamar",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032322,
+    "gn:latitude":43.6,
+    "gn:longitude":109.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boro Hamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boro Khamir",
+        "Boro Hamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032322
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ac8cb2bb546b933345bc5306a1c43ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043555,
+            "locality_id":1259374603,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1259374603,
+    "wof:lastmodified":1537665717,
+    "wof:name":"Boro Hamar",
+    "wof:parent_id":1092043555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.7,
+    43.6,
+    109.7,
+    43.6
+],
+  "geometry": {"coordinates":[109.7,43.6],"type":"Point"}
+}

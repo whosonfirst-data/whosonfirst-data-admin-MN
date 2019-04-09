@@ -1,0 +1,84 @@
+{
+  "id": 1293112691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.37394,48.52843,101.37394,48.52843",
+    "geom:latitude":48.52843,
+    "geom:longitude":101.37394,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Oldziyt",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029698,
+    "gn:latitude":48.52843,
+    "gn:longitude":101.37394,
+    "gn:modification_date":"2007-10-19",
+    "gn:name":"\u00d6ldziyt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00d6ldziyt"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u0434\u044d\u043d\u044d-\u041c\u0430\u043d\u0434\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Erdeni Mandal Sume",
+        "Erdeni-mandal Somon",
+        "Erdeni Mandal Suma",
+        "Erdeni-Mandal",
+        "Erdenemandal",
+        "Erdeni Mandel Sumu",
+        "Erdeni mandal sumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092037323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029698,
+        "wk:page":"Erdenemandal%2C_Arkhangai"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c9b20719ce2055084d4d0c98fa0072d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037323,
+            "locality_id":1293112691,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1293112691,
+    "wof:lastmodified":1537665640,
+    "wof:name":"Oldziyt",
+    "wof:parent_id":1092037323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.37394,
+    48.52843,
+    101.37394,
+    48.52843
+],
+  "geometry": {"coordinates":[101.37394,48.52843],"type":"Point"}
+}

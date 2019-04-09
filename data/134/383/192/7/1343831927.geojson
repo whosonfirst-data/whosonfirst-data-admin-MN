@@ -1,0 +1,72 @@
+{
+  "id": 1343831927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.75,49.73333,104.75,49.73333",
+    "geom:latitude":49.73333,
+    "geom:longitude":104.75,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Shara Manhatay",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029352,
+    "gn:latitude":49.73333,
+    "gn:longitude":104.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shara Manhatay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shara Mankhatay",
+        "Shara Manhatay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092040913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029352
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c2224ec50228dfba65ea1dcb54420197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040913,
+            "locality_id":1343831927,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1343831927,
+    "wof:lastmodified":1537665630,
+    "wof:name":"Shara Manhatay",
+    "wof:parent_id":1092040913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.75,
+    49.73333,
+    104.75,
+    49.73333
+],
+  "geometry": {"coordinates":[104.75,49.73333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210013267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.9,43.63333,108.9,43.63333",
+    "geom:latitude":43.63333,
+    "geom:longitude":108.9,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Aylbayan",
+    "gn:country_code":"MN",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032779,
+    "gn:latitude":43.63333,
+    "gn:longitude":108.9,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Aylbayan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032779
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"25b95aba5230a00138c5d3f75d724a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043555,
+            "locality_id":1210013267,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1210013267,
+    "wof:lastmodified":1536396236,
+    "wof:name":"Aylbayan",
+    "wof:parent_id":1092043555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.9,
+    43.63333,
+    108.9,
+    43.63333
+],
+  "geometry": {"coordinates":[108.90000000000001,43.63333],"type":"Point"}
+}

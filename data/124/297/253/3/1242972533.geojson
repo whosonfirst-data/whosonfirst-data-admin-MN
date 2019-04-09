@@ -1,0 +1,67 @@
+{
+  "id": 1242972533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.9,49.2,90.9,49.2",
+    "geom:latitude":49.2,
+    "geom:longitude":90.9,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ak-aral",
+    "gn:country_code":"MN",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516414,
+    "gn:latitude":49.2,
+    "gn:longitude":90.9,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Ak-aral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092033889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516414
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"49e13c6d28ffe59343d308500dee477b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033889,
+            "locality_id":1242972533,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1242972533,
+    "wof:lastmodified":1536990987,
+    "wof:name":"Ak-aral",
+    "wof:parent_id":1092033889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.9,
+    49.2,
+    90.9,
+    49.2
+],
+  "geometry": {"coordinates":[90.90000000000001,49.2],"type":"Point"}
+}

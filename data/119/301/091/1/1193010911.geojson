@@ -1,0 +1,71 @@
+{
+  "id": 1193010911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.49193,49.27329,112.49193,49.27329",
+    "geom:latitude":49.27329,
+    "geom:longitude":112.49193,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ovor-Ereen",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029549,
+    "gn:latitude":49.27329,
+    "gn:longitude":112.49193,
+    "gn:modification_date":"2007-10-07",
+    "gn:name":"\u00d6v\u00f6r-Ereen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ereen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092033191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029549
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"cc1e0c2bd639aba12af346404e44dc82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033191,
+            "locality_id":1193010911,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1193010911,
+    "wof:lastmodified":1537665636,
+    "wof:name":"Ovor-Ereen",
+    "wof:parent_id":1092033191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.49193,
+    49.27329,
+    112.49193,
+    49.27329
+],
+  "geometry": {"coordinates":[112.49193,49.27329],"type":"Point"}
+}

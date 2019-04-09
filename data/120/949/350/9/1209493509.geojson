@@ -1,0 +1,67 @@
+{
+  "id": 1209493509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.7,49.06667,110.7,49.06667",
+    "geom:latitude":49.06667,
+    "geom:longitude":110.7,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Seruunii Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029416,
+    "gn:latitude":49.06667,
+    "gn:longitude":110.7,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ser\u00fc\u00fcnii Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serunyy-dugang",
+        "Seruny-dugang",
+        "Ser\u00fc\u00fcnii Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029416
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"b77baa5c6f3a4db4baee9c31ffdb22ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209493509
+        }
+    ],
+    "wof:id":1209493509,
+    "wof:lastmodified":1537665631,
+    "wof:name":"Seruunii Dugang",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.7,
+    49.06667,
+    110.7,
+    49.06667
+],
+  "geometry": {"coordinates":[110.7,49.06667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1193120571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.11866,42.97238,106.11866,42.97238",
+    "geom:latitude":42.97238,
+    "geom:longitude":106.11866,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Erdenetsogt",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2031403,
+    "gn:latitude":42.97238,
+    "gn:longitude":106.11866,
+    "gn:modification_date":"2007-10-13",
+    "gn:name":"Erdenetsogt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayan Oboo Suma",
+        "Bayan Obo",
+        "Bayan-Owoo",
+        "Bayan obo Somon",
+        "Bayan-Ovoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092033095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031403
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0ec1e5c07cc5c4ae8cba0d81086f9c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033095,
+            "locality_id":1193120571,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1193120571,
+    "wof:lastmodified":1537665690,
+    "wof:name":"Erdenetsogt",
+    "wof:parent_id":1092033095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.11866,
+    42.97238,
+    106.11866,
+    42.97238
+],
+  "geometry": {"coordinates":[106.11866000000001,42.97238],"type":"Point"}
+}

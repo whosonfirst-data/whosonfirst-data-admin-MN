@@ -1,0 +1,78 @@
+{
+  "id": 1276678211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.3,44.4,106.3,44.4",
+    "geom:latitude":44.4,
+    "geom:longitude":106.3,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Uruzeito",
+    "gn:country_code":"MN",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029706,
+    "gn:latitude":44.4,
+    "gn:longitude":106.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uruzeito",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uldzit",
+        "\u00d6ldzeyte",
+        "Ultszeytu Somon",
+        "\u00d6ldzeyt\u00fc",
+        "\u00dcl\u2019tseyt\u00fc sumu",
+        "Ultzeytu Somon",
+        "Ultszeitu",
+        "Uruzeito",
+        "\u00d6ldzeyte Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092039685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029706
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5b1a87f2c7a3b38a705568b87e8278a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039685,
+            "locality_id":1276678211,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1276678211,
+    "wof:lastmodified":1537665641,
+    "wof:name":"Uruzeito",
+    "wof:parent_id":1092039685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.3,
+    44.4,
+    106.3,
+    44.4
+],
+  "geometry": {"coordinates":[106.3,44.4],"type":"Point"}
+}

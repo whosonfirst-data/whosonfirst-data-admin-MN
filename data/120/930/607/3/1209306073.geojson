@@ -1,0 +1,68 @@
+{
+  "id": 1209306073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.5,44.66667,110.5,44.66667",
+    "geom:latitude":44.66667,
+    "geom:longitude":110.5,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Abdarantaiin Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2033039,
+    "gn:latitude":44.66667,
+    "gn:longitude":110.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Abdarantaiin Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdarantyn khural",
+        "Abdarant\u00f6n Khural",
+        "Abdarantona Khural",
+        "Abdarantaiin Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2033039
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"204d357ded80deeb24b875e40999f27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209306073
+        }
+    ],
+    "wof:id":1209306073,
+    "wof:lastmodified":1537665739,
+    "wof:name":"Abdarantaiin Hural",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.5,
+    44.66667,
+    110.5,
+    44.66667
+],
+  "geometry": {"coordinates":[110.5,44.66667],"type":"Point"}
+}

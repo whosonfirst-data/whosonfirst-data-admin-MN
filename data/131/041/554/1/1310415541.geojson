@@ -1,0 +1,73 @@
+{
+  "id": 1310415541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.4,48.21667,99.4,48.21667",
+    "geom:latitude":48.21667,
+    "geom:longitude":99.4,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Taryaata Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515221,
+    "gn:latitude":48.21667,
+    "gn:longitude":99.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Taryaata H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taryatu Khure",
+        "Taryatin-khure",
+        "Taryaata H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092041727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515221
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"cc0d5d88d1ebabbe6573267e3005b061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041727,
+            "locality_id":1310415541,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1310415541,
+    "wof:lastmodified":1537665574,
+    "wof:name":"Taryaata Huryee",
+    "wof:parent_id":1092041727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.4,
+    48.21667,
+    99.4,
+    48.21667
+],
+  "geometry": {"coordinates":[99.40000000000001,48.21667],"type":"Point"}
+}

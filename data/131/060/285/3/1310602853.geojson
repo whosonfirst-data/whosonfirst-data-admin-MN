@@ -1,0 +1,79 @@
+{
+  "id": 1310602853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.24204,49.61627,90.24204,49.61627",
+    "geom:latitude":49.61627,
+    "geom:longitude":90.24204,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nogoonnuur",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515468,
+    "gn:latitude":49.61627,
+    "gn:longitude":90.24204,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Nogoonnuur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nogoonnuur"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0433\u043e\u043d-\u041d\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Notoonnuur",
+        "Nogoonnuur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092039367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515468,
+        "wk:page":"Nogoonnuur"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f0f967e54a8a2397ffaa2a07949d40eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039367,
+            "locality_id":1310602853,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1310602853,
+    "wof:lastmodified":1537665579,
+    "wof:name":"Nogoonnuur",
+    "wof:parent_id":1092039367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.24204,
+    49.61627,
+    90.24204,
+    49.61627
+],
+  "geometry": {"coordinates":[90.24204,49.61627],"type":"Point"}
+}

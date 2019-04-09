@@ -1,0 +1,66 @@
+{
+  "id": 1209212439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.9,48.18333,114.9,48.18333",
+    "geom:latitude":48.18333,
+    "geom:longitude":114.9,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Halhgol",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031072,
+    "gn:latitude":48.18333,
+    "gn:longitude":114.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Halhgol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khalkhgol",
+        "Halhgol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031072
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7c3c06f4fa95c6ed2093ae38517f49bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209212439
+        }
+    ],
+    "wof:id":1209212439,
+    "wof:lastmodified":1537665682,
+    "wof:name":"Halhgol",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.9,
+    48.18333,
+    114.9,
+    48.18333
+],
+  "geometry": {"coordinates":[114.90000000000001,48.18333],"type":"Point"}
+}

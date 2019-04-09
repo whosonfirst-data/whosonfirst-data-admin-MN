@@ -1,0 +1,79 @@
+{
+  "id": 1360048037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.78582,49.90713,93.78582,49.90713",
+    "geom:latitude":49.90713,
+    "geom:longitude":93.78582,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dzel",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516004,
+    "gn:latitude":49.90713,
+    "gn:longitude":93.78582,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Dzel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dzel"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0437\u0443\u043d-\u0413\u043e\u0431\u0438"
+    ],
+    "name:und_x_variant":[
+        "Dz\u00fc\u00fcngow",
+        "Dz\u00fc\u00fcngov\u012d",
+        "Dz\u00fc\u00fcn Gobi Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092044677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516004
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"04b0bfed4d77c578ebc4a42ba06ed0e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044677,
+            "locality_id":1360048037,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1360048037,
+    "wof:lastmodified":1537665590,
+    "wof:name":"Dzel",
+    "wof:parent_id":1092044677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.78582,
+    49.90713,
+    93.78582,
+    49.90713
+],
+  "geometry": {"coordinates":[93.78582,49.90713],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276638557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.76903,46.89704,102.76903,46.89704",
+    "geom:latitude":46.89704,
+    "geom:longitude":102.76903,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Khujirt",
+    "gn:country_code":"MN",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030428,
+    "gn:latitude":46.89704,
+    "gn:longitude":102.76903,
+    "gn:modification_date":"2013-05-19",
+    "gn:name":"Khujirt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khujirt"
+    ],
+    "name:mon_x_preferred":[
+        "\u0425\u0443\u0436\u0438\u0440\u0442"
+    ],
+    "name:und_x_variant":[
+        "Haluun Usanii",
+        "Khudzhurt",
+        "Hujirtay",
+        "Khalun Usuni Somon",
+        "Haluun Usanii Suma",
+        "Khuzhirt",
+        "Khudzhirt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092043939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030428,
+        "wk:page":"Khujirt"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1734c68b45a29fe3749926475129496e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043939,
+            "locality_id":1276638557,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1276638557,
+    "wof:lastmodified":1537665666,
+    "wof:name":"Khujirt",
+    "wof:parent_id":1092043939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.76903,
+    46.89704,
+    102.76903,
+    46.89704
+],
+  "geometry": {"coordinates":[102.76903,46.89704],"type":"Point"}
+}

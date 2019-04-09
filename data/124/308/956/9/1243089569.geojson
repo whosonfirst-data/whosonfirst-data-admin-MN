@@ -1,0 +1,73 @@
+{
+  "id": 1243089569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.23333,48.28333,113.23333,48.28333",
+    "geom:latitude":48.28333,
+    "geom:longitude":113.23333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sabangiin Ortoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029520,
+    "gn:latitude":48.28333,
+    "gn:longitude":113.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sabangiin \u00d6rt\u00f6\u00f6",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Savangiyn-Urto",
+        "Savangiin-urto",
+        "Sabangiin \u00d6rt\u00f6\u00f6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092035175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029520
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7ddf22b66e7d90f23f9a4e66f1ecfb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035175,
+            "locality_id":1243089569,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1243089569,
+    "wof:lastmodified":1537665635,
+    "wof:name":"Sabangiin Ortoo",
+    "wof:parent_id":1092035175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.23333,
+    48.28333,
+    113.23333,
+    48.28333
+],
+  "geometry": {"coordinates":[113.23333,48.28333],"type":"Point"}
+}

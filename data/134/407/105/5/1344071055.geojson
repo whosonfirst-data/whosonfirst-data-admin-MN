@@ -1,0 +1,75 @@
+{
+  "id": 1344071055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.90815,47.38185,101.90815,47.38185",
+    "geom:latitude":47.38185,
+    "geom:longitude":101.90815,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"6619031",
+    "gn:asciiname":"Tavanbulag",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028983,
+    "gn:latitude":47.38185,
+    "gn:longitude":101.90815,
+    "gn:modification_date":"2016-10-12",
+    "gn:name":"Tavanbulag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fcvshr\u00fc\u00fcleh",
+        "T\u00f6vshr\u00fc\u00fcleh",
+        "T\u00f6dzshr\u00fc\u00fcleh",
+        "T\u00f6wshr\u00fc\u00fclekh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092042021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028983
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"eedc7ef2a2929d9c1dfd11b273136976",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042021,
+            "locality_id":1344071055,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1344071055,
+    "wof:lastmodified":1537665623,
+    "wof:name":"Tavanbulag",
+    "wof:parent_id":1092042021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.90815,
+    47.38185,
+    101.90815,
+    47.38185
+],
+  "geometry": {"coordinates":[101.90815000000001,47.38185],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310307983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.13333,44.53333,100.13333,44.53333",
+    "geom:latitude":44.53333,
+    "geom:longitude":100.13333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Bayan Hoboriin Horshoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032534,
+    "gn:latitude":44.53333,
+    "gn:longitude":100.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayan Hoboriin Horshoo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayan Khoburin yurt",
+        "Bainkob\u00efru",
+        "Bayan khoburin khorsho",
+        "Bayan Hoboriin Horshoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092033687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032534
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"2a8d6fa58774f1b675b90a24016d74eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033687,
+            "locality_id":1310307983,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1310307983,
+    "wof:lastmodified":1537665724,
+    "wof:name":"Bayan Hoboriin Horshoo",
+    "wof:parent_id":1092033687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.13333,
+    44.53333,
+    100.13333,
+    44.53333
+],
+  "geometry": {"coordinates":[100.13333,44.53333],"type":"Point"}
+}

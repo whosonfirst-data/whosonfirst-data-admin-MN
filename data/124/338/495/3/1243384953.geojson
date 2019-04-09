@@ -1,0 +1,82 @@
+{
+  "id": 1243384953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.31667,45.8,109.31667,45.8",
+    "geom:latitude":45.8,
+    "geom:longitude":109.31667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Har-Ayrag",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030944,
+    "gn:latitude":45.8,
+    "gn:longitude":109.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Har-Ayrag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hara Ayrig Suma",
+        "Hara-airaku",
+        "Khara Arak",
+        "Hara Ayrag",
+        "Khara-Ayrag",
+        "Khar-A\u00efrag",
+        "Hara Ayrag Suma",
+        "Khara Airag Sume",
+        "Khara-ayrak-somon",
+        "Hara ayrag sumu",
+        "Khara-Ayrag-Sumu",
+        "Har-Ayrag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092031733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030944
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"01ae13a7166cfd4f04a34a1126e70fc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092031733,
+            "locality_id":1243384953,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1243384953,
+    "wof:lastmodified":1537665679,
+    "wof:name":"Har-Ayrag",
+    "wof:parent_id":1092031733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.31667,
+    45.8,
+    109.31667,
+    45.8
+],
+  "geometry": {"coordinates":[109.31667,45.8],"type":"Point"}
+}

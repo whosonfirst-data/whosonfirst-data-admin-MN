@@ -1,0 +1,77 @@
+{
+  "id": 1243543489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.86667,45.56667,95.86667,45.56667",
+    "geom:latitude":45.56667,
+    "geom:longitude":95.86667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tseel",
+    "gn:country_code":"MN",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515106,
+    "gn:latitude":45.56667,
+    "gn:longitude":95.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tseel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Tseel"
+    ],
+    "name:und_x_variant":[
+        "Tseel\u2019 sumu",
+        "Tseel\u2019 Somon",
+        "Tseel Suma",
+        "Tsel Sume",
+        "Tsel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092035699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515106
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"6d1000a6d3cecf06350f3136102e7f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035699,
+            "locality_id":1243543489,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1243543489,
+    "wof:lastmodified":1537665570,
+    "wof:name":"Tseel",
+    "wof:parent_id":1092035699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.86667,
+    45.56667,
+    95.86667,
+    45.56667
+],
+  "geometry": {"coordinates":[95.86667,45.56667],"type":"Point"}
+}

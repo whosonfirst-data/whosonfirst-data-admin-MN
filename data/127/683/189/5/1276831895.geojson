@@ -1,0 +1,74 @@
+{
+  "id": 1276831895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.85836,49.27128,94.85836,49.27128",
+    "geom:latitude":49.27128,
+    "geom:longitude":94.85836,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tsetserleg",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515092,
+    "gn:latitude":49.27128,
+    "gn:longitude":94.85836,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Tsetserleg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6nd\u00f6rkhanga\u00ef",
+        "\u00d6nd\u00f6rhangay",
+        "\u00d6nd\u00f6r Hangay Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092039947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515092,
+        "wk:page":"%C3%96nd%C3%B6rkhangai%2C_Uvs"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c6e370cfbc321513954d25251342bff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039947,
+            "locality_id":1276831895,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1276831895,
+    "wof:lastmodified":1537665569,
+    "wof:name":"Tsetserleg",
+    "wof:parent_id":1092039947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.85836,
+    49.27128,
+    94.85836,
+    49.27128
+],
+  "geometry": {"coordinates":[94.85836,49.27128],"type":"Point"}
+}

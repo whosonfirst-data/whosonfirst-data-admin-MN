@@ -1,0 +1,74 @@
+{
+  "id": 1209685373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.73333,48.63333,106.73333,48.63333",
+    "geom:latitude":48.63333,
+    "geom:longitude":106.73333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dzuunkharaa",
+    "gn:country_code":"MN",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030066,
+    "gn:latitude":48.63333,
+    "gn:longitude":106.73333,
+    "gn:modification_date":"2018-03-22",
+    "gn:name":"Dz\u00fc\u00fcnkharaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Dz\u00fc\u00fcnkharaa"
+    ],
+    "name:und_x_variant":[
+        "Dzun-khara",
+        "Zuunkharaa",
+        "Dz\u00fc\u00fcn Hara",
+        "Mandal sumu",
+        "Mandal somon",
+        "Mandal Suma",
+        "Mandal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030066,
+        "wk:page":"Z%C3%BC%C3%BCnkharaa,_Selenge"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1caab433307cc244ec5cca9aa408ca79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209685373
+        }
+    ],
+    "wof:id":1209685373,
+    "wof:lastmodified":1537665652,
+    "wof:name":"Dzuunkharaa",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.73333,
+    48.63333,
+    106.73333,
+    48.63333
+],
+  "geometry": {"coordinates":[106.73333,48.63333],"type":"Point"}
+}

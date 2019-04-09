@@ -1,0 +1,81 @@
+{
+  "id": 1259458671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.53333,47.25,107.53333,47.25",
+    "geom:latitude":47.25,
+    "geom:longitude":107.53333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Maanit",
+    "gn:country_code":"MN",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030079,
+    "gn:latitude":47.25,
+    "gn:longitude":107.53333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Maan\u012dt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Maan\u012dt"
+    ],
+    "name:und_x_variant":[
+        "Bayan",
+        "Manita",
+        "Bayan-Ula",
+        "Borchunsuma",
+        "Bayan Somon",
+        "Bayan Suma",
+        "Bayan ula sumu",
+        "Bayan uula",
+        "Bayan Uula Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092034039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030079
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8d7b88c6ecd4fee397196c24e540f234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034039,
+            "locality_id":1259458671,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1259458671,
+    "wof:lastmodified":1537665653,
+    "wof:name":"Maanit",
+    "wof:parent_id":1092034039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.53333,
+    47.25,
+    107.53333,
+    47.25
+],
+  "geometry": {"coordinates":[107.53333000000001,47.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293689939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.3,47.06667,98.3,47.06667",
+    "geom:latitude":47.06667,
+    "geom:longitude":98.3,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Biluuteyn Goliin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516237,
+    "gn:latitude":47.06667,
+    "gn:longitude":98.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bil\u00fc\u00fcteyn Goliin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilyutuyn Goliin Khid",
+        "Bilyutuin goliin khid",
+        "Bil\u00fc\u00fcteyn Goliin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092037695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516237
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"172586874b61796b0ebe0528dd63e5d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037695,
+            "locality_id":1293689939,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1293689939,
+    "wof:lastmodified":1537665598,
+    "wof:name":"Biluuteyn Goliin Hiid",
+    "wof:parent_id":1092037695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.3,
+    47.06667,
+    98.3,
+    47.06667
+],
+  "geometry": {"coordinates":[98.3,47.06667],"type":"Point"}
+}

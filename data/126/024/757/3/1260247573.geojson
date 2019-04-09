@@ -1,0 +1,72 @@
+{
+  "id": 1260247573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.25,49.33333,95.25,49.33333",
+    "geom:latitude":49.33333,
+    "geom:longitude":95.25,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Dzuun Hulagay Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515988,
+    "gn:latitude":49.33333,
+    "gn:longitude":95.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dz\u00fc\u00fcn Hulagay H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tszun kholgay khure",
+        "Dz\u00fc\u00fcn Hulagay H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092044717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515988
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"11d4f0ec426e30a653e33d1ab474167d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044717,
+            "locality_id":1260247573,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1260247573,
+    "wof:lastmodified":1537665589,
+    "wof:name":"Dzuun Hulagay Huryee",
+    "wof:parent_id":1092044717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.25,
+    49.33333,
+    95.25,
+    49.33333
+],
+  "geometry": {"coordinates":[95.25,49.33333],"type":"Point"}
+}

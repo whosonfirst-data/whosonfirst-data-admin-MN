@@ -1,0 +1,72 @@
+{
+  "id": 1344223333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.5,48.16667,105.5,48.16667",
+    "geom:latitude":48.16667,
+    "geom:longitude":105.5,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Ulaha",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028355,
+    "gn:latitude":48.16667,
+    "gn:longitude":105.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ulaha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulakha",
+        "Ulaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092042515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028355
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"84b01d3fa8c16d30c55fd0b1b57779ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042515,
+            "locality_id":1344223333,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1344223333,
+    "wof:lastmodified":1537665609,
+    "wof:name":"Ulaha",
+    "wof:parent_id":1092042515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.5,
+    48.16667,
+    105.5,
+    48.16667
+],
+  "geometry": {"coordinates":[105.5,48.16667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243532753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.47258,47.49308,109.47258,47.49308",
+    "geom:latitude":47.49308,
+    "geom:longitude":109.47258,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Jargalthaan",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030162,
+    "gn:latitude":47.49308,
+    "gn:longitude":109.47258,
+    "gn:modification_date":"2007-10-08",
+    "gn:name":"Jargalthaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jargaltkhaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092038369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030162
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0f48aef9435b68a7ffbacf8c774e689c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038369,
+            "locality_id":1243532753,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1243532753,
+    "wof:lastmodified":1537665657,
+    "wof:name":"Jargalthaan",
+    "wof:parent_id":1092038369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.47258,
+    47.49308,
+    109.47258,
+    47.49308
+],
+  "geometry": {"coordinates":[109.47257999999999,47.49308],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209995803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.83333,50.58333,100.83333,50.58333",
+    "geom:latitude":50.58333,
+    "geom:longitude":100.83333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Hohon Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030654,
+    "gn:latitude":50.58333,
+    "gn:longitude":100.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hohon H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khokhon\u2019 Khure",
+        "Hohon H\u00fcree",
+        "Hohon H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030654
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"bd5f8cde172c81074b09c63197ee6aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035901,
+            "locality_id":1209995803,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1209995803,
+    "wof:lastmodified":1537665673,
+    "wof:name":"Hohon Huryee",
+    "wof:parent_id":1092035901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.83333,
+    50.58333,
+    100.83333,
+    50.58333
+],
+  "geometry": {"coordinates":[100.83333,50.58333],"type":"Point"}
+}

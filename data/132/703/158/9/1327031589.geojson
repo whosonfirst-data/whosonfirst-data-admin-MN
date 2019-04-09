@@ -1,0 +1,67 @@
+{
+  "id": 1327031589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.16065,48.95013,91.16065,48.95013",
+    "geom:latitude":48.95013,
+    "geom:longitude":91.16065,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tsul-Ulaan",
+    "gn:country_code":"MN",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6619148,
+    "gn:latitude":48.95013,
+    "gn:longitude":91.16065,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Tsul-Ulaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092033889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6619148
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"897e8d9e3b96a1213e3d83693b3e7d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033889,
+            "locality_id":1327031589,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1327031589,
+    "wof:lastmodified":1536761867,
+    "wof:name":"Tsul-Ulaan",
+    "wof:parent_id":1092033889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.16065,
+    48.95013,
+    91.16065,
+    48.95013
+],
+  "geometry": {"coordinates":[91.16065,48.95013],"type":"Point"}
+}

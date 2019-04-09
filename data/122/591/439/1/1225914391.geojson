@@ -1,0 +1,81 @@
+{
+  "id": 1225914391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.31667,46.65,103.31667,46.65",
+    "geom:latitude":46.65,
+    "geom:longitude":103.31667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sangiyn Dalay",
+    "gn:country_code":"MN",
+    "gn:dem":1705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029494,
+    "gn:latitude":46.65,
+    "gn:longitude":103.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sangiyn Dalay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Sangiyn Dalay"
+    ],
+    "name:und_x_variant":[
+        "Oldzeyte",
+        "Ultszeytu Somon",
+        "\u00d6ldzi\u00eft",
+        "Ultszeyto Somon",
+        "\u00d6ldzeyt\u00fc",
+        "Uldzeytu-Somon",
+        "\u00d6ldzeyte Suma",
+        "Uldzit",
+        "\u00d6ldziyt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092039721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029494
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"87ec31985db0c1a117e89eb88632db4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039721,
+            "locality_id":1225914391,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1225914391,
+    "wof:lastmodified":1537665634,
+    "wof:name":"Sangiyn Dalay",
+    "wof:parent_id":1092039721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.31667,
+    46.65,
+    103.31667,
+    46.65
+],
+  "geometry": {"coordinates":[103.31667,46.65],"type":"Point"}
+}

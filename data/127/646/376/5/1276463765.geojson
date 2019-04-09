@@ -1,0 +1,77 @@
+{
+  "id": 1276463765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.48955,46.04988,107.48955,46.04988",
+    "geom:latitude":46.04988,
+    "geom:longitude":107.48955,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hajuu-Us",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2031088,
+    "gn:latitude":46.04988,
+    "gn:longitude":107.48955,
+    "gn:modification_date":"2007-10-13",
+    "gn:name":"Hajuu-Us",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gov\u012d-Ugtaal",
+        "Ugtaal",
+        "Gow'-Ugtaal",
+        "Ukhtal",
+        "Ugtaal Suma",
+        "Ukhtal Somon",
+        "Ugtaal sumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092037607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031088
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"493fb0f3eea0ed6a6a5b017271374f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037607,
+            "locality_id":1276463765,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1276463765,
+    "wof:lastmodified":1537665683,
+    "wof:name":"Hajuu-Us",
+    "wof:parent_id":1092037607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.48955,
+    46.04988,
+    107.48955,
+    46.04988
+],
+  "geometry": {"coordinates":[107.48954999999999,46.04988],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293354789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.38196,49.31751,104.38196,49.31751",
+    "geom:latitude":49.31751,
+    "geom:longitude":104.38196,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Sort",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029176,
+    "gn:latitude":49.31751,
+    "gn:longitude":104.38196,
+    "gn:modification_date":"2007-10-15",
+    "gn:name":"S\u00f6rt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "S\u00f6rt"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043d\u0433\u0430\u043b"
+    ],
+    "name:und_x_variant":[
+        "Hangal",
+        "Khangal Somon",
+        "Hangal sumu",
+        "Khangal",
+        "Hangal Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092043201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029176,
+        "wk:page":"Khangal"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"2faabdbcfbfb9e92b3b835edcfef2ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043201,
+            "locality_id":1293354789,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1293354789,
+    "wof:lastmodified":1537665627,
+    "wof:name":"Sort",
+    "wof:parent_id":1092043201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.38196,
+    49.31751,
+    104.38196,
+    49.31751
+],
+  "geometry": {"coordinates":[104.38196000000001,49.31751],"type":"Point"}
+}

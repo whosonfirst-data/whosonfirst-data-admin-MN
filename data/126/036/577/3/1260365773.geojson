@@ -1,0 +1,80 @@
+{
+  "id": 1260365773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.86833,48.52056,105.86833,48.52056",
+    "geom:latitude":48.52056,
+    "geom:longitude":105.86833,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Jargalant",
+    "gn:country_code":"MN",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030173,
+    "gn:latitude":48.52056,
+    "gn:longitude":105.86833,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jargalant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jargalant"
+    ],
+    "name:mon_x_preferred":[
+        "Jargalant"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
+    ],
+    "name:und_x_variant":[
+        "Chzhirgalantuin-sang",
+        "Jirgalantayn Sang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092038251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030173
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"fd7d210b3b1ba149206d5492e6251d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038251,
+            "locality_id":1260365773,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1260365773,
+    "wof:lastmodified":1537665658,
+    "wof:name":"Jargalant",
+    "wof:parent_id":1092038251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.86833,
+    48.52056,
+    105.86833,
+    48.52056
+],
+  "geometry": {"coordinates":[105.86833,48.52056],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259706021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"117.8,48.0,117.8,48.0",
+    "geom:latitude":48.0,
+    "geom:longitude":117.8,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Halhaiin Sume",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031075,
+    "gn:latitude":48.0,
+    "gn:longitude":117.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Halhaiin S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khalkhiin Sume",
+        "Khalkhin-Sume",
+        "Khalkhiyn Sume",
+        "Khalkhyn Sume",
+        "Khalkha Sume",
+        "Khalkh-Gol",
+        "Halhain s\u00fcme",
+        "Halhaiin S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092042979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031075
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"65b993bf456f74afcddbc88375eb0fec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042979,
+            "locality_id":1259706021,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1259706021,
+    "wof:lastmodified":1537665683,
+    "wof:name":"Halhaiin Sume",
+    "wof:parent_id":1092042979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    117.8,
+    48.0,
+    117.8,
+    48.0
+],
+  "geometry": {"coordinates":[117.8,48.0],"type":"Point"}
+}

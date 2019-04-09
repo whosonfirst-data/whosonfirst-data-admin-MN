@@ -1,0 +1,72 @@
+{
+  "id": 1276429163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.83333,47.61667,110.83333,47.61667",
+    "geom:latitude":47.61667,
+    "geom:longitude":110.83333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ulaan Ganjir Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028441,
+    "gn:latitude":47.61667,
+    "gn:longitude":110.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ulaan Ganjir Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulan Ganchzhur Khid",
+        "Ulaan Ganjir Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092043447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028441
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a75e1c3d227020daefb7479e04aea78c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043447,
+            "locality_id":1276429163,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1276429163,
+    "wof:lastmodified":1537665609,
+    "wof:name":"Ulaan Ganjir Hiid",
+    "wof:parent_id":1092043447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.83333,
+    47.61667,
+    110.83333,
+    47.61667
+],
+  "geometry": {"coordinates":[110.83333,47.61667],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1225951697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.98333,48.95,89.98333,48.95",
+    "geom:latitude":48.95,
+    "geom:longitude":89.98333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Buga",
+    "gn:country_code":"MN",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516198,
+    "gn:latitude":48.95,
+    "gn:longitude":89.98333,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Buga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buga"
+    ],
+    "name:mon_x_preferred":[
+        "Buga"
+    ],
+    "name:mon_x_variant":[
+        "\u0411\u0443\u0433\u0430"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Bugat",
+        "B\u00fcgat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092039573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516198
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"974f42acb7d7590b9ff2d7e54b04a500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039573,
+            "locality_id":1225951697,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1225951697,
+    "wof:lastmodified":1537665597,
+    "wof:name":"Buga",
+    "wof:parent_id":1092039573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.98333000000002,
+    48.95,
+    89.98333000000002,
+    48.95
+],
+  "geometry": {"coordinates":[89.98333000000002,48.95],"type":"Point"}
+}

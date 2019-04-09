@@ -1,0 +1,89 @@
+{
+  "id": 1276935883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.69333,49.395,102.69333,49.395",
+    "geom:latitude":49.395,
+    "geom:longitude":102.69333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Hutag",
+    "gn:country_code":"MN",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030316,
+    "gn:latitude":49.395,
+    "gn:longitude":102.69333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hutag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hutag"
+    ],
+    "name:mon_x_preferred":[
+        "Hutag"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0442\u0430\u0433"
+    ],
+    "name:und_x_variant":[
+        "Khutug-Undur-Sumu",
+        "Hutug \u00d6nd\u00f6r",
+        "Khitug-Undur somon",
+        "Hutug undur sumu",
+        "Khitug-Under",
+        "Hutag-\u00d6nd\u00f6r",
+        "Khutug-undur somon",
+        "Hutag \u00d6nd\u00f6r Suma",
+        "Khutug Under",
+        "Khutug Undur Sume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092044071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030316,
+        "wk:page":"Khutag-%C3%96nd%C3%B6r"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"05902b0af211c39464480dd2b2ee7883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044071,
+            "locality_id":1276935883,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1276935883,
+    "wof:lastmodified":1537665662,
+    "wof:name":"Hutag",
+    "wof:parent_id":1092044071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.69333,
+    49.395,
+    102.69333,
+    49.395
+],
+  "geometry": {"coordinates":[102.69333,49.395],"type":"Point"}
+}

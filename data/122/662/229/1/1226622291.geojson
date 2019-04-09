@@ -1,0 +1,79 @@
+{
+  "id": 1226622291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.81667,46.2,111.81667,46.2",
+    "geom:latitude":46.2,
+    "geom:longitude":111.81667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Sergelen",
+    "gn:country_code":"MN",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029420,
+    "gn:latitude":46.2,
+    "gn:longitude":111.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sergelen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Sergelen"
+    ],
+    "name:und_x_variant":[
+        "T\u00fcbshin shiree sumu",
+        "Tebshin-Shire Somon",
+        "T\u00fcvshinshiree",
+        "T\u00fcwshinshiree",
+        "T\u00fcbshin Shiree Suma",
+        "T\u00fcbshin shiree",
+        "Tubshin-Shire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092042437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029420
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a835344b7c60cf55a1f395414f6bcfee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042437,
+            "locality_id":1226622291,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1226622291,
+    "wof:lastmodified":1537665632,
+    "wof:name":"Sergelen",
+    "wof:parent_id":1092042437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.81667,
+    46.2,
+    111.81667,
+    46.2
+],
+  "geometry": {"coordinates":[111.81667,46.2],"type":"Point"}
+}

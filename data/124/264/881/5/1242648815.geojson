@@ -1,0 +1,73 @@
+{
+  "id": 1242648815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.16667,46.41667,112.16667,46.41667",
+    "geom:latitude":46.41667,
+    "geom:longitude":112.16667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Dayaanchiin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031930,
+    "gn:latitude":46.41667,
+    "gn:longitude":112.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dayaanchiin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayaanchiin H\u00fcryee",
+        "Dayanchin Khid",
+        "Dayaanchiin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092042777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031930
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"6b26f4873ab7356310949d0a56e1799b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042777,
+            "locality_id":1242648815,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1242648815,
+    "wof:lastmodified":1537665703,
+    "wof:name":"Dayaanchiin Hiid",
+    "wof:parent_id":1092042777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.16667,
+    46.41667,
+    112.16667,
+    46.41667
+],
+  "geometry": {"coordinates":[112.16667,46.41667],"type":"Point"}
+}

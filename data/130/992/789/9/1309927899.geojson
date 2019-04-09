@@ -1,0 +1,67 @@
+{
+  "id": 1309927899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.66667,48.73333,115.66667,48.73333",
+    "geom:latitude":48.73333,
+    "geom:longitude":115.66667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ulaan Tolgoy",
+    "gn:country_code":"MN",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028381,
+    "gn:latitude":48.73333,
+    "gn:longitude":115.66667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Ulaan Tolgoy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092036057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028381
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d708372088f19b65417604a944cdc688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036057,
+            "locality_id":1309927899,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1309927899,
+    "wof:lastmodified":1536755196,
+    "wof:name":"Ulaan Tolgoy",
+    "wof:parent_id":1092036057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.66667,
+    48.73333,
+    115.66667,
+    48.73333
+],
+  "geometry": {"coordinates":[115.66667,48.73333],"type":"Point"}
+}

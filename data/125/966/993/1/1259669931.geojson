@@ -1,0 +1,72 @@
+{
+  "id": 1259669931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.25,49.98333,101.25,49.98333",
+    "geom:latitude":49.98333,
+    "geom:longitude":101.25,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Utagiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028289,
+    "gn:latitude":49.98333,
+    "gn:longitude":101.25,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Utagiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Utugun Khure",
+        "Utagiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092042317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028289
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"75d795fdcbf1200c86a1f7666d9bd8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042317,
+            "locality_id":1259669931,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1259669931,
+    "wof:lastmodified":1537665607,
+    "wof:name":"Utagiin Huryee",
+    "wof:parent_id":1092042317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.25,
+    49.98333,
+    101.25,
+    49.98333
+],
+  "geometry": {"coordinates":[101.25,49.98333],"type":"Point"}
+}

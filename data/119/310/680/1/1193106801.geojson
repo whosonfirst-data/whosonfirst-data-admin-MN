@@ -1,0 +1,73 @@
+{
+  "id": 1193106801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.45,49.88333,107.45,49.88333",
+    "geom:latitude":49.88333,
+    "geom:longitude":107.45,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Jirgalanta",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030144,
+    "gn:latitude":49.88333,
+    "gn:longitude":107.45,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jirgalanta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chzhirgalantu",
+        "J\u2019argalant",
+        "Jirgalanta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092043817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030144
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"b0f794710077846666d553b359ae6ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043817,
+            "locality_id":1193106801,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1193106801,
+    "wof:lastmodified":1537665657,
+    "wof:name":"Jirgalanta",
+    "wof:parent_id":1092043817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.45,
+    49.88333,
+    107.45,
+    49.88333
+],
+  "geometry": {"coordinates":[107.45,49.88333],"type":"Point"}
+}

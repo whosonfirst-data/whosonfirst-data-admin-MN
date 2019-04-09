@@ -1,0 +1,67 @@
+{
+  "id": 1209598851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.2,43.8,104.2,43.8",
+    "geom:latitude":43.8,
+    "geom:longitude":104.2,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mani Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030046,
+    "gn:latitude":43.8,
+    "gn:longitude":104.2,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mani Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mani-Khure",
+        "Mani khid",
+        "Mani Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030046
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"376843b4526538d1754cf8669ac90886",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209598851
+        }
+    ],
+    "wof:id":1209598851,
+    "wof:lastmodified":1537665651,
+    "wof:name":"Mani Hiid",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.2,
+    43.8,
+    104.2,
+    43.8
+],
+  "geometry": {"coordinates":[104.2,43.8],"type":"Point"}
+}

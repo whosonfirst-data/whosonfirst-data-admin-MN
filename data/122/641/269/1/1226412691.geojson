@@ -1,0 +1,73 @@
+{
+  "id": 1226412691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.8,46.35,102.8,46.35",
+    "geom:latitude":46.35,
+    "geom:longitude":102.8,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Delgereh",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031911,
+    "gn:latitude":46.35,
+    "gn:longitude":102.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Delgereh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delgereh Sum",
+        "Delgerekh",
+        "Delgereh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092041601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031911
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"28711045af9e747c1016d451b2e1558a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041601,
+            "locality_id":1226412691,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1226412691,
+    "wof:lastmodified":1537665702,
+    "wof:name":"Delgereh",
+    "wof:parent_id":1092041601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.8,
+    46.35,
+    102.8,
+    46.35
+],
+  "geometry": {"coordinates":[102.8,46.35],"type":"Point"}
+}

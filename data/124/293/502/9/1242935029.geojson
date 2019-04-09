@@ -1,0 +1,72 @@
+{
+  "id": 1242935029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.9,48.15,106.9,48.15",
+    "geom:latitude":48.15,
+    "geom:longitude":106.9,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Tsagaan Guyn Den",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028775,
+    "gn:latitude":48.15,
+    "gn:longitude":106.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaan G\u00fcyn Den",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stanok Tsagan-Guin-Dyan",
+        "Tsagaan G\u00fcyn Den"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674783,
+        1092041521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028775
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"6719731ae37787339b74120b50a56e83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041521,
+            "locality_id":1242935029,
+            "region_id":85674783
+        }
+    ],
+    "wof:id":1242935029,
+    "wof:lastmodified":1537665618,
+    "wof:name":"Tsagaan Guyn Den",
+    "wof:parent_id":1092041521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.9,
+    48.15,
+    106.9,
+    48.15
+],
+  "geometry": {"coordinates":[106.90000000000001,48.15],"type":"Point"}
+}

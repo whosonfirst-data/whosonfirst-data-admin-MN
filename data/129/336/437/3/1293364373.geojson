@@ -1,0 +1,71 @@
+{
+  "id": 1293364373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.94809,47.37644,103.94809,47.37644",
+    "geom:latitude":47.37644,
+    "geom:longitude":103.94809,
+    "gn:admin1_code":"21",
+    "gn:admin2_code":"6987814.0",
+    "gn:asciiname":"Ulaanshiveet",
+    "gn:country_code":"MN",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125888,
+    "gn:latitude":47.37644,
+    "gn:longitude":103.94809,
+    "gn:modification_date":"2016-04-14",
+    "gn:name":"Ulaanshiveet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rashaant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092040273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125888
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8763ca5776c0b8d4d94232c82c45adad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040273,
+            "locality_id":1293364373,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1293364373,
+    "wof:lastmodified":1537665741,
+    "wof:name":"Ulaanshiveet",
+    "wof:parent_id":1092040273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.94809,
+    47.37644,
+    103.94809,
+    47.37644
+],
+  "geometry": {"coordinates":[103.94808999999999,47.37644],"type":"Point"}
+}

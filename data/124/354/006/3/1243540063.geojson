@@ -1,0 +1,73 @@
+{
+  "id": 1243540063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.3,45.86667,104.3,45.86667",
+    "geom:latitude":45.86667,
+    "geom:longitude":104.3,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Delgerehe Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031910,
+    "gn:latitude":45.86667,
+    "gn:longitude":104.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Delgerehe Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delgerehe-Hiyd",
+        "Delgerekhu Khid",
+        "Delgerehe Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092040611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031910
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0764aeb3b44cac9180d37341841cdb35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040611,
+            "locality_id":1243540063,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1243540063,
+    "wof:lastmodified":1537665702,
+    "wof:name":"Delgerehe Hiid",
+    "wof:parent_id":1092040611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.3,
+    45.86667,
+    104.3,
+    45.86667
+],
+  "geometry": {"coordinates":[104.3,45.86667],"type":"Point"}
+}

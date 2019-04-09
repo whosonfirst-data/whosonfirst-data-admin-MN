@@ -1,0 +1,73 @@
+{
+  "id": 1242665527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.4,46.6,109.4,46.6",
+    "geom:latitude":46.6,
+    "geom:longitude":109.4,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ahay Beeseiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032992,
+    "gn:latitude":46.6,
+    "gn:longitude":109.4,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ahay Beeseiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akhaybeysin Khure",
+        "Ahay-Beeseiin-H\u00fcree",
+        "Ahay Beeseiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092036549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032992
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"4c9e775f056aee631a1a008bb1db9c40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036549,
+            "locality_id":1242665527,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1242665527,
+    "wof:lastmodified":1537665738,
+    "wof:name":"Ahay Beeseiin Huryee",
+    "wof:parent_id":1092036549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.4,
+    46.6,
+    109.4,
+    46.6
+],
+  "geometry": {"coordinates":[109.40000000000001,46.6],"type":"Point"}
+}

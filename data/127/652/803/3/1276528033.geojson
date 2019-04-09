@@ -1,0 +1,77 @@
+{
+  "id": 1276528033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.93333,47.53333,92.93333,47.53333",
+    "geom:latitude":47.53333,
+    "geom:longitude":92.93333,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hargana",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515847,
+    "gn:latitude":47.53333,
+    "gn:longitude":92.93333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hargana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stanok Khargana",
+        "Hargano",
+        "Ha-erh-ha-na",
+        "Khargana Ying",
+        "Khargana",
+        "Khargana Camp",
+        "Hargana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674737,
+        1092035973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515847
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"065679177c5f6987384d9820c6c057b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035973,
+            "locality_id":1276528033,
+            "region_id":85674737
+        }
+    ],
+    "wof:id":1276528033,
+    "wof:lastmodified":1537665587,
+    "wof:name":"Hargana",
+    "wof:parent_id":1092035973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.93333,
+    47.53333,
+    92.93333,
+    47.53333
+],
+  "geometry": {"coordinates":[92.93333,47.53333],"type":"Point"}
+}

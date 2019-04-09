@@ -1,0 +1,67 @@
+{
+  "id": 1259356789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.42299,43.57243,104.42299,43.57243",
+    "geom:latitude":43.57243,
+    "geom:longitude":104.42299,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dalandzadgad",
+    "gn:country_code":"MN",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032006,
+    "gn:latitude":43.57243,
+    "gn:longitude":104.42299,
+    "gn:modification_date":"2013-06-16",
+    "gn:name":"Dalandzadgad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092036353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032006
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ae6783c096e5eac2bf28be799bd6519e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036353,
+            "locality_id":1259356789,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1259356789,
+    "wof:lastmodified":1537039092,
+    "wof:name":"Dalandzadgad",
+    "wof:parent_id":1092036353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.42299,
+    43.57243,
+    104.42299,
+    43.57243
+],
+  "geometry": {"coordinates":[104.42299,43.57243],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1260362139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.46667,49.75,107.46667,49.75",
+    "geom:latitude":49.75,
+    "geom:longitude":107.46667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Belchir",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032418,
+    "gn:latitude":49.75,
+    "gn:longitude":107.46667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Belchir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belchir Suma",
+        "Beruchiru",
+        "Bel\u2019chir sumu",
+        "Bilchir",
+        "Belchir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092043817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032418
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"45a7ed9fbc7451f9a59c37f9d8e29502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043817,
+            "locality_id":1260362139,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1260362139,
+    "wof:lastmodified":1537665719,
+    "wof:name":"Belchir",
+    "wof:parent_id":1092043817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.46667,
+    49.75,
+    107.46667,
+    49.75
+],
+  "geometry": {"coordinates":[107.46666999999999,49.75],"type":"Point"}
+}

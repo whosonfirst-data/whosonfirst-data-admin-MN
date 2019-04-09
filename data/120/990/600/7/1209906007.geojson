@@ -1,0 +1,83 @@
+{
+  "id": 1209906007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.34237,49.30688,96.34237,49.30688",
+    "geom:latitude":49.30688,
+    "geom:longitude":96.34237,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Altanbulag",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516399,
+    "gn:latitude":49.30688,
+    "gn:longitude":96.34237,
+    "gn:modification_date":"2007-10-28",
+    "gn:name":"Altanbulag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Altanbulag"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u044f\u043d-\u0425\u0430\u0439\u0440\u0445\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Bayan Khairkhan",
+        "Bayan khayran somon",
+        "Bayan hayrhan sumu",
+        "Bayan-Khayrkhan",
+        "Bayanhayrhan",
+        "Bayan Hayrhan Suma",
+        "Bayan Khairkhan Sume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674727,
+        1092034111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516399
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"92d17f5f2e6540b2dcedba64de850213",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034111,
+            "locality_id":1209906007,
+            "region_id":85674727
+        }
+    ],
+    "wof:id":1209906007,
+    "wof:lastmodified":1537665603,
+    "wof:name":"Altanbulag",
+    "wof:parent_id":1092034111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.34237,
+    49.30688,
+    96.34237,
+    49.30688
+],
+  "geometry": {"coordinates":[96.34237,49.30688],"type":"Point"}
+}

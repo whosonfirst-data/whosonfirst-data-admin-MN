@@ -1,0 +1,72 @@
+{
+  "id": 1310081489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.03333,47.41667,106.03333,47.41667",
+    "geom:latitude":47.41667,
+    "geom:longitude":106.03333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Boro Ondor Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032294,
+    "gn:latitude":47.41667,
+    "gn:longitude":106.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boro \u00d6nd\u00f6r Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boro Undur Khid",
+        "Boro \u00d6nd\u00f6r Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092031997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032294
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"039f069d66fd8f2587ee5026312659ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092031997,
+            "locality_id":1310081489,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1310081489,
+    "wof:lastmodified":1537665716,
+    "wof:name":"Boro Ondor Hiid",
+    "wof:parent_id":1092031997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.03333,
+    47.41667,
+    106.03333,
+    47.41667
+],
+  "geometry": {"coordinates":[106.03333000000001,47.41667],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276777541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.87556,48.16,99.87556,48.16",
+    "geom:latitude":48.16,
+    "geom:longitude":99.87556,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Horgo",
+    "gn:country_code":"MN",
+    "gn:dem":2052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1538308,
+    "gn:latitude":48.16,
+    "gn:longitude":99.87556,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Horgo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Horgo"
+    ],
+    "name:mon_x_preferred":[
+        "Horgo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0440\u044f\u0442"
+    ],
+    "name:und_x_variant":[
+        "Tariat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092041727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1538308,
+        "wk:page":"Tariat"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0f03c31d912469a2959c6e4f5a574a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041727,
+            "locality_id":1276777541,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1276777541,
+    "wof:lastmodified":1537665604,
+    "wof:name":"Horgo",
+    "wof:parent_id":1092041727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.87556,
+    48.16,
+    99.87556,
+    48.16
+],
+  "geometry": {"coordinates":[99.87555999999999,48.16],"type":"Point"}
+}

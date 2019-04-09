@@ -1,0 +1,80 @@
+{
+  "id": 1343440435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.34444,51.35639,99.34444,51.35639",
+    "geom:latitude":51.35639,
+    "geom:longitude":99.34444,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tsagaannuur",
+    "gn:country_code":"MN",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516069,
+    "gn:latitude":51.35639,
+    "gn:longitude":99.34444,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaannuur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsagaannuur"
+    ],
+    "name:mon_x_preferred":[
+        "Tsagaannuur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0430\u0433\u0430\u043d-\u041d\u0443\u0440"
+    ],
+    "name:und_x_variant":[
+        "Dood-Nuur",
+        "Tsagan-Nur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516069
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d105d9c7a1dc8b1ce40cd855ad44b3a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035395,
+            "locality_id":1343440435,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1343440435,
+    "wof:lastmodified":1537665592,
+    "wof:name":"Tsagaannuur",
+    "wof:parent_id":1092035395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.34444,
+    51.35639000000001,
+    99.34444,
+    51.35639000000001
+],
+  "geometry": {"coordinates":[99.34444000000001,51.35639000000001],"type":"Point"}
+}

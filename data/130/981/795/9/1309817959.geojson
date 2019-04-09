@@ -1,0 +1,72 @@
+{
+  "id": 1309817959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.08333,47.63333,101.08333,47.63333",
+    "geom:latitude":47.63333,
+    "geom:longitude":101.08333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hujirtayn Sume",
+    "gn:country_code":"MN",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030419,
+    "gn:latitude":47.63333,
+    "gn:longitude":101.08333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hujirtayn S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khichzhirtuyn Sume",
+        "Khuchzhirtuin sume",
+        "Hujirtayn S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092038063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030419
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"62263223b2a28b9aecff87902b10ffbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038063,
+            "locality_id":1309817959,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1309817959,
+    "wof:lastmodified":1537665665,
+    "wof:name":"Hujirtayn Sume",
+    "wof:parent_id":1092038063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.08333,
+    47.63333,
+    101.08333,
+    47.63333
+],
+  "geometry": {"coordinates":[101.08333,47.63333],"type":"Point"}
+}

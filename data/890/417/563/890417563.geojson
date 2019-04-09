@@ -1,0 +1,72 @@
+{
+  "id": 890417563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.81349,47.19245,102.81349,47.19245",
+    "geom:latitude":47.19245,
+    "geom:longitude":102.81349,
+    "gn:country":"MN",
+    "gn:fcode":"PPL",
+    "gn:pop":8977,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "\u0425\u0430\u0440\u0445\u043e\u0440\u0438\u043d"
+    ],
+    "qs:name":"Kharkhorin",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":251,
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092043327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648891,
+        "gp:id":2266657,
+        "qs:id":695733,
+        "wd:id":"Q932069",
+        "wk:page":"Kharkhorin"
+    },
+    "wof:country":"MN",
+    "wof:created":1469051209,
+    "wof:geomhash":"1d1262f68b3d4c4bb88a388de13dfaa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043327,
+            "locality_id":890417563,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":890417563,
+    "wof:lastmodified":1527782123,
+    "wof:name":"Kharkhorin",
+    "wof:parent_id":1092043327,
+    "wof:placetype":"locality",
+    "wof:population":8977,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.81349,
+    47.19245,
+    102.81349,
+    47.19245
+],
+  "geometry": {"coordinates":[102.81349,47.19245],"type":"Point"}
+}

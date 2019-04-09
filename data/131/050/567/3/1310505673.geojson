@@ -1,0 +1,67 @@
+{
+  "id": 1310505673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.98333,48.73333,100.98333,48.73333",
+    "geom:latitude":48.73333,
+    "geom:longitude":100.98333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dugan-Hiyd",
+    "gn:country_code":"MN",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031772,
+    "gn:latitude":48.73333,
+    "gn:longitude":100.98333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Dugan-Hiyd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092038131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031772
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c654dbb4d14523a21980ff22045b342a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038131,
+            "locality_id":1310505673,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1310505673,
+    "wof:lastmodified":1536917147,
+    "wof:name":"Dugan-Hiyd",
+    "wof:parent_id":1092038131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.98333,
+    48.73333,
+    100.98333,
+    48.73333
+],
+  "geometry": {"coordinates":[100.98333,48.73333],"type":"Point"}
+}

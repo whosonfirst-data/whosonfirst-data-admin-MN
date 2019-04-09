@@ -1,0 +1,72 @@
+{
+  "id": 1276303891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.86667,46.76667,113.86667,46.76667",
+    "geom:latitude":46.76667,
+    "geom:longitude":113.86667,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Darhanhaan",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031960,
+    "gn:latitude":46.76667,
+    "gn:longitude":113.86667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Darhanhaan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darkhankhaan",
+        "Darhanhaan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092032453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031960
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c6260b0fd92e6dd06ed24ae88e8afb6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032453,
+            "locality_id":1276303891,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1276303891,
+    "wof:lastmodified":1537665704,
+    "wof:name":"Darhanhaan",
+    "wof:parent_id":1092032453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.86667,
+    46.76667,
+    113.86667,
+    46.76667
+],
+  "geometry": {"coordinates":[113.86667,46.76667],"type":"Point"}
+}

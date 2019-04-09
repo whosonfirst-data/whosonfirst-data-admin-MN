@@ -1,0 +1,74 @@
+{
+  "id": 1243055933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.33333,46.78333,109.33333,46.78333",
+    "geom:latitude":46.78333,
+    "geom:longitude":109.33333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tsamba Lunduubiin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028654,
+    "gn:latitude":46.78333,
+    "gn:longitude":109.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsamba Lunduubiin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsamba Lkhundub\u00f6yn Khid",
+        "Tsamba Lkhundubyyn Khid",
+        "Tsambalkhundub\u00f6v Khid",
+        "Tsamba Lunduubiin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092036549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028654
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"2de03896afec853cb40eb33929655478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036549,
+            "locality_id":1243055933,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1243055933,
+    "wof:lastmodified":1537665615,
+    "wof:name":"Tsamba Lunduubiin Hiid",
+    "wof:parent_id":1092036549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.33333,
+    46.78333,
+    109.33333,
+    46.78333
+],
+  "geometry": {"coordinates":[109.33333,46.78333],"type":"Point"}
+}

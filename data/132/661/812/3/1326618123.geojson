@@ -1,0 +1,75 @@
+{
+  "id": 1326618123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.11667,47.81667,110.11667,47.81667",
+    "geom:latitude":47.81667,
+    "geom:longitude":110.11667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mandaliin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030063,
+    "gn:latitude":47.81667,
+    "gn:longitude":110.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mandaliin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandalyin-Khure",
+        "Mandalyn-Khure",
+        "Mandalyyn-Khure",
+        "Mandal\u00f6yn Khure",
+        "Mandaliin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092039761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030063
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"15449cb7d157f9eb3b3dae9f9072ea1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039761,
+            "locality_id":1326618123,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1326618123,
+    "wof:lastmodified":1537665651,
+    "wof:name":"Mandaliin Huryee",
+    "wof:parent_id":1092039761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.11667,
+    47.81667,
+    110.11667,
+    47.81667
+],
+  "geometry": {"coordinates":[110.11667,47.81667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259704905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.36667,42.66667,109.36667,42.66667",
+    "geom:latitude":42.66667,
+    "geom:longitude":109.36667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Solonker",
+    "gn:country_code":"MN",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029180,
+    "gn:latitude":42.66667,
+    "gn:longitude":109.36667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Solonker",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029180
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"09c26eed408c07e9354146d5e96676d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043405,
+            "locality_id":1259704905,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1259704905,
+    "wof:lastmodified":1537034759,
+    "wof:name":"Solonker",
+    "wof:parent_id":1092043405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.36667,
+    42.66667,
+    109.36667,
+    42.66667
+],
+  "geometry": {"coordinates":[109.36667,42.66667],"type":"Point"}
+}

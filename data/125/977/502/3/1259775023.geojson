@@ -1,0 +1,77 @@
+{
+  "id": 1259775023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.8,44.25,110.8,44.25",
+    "geom:latitude":44.25,
+    "geom:longitude":110.8,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Buriden Sume",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032127,
+    "gn:latitude":44.25,
+    "gn:longitude":110.8,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00fcriden S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buridyyn-sume",
+        "Buridyin sume",
+        "Buridon Sume",
+        "Burid\u00f6yn Sume",
+        "Buridyn sume",
+        "Buridin-sume",
+        "B\u00fcriden S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092037263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032127
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a7f43821b762338ecfa48d1a0e9b39a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037263,
+            "locality_id":1259775023,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1259775023,
+    "wof:lastmodified":1537665710,
+    "wof:name":"Buriden Sume",
+    "wof:parent_id":1092037263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.8,
+    44.25,
+    110.8,
+    44.25
+],
+  "geometry": {"coordinates":[110.8,44.25],"type":"Point"}
+}

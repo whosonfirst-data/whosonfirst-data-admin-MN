@@ -1,0 +1,74 @@
+{
+  "id": 1343430627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.38333,48.7,106.38333,48.7",
+    "geom:latitude":48.7,
+    "geom:longitude":106.38333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dahashaa",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032009,
+    "gn:latitude":48.7,
+    "gn:longitude":106.38333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dahashaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dakhashia",
+        "Dahashia",
+        "Dahasha",
+        "Dahashaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092038649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032009
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"fea72e32077bd5498a9f3f335f1d4d7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038649,
+            "locality_id":1343430627,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1343430627,
+    "wof:lastmodified":1537665707,
+    "wof:name":"Dahashaa",
+    "wof:parent_id":1092038649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.38333,
+    48.7,
+    106.38333,
+    48.7
+],
+  "geometry": {"coordinates":[106.38333,48.7],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209793947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.5,46.96667,109.5,46.96667",
+    "geom:latitude":46.96667,
+    "geom:longitude":109.5,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gol Daychin Choyro Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031264,
+    "gn:latitude":46.96667,
+    "gn:longitude":109.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gol Daychin Choyro Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gol-Daichin-choyr Khid",
+        "Gol Daychin choyr khid",
+        "Gol Dauchin Choyr Khid",
+        "Gol Daichin Chogr Khid",
+        "Gol Daychin Choyro Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092033851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031264
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"822d4202638de44dc17cb2599f123c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033851,
+            "locality_id":1209793947,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1209793947,
+    "wof:lastmodified":1537665686,
+    "wof:name":"Gol Daychin Choyro Hiid",
+    "wof:parent_id":1092033851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.5,
+    46.96667,
+    109.5,
+    46.96667
+],
+  "geometry": {"coordinates":[109.5,46.96667],"type":"Point"}
+}

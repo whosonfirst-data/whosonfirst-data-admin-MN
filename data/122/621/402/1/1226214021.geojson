@@ -1,0 +1,81 @@
+{
+  "id": 1226214021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.88248,46.77076,113.88248,46.77076",
+    "geom:latitude":46.77076,
+    "geom:longitude":113.88248,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Haylaastay",
+    "gn:country_code":"MN",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030813,
+    "gn:latitude":46.77076,
+    "gn:longitude":113.88248,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Haylaastay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Haylaastay"
+    ],
+    "name:mon_x_variant":[
+        "\u0425\u0430\u0439\u043b\u0430\u0430\u0441\u0442\u0430\u0439",
+        "\u0421\u04af\u0445\u0431\u0430\u0430\u0442\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Sukhe Batur",
+        "Sukhe-Bator",
+        "Sakhe Bataar",
+        "S\u00fchbaatar",
+        "S\u00fckhbaatar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092032453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030813
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"54b6c0af2cf8543dc6345180a38cd6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032453,
+            "locality_id":1226214021,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1226214021,
+    "wof:lastmodified":1537665677,
+    "wof:name":"Haylaastay",
+    "wof:parent_id":1092032453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.88248,
+    46.77076,
+    113.88248,
+    46.77076
+],
+  "geometry": {"coordinates":[113.88248,46.77076],"type":"Point"}
+}

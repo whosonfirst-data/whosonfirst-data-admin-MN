@@ -1,0 +1,82 @@
+{
+  "id": 1276848937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.16667,47.78333,111.16667,47.78333",
+    "geom:latitude":47.78333,
+    "geom:longitude":111.16667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Berh",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032411,
+    "gn:latitude":47.78333,
+    "gn:longitude":111.16667,
+    "gn:modification_date":"2013-10-20",
+    "gn:name":"Berh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_colloquial":[
+        "\u0411\u044d\u0440\u0445"
+    ],
+    "name:mon_x_historical":[
+        "\u0411\u044d\u0440\u0445"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u044d\u0440\u0445"
+    ],
+    "name:und_x_variant":[
+        "Berkh",
+        "Berh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092032687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032411,
+        "wk:page":"Berkh%2C_Khentii"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"aea27446880bcd747fabbe64e6a25d62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032687,
+            "locality_id":1276848937,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1276848937,
+    "wof:lastmodified":1537665719,
+    "wof:name":"Berh",
+    "wof:parent_id":1092032687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.16667,
+    47.78333,
+    111.16667,
+    47.78333
+],
+  "geometry": {"coordinates":[111.16667,47.78333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890428723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.5,47.33333,104.5,47.33333",
+    "geom:latitude":47.33333,
+    "geom:longitude":104.5,
+    "gn:country":"MN",
+    "gn:fcode":"PPLA2",
+    "gn:pop":1500,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Ulaanhudag"
+    ],
+    "name:unk_x_variant":[
+        "Erdeni Santa"
+    ],
+    "qs:name":"Ulaanhudag",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092037369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028429,
+        "gp:id":2265328,
+        "qs:id":570996
+    },
+    "wof:country":"MN",
+    "wof:created":1469051767,
+    "wof:geomhash":"f30037104b700b4ce1ce693f6fabcc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037369,
+            "locality_id":890428723,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":890428723,
+    "wof:lastmodified":1505343507,
+    "wof:name":"Ulaanhudag",
+    "wof:parent_id":1092037369,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.5,
+    47.33333,
+    104.5,
+    47.33333
+],
+  "geometry": {"coordinates":[104.5,47.33333],"type":"Point"}
+}

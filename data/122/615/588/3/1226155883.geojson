@@ -1,0 +1,72 @@
+{
+  "id": 1226155883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.33333,46.08333,99.33333,46.08333",
+    "geom:latitude":46.08333,
+    "geom:longitude":99.33333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dashi Galdan Jisa",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516094,
+    "gn:latitude":46.08333,
+    "gn:longitude":99.33333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dashi Galdan Jisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashi galdan chzhisa",
+        "Dashi Galdan Jisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092034505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516094
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"063b975a00aba1cba0aee20c9a68efe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034505,
+            "locality_id":1226155883,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1226155883,
+    "wof:lastmodified":1537665592,
+    "wof:name":"Dashi Galdan Jisa",
+    "wof:parent_id":1092034505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.33333,
+    46.08333,
+    99.33333,
+    46.08333
+],
+  "geometry": {"coordinates":[99.33333,46.08333],"type":"Point"}
+}

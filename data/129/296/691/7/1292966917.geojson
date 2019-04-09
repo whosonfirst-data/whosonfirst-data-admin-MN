@@ -1,0 +1,73 @@
+{
+  "id": 1292966917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.79734,47.716,107.79734,47.716",
+    "geom:latitude":47.716,
+    "geom:longitude":107.79734,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Narst",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029841,
+    "gn:latitude":47.716,
+    "gn:longitude":107.79734,
+    "gn:modification_date":"2007-10-14",
+    "gn:name":"Narst",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arkhust",
+        "Arhustai",
+        "Arhust"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092037393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029841
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"61cd21b17203ace3c5062ec12c08dcb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037393,
+            "locality_id":1292966917,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1292966917,
+    "wof:lastmodified":1537665646,
+    "wof:name":"Narst",
+    "wof:parent_id":1092037393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.79734,
+    47.716,
+    107.79734,
+    47.716
+],
+  "geometry": {"coordinates":[107.79734000000001,47.716],"type":"Point"}
+}

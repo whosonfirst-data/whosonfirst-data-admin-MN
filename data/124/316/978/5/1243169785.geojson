@@ -1,0 +1,76 @@
+{
+  "id": 1243169785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.78333,49.3,113.78333,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":113.78333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ugtamiin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028494,
+    "gn:latitude":49.3,
+    "gn:longitude":113.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ugtamiin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okutuin-hito",
+        "Ugtumyin-Khid",
+        "Kumirnya Oktuinkhit",
+        "Ugtumiin Khiit",
+        "Ugtumyyn-khid",
+        "Ugtamiin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092033601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028494
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"553ff0beb9834e92f6e736a7494dddc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033601,
+            "locality_id":1243169785,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1243169785,
+    "wof:lastmodified":1537665610,
+    "wof:name":"Ugtamiin Hiid",
+    "wof:parent_id":1092033601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.78333,
+    49.3,
+    113.78333,
+    49.3
+],
+  "geometry": {"coordinates":[113.78333000000001,49.3],"type":"Point"}
+}

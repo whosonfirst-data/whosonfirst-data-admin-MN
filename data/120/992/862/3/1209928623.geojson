@@ -1,0 +1,73 @@
+{
+  "id": 1209928623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.96667,48.81667,100.96667,48.81667",
+    "geom:latitude":48.81667,
+    "geom:longitude":100.96667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ajirigaiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032989,
+    "gn:latitude":48.81667,
+    "gn:longitude":100.96667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ajirigaiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Achzhirigyyn Khure",
+        "Ajirigaiin-H\u00fcree",
+        "Ajirigaiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092038131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032989
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1a31ea776e015750be3194664cd9036d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038131,
+            "locality_id":1209928623,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1209928623,
+    "wof:lastmodified":1537665737,
+    "wof:name":"Ajirigaiin Huryee",
+    "wof:parent_id":1092038131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.96667,
+    48.81667,
+    100.96667,
+    48.81667
+],
+  "geometry": {"coordinates":[100.96666999999999,48.81667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242670115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.41667,46.73333,118.41667,46.73333",
+    "geom:latitude":46.73333,
+    "geom:longitude":118.41667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sabha Horoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029518,
+    "gn:latitude":46.73333,
+    "gn:longitude":118.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sabha Horoo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sapha haro",
+        "Sappahar\u014d",
+        "Sappa-Khoron",
+        "Sabha Horoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092042979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029518
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"b7c6a628102988162b4ca3741db0482e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042979,
+            "locality_id":1242670115,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1242670115,
+    "wof:lastmodified":1537665635,
+    "wof:name":"Sabha Horoo",
+    "wof:parent_id":1092042979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.41667,
+    46.73333,
+    118.41667,
+    46.73333
+],
+  "geometry": {"coordinates":[118.41667,46.73333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226463755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.16667,44.58333,108.16667,44.58333",
+    "geom:latitude":44.58333,
+    "geom:longitude":108.16667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Eligen Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031456,
+    "gn:latitude":44.58333,
+    "gn:longitude":108.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Eligen Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eligen Khural",
+        "Eligen Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092038691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031456
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ca77bdc312c273548fa0b06b9fa195bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038691,
+            "locality_id":1226463755,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1226463755,
+    "wof:lastmodified":1537665692,
+    "wof:name":"Eligen Hural",
+    "wof:parent_id":1092038691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.16667,
+    44.58333,
+    108.16667,
+    44.58333
+],
+  "geometry": {"coordinates":[108.16667,44.58333],"type":"Point"}
+}

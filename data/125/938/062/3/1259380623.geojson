@@ -1,0 +1,83 @@
+{
+  "id": 1259380623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.40287,49.54571,114.40287,49.54571",
+    "geom:latitude":49.54571,
+    "geom:longitude":114.40287,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dashbalbar",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2031946,
+    "gn:latitude":49.54571,
+    "gn:longitude":114.40287,
+    "gn:modification_date":"2007-10-07",
+    "gn:name":"Dashbalbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dashbalbar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u0431\u0430\u043b\u0431\u0430\u0440"
+    ],
+    "name:und_x_variant":[
+        "Dashi Balbaron Somon",
+        "Dashi balbar sumu",
+        "Dashi Balbariin Somon",
+        "Dashi Balbar Suma",
+        "Dashi-Balbaryn-Somon",
+        "Dashibalbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092036595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031946,
+        "wk:page":"Dashbalbar%2C_Dornod"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5014aaee3963cb37d98565255710b04a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036595,
+            "locality_id":1259380623,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1259380623,
+    "wof:lastmodified":1537665703,
+    "wof:name":"Dashbalbar",
+    "wof:parent_id":1092036595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.40287,
+    49.54571,
+    114.40287,
+    49.54571
+],
+  "geometry": {"coordinates":[114.40286999999999,49.54571],"type":"Point"}
+}

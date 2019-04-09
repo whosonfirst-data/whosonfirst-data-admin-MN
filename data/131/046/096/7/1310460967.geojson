@@ -1,0 +1,70 @@
+{
+  "id": 1310460967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.85659,47.28948,103.85659,47.28948",
+    "geom:latitude":47.28948,
+    "geom:longitude":103.85659,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ulaanshiveet",
+    "gn:country_code":"MN",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":6988118,
+    "gn:latitude":47.28948,
+    "gn:longitude":103.85659,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ulaanshiveet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Ulaanshiveet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092040273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6988118
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f7fbdb38923db348349b8d2f63463f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040273,
+            "locality_id":1310460967,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1310460967,
+    "wof:lastmodified":1537665740,
+    "wof:name":"Ulaanshiveet",
+    "wof:parent_id":1092040273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.85659,
+    47.28948,
+    103.85659,
+    47.28948
+],
+  "geometry": {"coordinates":[103.85659,47.28948],"type":"Point"}
+}

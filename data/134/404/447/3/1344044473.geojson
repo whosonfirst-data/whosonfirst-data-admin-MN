@@ -1,0 +1,67 @@
+{
+  "id": 1344044473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.37256,48.12663,91.37256,48.12663",
+    "geom:latitude":48.12663,
+    "geom:longitude":91.37256,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dund-Us",
+    "gn:country_code":"MN",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6619114,
+    "gn:latitude":48.12663,
+    "gn:longitude":91.37256,
+    "gn:modification_date":"2007-10-24",
+    "gn:name":"Dund-Us",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674737,
+        1092043769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6619114
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"053c8082fa356fd43fc44b3d56120d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043769,
+            "locality_id":1344044473,
+            "region_id":85674737
+        }
+    ],
+    "wof:id":1344044473,
+    "wof:lastmodified":1536898671,
+    "wof:name":"Dund-Us",
+    "wof:parent_id":1092043769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.37256,
+    48.12663,
+    91.37256,
+    48.12663
+],
+  "geometry": {"coordinates":[91.37255999999999,48.12663],"type":"Point"}
+}

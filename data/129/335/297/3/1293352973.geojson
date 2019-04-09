@@ -1,0 +1,83 @@
+{
+  "id": 1293352973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"93.26667,49.71667,93.26667,49.71667",
+    "geom:latitude":49.71667,
+    "geom:longitude":93.26667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tsalgar",
+    "gn:country_code":"MN",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515114,
+    "gn:latitude":49.71667,
+    "gn:longitude":93.26667,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Tsalgar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tsalgar"
+    ],
+    "name:mon_x_preferred":[
+        "Tsalgar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0447\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Malchin somon",
+        "Malchin",
+        "Malchin Suma",
+        "Malchin sumu",
+        "Malchin Sume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092038573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515114
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c33ff3c5c4c73094c076b15ab598c74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038573,
+            "locality_id":1293352973,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1293352973,
+    "wof:lastmodified":1537665570,
+    "wof:name":"Tsalgar",
+    "wof:parent_id":1092038573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    93.26667,
+    49.71667,
+    93.26667,
+    49.71667
+],
+  "geometry": {"coordinates":[93.26667,49.71667],"type":"Point"}
+}

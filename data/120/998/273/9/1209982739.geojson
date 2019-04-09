@@ -1,0 +1,72 @@
+{
+  "id": 1209982739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.61667,48.15,108.61667,48.15",
+    "geom:latitude":48.15,
+    "geom:longitude":108.61667,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Gomboiin Shuteen Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031255,
+    "gn:latitude":48.15,
+    "gn:longitude":108.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gomboiin Sh\u00fcteen Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gomboin Shuten Dugang",
+        "Gomboiin Sh\u00fcteen Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092038853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031255
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"2c356af5dd98c89817c61aa70e22afc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038853,
+            "locality_id":1209982739,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1209982739,
+    "wof:lastmodified":1537665686,
+    "wof:name":"Gomboiin Shuteen Dugang",
+    "wof:parent_id":1092038853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.61667,
+    48.15,
+    108.61667,
+    48.15
+],
+  "geometry": {"coordinates":[108.61667,48.15],"type":"Point"}
+}

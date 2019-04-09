@@ -1,0 +1,72 @@
+{
+  "id": 1242653961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.78333,51.28333,100.78333,51.28333",
+    "geom:latitude":51.28333,
+    "geom:longitude":100.78333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Turuugiin Horshoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028532,
+    "gn:latitude":51.28333,
+    "gn:longitude":100.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"T\u00fcr\u00fc\u00fcgiin Horshoo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turugyyn khorsho",
+        "T\u00fcr\u00fc\u00fcgiin Horshoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092043281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028532
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"32b83748789ef1a7fecafed133777538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043281,
+            "locality_id":1242653961,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1242653961,
+    "wof:lastmodified":1537665611,
+    "wof:name":"Turuugiin Horshoo",
+    "wof:parent_id":1092043281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.78333,
+    51.28333,
+    100.78333,
+    51.28333
+],
+  "geometry": {"coordinates":[100.78333000000001,51.28333],"type":"Point"}
+}

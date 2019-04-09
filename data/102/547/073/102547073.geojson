@@ -1,0 +1,92 @@
+{
+  "id": 102547073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.9197222222,48.9916666667,89.9197222222,48.9916666667",
+    "geom:latitude":48.991667,
+    "geom:longitude":89.919722,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0644\u06af\u06cc"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara \u00d6lgii"
+    ],
+    "name:ita_x_preferred":[
+        "Aeroporto di Bajan-\u00d4lgij"
+    ],
+    "name:mon_x_preferred":[
+        "\u04e8\u043b\u0433\u0438\u0439 \u043d\u0438\u0441\u044d\u0445 \u0431\u0443\u0443\u0434\u0430\u043b"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy \u00d6lgij"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0433\u0438\u0439"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u043b\u0433\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "\u00d6lgii Havaalan\u0131"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay \u00d6lgii"
+    ],
+    "oa:elevation_ft":"5732",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "wd:wordcount":54,
+    "woe:hierarchy":{
+        "country_id":23424887,
+        "planet_id":1,
+        "state_id":2346159
+    },
+    "wof:belongsto":[
+        85632439,
+        85674705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12514753,
+        "iata:code":"ULG",
+        "icao:code":"ZMUL",
+        "oa:id":"30505",
+        "wd:id":"Q2525980"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"2b50faedb8cd994b98b89a07229a1c4f",
+    "wof:hierarchy":[
+        {
+            "campus_id":102547073,
+            "country_id":85632439,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":102547073,
+    "wof:lastmodified":1543792155,
+    "wof:name":"Olgiy Airport",
+    "wof:parent_id":85674705,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    89.919722222222,
+    48.991666666667,
+    89.919722222222,
+    48.991666666667
+],
+  "geometry": {"coordinates":[89.91972222222201,48.991666666667],"type":"Point"}
+}

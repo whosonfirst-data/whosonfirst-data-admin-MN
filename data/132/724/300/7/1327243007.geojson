@@ -1,0 +1,72 @@
+{
+  "id": 1327243007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.71667,49.3,89.71667,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":89.71667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khoilik",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515558,
+    "gn:latitude":49.3,
+    "gn:longitude":89.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Khoilik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hua-li-k\u2019o",
+        "Khoilik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092034801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515558
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d381cd4a5c829afb0364cada425a1bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034801,
+            "locality_id":1327243007,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1327243007,
+    "wof:lastmodified":1537665582,
+    "wof:name":"Khoilik",
+    "wof:parent_id":1092034801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.71667,
+    49.3,
+    89.71667,
+    49.3
+],
+  "geometry": {"coordinates":[89.71666999999999,49.3],"type":"Point"}
+}

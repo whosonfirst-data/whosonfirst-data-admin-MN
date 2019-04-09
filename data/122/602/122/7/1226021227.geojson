@@ -1,0 +1,67 @@
+{
+  "id": 1226021227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.35,45.71667,112.35,45.71667",
+    "geom:latitude":45.71667,
+    "geom:longitude":112.35,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Shireeteyn Hiid",
+    "gn:country_code":"MN",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029234,
+    "gn:latitude":45.71667,
+    "gn:longitude":112.35,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Shireeteyn Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092033509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029234
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"9ccaf2bea3fb11ed242ac63f1e1530dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033509,
+            "locality_id":1226021227,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1226021227,
+    "wof:lastmodified":1536760817,
+    "wof:name":"Shireeteyn Hiid",
+    "wof:parent_id":1092033509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.35,
+    45.71667,
+    112.35,
+    45.71667
+],
+  "geometry": {"coordinates":[112.34999999999999,45.71667],"type":"Point"}
+}

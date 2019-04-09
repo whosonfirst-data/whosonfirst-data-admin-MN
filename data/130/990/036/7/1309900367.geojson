@@ -1,0 +1,67 @@
+{
+  "id": 1309900367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.90777,43.7193,111.90777,43.7193",
+    "geom:latitude":43.7193,
+    "geom:longitude":111.90777,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Zamiin Uud",
+    "gn:country_code":"MN",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8468638,
+    "gn:latitude":43.7193,
+    "gn:longitude":111.90777,
+    "gn:modification_date":"2013-02-13",
+    "gn:name":"Zamiin Uud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092044427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8468638
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"3e5ae45a31f024e8c2c88b6743ee5a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044427,
+            "locality_id":1309900367,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1309900367,
+    "wof:lastmodified":1536795016,
+    "wof:name":"Zamiin Uud",
+    "wof:parent_id":1092044427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.90777,
+    43.7193,
+    111.90777,
+    43.7193
+],
+  "geometry": {"coordinates":[111.90777,43.7193],"type":"Point"}
+}

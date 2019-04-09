@@ -1,0 +1,84 @@
+{
+  "id": 1259552049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.13639,49.8325,106.13639,49.8325",
+    "geom:latitude":49.8325,
+    "geom:longitude":106.13639,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Orhon",
+    "gn:country_code":"MN",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030915,
+    "gn:latitude":49.8325,
+    "gn:longitude":106.13639,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Orhon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Orhon"
+    ],
+    "name:mon_x_preferred":[
+        "Orhon"
+    ],
+    "name:mon_x_variant":[
+        "\u041e\u0440\u0445\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0445\u043e\u043d"
+    ],
+    "name:und_x_variant":[
+        "Harosha",
+        "Orkhon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674769,
+        1092040117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030915,
+        "wk:page":"Orkhon%2C_Darkhan-Uul"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ae35b9b74ac3eb89df5788181376db8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040117,
+            "locality_id":1259552049,
+            "region_id":85674769
+        }
+    ],
+    "wof:id":1259552049,
+    "wof:lastmodified":1537665679,
+    "wof:name":"Orhon",
+    "wof:parent_id":1092040117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.13639,
+    49.8325,
+    106.13639,
+    49.8325
+],
+  "geometry": {"coordinates":[106.13639000000001,49.8325],"type":"Point"}
+}

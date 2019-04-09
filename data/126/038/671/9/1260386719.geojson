@@ -1,0 +1,73 @@
+{
+  "id": 1260386719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.31667,48.11667,114.31667,48.11667",
+    "geom:latitude":48.11667,
+    "geom:longitude":114.31667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bayan Bulag",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032585,
+    "gn:latitude":48.11667,
+    "gn:longitude":114.31667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayan Bulag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gori-Bayan Bulag",
+        "Bayan Bulak",
+        "Bayan Bulag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092034075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032585
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"664f4ca4d0655874b025919818c0d9dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034075,
+            "locality_id":1260386719,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1260386719,
+    "wof:lastmodified":1537665726,
+    "wof:name":"Bayan Bulag",
+    "wof:parent_id":1092034075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.31667,
+    48.11667,
+    114.31667,
+    48.11667
+],
+  "geometry": {"coordinates":[114.31667,48.11667],"type":"Point"}
+}

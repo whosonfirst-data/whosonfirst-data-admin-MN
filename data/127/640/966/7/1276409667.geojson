@@ -1,0 +1,67 @@
+{
+  "id": 1276409667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.7,48.65,104.7,48.65",
+    "geom:latitude":48.65,
+    "geom:longitude":104.7,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yargay",
+    "gn:country_code":"MN",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028228,
+    "gn:latitude":48.65,
+    "gn:longitude":104.7,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Yargay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092040193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028228
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a324a43679580b18cff5348bb60ba2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040193,
+            "locality_id":1276409667,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1276409667,
+    "wof:lastmodified":1536676444,
+    "wof:name":"Yargay",
+    "wof:parent_id":1092040193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.7,
+    48.65,
+    104.7,
+    48.65
+],
+  "geometry": {"coordinates":[104.7,48.65],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260142787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.88333,49.28333,94.88333,49.28333",
+    "geom:latitude":49.28333,
+    "geom:longitude":94.88333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Haan Tuuheiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515896,
+    "gn:latitude":49.28333,
+    "gn:longitude":94.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Haan T\u00fc\u00fcheiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khan tukhein khure",
+        "Haan T\u00fc\u00fcheiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092039947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515896
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7ca610ff3397d64eb1e899dd5e38cad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039947,
+            "locality_id":1260142787,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1260142787,
+    "wof:lastmodified":1537665588,
+    "wof:name":"Haan Tuuheiin Huryee",
+    "wof:parent_id":1092039947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.88333,
+    49.28333,
+    94.88333,
+    49.28333
+],
+  "geometry": {"coordinates":[94.88333,49.28333],"type":"Point"}
+}

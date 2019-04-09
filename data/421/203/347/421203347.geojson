@@ -1,0 +1,105 @@
+{
+  "id": 421203347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.36667,48.05,114.36667,48.05",
+    "geom:latitude":48.05,
+    "geom:longitude":114.36667,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Tsagaanders"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0458\u0430\u043d\u0442\u0443\u043c\u0435\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0442\u04af\u043c\u044d\u043d \u0441\u0443\u043c"
+    ],
+    "name:mon_x_variant":[
+        "Tsagaanders"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0442\u0443\u043c\u044d\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0426\u0430\u0433\u0430\u043d\u0434\u044d\u0440\u0441"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0442\u0443\u043c\u0435\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Bain Tumen"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
+    "qs:gn_country":"MN",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":2028792,
+    "qs:gn_pop":0,
+    "qs:name":"Tsagaanders",
+    "qs:name_adm0":"Mongolia",
+    "qs:name_adm1":"Dornod",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":59508,
+    "qs:woe_adm0":23424887,
+    "qs:woe_id":2266384,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092034075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028792,
+        "gp:id":2266384,
+        "qs:id":59508,
+        "wd:id":"Q3404293",
+        "wk:page":"Bayant\u00fcmen"
+    },
+    "wof:country":"MN",
+    "wof:created":1459010148,
+    "wof:geomhash":"b14010039dc28170488ba60f75f632ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034075,
+            "locality_id":421203347,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":421203347,
+    "wof:lastmodified":1501225185,
+    "wof:name":"Tsagaanders",
+    "wof:parent_id":1092034075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.36667,
+    48.05,
+    114.36667,
+    48.05
+],
+  "geometry": {"coordinates":[114.36667,48.05],"type":"Point"}
+}

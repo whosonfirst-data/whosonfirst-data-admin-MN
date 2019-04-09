@@ -1,0 +1,79 @@
+{
+  "id": 1242753097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.44785,49.30677,95.44785,49.30677",
+    "geom:latitude":49.30677,
+    "geom:longitude":95.44785,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Jargalant",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515577,
+    "gn:latitude":49.30677,
+    "gn:longitude":95.44785,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Jargalant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jargalant"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0437\u0443\u043d-\u0425\u0430\u043d\u0433\u0430\u0439"
+    ],
+    "name:und_x_variant":[
+        "Dz\u00fc\u00fcnhangay",
+        "Dz\u00fc\u00fcn Hangay Suma",
+        "Dz\u00fc\u00fcnkhanga\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092044717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515577
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f72b83c135c6084504ff04a6337e9dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044717,
+            "locality_id":1242753097,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1242753097,
+    "wof:lastmodified":1537665582,
+    "wof:name":"Jargalant",
+    "wof:parent_id":1092044717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.44785,
+    49.30677,
+    95.44785,
+    49.30677
+],
+  "geometry": {"coordinates":[95.44785,49.30677],"type":"Point"}
+}

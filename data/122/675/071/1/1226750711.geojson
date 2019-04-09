@@ -1,0 +1,74 @@
+{
+  "id": 1226750711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.58333,47.3,98.58333,47.3",
+    "geom:latitude":47.3,
+    "geom:longitude":98.58333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Oldzeyteyn Horshoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515439,
+    "gn:latitude":47.3,
+    "gn:longitude":98.58333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"\u00d6ldzeyteyn Horshoo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ultszeituin khorsho",
+        "Ultszeytuin Khorsho",
+        "Ultszeituyn Khorsho",
+        "\u00d6ldzeyteyn Horshoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092037695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515439
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"643602b130d2465d29f877f5636ee7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037695,
+            "locality_id":1226750711,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1226750711,
+    "wof:lastmodified":1537665579,
+    "wof:name":"Oldzeyteyn Horshoo",
+    "wof:parent_id":1092037695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.58333,
+    47.3,
+    98.58333,
+    47.3
+],
+  "geometry": {"coordinates":[98.58333,47.3],"type":"Point"}
+}

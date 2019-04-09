@@ -1,0 +1,72 @@
+{
+  "id": 1243430331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.28333,46.96667,108.28333,46.96667",
+    "geom:latitude":46.96667,
+    "geom:longitude":108.28333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Modongiin Jisa",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030002,
+    "gn:latitude":46.96667,
+    "gn:longitude":108.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Modongiin Jisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Modongin chzhisa",
+        "Modongiin Jisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092033771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030002
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"178e4e9f26223826c6fbfc2a6dc00e3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033771,
+            "locality_id":1243430331,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1243430331,
+    "wof:lastmodified":1537665649,
+    "wof:name":"Modongiin Jisa",
+    "wof:parent_id":1092033771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.28333,
+    46.96667,
+    108.28333,
+    46.96667
+],
+  "geometry": {"coordinates":[108.28333000000001,46.96667],"type":"Point"}
+}

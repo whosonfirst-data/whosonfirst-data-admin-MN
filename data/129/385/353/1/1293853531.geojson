@@ -1,0 +1,72 @@
+{
+  "id": 1293853531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.16667,49.76667,107.16667,49.76667",
+    "geom:latitude":49.76667,
+    "geom:longitude":107.16667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Shabarta",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029397,
+    "gn:latitude":49.76667,
+    "gn:longitude":107.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shabarta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shabartu",
+        "Shabarta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092043817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029397
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1361f66ca9a566a0efcf922184ee1175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043817,
+            "locality_id":1293853531,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1293853531,
+    "wof:lastmodified":1537665631,
+    "wof:name":"Shabarta",
+    "wof:parent_id":1092043817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.16667,
+    49.76667,
+    107.16667,
+    49.76667
+],
+  "geometry": {"coordinates":[107.16667,49.76667],"type":"Point"}
+}

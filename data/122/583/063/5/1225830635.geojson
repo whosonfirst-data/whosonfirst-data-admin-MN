@@ -1,0 +1,67 @@
+{
+  "id": 1225830635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.0,45.78333,107.0,45.78333",
+    "geom:latitude":45.78333,
+    "geom:longitude":107.0,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Chuluut",
+    "gn:country_code":"MN",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032041,
+    "gn:latitude":45.78333,
+    "gn:longitude":107.0,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Chuluut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092037785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032041
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"431379017dc82dc6ef068eff98042701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037785,
+            "locality_id":1225830635,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1225830635,
+    "wof:lastmodified":1537034002,
+    "wof:name":"Chuluut",
+    "wof:parent_id":1092037785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.0,
+    45.78333,
+    107.0,
+    45.78333
+],
+  "geometry": {"coordinates":[107.0,45.78333],"type":"Point"}
+}

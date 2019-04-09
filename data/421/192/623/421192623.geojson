@@ -1,0 +1,79 @@
+{
+  "id": 421192623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.66667,45.33333,113.66667,45.33333",
+    "geom:latitude":45.33333,
+    "geom:longitude":113.66667,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Moltsok Somon"
+    ],
+    "qs:gn_country":"MN",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2029971,
+    "qs:gn_pop":0,
+    "qs:name":"Moltsog Suma",
+    "qs:name_adm0":"Mongolia",
+    "qs:name_adm1":"Suhbaatar",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1168541,
+    "qs:woe_adm0":23424887,
+    "qs:woe_id":2266031,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092036391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029971,
+        "gp:id":2266031,
+        "qs:id":1168541
+    },
+    "wof:country":"MN",
+    "wof:created":1459009743,
+    "wof:geomhash":"8e1d4dd95a2d1b79962b756b7227f1e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036391,
+            "locality_id":421192623,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":421192623,
+    "wof:lastmodified":1501225244,
+    "wof:name":"Moltsog Suma",
+    "wof:parent_id":1092036391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.66667,
+    45.33333,
+    113.66667,
+    45.33333
+],
+  "geometry": {"coordinates":[113.66667,45.33333],"type":"Point"}
+}

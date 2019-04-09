@@ -1,0 +1,73 @@
+{
+  "id": 1309679877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"104.28333,49.05,104.28333,49.05",
+    "geom:latitude":49.05,
+    "geom:longitude":104.28333,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Hangaliin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031029,
+    "gn:latitude":49.05,
+    "gn:longitude":104.28333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hangaliin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khangalyyn dugang",
+        "Hangalin-Dugan",
+        "Hangaliin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674751,
+        1092038205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031029
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"8de4b15079805de2bf2cb6bc8aeee771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092038205,
+            "locality_id":1309679877,
+            "region_id":85674751
+        }
+    ],
+    "wof:id":1309679877,
+    "wof:lastmodified":1537665681,
+    "wof:name":"Hangaliin Dugang",
+    "wof:parent_id":1092038205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    104.28333,
+    49.05,
+    104.28333,
+    49.05
+],
+  "geometry": {"coordinates":[104.28333000000001,49.05],"type":"Point"}
+}

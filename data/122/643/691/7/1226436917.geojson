@@ -1,0 +1,67 @@
+{
+  "id": 1226436917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.23333,44.2,111.23333,44.2",
+    "geom:latitude":44.2,
+    "geom:longitude":111.23333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Enger Hulasa",
+    "gn:country_code":"MN",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031429,
+    "gn:latitude":44.2,
+    "gn:longitude":111.23333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Enger Hulasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092037263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031429
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a5499ed5976e7893ea68c2e64ba2a4b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037263,
+            "locality_id":1226436917,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1226436917,
+    "wof:lastmodified":1536658349,
+    "wof:name":"Enger Hulasa",
+    "wof:parent_id":1092037263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.23333,
+    44.2,
+    111.23333,
+    44.2
+],
+  "geometry": {"coordinates":[111.23333,44.2],"type":"Point"}
+}

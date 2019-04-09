@@ -1,0 +1,67 @@
+{
+  "id": 1243081769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.90667,48.9925,100.90667,48.9925",
+    "geom:latitude":48.9925,
+    "geom:longitude":100.90667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tuulant",
+    "gn:country_code":"MN",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028525,
+    "gn:latitude":48.9925,
+    "gn:longitude":100.90667,
+    "gn:modification_date":"1998-10-28",
+    "gn:name":"Tuulant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674721,
+        1092035631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028525
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f6c8fb9f295124c2f0351c14003d610b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035631,
+            "locality_id":1243081769,
+            "region_id":85674721
+        }
+    ],
+    "wof:id":1243081769,
+    "wof:lastmodified":1536833101,
+    "wof:name":"Tuulant",
+    "wof:parent_id":1092035631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.90667,
+    48.9925,
+    100.90667,
+    48.9925
+],
+  "geometry": {"coordinates":[100.90667000000001,48.9925],"type":"Point"}
+}

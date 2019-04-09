@@ -1,0 +1,67 @@
+{
+  "id": 1293221739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.41667,43.86667,110.41667,43.86667",
+    "geom:latitude":43.86667,
+    "geom:longitude":110.41667,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nuden-hudag",
+    "gn:country_code":"MN",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029781,
+    "gn:latitude":43.86667,
+    "gn:longitude":110.41667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"N\u00fcden-hudag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092042609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029781
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c5f5f43cfcb871d31d9ff431fb57ab64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042609,
+            "locality_id":1293221739,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1293221739,
+    "wof:lastmodified":1536673146,
+    "wof:name":"Nuden-hudag",
+    "wof:parent_id":1092042609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.41667,
+    43.86667,
+    110.41667,
+    43.86667
+],
+  "geometry": {"coordinates":[110.41667,43.86667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326809681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.78333,50.53333,101.78333,50.53333",
+    "geom:latitude":50.53333,
+    "geom:longitude":101.78333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Uylgan Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028249,
+    "gn:latitude":50.53333,
+    "gn:longitude":101.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Uylgan Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dugang-uilgan",
+        "Ulygani Dugan",
+        "Dugang Tilgan",
+        "Uylgan Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028249
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"6a8ac9af85a09955737bcdc8c8c5a294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035203,
+            "locality_id":1326809681,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1326809681,
+    "wof:lastmodified":1537665606,
+    "wof:name":"Uylgan Dugang",
+    "wof:parent_id":1092035203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.78333,
+    50.53333,
+    101.78333,
+    50.53333
+],
+  "geometry": {"coordinates":[101.78333000000001,50.53333],"type":"Point"}
+}

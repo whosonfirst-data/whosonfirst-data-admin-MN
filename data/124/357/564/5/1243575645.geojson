@@ -1,0 +1,73 @@
+{
+  "id": 1243575645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"109.11667,43.51667,109.11667,43.51667",
+    "geom:latitude":43.51667,
+    "geom:longitude":109.11667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Naran Bulag Horshoo",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029883,
+    "gn:latitude":43.51667,
+    "gn:longitude":109.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Naran Bulag Horshoo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naran Bulak Khorsho",
+        "Naryn bulak khorsho",
+        "Naran Bulag Horshoo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092043405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029883
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"ed0eb536a59d0cd36b6c112b952fca17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092043405,
+            "locality_id":1243575645,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1243575645,
+    "wof:lastmodified":1537665646,
+    "wof:name":"Naran Bulag Horshoo",
+    "wof:parent_id":1092043405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    109.11667,
+    43.51667,
+    109.11667,
+    43.51667
+],
+  "geometry": {"coordinates":[109.11667,43.51667],"type":"Point"}
+}

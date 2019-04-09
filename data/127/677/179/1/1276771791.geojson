@@ -1,0 +1,78 @@
+{
+  "id": 1276771791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"99.59862,46.21061,99.59862,46.21061",
+    "geom:latitude":46.21061,
+    "geom:longitude":99.59862,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dzadgay",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516037,
+    "gn:latitude":46.21061,
+    "gn:longitude":99.59862,
+    "gn:modification_date":"2007-10-21",
+    "gn:name":"Dzadgay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00f6mb\u00f6g\u00f6r",
+        "Bumbuger",
+        "B\u00f6mb\u00f6ger sumu",
+        "Bumbuger Somon",
+        "Bumbugeri",
+        "B\u00f6mb\u00f6g\u00f6r Suma",
+        "Bumbeger somon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092034505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516037,
+        "wk:page":"B%C3%B6mb%C3%B6g%C3%B6r%2C_Bayankhongor"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"99f47b0b17aca84ef7bb50b8a4f4e482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034505,
+            "locality_id":1276771791,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1276771791,
+    "wof:lastmodified":1537665591,
+    "wof:name":"Dzadgay",
+    "wof:parent_id":1092034505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    99.59862,
+    46.21061,
+    99.59862,
+    46.21061
+],
+  "geometry": {"coordinates":[99.59862,46.21061],"type":"Point"}
+}

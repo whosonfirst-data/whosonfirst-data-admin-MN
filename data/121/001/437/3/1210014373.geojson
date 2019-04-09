@@ -1,0 +1,78 @@
+{
+  "id": 1210014373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.3,49.7,114.3,49.7",
+    "geom:latitude":49.7,
+    "geom:longitude":114.3,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ereentsav",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031375,
+    "gn:latitude":49.7,
+    "gn:longitude":114.3,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ereentsav",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ereentsav"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u0443\u043d-\u0425\u043e\u0440\u043e\u0442"
+    ],
+    "name:und_x_variant":[
+        "Chuluunhoroot",
+        "Ereentsav"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092036595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031375
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"585df3e518f10317bf1412b17a3c57f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036595,
+            "locality_id":1210014373,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1210014373,
+    "wof:lastmodified":1537665689,
+    "wof:name":"Ereentsav",
+    "wof:parent_id":1092036595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.3,
+    49.7,
+    114.3,
+    49.7
+],
+  "geometry": {"coordinates":[114.3,49.7],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260190073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"89.84173,47.98257,89.84173,47.98257",
+    "geom:latitude":47.98257,
+    "geom:longitude":89.84173,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ulaan Khat",
+    "gn:country_code":"MN",
+    "gn:dem":2491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":9256604,
+    "gn:latitude":47.98257,
+    "gn:longitude":89.84173,
+    "gn:modification_date":"2014-07-29",
+    "gn:name":"Ulaan Khat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulan Khat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674705,
+        1092031849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9256604
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"35d26f715faf8b76c61ec647143f27e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092031849,
+            "locality_id":1260190073,
+            "region_id":85674705
+        }
+    ],
+    "wof:id":1260190073,
+    "wof:lastmodified":1537665740,
+    "wof:name":"Ulaan Khat",
+    "wof:parent_id":1092031849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    89.84173,
+    47.98257,
+    89.84173,
+    47.98257
+],
+  "geometry": {"coordinates":[89.84173,47.98257],"type":"Point"}
+}

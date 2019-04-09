@@ -1,0 +1,72 @@
+{
+  "id": 1226010949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.16667,49.08333,108.16667,49.08333",
+    "geom:latitude":49.08333,
+    "geom:longitude":108.16667,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Yaltaiin Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028237,
+    "gn:latitude":49.08333,
+    "gn:longitude":108.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yaltaiin Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaltuin-dugang",
+        "Yaltaiin Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092044215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028237
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f4c9d54c737e80ad1885ad9c62d70303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044215,
+            "locality_id":1226010949,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1226010949,
+    "wof:lastmodified":1537665606,
+    "wof:name":"Yaltaiin Dugang",
+    "wof:parent_id":1092044215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.16667,
+    49.08333,
+    108.16667,
+    49.08333
+],
+  "geometry": {"coordinates":[108.16667,49.08333],"type":"Point"}
+}

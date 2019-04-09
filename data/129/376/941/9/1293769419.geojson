@@ -1,0 +1,74 @@
+{
+  "id": 1293769419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.75,46.16667,105.75,46.16667",
+    "geom:latitude":46.16667,
+    "geom:longitude":105.75,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Hoho Burideiin Jisa",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030683,
+    "gn:latitude":46.16667,
+    "gn:longitude":105.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"H\u00f6h\u00f6 B\u00fcrideiin Jisa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khurkhu buriduin chzhisa",
+        "H\u00f6h\u00f6 B\u00fcridelin Jisa",
+        "Khukhu Buriduin Chzhisa",
+        "H\u00f6h\u00f6 B\u00fcrideiin Jisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092031689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030683
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f97cfd3d79ac1657379c510d154f40aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092031689,
+            "locality_id":1293769419,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1293769419,
+    "wof:lastmodified":1537665674,
+    "wof:name":"Hoho Burideiin Jisa",
+    "wof:parent_id":1092031689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.75,
+    46.16667,
+    105.75,
+    46.16667
+],
+  "geometry": {"coordinates":[105.75,46.16667],"type":"Point"}
+}

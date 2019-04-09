@@ -1,0 +1,81 @@
+{
+  "id": 1209778135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"92.03333,49.03333,92.03333,49.03333",
+    "geom:latitude":49.03333,
+    "geom:longitude":92.03333,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Har-Us",
+    "gn:country_code":"MN",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1515806,
+    "gn:latitude":49.03333,
+    "gn:longitude":92.03333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Har-Us",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Har-Us"
+    ],
+    "name:mon_x_preferred":[
+        "Har-Us"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043b\u0433\u0438\u0439"
+    ],
+    "name:und_x_variant":[
+        "\u00d6lgi\u00ef",
+        "\u00d6lgiy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092039603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515806,
+        "wk:page":"%C3%96lgii%2C_Uvs"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"89f92d9556cbba3b2622427ca8811a83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039603,
+            "locality_id":1209778135,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1209778135,
+    "wof:lastmodified":1537665586,
+    "wof:name":"Har-Us",
+    "wof:parent_id":1092039603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    92.03333,
+    49.03333,
+    92.03333,
+    49.03333
+],
+  "geometry": {"coordinates":[92.03333000000001,49.03333],"type":"Point"}
+}

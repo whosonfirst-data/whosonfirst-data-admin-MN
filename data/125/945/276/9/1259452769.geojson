@@ -1,0 +1,74 @@
+{
+  "id": 1259452769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.11667,49.05,105.11667,49.05",
+    "geom:latitude":49.05,
+    "geom:longitude":105.11667,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dara Eheiin Jisa Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031974,
+    "gn:latitude":49.05,
+    "gn:longitude":105.11667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dara Eheiin Jisa Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dara-Eheiin-Jisa-Dugan",
+        "Dara-ekhein-chzhisa dugang",
+        "Dara ekheyn chzhisa dugang",
+        "Dara Eheiin Jisa Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092040193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031974
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"47c1f6ed04bcfddb8ffb3ef0ff5101fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092040193,
+            "locality_id":1259452769,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1259452769,
+    "wof:lastmodified":1537665705,
+    "wof:name":"Dara Eheiin Jisa Dugang",
+    "wof:parent_id":1092040193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.11667,
+    49.05,
+    105.11667,
+    49.05
+],
+  "geometry": {"coordinates":[105.11667,49.05],"type":"Point"}
+}

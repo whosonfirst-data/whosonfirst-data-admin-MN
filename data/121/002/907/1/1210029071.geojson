@@ -1,0 +1,67 @@
+{
+  "id": 1210029071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.56667,44.4,101.56667,44.4",
+    "geom:latitude":44.4,
+    "geom:longitude":101.56667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gurvan-tes",
+    "gn:country_code":"MN",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031196,
+    "gn:latitude":44.4,
+    "gn:longitude":101.56667,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Gurvan-tes",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092033811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031196
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"4873cfcd08df9e2d41268b1b7459bae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033811,
+            "locality_id":1210029071,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1210029071,
+    "wof:lastmodified":1536389403,
+    "wof:name":"Gurvan-tes",
+    "wof:parent_id":1092033811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.56667,
+    44.4,
+    101.56667,
+    44.4
+],
+  "geometry": {"coordinates":[101.56667,44.4],"type":"Point"}
+}

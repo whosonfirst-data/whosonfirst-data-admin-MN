@@ -1,0 +1,67 @@
+{
+  "id": 1242947365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.93205,47.93973,106.93205,47.93973",
+    "geom:latitude":47.93973,
+    "geom:longitude":106.93205,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Dari-Ekh",
+    "gn:country_code":"MN",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072744,
+    "gn:latitude":47.93973,
+    "gn:longitude":106.93205,
+    "gn:modification_date":"2014-06-04",
+    "gn:name":"Dari-Ekh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674783,
+        1092034375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072744
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5d34ef0236078d08d42cf7d710ea8e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034375,
+            "locality_id":1242947365,
+            "region_id":85674783
+        }
+    ],
+    "wof:id":1242947365,
+    "wof:lastmodified":1537026986,
+    "wof:name":"Dari-Ekh",
+    "wof:parent_id":1092034375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.93205,
+    47.93973,
+    106.93205,
+    47.93973
+],
+  "geometry": {"coordinates":[106.93205,47.93973],"type":"Point"}
+}

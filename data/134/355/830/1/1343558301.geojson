@@ -1,0 +1,75 @@
+{
+  "id": 1343558301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.75,45.4,106.75,45.4",
+    "geom:latitude":45.4,
+    "geom:longitude":106.75,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bayan Belhi",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032589,
+    "gn:latitude":45.4,
+    "gn:longitude":106.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayan Belhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Urto Bain-Bel\u2019ki",
+        "Bayan Belki",
+        "Bain Belki",
+        "Bain Belk",
+        "Bayan Belhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092037785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032589
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d56df010c35937d307fa6316c5706d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037785,
+            "locality_id":1343558301,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1343558301,
+    "wof:lastmodified":1537665726,
+    "wof:name":"Bayan Belhi",
+    "wof:parent_id":1092037785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.75,
+    45.4,
+    106.75,
+    45.4
+],
+  "geometry": {"coordinates":[106.75,45.4],"type":"Point"}
+}

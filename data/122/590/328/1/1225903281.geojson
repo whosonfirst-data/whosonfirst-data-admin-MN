@@ -1,0 +1,74 @@
+{
+  "id": 1225903281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.61667,49.51667,103.61667,49.51667",
+    "geom:latitude":49.51667,
+    "geom:longitude":103.61667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Bayan Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032566,
+    "gn:latitude":49.51667,
+    "gn:longitude":103.61667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bayan Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayn Dugan",
+        "Bayan-dugan",
+        "Bain-dugan",
+        "Bayan Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092044071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032566
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"4692c09ef4c6f9d7bf0bcb9018581957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044071,
+            "locality_id":1225903281,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1225903281,
+    "wof:lastmodified":1537665725,
+    "wof:name":"Bayan Dugang",
+    "wof:parent_id":1092044071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.61667,
+    49.51667,
+    103.61667,
+    49.51667
+],
+  "geometry": {"coordinates":[103.61667,49.51667],"type":"Point"}
+}

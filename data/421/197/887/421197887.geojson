@@ -1,0 +1,82 @@
+{
+  "id": 421197887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"115.72526,49.8807,115.72526,49.8807",
+    "geom:latitude":49.8807,
+    "geom:longitude":115.72526,
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ir\u00efnts\u0101bu Kaihy\u014d"
+    ],
+    "qs:gn_country":"MN",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":2031374,
+    "qs:gn_pop":23,
+    "qs:name":"Ereentsay",
+    "qs:name_adm0":"Mongolia",
+    "qs:name_adm1":"Dornod",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"1",
+    "qs:qs_id":462982,
+    "qs:woe_adm0":23424887,
+    "qs:woe_id":2266639,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092036079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031374,
+        "gp:id":2266639,
+        "qs:id":462982
+    },
+    "wof:country":"MN",
+    "wof:created":1459009928,
+    "wof:geomhash":"419c3e2a3bdea79426795a331193a6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036079,
+            "locality_id":421197887,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":421197887,
+    "wof:lastmodified":1505340753,
+    "wof:name":"Ereentsay",
+    "wof:parent_id":1092036079,
+    "wof:placetype":"locality",
+    "wof:population":23,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    115.72526,
+    49.8807,
+    115.72526,
+    49.8807
+],
+  "geometry": {"coordinates":[115.72526000000001,49.8807],"type":"Point"}
+}

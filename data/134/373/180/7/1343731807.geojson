@@ -1,0 +1,67 @@
+{
+  "id": 1343731807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.26667,49.08333,106.26667,49.08333",
+    "geom:latitude":49.08333,
+    "geom:longitude":106.26667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Taryat",
+    "gn:country_code":"MN",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028993,
+    "gn:latitude":49.08333,
+    "gn:longitude":106.26667,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Taryat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674761,
+        1092033655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028993
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1402dd80adc330fdbc562506c5c245aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033655,
+            "locality_id":1343731807,
+            "region_id":85674761
+        }
+    ],
+    "wof:id":1343731807,
+    "wof:lastmodified":1536851188,
+    "wof:name":"Taryat",
+    "wof:parent_id":1092033655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.26667,
+    49.08333,
+    106.26667,
+    49.08333
+],
+  "geometry": {"coordinates":[106.26667,49.08333],"type":"Point"}
+}

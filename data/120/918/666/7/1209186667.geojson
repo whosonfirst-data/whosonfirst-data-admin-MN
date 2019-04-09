@@ -1,0 +1,71 @@
+{
+  "id": 1209186667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"105.96245,49.43598,105.96245,49.43598",
+    "geom:latitude":49.43598,
+    "geom:longitude":105.96245,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Buural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032102,
+    "gn:latitude":49.43598,
+    "gn:longitude":105.96245,
+    "gn:modification_date":"2014-06-27",
+    "gn:name":"Buural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buural"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u043d\u0433\u043e\u0440"
+    ],
+    "name:und_x_variant":[
+        "Hongor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032102
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"50c93339f0cf0702de19d21db87bc16b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209186667
+        }
+    ],
+    "wof:id":1209186667,
+    "wof:lastmodified":1537665710,
+    "wof:name":"Buural",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    105.96245,
+    49.43598,
+    105.96245,
+    49.43598
+],
+  "geometry": {"coordinates":[105.96245,49.43598],"type":"Point"}
+}

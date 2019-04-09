@@ -1,0 +1,72 @@
+{
+  "id": 1259863131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"95.5,46.16667,95.5,46.16667",
+    "geom:latitude":46.16667,
+    "geom:longitude":95.5,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dashi Dorjiin Datsang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516095,
+    "gn:latitude":46.16667,
+    "gn:longitude":95.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dashi Dorjiin Datsang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashidorchzhiin Datsan",
+        "Dashi Dorjiin Datsang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674731,
+        1092042937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516095
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"08510592b04d790c246b7c2282f24f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092042937,
+            "locality_id":1259863131,
+            "region_id":85674731
+        }
+    ],
+    "wof:id":1259863131,
+    "wof:lastmodified":1537665592,
+    "wof:name":"Dashi Dorjiin Datsang",
+    "wof:parent_id":1092042937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    95.5,
+    46.16667,
+    95.5,
+    46.16667
+],
+  "geometry": {"coordinates":[95.5,46.16667],"type":"Point"}
+}

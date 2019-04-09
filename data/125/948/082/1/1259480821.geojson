@@ -1,0 +1,86 @@
+{
+  "id": 1259480821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"114.88333,49.13333,114.88333,49.13333",
+    "geom:latitude":49.13333,
+    "geom:longitude":114.88333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sumiyn Bulag",
+    "gn:country_code":"MN",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029130,
+    "gn:latitude":49.13333,
+    "gn:longitude":114.88333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00fcmiyn Bulag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "S\u00fcmiyn Bulag"
+    ],
+    "name:mon_x_preferred":[
+        "S\u00fcmiyn Bulag"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0443\u043c\u0438\u0439\u043d-\u0411\u0443\u043b\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "Gurbun-Dzagal-Sumu",
+        "Gurban Dzagaliin Suma",
+        "Gurbun Dzagalyn Somon",
+        "G\u00fcrwandzagal",
+        "Gurban Dzakhaliin Somon",
+        "Gurvandzgal",
+        "Gurbun Dzagal",
+        "Gurubun Zagaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092037857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029130
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"a47704ddabe02bd16e53ce86a6e866c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037857,
+            "locality_id":1259480821,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1259480821,
+    "wof:lastmodified":1537665626,
+    "wof:name":"Sumiyn Bulag",
+    "wof:parent_id":1092037857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    114.88333,
+    49.13333,
+    114.88333,
+    49.13333
+],
+  "geometry": {"coordinates":[114.88333,49.13333],"type":"Point"}
+}

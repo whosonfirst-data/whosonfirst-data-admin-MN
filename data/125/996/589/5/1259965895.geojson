@@ -1,0 +1,67 @@
+{
+  "id": 1259965895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.33333,49.98333,100.33333,49.98333",
+    "geom:latitude":49.98333,
+    "geom:longitude":100.33333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tsagaan-Burgaasanii-Huree",
+    "gn:country_code":"MN",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028833,
+    "gn:latitude":49.98333,
+    "gn:longitude":100.33333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Tsagaan-Burgaasanii-H\u00fcree",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092031765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028833
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"aef3d3b816a485708e5bea112b1fca04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092031765,
+            "locality_id":1259965895,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1259965895,
+    "wof:lastmodified":1536660561,
+    "wof:name":"Tsagaan-Burgaasanii-Huree",
+    "wof:parent_id":1092031765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.33333,
+    49.98333,
+    100.33333,
+    49.98333
+],
+  "geometry": {"coordinates":[100.33333,49.98333],"type":"Point"}
+}

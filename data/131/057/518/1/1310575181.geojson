@@ -1,0 +1,72 @@
+{
+  "id": 1310575181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"103.95,48.33333,103.95,48.33333",
+    "geom:latitude":48.33333,
+    "geom:longitude":103.95,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Dzuun Dzagiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031540,
+    "gn:latitude":48.33333,
+    "gn:longitude":103.95,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dz\u00fc\u00fcn Dzagiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tszun Zaguin Khure",
+        "Dz\u00fc\u00fcn Dzagiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092034707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031540
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"50eb9802b439c6f5f4a8865a38e04485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034707,
+            "locality_id":1310575181,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1310575181,
+    "wof:lastmodified":1537665694,
+    "wof:name":"Dzuun Dzagiin Huryee",
+    "wof:parent_id":1092034707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    103.95,
+    48.33333,
+    103.95,
+    48.33333
+],
+  "geometry": {"coordinates":[103.95,48.33333],"type":"Point"}
+}

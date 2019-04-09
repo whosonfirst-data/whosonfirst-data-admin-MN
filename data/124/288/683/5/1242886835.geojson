@@ -1,0 +1,77 @@
+{
+  "id": 1242886835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.81724,46.0674,100.81724,46.0674",
+    "geom:latitude":46.0674,
+    "geom:longitude":100.81724,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ulaan-Uul",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028357,
+    "gn:latitude":46.0674,
+    "gn:longitude":100.81724,
+    "gn:modification_date":"2007-10-21",
+    "gn:name":"Ulaan-Uul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6ldziyt",
+        "Barun Ul'dzeytu Sumu",
+        "\u00d6ldzi\u00eft",
+        "Barun Ultszeytu Somon",
+        "Oldzeytu",
+        "Baruun \u00d6ldzeyte Suma",
+        "Baruun \u00d6ldzeyte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674723,
+        1092044829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028357
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"03a3c09f74bcbdccf488b9dce88b5ba4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044829,
+            "locality_id":1242886835,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":1242886835,
+    "wof:lastmodified":1537665609,
+    "wof:name":"Ulaan-Uul",
+    "wof:parent_id":1092044829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.81724,
+    46.0674,
+    100.81724,
+    46.0674
+],
+  "geometry": {"coordinates":[100.81724,46.0674],"type":"Point"}
+}

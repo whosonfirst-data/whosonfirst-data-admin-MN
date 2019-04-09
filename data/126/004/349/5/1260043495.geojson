@@ -1,0 +1,73 @@
+{
+  "id": 1260043495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"113.9,45.06667,113.9,45.06667",
+    "geom:latitude":45.06667,
+    "geom:longitude":113.9,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Suteyn Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029121,
+    "gn:latitude":45.06667,
+    "gn:longitude":113.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"S\u00fcteyn Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sutyn-khid",
+        "Sut\u00f6n Khid",
+        "S\u00fcteyn Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092039249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029121
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"9862c8bf0ea67ca8db1aba725248eeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039249,
+            "locality_id":1260043495,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1260043495,
+    "wof:lastmodified":1537665625,
+    "wof:name":"Suteyn Hiid",
+    "wof:parent_id":1092039249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    113.9,
+    45.06667,
+    113.9,
+    45.06667
+],
+  "geometry": {"coordinates":[113.90000000000001,45.06667],"type":"Point"}
+}

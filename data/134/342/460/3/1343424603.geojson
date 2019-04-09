@@ -1,0 +1,81 @@
+{
+  "id": 1343424603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.35563,45.72727,112.35563,45.72727",
+    "geom:latitude":45.72727,
+    "geom:longitude":112.35563,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Shireet",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2029238,
+    "gn:latitude":45.72727,
+    "gn:longitude":112.35563,
+    "gn:modification_date":"2007-10-07",
+    "gn:name":"Shireet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayn Del'gir Somon",
+        "Shiretyn-khid",
+        "Bain-delger Somon",
+        "Shiretyyn khid",
+        "Bayan Delger Suma",
+        "Shiret\u00f6yn Khid",
+        "Bayandelger",
+        "Shiret\u00f6n Khid",
+        "Bayan delger sumu",
+        "Ulan-Nur-Somon",
+        "Bain-Del'gir-Somon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674793,
+        1092033509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029238
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"79f80bd8314efbe027691b20ab32e3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033509,
+            "locality_id":1343424603,
+            "region_id":85674793
+        }
+    ],
+    "wof:id":1343424603,
+    "wof:lastmodified":1537665628,
+    "wof:name":"Shireet",
+    "wof:parent_id":1092033509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.35563,
+    45.72727,
+    112.35563,
+    45.72727
+],
+  "geometry": {"coordinates":[112.35563,45.72727],"type":"Point"}
+}

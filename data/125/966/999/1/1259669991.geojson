@@ -1,0 +1,73 @@
+{
+  "id": 1259669991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.41667,50.53333,101.41667,50.53333",
+    "geom:latitude":50.53333,
+    "geom:longitude":101.41667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Darhantayn Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2031956,
+    "gn:latitude":50.53333,
+    "gn:longitude":101.41667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Darhantayn H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darhantayn H\u00fcree",
+        "Darkhantuin khure",
+        "Darhantayn H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2031956
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"0094cf507dfe21c137a021cb7e7e0da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035203,
+            "locality_id":1259669991,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1259669991,
+    "wof:lastmodified":1537665704,
+    "wof:name":"Darhantayn Huryee",
+    "wof:parent_id":1092035203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.41667,
+    50.53333,
+    101.41667,
+    50.53333
+],
+  "geometry": {"coordinates":[101.41667,50.53333],"type":"Point"}
+}

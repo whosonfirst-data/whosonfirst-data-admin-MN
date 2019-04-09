@@ -1,0 +1,75 @@
+{
+  "id": 1327009087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.25711,49.29591,100.25711,49.29591",
+    "geom:latitude":49.29591,
+    "geom:longitude":100.25711,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Jargalant",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2030172,
+    "gn:latitude":49.29591,
+    "gn:longitude":100.25711,
+    "gn:modification_date":"2007-10-18",
+    "gn:name":"Jargalant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00f6m\u00f6r bulag Sumu",
+        "Tumur-Bulag",
+        "T\u00f6m\u00f6r Buluk Sume",
+        "Tumur-Bulak Somon",
+        "T\u00f6m\u00f6rbulag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092041979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030172
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"4df6c87897f433bbc7e764c94f4ebdce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041979,
+            "locality_id":1327009087,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1327009087,
+    "wof:lastmodified":1537665658,
+    "wof:name":"Jargalant",
+    "wof:parent_id":1092041979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.25711,
+    49.29591,
+    100.25711,
+    49.29591
+],
+  "geometry": {"coordinates":[100.25711,49.29591],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209196495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.23333,49.3,107.23333,49.3",
+    "geom:latitude":49.3,
+    "geom:longitude":107.23333,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Yoroogiin Altanii Gadzar",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028178,
+    "gn:latitude":49.3,
+    "gn:longitude":107.23333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Y\u00f6r\u00f6\u00f6giin Altanii Gadzar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iurugin-Altanyy-Gatszar",
+        "Y\u00f6r\u00f6\u00f6giyn Altany Hodzav",
+        "Y\u00f6r\u00f6\u00f6giin Altanii Gadzar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028178
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f405cf7dd5d8e57ddddf21e6a9fb502a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209196495
+        }
+    ],
+    "wof:id":1209196495,
+    "wof:lastmodified":1537665605,
+    "wof:name":"Yoroogiin Altanii Gadzar",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.23333,
+    49.3,
+    107.23333,
+    49.3
+],
+  "geometry": {"coordinates":[107.23333,49.3],"type":"Point"}
+}

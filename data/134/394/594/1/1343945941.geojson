@@ -1,0 +1,73 @@
+{
+  "id": 1343945941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.16667,48.66667,111.16667,48.66667",
+    "geom:latitude":48.66667,
+    "geom:longitude":111.16667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Asahatayn Suurin Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032810,
+    "gn:latitude":48.66667,
+    "gn:longitude":111.16667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Asahatayn Suurin Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Askhatuin-surin-khid",
+        "Askhatiin Suriin Khiit",
+        "Asahatayn Suurin Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092032845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032810
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e0d6ef18f9e77a915c8ca846833aabfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032845,
+            "locality_id":1343945941,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1343945941,
+    "wof:lastmodified":1537665733,
+    "wof:name":"Asahatayn Suurin Hiid",
+    "wof:parent_id":1092032845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.16667,
+    48.66667,
+    111.16667,
+    48.66667
+],
+  "geometry": {"coordinates":[111.16667,48.66667],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1293764729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"110.76667,46.58333,110.76667,46.58333",
+    "geom:latitude":46.58333,
+    "geom:longitude":110.76667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hujirt",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030430,
+    "gn:latitude":46.58333,
+    "gn:longitude":110.76667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hujirt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Galshar Somon",
+        "Galshara Sumu",
+        "Gal-Shar\u00f6yn Somon",
+        "Gal-Sharyyn Somon",
+        "Gal-Sharain-Somon",
+        "Galshir",
+        "Galshara",
+        "Galsharaiin Suma",
+        "Galshar",
+        "Galsharaiin",
+        "Gal-Sharyn-Somon",
+        "Gal Sharyin Somon",
+        "Hujirt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674719,
+        1092037487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030430
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"91f7393a56edc6c5da1d693aa3131668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037487,
+            "locality_id":1293764729,
+            "region_id":85674719
+        }
+    ],
+    "wof:id":1293764729,
+    "wof:lastmodified":1537665666,
+    "wof:name":"Hujirt",
+    "wof:parent_id":1092037487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    110.76667,
+    46.58333,
+    110.76667,
+    46.58333
+],
+  "geometry": {"coordinates":[110.76667,46.58333],"type":"Point"}
+}

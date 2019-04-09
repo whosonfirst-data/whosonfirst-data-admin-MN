@@ -1,0 +1,67 @@
+{
+  "id": 1343563107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.25,48.91667,91.25,48.91667",
+    "geom:latitude":48.91667,
+    "geom:longitude":91.25,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uliast",
+    "gn:country_code":"MN",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1515008,
+    "gn:latitude":48.91667,
+    "gn:longitude":91.25,
+    "gn:modification_date":"2003-05-01",
+    "gn:name":"Uliast",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092039801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1515008
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f49e8694f09c4e816ad4f1f83440bf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092039801,
+            "locality_id":1343563107,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1343563107,
+    "wof:lastmodified":1537092419,
+    "wof:name":"Uliast",
+    "wof:parent_id":1092039801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.25,
+    48.91667,
+    91.25,
+    48.91667
+],
+  "geometry": {"coordinates":[91.25,48.91667],"type":"Point"}
+}

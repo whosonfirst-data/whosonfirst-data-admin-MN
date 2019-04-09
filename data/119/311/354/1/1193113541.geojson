@@ -1,0 +1,78 @@
+{
+  "id": 1193113541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.9,50.45,100.9,50.45",
+    "geom:latitude":50.45,
+    "geom:longitude":100.9,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Arigiin Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032848,
+    "gn:latitude":50.45,
+    "gn:longitude":100.9,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Arigiin H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A-li-k\u2019o",
+        "Kuren\u2019-Arik",
+        "Arigyyn khure",
+        "Arig\u2019iin h\u00fcrie",
+        "Arik-Khure",
+        "Arik",
+        "Arigin-Khure",
+        "Arigiin H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032848
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"03848124eaa57770ec2498826a7369e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035901,
+            "locality_id":1193113541,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1193113541,
+    "wof:lastmodified":1537665734,
+    "wof:name":"Arigiin Huryee",
+    "wof:parent_id":1092035901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.9,
+    50.45,
+    100.9,
+    50.45
+],
+  "geometry": {"coordinates":[100.90000000000001,50.45],"type":"Point"}
+}

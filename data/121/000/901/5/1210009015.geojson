@@ -1,0 +1,72 @@
+{
+  "id": 1210009015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"112.78333,49.33333,112.78333,49.33333",
+    "geom:latitude":49.33333,
+    "geom:longitude":112.78333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Hujirtayn Dugang",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030421,
+    "gn:latitude":49.33333,
+    "gn:longitude":112.78333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hujirtayn Dugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Choibalsan",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuchzhirtuin-dugang",
+        "Hujirtayn Dugang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674787,
+        1092033191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030421
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"21ce7ec57d22d6a2f3f3c354d0adad31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033191,
+            "locality_id":1210009015,
+            "region_id":85674787
+        }
+    ],
+    "wof:id":1210009015,
+    "wof:lastmodified":1537665665,
+    "wof:name":"Hujirtayn Dugang",
+    "wof:parent_id":1092033191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    112.78333,
+    49.33333,
+    112.78333,
+    49.33333
+],
+  "geometry": {"coordinates":[112.78333000000001,49.33333],"type":"Point"}
+}

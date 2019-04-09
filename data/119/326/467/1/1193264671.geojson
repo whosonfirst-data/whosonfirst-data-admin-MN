@@ -1,0 +1,77 @@
+{
+  "id": 1193264671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"98.63333,49.85,98.63333,49.85",
+    "geom:latitude":49.85,
+    "geom:longitude":98.63333,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Dordogoyn Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1516066,
+    "gn:latitude":49.85,
+    "gn:longitude":98.63333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dordogoyn H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dordogoy\u2019iin H\u00fcrie",
+        "Dordogoyn H\u00fcree",
+        "Dortogoyn khure",
+        "Dordogoy\u2019n h\u00fcrie",
+        "Dordogayn-Khure",
+        "Dordogoyn-Khure",
+        "Dordogoyn H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674741,
+        1092035237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516066
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"1ae54891cace690def6ba22c35d360d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035237,
+            "locality_id":1193264671,
+            "region_id":85674741
+        }
+    ],
+    "wof:id":1193264671,
+    "wof:lastmodified":1537665592,
+    "wof:name":"Dordogoyn Huryee",
+    "wof:parent_id":1092035237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    98.63333,
+    49.85,
+    98.63333,
+    49.85
+],
+  "geometry": {"coordinates":[98.63333,49.85],"type":"Point"}
+}

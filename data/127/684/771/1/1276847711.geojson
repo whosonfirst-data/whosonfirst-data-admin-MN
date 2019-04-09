@@ -1,0 +1,86 @@
+{
+  "id": 1276847711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"91.54796,46.09237,91.54796,46.09237",
+    "geom:latitude":46.09237,
+    "geom:longitude":91.54796,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"6987811",
+    "gn:asciiname":"Burenhayrhan",
+    "gn:country_code":"MN",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516173,
+    "gn:latitude":46.09237,
+    "gn:longitude":91.54796,
+    "gn:modification_date":"2013-12-01",
+    "gn:name":"B\u00fcrenhayrhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "B\u00fcrenhayrhan"
+    ],
+    "name:und_x_variant":[
+        "Torgut Somon",
+        "Bulagan gol sumu",
+        "Torgutin Khure",
+        "Buergenkhe",
+        "T\u2019u-ku-te-su-mu",
+        "Bulgan",
+        "Bulagan-gol",
+        "Bulagan",
+        "Bulgan-Gol",
+        "Pu-erh-ken",
+        "Bulagan Gol Suma",
+        "Bulagan Somon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674737,
+        1092035047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516173,
+        "wk:page":"Bulgan%2C_Khovd"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"9287bb668bce8942d6657d0cfa05a0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092035047,
+            "locality_id":1276847711,
+            "region_id":85674737
+        }
+    ],
+    "wof:id":1276847711,
+    "wof:lastmodified":1537665595,
+    "wof:name":"Burenhayrhan",
+    "wof:parent_id":1092035047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    91.54796,
+    46.09237,
+    91.54796,
+    46.09237
+],
+  "geometry": {"coordinates":[91.54796,46.09237],"type":"Point"}
+}

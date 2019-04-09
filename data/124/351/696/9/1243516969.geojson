@@ -1,0 +1,85 @@
+{
+  "id": 1243516969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"94.40414,49.65963,94.40414,49.65963",
+    "geom:latitude":49.65963,
+    "geom:longitude":94.40414,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Baruunturuun",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1516313,
+    "gn:latitude":49.65963,
+    "gn:longitude":94.40414,
+    "gn:modification_date":"2007-10-25",
+    "gn:name":"Baruunturuun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Baruunturuun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u043d-\u0422\u0443\u0440\u0443\u043d"
+    ],
+    "name:und_x_variant":[
+        "Turun",
+        "Turin Golin Sume",
+        "T\u00fcr\u00fc\u00fcn Suma",
+        "T\u00fcr\u00fc\u00fcn gol sumu",
+        "T\u00fcr\u00fc\u00fcn gol",
+        "Turun somon",
+        "Turun-Gol-Somon",
+        "Turun-Gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674745,
+        1092032563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1516313,
+        "wk:page":"Baruunturuun"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"d3eb2d2cdf6696afd0db98ac615a2592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032563,
+            "locality_id":1243516969,
+            "region_id":85674745
+        }
+    ],
+    "wof:id":1243516969,
+    "wof:lastmodified":1537665601,
+    "wof:name":"Baruunturuun",
+    "wof:parent_id":1092032563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    94.40414,
+    49.65963,
+    94.40414,
+    49.65963
+],
+  "geometry": {"coordinates":[94.40414,49.65963],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259965193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.71667,46.18333,106.71667,46.18333",
+    "geom:latitude":46.18333,
+    "geom:longitude":106.71667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tsant",
+    "gn:country_code":"MN",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028653,
+    "gn:latitude":46.18333,
+    "gn:longitude":106.71667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Tsant"
+    ],
+    "name:und_x_variant":[
+        "Deren",
+        "Deren sumu",
+        "Deren Somon",
+        "Deren Suma",
+        "Dereng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674757,
+        1092036973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028653
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"cc1acf1e5d16f5506202c4011536b452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036973,
+            "locality_id":1259965193,
+            "region_id":85674757
+        }
+    ],
+    "wof:id":1259965193,
+    "wof:lastmodified":1537665615,
+    "wof:name":"Tsant",
+    "wof:parent_id":1092036973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.71667,
+    46.18333,
+    106.71667,
+    46.18333
+],
+  "geometry": {"coordinates":[106.71666999999999,46.18333],"type":"Point"}
+}

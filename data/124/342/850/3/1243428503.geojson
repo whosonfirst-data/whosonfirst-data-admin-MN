@@ -1,0 +1,81 @@
+{
+  "id": 1243428503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.66123,49.94669,102.66123,49.94669",
+    "geom:latitude":49.94669,
+    "geom:longitude":102.66123,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Teshig",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":2028933,
+    "gn:latitude":49.94669,
+    "gn:longitude":102.66123,
+    "gn:modification_date":"2007-10-15",
+    "gn:name":"Teshig",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Teshig"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u044d\u0448\u0438\u0433"
+    ],
+    "name:und_x_variant":[
+        "Teshig sumu",
+        "Teshig Sume",
+        "Teshig somon",
+        "Teshig Suma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674749,
+        1092041815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028933,
+        "wk:page":"Teshig"
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"af1d151c157542e807526898cbfdb606",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041815,
+            "locality_id":1243428503,
+            "region_id":85674749
+        }
+    ],
+    "wof:id":1243428503,
+    "wof:lastmodified":1537665622,
+    "wof:name":"Teshig",
+    "wof:parent_id":1092041815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.66123,
+    49.94669,
+    102.66123,
+    49.94669
+],
+  "geometry": {"coordinates":[102.66123,49.94669],"type":"Point"}
+}

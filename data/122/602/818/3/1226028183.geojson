@@ -1,0 +1,72 @@
+{
+  "id": 1226028183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.21667,43.05,101.21667,43.05",
+    "geom:latitude":43.05,
+    "geom:longitude":101.21667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Tsagaan Subarga Hural",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028711,
+    "gn:latitude":43.05,
+    "gn:longitude":101.21667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tsagaan Subarga Hural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsagan suburga khural",
+        "Tsagaan Subarga Hural"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674713,
+        1092037813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028711
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"505adb8c02e94540cf3cacadf910ed29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092037813,
+            "locality_id":1226028183,
+            "region_id":85674713
+        }
+    ],
+    "wof:id":1226028183,
+    "wof:lastmodified":1537665617,
+    "wof:name":"Tsagaan Subarga Hural",
+    "wof:parent_id":1092037813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.21667,
+    43.05,
+    101.21667,
+    43.05
+],
+  "geometry": {"coordinates":[101.21666999999999,43.05],"type":"Point"}
+}

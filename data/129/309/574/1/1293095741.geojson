@@ -1,0 +1,92 @@
+{
+  "id": 1293095741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"111.90524,43.71839,111.90524,43.71839",
+    "geom:latitude":43.71839,
+    "geom:longitude":111.90524,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Borhoyn Tal",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032338,
+    "gn:latitude":43.71839,
+    "gn:longitude":111.90524,
+    "gn:modification_date":"2007-10-07",
+    "gn:name":"Borhoyn Tal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ikhe Ude",
+        "Dzam\u00f6yn Ude",
+        "Udde",
+        "Dzamiin Ude",
+        "Ikhe Lide",
+        "Dzamyyn Ude",
+        "Ude",
+        "Cha-men-wu-te",
+        "Zamun Ude",
+        "Dzam\u00efn \u00dc\u00fcd",
+        "Wuteh",
+        "Dzamiyn Ude",
+        "Udei",
+        "Dsamin Ude",
+        "Kolodets Ude",
+        "Dzamyn Ude",
+        "Wu-te",
+        "Dzamyym Ude",
+        "Uteh",
+        "Dzamiin \u00dc\u00fcde",
+        "Dzam\u00f6n Ude",
+        "Chamu Ut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674709,
+        1092044427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2032338
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"f4b4382993ad3d238632cf232e863a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092044427,
+            "locality_id":1293095741,
+            "region_id":85674709
+        }
+    ],
+    "wof:id":1293095741,
+    "wof:lastmodified":1537665718,
+    "wof:name":"Borhoyn Tal",
+    "wof:parent_id":1092044427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    111.90524,
+    43.71839,
+    111.90524,
+    43.71839
+],
+  "geometry": {"coordinates":[111.90524000000001,43.71839],"type":"Point"}
+}

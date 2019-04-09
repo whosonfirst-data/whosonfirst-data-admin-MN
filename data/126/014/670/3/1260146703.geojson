@@ -1,0 +1,67 @@
+{
+  "id": 1260146703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"107.28333,47.58333,107.28333,47.58333",
+    "geom:latitude":47.58333,
+    "geom:longitude":107.28333,
+    "gn:admin1_code":"18",
+    "gn:asciiname":"Honhor",
+    "gn:country_code":"MN",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2030549,
+    "gn:latitude":47.58333,
+    "gn:longitude":107.28333,
+    "gn:modification_date":"1994-01-14",
+    "gn:name":"Honhor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674777,
+        1092041003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030549
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"63f03b8adbbcbdb7263f7a63b423ecd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041003,
+            "locality_id":1260146703,
+            "region_id":85674777
+        }
+    ],
+    "wof:id":1260146703,
+    "wof:lastmodified":1536898351,
+    "wof:name":"Honhor",
+    "wof:parent_id":1092041003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    107.28333,
+    47.58333,
+    107.28333,
+    47.58333
+],
+  "geometry": {"coordinates":[107.28333000000001,47.58333],"type":"Point"}
+}

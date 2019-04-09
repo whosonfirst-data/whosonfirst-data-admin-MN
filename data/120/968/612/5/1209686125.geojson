@@ -1,0 +1,73 @@
+{
+  "id": 1209686125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"101.81667,44.76667,101.81667,44.76667",
+    "geom:latitude":44.76667,
+    "geom:longitude":101.81667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Noyon Hutagtayn Hiid",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":2144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029792,
+    "gn:latitude":44.76667,
+    "gn:longitude":101.81667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Noyon Hutagtayn Hiid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noyon Hutagtayn H\u00fcryee",
+        "Noyan-Khutukhtuin-Khure",
+        "Noyan Khure",
+        "Noyan khutukhtiin khid",
+        "Noyan hutuhtuin h\u00fcrie",
+        "Kumirnya Noyon-khutukhtu",
+        "Noyan hutuhtuiin h\u00fcrie",
+        "Noyan Hutag Tayn Hiyd",
+        "Noyon Hutagtayn Hiid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029792
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"7e89f2aeec6c0ceb6c981b5dd57e2aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209686125
+        }
+    ],
+    "wof:id":1209686125,
+    "wof:lastmodified":1537665644,
+    "wof:name":"Noyon Hutagtayn Hiid",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    101.81667,
+    44.76667,
+    101.81667,
+    44.76667
+],
+  "geometry": {"coordinates":[101.81667,44.76667],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260153901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.91667,44.58333,102.91667,44.58333",
+    "geom:latitude":44.58333,
+    "geom:longitude":102.91667,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Sayriin Hashaatayn Sume",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2029454,
+    "gn:latitude":44.58333,
+    "gn:longitude":102.91667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Sayriin Hashaatayn S\u00fcme",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Soyrin-khashate Khid",
+        "Sayriin Hashaatayn Dugan",
+        "Sayriin hashiatuin dugang",
+        "Sayrin Khoshyatu sume",
+        "Sayrim-Khashato-Sumu",
+        "Sairim Gashato",
+        "Sayriin Hashaatayn S\u00fcme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674765,
+        1092034601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2029454
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"5c0a9cdb1a05c543193aa40284986630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092034601,
+            "locality_id":1260153901,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":1260153901,
+    "wof:lastmodified":1537665633,
+    "wof:name":"Sayriin Hashaatayn Sume",
+    "wof:parent_id":1092034601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.91667,
+    44.58333,
+    102.91667,
+    44.58333
+],
+  "geometry": {"coordinates":[102.91667,44.58333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209332315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.13333,48.01667,102.13333,48.01667",
+    "geom:latitude":48.01667,
+    "geom:longitude":102.13333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ulaan Chuluutayn Huryee",
+    "gn:cc2":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2028455,
+    "gn:latitude":48.01667,
+    "gn:longitude":102.13333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ulaan Chuluutayn H\u00fcryee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Ulaanbaatar",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ulaan-Chuluutayn-Huree",
+        "Ulan-chulutuin Khure",
+        "Ulaan Chuluutayn H\u00fcryee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2028455
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"83374f87ca0bed7bfd87332b5db70b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632439,
+            "locality_id":1209332315
+        }
+    ],
+    "wof:id":1209332315,
+    "wof:lastmodified":1537665610,
+    "wof:name":"Ulaan Chuluutayn Huryee",
+    "wof:parent_id":85632439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.13333,
+    48.01667,
+    102.13333,
+    48.01667
+],
+  "geometry": {"coordinates":[102.13333,48.01667],"type":"Point"}
+}

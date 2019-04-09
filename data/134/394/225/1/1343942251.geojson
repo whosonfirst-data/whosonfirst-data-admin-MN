@@ -1,0 +1,70 @@
+{
+  "id": 1343942251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"96.79944,49.51082,96.79944,49.51082",
+    "geom:latitude":49.51082,
+    "geom:longitude":96.79944,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Asgat",
+    "gn:country_code":"MN",
+    "gn:dem":1702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":6988111,
+    "gn:latitude":49.51082,
+    "gn:longitude":96.79944,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Asgat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Hovd",
+    "iso:country":"MN",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "Asgat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632439,
+        85674727,
+        1092032305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6988111
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c9eef9b86eb9ff55fe2406ab896a79b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032305,
+            "locality_id":1343942251,
+            "region_id":85674727
+        }
+    ],
+    "wof:id":1343942251,
+    "wof:lastmodified":1537665740,
+    "wof:name":"Asgat",
+    "wof:parent_id":1092032305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    96.79944,
+    49.51082,
+    96.79944,
+    49.51082
+],
+  "geometry": {"coordinates":[96.79944,49.51082],"type":"Point"}
+}
