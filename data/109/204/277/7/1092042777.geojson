@@ -10,6 +10,12 @@
     "geom:latitude":46.570838,
     "geom:longitude":112.39031,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Uulbayan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.548136,
     "lbl:longitude":112.347926,
     "meso:admin_1":"Su'xbaatar",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1092042777,
-    "wof:lastmodified":1536615121,
+    "wof:lastmodified":1553718072,
     "wof:name":"Uulbayan",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

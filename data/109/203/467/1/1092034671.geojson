@@ -10,6 +10,12 @@
     "geom:latitude":47.059023,
     "geom:longitude":103.874754,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bu'rd Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.063288,
     "lbl:longitude":103.865252,
     "meso:admin_1":"O'vorxangai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092034671,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Bu'rd",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":46.059878,
     "geom:longitude":108.515357,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Shiveegovi Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.069574,
     "lbl:longitude":108.563441,
     "meso:admin_1":"Govisu'mber",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1092041295,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718070,
     "wof:name":"Shiveegovi",
     "wof:parent_id":85674779,
     "wof:placetype":"county",

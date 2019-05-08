@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30494,
-    "geom:area_square_m":2618192496.314049,
+    "geom:area_square_m":2618192496.313841,
     "geom:bbox":"103.278820719,45.7180941636,104.297110937,46.2534881029",
     "geom:latitude":46.023425,
     "geom:longitude":103.829505,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.032431,
     "lbl:longitude":103.871626,
     "meso:admin_1":"O'vorxangai",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092040827,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037662,
     "wof:name":"Sant",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

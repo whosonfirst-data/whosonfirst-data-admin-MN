@@ -10,6 +10,12 @@
     "geom:latitude":48.428708,
     "geom:longitude":113.22926,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cagaan-Ovoo Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.419227,
     "lbl:longitude":113.243151,
     "meso:admin_1":"Dornod",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092035175,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718060,
     "wof:name":"Cagaan-Ovoo",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

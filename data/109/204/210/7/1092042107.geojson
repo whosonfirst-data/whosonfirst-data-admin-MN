@@ -10,6 +10,12 @@
     "geom:latitude":45.861379,
     "geom:longitude":93.682347,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tonkhil Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.023368,
     "lbl:longitude":93.839157,
     "meso:admin_1":"Govi-Altai",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092042107,
-    "wof:lastmodified":1536615120,
+    "wof:lastmodified":1553718072,
     "wof:name":"Tonkhil",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

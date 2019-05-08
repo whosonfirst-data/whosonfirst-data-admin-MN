@@ -10,6 +10,12 @@
     "geom:latitude":46.22431,
     "geom:longitude":96.327793,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Yeso'nbulag Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.274607,
     "lbl:longitude":96.037138,
     "meso:admin_1":"Govi-Altai",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1092044253,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718075,
     "wof:name":"Yeso'nbulag",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

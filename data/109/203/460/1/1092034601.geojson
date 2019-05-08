@@ -10,6 +10,12 @@
     "geom:latitude":44.566715,
     "geom:longitude":102.304637,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bogd Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":44.579736,
     "lbl:longitude":102.113166,
     "meso:admin_1":"O'vorxangai",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092034601,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Bogd",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

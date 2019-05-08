@@ -10,6 +10,12 @@
     "geom:latitude":50.041167,
     "geom:longitude":106.243451,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Shaamar Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.030973,
     "lbl:longitude":106.247613,
     "meso:admin_1":"Selenge",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092041081,
-    "wof:lastmodified":1536615118,
+    "wof:lastmodified":1553718070,
     "wof:name":"Shaamar",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

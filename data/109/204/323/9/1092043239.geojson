@@ -10,6 +10,12 @@
     "geom:latitude":43.641499,
     "geom:longitude":104.635502,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xanxongor Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.613275,
     "lbl:longitude":104.839643,
     "meso:admin_1":"O'mnogovi",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092043239,
-    "wof:lastmodified":1536615122,
+    "wof:lastmodified":1553718073,
     "wof:name":"Xanxongor",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

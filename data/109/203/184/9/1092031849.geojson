@@ -10,6 +10,12 @@
     "geom:latitude":48.189586,
     "geom:longitude":89.630413,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Altai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.220375,
     "lbl:longitude":89.637207,
     "meso:admin_1":"Bayan-O'lgii",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092031849,
-    "wof:lastmodified":1536615103,
+    "wof:lastmodified":1553718055,
     "wof:name":"Altai",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

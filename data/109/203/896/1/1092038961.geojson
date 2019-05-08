@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263051,
-    "geom:area_square_m":2205702728.605522,
+    "geom:area_square_m":2205702728.605342,
     "geom:bbox":"109.845051322,47.0038863104,110.628075787,47.6061816419",
     "geom:latitude":47.303135,
     "geom:longitude":110.242614,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Mo'ron Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.280992,
     "lbl:longitude":110.236704,
     "meso:admin_1":"Xentii",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092038961,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037664,
     "wof:name":"Mo'ron",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":45.725489,
     "geom:longitude":97.173283,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Biger Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.717632,
     "lbl:longitude":97.173258,
     "meso:admin_1":"Govi-Altai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092034443,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Biger",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

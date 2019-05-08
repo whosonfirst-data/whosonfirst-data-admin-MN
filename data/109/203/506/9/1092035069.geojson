@@ -10,6 +10,12 @@
     "geom:latitude":46.176795,
     "geom:longitude":98.820429,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Buucagaan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.128714,
     "lbl:longitude":98.770508,
     "meso:admin_1":"Bayanxongor",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092035069,
-    "wof:lastmodified":1536615108,
+    "wof:lastmodified":1553718060,
     "wof:name":"Buucagaan",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

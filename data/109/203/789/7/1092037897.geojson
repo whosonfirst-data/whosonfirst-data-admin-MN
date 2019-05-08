@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448549,
-    "geom:area_square_m":3698255133.873372,
+    "geom:area_square_m":3698255133.873488,
     "geom:bbox":"97.0427431585,47.8409508972,98.0673622305,48.5308017507",
     "geom:latitude":48.180399,
     "geom:longitude":97.55656,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Ider Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.200934,
     "lbl:longitude":97.546785,
     "meso:admin_1":"Zavxan",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092037897,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037665,
     "wof:name":"Ider",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

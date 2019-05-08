@@ -10,6 +10,12 @@
     "geom:latitude":51.247835,
     "geom:longitude":100.597792,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xanx Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":51.303669,
     "lbl:longitude":100.655754,
     "meso:admin_1":"Xo'vsgol",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1092043281,
-    "wof:lastmodified":1536615122,
+    "wof:lastmodified":1553718074,
     "wof:name":"Xanx",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

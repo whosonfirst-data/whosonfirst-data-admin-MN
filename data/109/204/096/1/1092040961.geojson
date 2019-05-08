@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509155,
-    "geom:area_square_m":4160550490.194828,
+    "geom:area_square_m":4160550490.195018,
     "geom:bbox":"113.624442029,48.1908470196,114.554068201,49.0790083162",
     "geom:latitude":48.635276,
     "geom:longitude":114.108153,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sergelen Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.619846,
     "lbl:longitude":114.145801,
     "meso:admin_1":"Dornod",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092040961,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037662,
     "wof:name":"Sergelen",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

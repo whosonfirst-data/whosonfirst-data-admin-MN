@@ -10,6 +10,12 @@
     "geom:latitude":48.870202,
     "geom:longitude":96.981462,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "No'mrog Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.893901,
     "lbl:longitude":97.060663,
     "meso:admin_1":"Zavxan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092039319,
-    "wof:lastmodified":1536615116,
+    "wof:lastmodified":1553718067,
     "wof:name":"No'mrog",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

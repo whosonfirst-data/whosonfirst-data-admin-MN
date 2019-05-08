@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122246,
-    "geom:area_square_m":1014282561.633768,
+    "geom:area_square_m":1014282561.633581,
     "geom:bbox":"104.276514101,47.6171556951,104.745314598,48.0774586434",
     "geom:latitude":47.855484,
     "geom:longitude":104.510329,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayannuur Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.8672,
     "lbl:longitude":104.513863,
     "meso:admin_1":"Bulgan",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092033931,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037671,
     "wof:name":"Bayannuur",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":47.888368,
     "geom:longitude":106.079648,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Argalant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.892801,
     "lbl:longitude":106.042542,
     "meso:admin_1":"To'v",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092032141,
-    "wof:lastmodified":1536615104,
+    "wof:lastmodified":1553718056,
     "wof:name":"Argalant",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

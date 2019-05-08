@@ -10,6 +10,12 @@
     "geom:latitude":46.752208,
     "geom:longitude":100.126737,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Galuut Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.721005,
     "lbl:longitude":100.08218,
     "meso:admin_1":"Bayanxongor",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092037565,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Galuut",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

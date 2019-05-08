@@ -10,6 +10,12 @@
     "geom:latitude":47.388685,
     "geom:longitude":92.266209,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Manxan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.439775,
     "lbl:longitude":92.273865,
     "meso:admin_1":"Xovd",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092038773,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718066,
     "wof:name":"Manxan",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

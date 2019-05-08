@@ -10,6 +10,12 @@
     "geom:latitude":49.069241,
     "geom:longitude":112.641367,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayan-Uul Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.044247,
     "lbl:longitude":112.653567,
     "meso:admin_1":"Dornod",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092033191,
-    "wof:lastmodified":1536615105,
+    "wof:lastmodified":1553718057,
     "wof:name":"Bayan-Uul",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.626812,
-    "geom:area_square_m":5401482870.8248,
+    "geom:area_square_m":5401482870.824541,
     "geom:bbox":"94.2117594729,45.2590298842,95.4328584977,46.1993062852",
     "geom:latitude":45.820225,
     "geom:longitude":94.851385,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "To'grog Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.844477,
     "lbl:longitude":94.911424,
     "meso:admin_1":"Govi-Altai",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092041923,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555037660,
     "wof:name":"To'grog",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

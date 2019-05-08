@@ -10,6 +10,12 @@
     "geom:latitude":47.260561,
     "geom:longitude":102.39691,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xotont Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.270579,
     "lbl:longitude":102.421414,
     "meso:admin_1":"Arxangai",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1092043691,
-    "wof:lastmodified":1536615122,
+    "wof:lastmodified":1553718074,
     "wof:name":"Xotont",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

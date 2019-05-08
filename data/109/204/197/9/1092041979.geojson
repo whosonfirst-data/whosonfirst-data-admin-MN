@@ -10,6 +10,12 @@
     "geom:latitude":49.270949,
     "geom:longitude":100.207442,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "To'morbulag Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.254771,
     "lbl:longitude":100.255689,
     "meso:admin_1":"Xo'vsgol",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1092041979,
-    "wof:lastmodified":1536615120,
+    "wof:lastmodified":1553718071,
     "wof:name":"To'morbulag",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":45.121859,
     "geom:longitude":104.663387,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Delgerxangai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.112061,
     "lbl:longitude":104.674144,
     "meso:admin_1":"Dundgovi",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092036889,
-    "wof:lastmodified":1536615112,
+    "wof:lastmodified":1553718063,
     "wof:name":"Delgerxangai",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

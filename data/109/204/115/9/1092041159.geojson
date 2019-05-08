@@ -10,6 +10,12 @@
     "geom:latitude":49.228793,
     "geom:longitude":106.46079,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sharyngol Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.229954,
     "lbl:longitude":106.462292,
     "meso:admin_1":"Darxan-Uul",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1092041159,
-    "wof:lastmodified":1536615118,
+    "wof:lastmodified":1553718070,
     "wof:name":"Sharyngol",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

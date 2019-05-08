@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.625494,
-    "geom:area_square_m":5443059471.020154,
+    "geom:area_square_m":5443059471.019406,
     "geom:bbox":"102.673799247,44.8227617676,103.789384049,45.7756593047",
     "geom:latitude":45.270899,
     "geom:longitude":103.161954,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "To'grog Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.218255,
     "lbl:longitude":103.161937,
     "meso:admin_1":"O'vorxangai",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092041963,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555037660,
     "wof:name":"To'grog",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

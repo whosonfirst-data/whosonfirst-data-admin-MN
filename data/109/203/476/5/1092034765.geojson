@@ -10,6 +10,12 @@
     "geom:latitude":49.458919,
     "geom:longitude":99.575042,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bu'rentogtox Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.400759,
     "lbl:longitude":99.516266,
     "meso:admin_1":"Xo'vsgol",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1092034765,
-    "wof:lastmodified":1536615108,
+    "wof:lastmodified":1553718060,
     "wof:name":"Bu'rentogtox",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

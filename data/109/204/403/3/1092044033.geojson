@@ -10,6 +10,12 @@
     "geom:latitude":49.717615,
     "geom:longitude":105.45162,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xushaat Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.765605,
     "lbl:longitude":105.584151,
     "meso:admin_1":"Selenge",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092044033,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718074,
     "wof:name":"Xushaat",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

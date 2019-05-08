@@ -10,6 +10,12 @@
     "geom:latitude":47.757159,
     "geom:longitude":108.208065,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayandelger Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.712115,
     "lbl:longitude":108.114309,
     "meso:admin_1":"To'v",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092033557,
-    "wof:lastmodified":1536615106,
+    "wof:lastmodified":1553718058,
     "wof:name":"Bayandelger",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":49.640174,
     "geom:longitude":100.149269,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Mo'ron Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.650105,
     "lbl:longitude":100.158593,
     "meso:admin_1":"Xo'vsgol",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092039001,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718067,
     "wof:name":"Mo'ron",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

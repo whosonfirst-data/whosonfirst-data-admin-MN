@@ -10,6 +10,12 @@
     "geom:latitude":47.823372,
     "geom:longitude":108.343882,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Baganuur Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.820894,
     "lbl:longitude":108.346635,
     "meso:admin_1":"Ulaanbaatar",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092032381,
-    "wof:lastmodified":1536615104,
+    "wof:lastmodified":1553718056,
     "wof:name":"Baganuur",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

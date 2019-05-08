@@ -10,6 +10,12 @@
     "geom:latitude":49.611047,
     "geom:longitude":95.594522,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tes Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.58631,
     "lbl:longitude":95.597944,
     "meso:admin_1":"Zavxan",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092041897,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718071,
     "wof:name":"Tes",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

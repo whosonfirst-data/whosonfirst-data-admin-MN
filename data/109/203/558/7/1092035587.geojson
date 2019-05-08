@@ -10,6 +10,12 @@
     "geom:latitude":48.57987,
     "geom:longitude":95.861892,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cecen-Uul Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.582527,
     "lbl:longitude":95.812836,
     "meso:admin_1":"Zavxan",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092035587,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718061,
     "wof:name":"Cecen-Uul",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

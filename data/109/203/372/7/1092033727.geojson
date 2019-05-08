@@ -10,6 +10,12 @@
     "geom:latitude":45.78409,
     "geom:longitude":108.051719,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayanjargalan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.808582,
     "lbl:longitude":108.013193,
     "meso:admin_1":"Dundgovi",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092033727,
-    "wof:lastmodified":1536615106,
+    "wof:lastmodified":1553718058,
     "wof:name":"Bayanjargalan",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

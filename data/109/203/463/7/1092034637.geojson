@@ -10,6 +10,12 @@
     "geom:latitude":48.495604,
     "geom:longitude":106.254213,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bornuur Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.508621,
     "lbl:longitude":106.276314,
     "meso:admin_1":"To'v",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092034637,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Bornuur",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

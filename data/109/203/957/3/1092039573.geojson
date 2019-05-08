@@ -10,6 +10,12 @@
     "geom:latitude":48.979365,
     "geom:longitude":89.958904,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "O'lgii Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.986404,
     "lbl:longitude":89.93973,
     "meso:admin_1":"Bayan-O'lgii",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092039573,
-    "wof:lastmodified":1536615116,
+    "wof:lastmodified":1553718067,
     "wof:name":"O'lgii",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

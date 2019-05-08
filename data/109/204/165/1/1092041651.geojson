@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.475499,
-    "geom:area_square_m":3799124904.876609,
+    "geom:area_square_m":3799124904.876752,
     "geom:bbox":"91.259918399,49.3048487362,92.4981734672,50.184003115",
     "geom:latitude":49.747781,
     "geom:longitude":91.863447,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tarialan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.76547,
     "lbl:longitude":91.872733,
     "meso:admin_1":"Uvs",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092041651,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555037661,
     "wof:name":"Tarialan",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

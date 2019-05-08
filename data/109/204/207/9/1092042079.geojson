@@ -10,6 +10,12 @@
     "geom:latitude":48.396869,
     "geom:longitude":90.371356,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tolbo Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.388716,
     "lbl:longitude":90.380407,
     "meso:admin_1":"Bayan-O'lgii",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092042079,
-    "wof:lastmodified":1536615120,
+    "wof:lastmodified":1553718072,
     "wof:name":"Tolbo",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

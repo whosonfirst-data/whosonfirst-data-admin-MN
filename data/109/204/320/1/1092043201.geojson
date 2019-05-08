@@ -10,6 +10,12 @@
     "geom:latitude":49.358746,
     "geom:longitude":104.397231,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xangal Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.331594,
     "lbl:longitude":104.402019,
     "meso:admin_1":"Bulgan",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092043201,
-    "wof:lastmodified":1536615121,
+    "wof:lastmodified":1553718073,
     "wof:name":"Xangal",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

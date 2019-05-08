@@ -10,6 +10,12 @@
     "geom:latitude":49.465574,
     "geom:longitude":97.681896,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cecerleg Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.507498,
     "lbl:longitude":97.667625,
     "meso:admin_1":"Xo'vsgol",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092035669,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718062,
     "wof:name":"Cecerleg",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

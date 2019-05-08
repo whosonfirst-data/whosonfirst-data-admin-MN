@@ -10,6 +10,12 @@
     "geom:latitude":48.159886,
     "geom:longitude":95.794103,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Erdenexairxan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.197557,
     "lbl:longitude":95.857942,
     "meso:admin_1":"Zavxan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092037439,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Erdenexairxan",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

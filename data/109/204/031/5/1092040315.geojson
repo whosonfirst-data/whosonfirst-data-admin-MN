@@ -10,6 +10,12 @@
     "geom:latitude":49.180535,
     "geom:longitude":101.270213,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Rashaant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.201407,
     "lbl:longitude":101.220443,
     "meso:admin_1":"Xo'vsgol",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092040315,
-    "wof:lastmodified":1536615117,
+    "wof:lastmodified":1553718069,
     "wof:name":"Rashaant",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

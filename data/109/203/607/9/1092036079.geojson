@@ -10,6 +10,12 @@
     "geom:latitude":49.833165,
     "geom:longitude":115.57267,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Chuluunxoroot Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.757477,
     "lbl:longitude":116.029376,
     "meso:admin_1":"Dornod",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1092036079,
-    "wof:lastmodified":1536615110,
+    "wof:lastmodified":1553718062,
     "wof:name":"Chuluunxoroot",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

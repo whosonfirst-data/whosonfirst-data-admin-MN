@@ -10,6 +10,12 @@
     "geom:latitude":44.172107,
     "geom:longitude":108.376211,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Mandax Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":44.12022,
     "lbl:longitude":108.361578,
     "meso:admin_1":"Dornogovi",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092038691,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718066,
     "wof:name":"Mandax",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

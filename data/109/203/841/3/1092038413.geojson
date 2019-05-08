@@ -10,6 +10,12 @@
     "geom:latitude":49.743582,
     "geom:longitude":106.359151,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Javxlant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.738617,
     "lbl:longitude":106.359186,
     "meso:admin_1":"Selenge",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092038413,
-    "wof:lastmodified":1536615114,
+    "wof:lastmodified":1553718066,
     "wof:name":"Javxlant",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

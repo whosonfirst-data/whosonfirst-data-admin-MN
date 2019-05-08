@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.801222,
-    "geom:area_square_m":24912421194.0518,
+    "geom:area_square_m":24912421194.051945,
     "geom:bbox":"96.6500006395,42.701952626,98.3260914451,45.3722964305",
     "geom:latitude":44.004326,
     "geom:longitude":97.442778,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Erdene Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":44.002354,
     "lbl:longitude":97.458603,
     "meso:admin_1":"Govi-Altai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092037307,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037666,
     "wof:name":"Erdene",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

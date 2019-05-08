@@ -10,6 +10,12 @@
     "geom:latitude":48.56389,
     "geom:longitude":91.904296,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Myangad Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.524,
     "lbl:longitude":91.938346,
     "meso:admin_1":"Xovd",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092039123,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718067,
     "wof:name":"Myangad",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":47.485441,
     "geom:longitude":101.46047,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Erdenebulgan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.483787,
     "lbl:longitude":101.450369,
     "meso:admin_1":"Arxangai",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092037161,
-    "wof:lastmodified":1536615112,
+    "wof:lastmodified":1553718063,
     "wof:name":"Erdenebulgan",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

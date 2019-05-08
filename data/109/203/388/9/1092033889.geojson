@@ -10,6 +10,12 @@
     "geom:latitude":48.899667,
     "geom:longitude":90.928173,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayannuur Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.857493,
     "lbl:longitude":90.891816,
     "meso:admin_1":"Bayan-O'lgii",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092033889,
-    "wof:lastmodified":1536615106,
+    "wof:lastmodified":1553718058,
     "wof:name":"Bayannuur",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

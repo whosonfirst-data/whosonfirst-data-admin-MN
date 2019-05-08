@@ -10,6 +10,12 @@
     "geom:latitude":48.026869,
     "geom:longitude":106.882561,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Chingeltei Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.00202,
     "lbl:longitude":106.895012,
     "meso:admin_1":"Ulaanbaatar",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1092036017,
-    "wof:lastmodified":1536615110,
+    "wof:lastmodified":1553718062,
     "wof:name":"Chingeltei",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

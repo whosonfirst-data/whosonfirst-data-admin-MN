@@ -10,6 +10,12 @@
     "geom:latitude":49.707624,
     "geom:longitude":106.029969,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Orxon Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.623741,
     "lbl:longitude":105.947842,
     "meso:admin_1":"Darxan-Uul",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092040117,
-    "wof:lastmodified":1536615117,
+    "wof:lastmodified":1553718069,
     "wof:name":"Orxon",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

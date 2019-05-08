@@ -10,6 +10,12 @@
     "geom:latitude":48.281744,
     "geom:longitude":102.927183,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Mogod Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.358097,
     "lbl:longitude":102.895077,
     "meso:admin_1":"Bulgan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092039077,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718067,
     "wof:name":"Mogod",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":45.589904,
     "geom:longitude":105.787608,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Luus Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.595005,
     "lbl:longitude":105.754388,
     "meso:admin_1":"Dundgovi",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092038529,
-    "wof:lastmodified":1536615114,
+    "wof:lastmodified":1553718066,
     "wof:name":"Luus",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

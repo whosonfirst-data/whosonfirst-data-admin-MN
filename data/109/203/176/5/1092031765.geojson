@@ -10,6 +10,12 @@
     "geom:latitude":50.237312,
     "geom:longitude":100.078265,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Alag-Erdene Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.16981,
     "lbl:longitude":100.069559,
     "meso:admin_1":"Xo'vsgol",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092031765,
-    "wof:lastmodified":1536615103,
+    "wof:lastmodified":1553718055,
     "wof:name":"Alag-Erdene",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

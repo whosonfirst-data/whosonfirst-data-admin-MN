@@ -10,6 +10,12 @@
     "geom:latitude":43.790521,
     "geom:longitude":98.380304,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayan-O'ndor Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.742392,
     "lbl:longitude":98.369932,
     "meso:admin_1":"Bayanxongor",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092032889,
-    "wof:lastmodified":1536615105,
+    "wof:lastmodified":1553718057,
     "wof:name":"Bayan-O'ndor",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

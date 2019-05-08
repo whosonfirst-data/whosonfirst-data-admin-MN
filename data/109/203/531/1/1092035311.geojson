@@ -10,6 +10,12 @@
     "geom:latitude":46.382856,
     "geom:longitude":107.858467,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cagaandelger Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.346634,
     "lbl:longitude":107.946759,
     "meso:admin_1":"Dundgovi",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092035311,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718061,
     "wof:name":"Cagaandelger",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

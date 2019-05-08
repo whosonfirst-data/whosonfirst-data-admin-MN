@@ -10,6 +10,12 @@
     "geom:latitude":45.409474,
     "geom:longitude":100.297294,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Jinst Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.476737,
     "lbl:longitude":100.344646,
     "meso:admin_1":"Bayanxongor",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092038457,
-    "wof:lastmodified":1536615114,
+    "wof:lastmodified":1553718066,
     "wof:name":"Jinst",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

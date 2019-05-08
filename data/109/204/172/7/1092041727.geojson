@@ -10,6 +10,12 @@
     "geom:latitude":48.221502,
     "geom:longitude":99.858508,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tariat Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.221192,
     "lbl:longitude":99.921277,
     "meso:admin_1":"Arxangai",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1092041727,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718071,
     "wof:name":"Tariat",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

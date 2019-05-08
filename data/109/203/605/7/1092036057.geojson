@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.237662,
-    "geom:area_square_m":10054397620.202564,
+    "geom:area_square_m":10054397620.202608,
     "geom:bbox":"114.470807666,48.1347115035,116.518133783,49.6522475393",
     "geom:latitude":48.929054,
     "geom:longitude":115.491302,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Choibalsan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.890954,
     "lbl:longitude":115.677127,
     "meso:admin_1":"Dornod",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092036057,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037668,
     "wof:name":"Choibalsan",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":43.80032,
     "geom:longitude":111.83131,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Zamyn U'ud Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.802156,
     "lbl:longitude":111.834112,
     "meso:admin_1":"Dornogovi",
@@ -137,7 +143,7 @@
         }
     ],
     "wof:id":1092044427,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718075,
     "wof:name":"Zamyn U'ud",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":46.27751,
     "geom:longitude":113.000588,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xalzan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.32087,
     "lbl:longitude":113.042103,
     "meso:admin_1":"Su'xbaatar",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092043027,
-    "wof:lastmodified":1536615121,
+    "wof:lastmodified":1553718072,
     "wof:name":"Xalzan",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

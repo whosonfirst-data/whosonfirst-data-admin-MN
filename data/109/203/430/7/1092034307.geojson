@@ -10,6 +10,12 @@
     "geom:latitude":46.18935,
     "geom:longitude":100.703921,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayanxongor Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.18536,
     "lbl:longitude":100.713958,
     "meso:admin_1":"Bayanxongor",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092034307,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Bayanxongor",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

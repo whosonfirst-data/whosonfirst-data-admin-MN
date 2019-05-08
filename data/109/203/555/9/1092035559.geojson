@@ -10,6 +10,12 @@
     "geom:latitude":46.358344,
     "geom:longitude":93.261853,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Ceceg Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.360531,
     "lbl:longitude":93.269494,
     "meso:admin_1":"Xovd",
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1092035559,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718061,
     "wof:name":"Ceceg",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

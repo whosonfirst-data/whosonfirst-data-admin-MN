@@ -10,6 +10,12 @@
     "geom:latitude":49.670102,
     "geom:longitude":114.228849,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Dashbalbar Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.653567,
     "lbl:longitude":114.154015,
     "meso:admin_1":"Dornod",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1092036595,
-    "wof:lastmodified":1536615111,
+    "wof:lastmodified":1553718063,
     "wof:name":"Dashbalbar",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

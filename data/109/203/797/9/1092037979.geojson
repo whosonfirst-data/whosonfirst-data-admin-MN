@@ -10,6 +10,12 @@
     "geom:latitude":49.534894,
     "geom:longitude":101.477363,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Ix-Uul Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.547579,
     "lbl:longitude":101.477342,
     "meso:admin_1":"Xo'vsgol",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092037979,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Ix-Uul",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

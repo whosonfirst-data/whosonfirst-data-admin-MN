@@ -10,6 +10,12 @@
     "geom:latitude":49.262255,
     "geom:longitude":95.353405,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Zu'unxangai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.277358,
     "lbl:longitude":95.348454,
     "meso:admin_1":"Uvs",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092044717,
-    "wof:lastmodified":1536615124,
+    "wof:lastmodified":1553718076,
     "wof:name":"Zu'unxangai",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

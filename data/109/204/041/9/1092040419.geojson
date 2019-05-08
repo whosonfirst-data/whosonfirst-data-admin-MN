@@ -10,6 +10,12 @@
     "geom:latitude":48.486291,
     "geom:longitude":89.255967,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sagsai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.310828,
     "lbl:longitude":89.011972,
     "meso:admin_1":"Bayan-O'lgii",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092040419,
-    "wof:lastmodified":1536615117,
+    "wof:lastmodified":1553718069,
     "wof:name":"Sagsai",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.647851,
-    "geom:area_square_m":5617639625.538061,
+    "geom:area_square_m":5617639625.537799,
     "geom:bbox":"94.9548442439,45.0308343621,96.2821820149,45.8146346521",
     "geom:latitude":45.471738,
     "geom:longitude":95.67783,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Ceel Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.482684,
     "lbl:longitude":95.677774,
     "meso:admin_1":"Govi-Altai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092035699,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037669,
     "wof:name":"Ceel",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

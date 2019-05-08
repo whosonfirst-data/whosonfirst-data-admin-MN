@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.079494,
-    "geom:area_square_m":9565859389.436844,
+    "geom:area_square_m":9565859389.436541,
     "geom:bbox":"110.272184939,43.484915,111.850846224,44.8768114754",
     "geom:latitude":44.221041,
     "geom:longitude":111.13861,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Erdene Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":44.155471,
     "lbl:longitude":111.126626,
     "meso:admin_1":"Dornogovi",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1092037263,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037667,
     "wof:name":"Erdene",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

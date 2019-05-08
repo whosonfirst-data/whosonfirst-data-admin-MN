@@ -10,6 +10,12 @@
     "geom:latitude":48.841071,
     "geom:longitude":109.812703,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Batshireet Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.846126,
     "lbl:longitude":109.822773,
     "meso:admin_1":"Xentii",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092032725,
-    "wof:lastmodified":1536615105,
+    "wof:lastmodified":1553718057,
     "wof:name":"Batshireet",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

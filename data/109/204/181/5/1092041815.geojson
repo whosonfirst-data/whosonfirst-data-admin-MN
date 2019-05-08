@@ -10,6 +10,12 @@
     "geom:latitude":50.000719,
     "geom:longitude":103.078725,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Teshig Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.003759,
     "lbl:longitude":102.998685,
     "meso:admin_1":"Bulgan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092041815,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718071,
     "wof:name":"Teshig",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

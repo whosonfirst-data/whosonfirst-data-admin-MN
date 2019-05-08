@@ -10,6 +10,12 @@
     "geom:latitude":47.278363,
     "geom:longitude":104.476198,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Erdenesant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.254764,
     "lbl:longitude":104.508243,
     "meso:admin_1":"To'v",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092037369,
-    "wof:lastmodified":1536615112,
+    "wof:lastmodified":1553718064,
     "wof:name":"Erdenesant",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.531743,
-    "geom:area_square_m":4610273302.60604,
+    "geom:area_square_m":4610273302.606404,
     "geom:bbox":"97.4847828613,45.040168911,98.4902492163,45.832904932",
     "geom:latitude":45.478686,
     "geom:longitude":98.01083,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Chandmani Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.458754,
     "lbl:longitude":98.020338,
     "meso:admin_1":"Govi-Altai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092035941,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037668,
     "wof:name":"Chandmani",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

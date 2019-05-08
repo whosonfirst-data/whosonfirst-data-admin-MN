@@ -10,6 +10,12 @@
     "geom:latitude":50.917566,
     "geom:longitude":101.632723,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cagaan-U'ur Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.916649,
     "lbl:longitude":101.645822,
     "meso:admin_1":"Xo'vsgol",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1092035203,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718061,
     "wof:name":"Cagaan-U'ur",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

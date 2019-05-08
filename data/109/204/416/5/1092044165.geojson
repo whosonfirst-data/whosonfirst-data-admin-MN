@@ -10,6 +10,12 @@
     "geom:latitude":48.122709,
     "geom:longitude":96.437196,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Yaruu Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.290785,
     "lbl:longitude":96.795657,
     "meso:admin_1":"Zavxan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092044165,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718075,
     "wof:name":"Yaruu",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

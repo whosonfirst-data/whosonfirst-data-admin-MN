@@ -10,6 +10,12 @@
     "geom:latitude":43.7719,
     "geom:longitude":105.878907,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cogt-Cecii Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.811575,
     "lbl:longitude":105.866804,
     "meso:admin_1":"O'mnogovi",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092036167,
-    "wof:lastmodified":1536615110,
+    "wof:lastmodified":1553718062,
     "wof:name":"Cogt-Cecii",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

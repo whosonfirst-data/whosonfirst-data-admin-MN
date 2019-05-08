@@ -10,6 +10,12 @@
     "geom:latitude":47.833028,
     "geom:longitude":108.911944,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cenxermandal Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.8539,
     "lbl:longitude":108.966835,
     "meso:admin_1":"Xentii",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092035859,
-    "wof:lastmodified":1536615110,
+    "wof:lastmodified":1553718061,
     "wof:name":"Cenxermandal",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

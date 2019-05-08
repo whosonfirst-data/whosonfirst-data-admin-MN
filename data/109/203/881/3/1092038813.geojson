@@ -10,6 +10,12 @@
     "geom:latitude":47.126827,
     "geom:longitude":115.897985,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Matad Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.155866,
     "lbl:longitude":115.897797,
     "meso:admin_1":"Dornod",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092038813,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718067,
     "wof:name":"Matad",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

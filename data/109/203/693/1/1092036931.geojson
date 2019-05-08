@@ -10,6 +10,12 @@
     "geom:latitude":47.784568,
     "geom:longitude":90.623033,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Delu'un Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.799657,
     "lbl:longitude":90.671752,
     "meso:admin_1":"Bayan-O'lgii",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1092036931,
-    "wof:lastmodified":1536615112,
+    "wof:lastmodified":1553718064,
     "wof:name":"Delu'un",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

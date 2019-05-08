@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.669195,
-    "geom:area_square_m":5697601365.693901,
+    "geom:area_square_m":5697601365.693988,
     "geom:bbox":"94.5754305994,46.1283595208,96.0124928177,46.8458434041",
     "geom:latitude":46.484005,
     "geom:longitude":95.265646,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sharga Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.466491,
     "lbl:longitude":95.20761,
     "meso:admin_1":"Govi-Altai",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092041123,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037661,
     "wof:name":"Sharga",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

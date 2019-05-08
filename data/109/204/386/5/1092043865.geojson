@@ -10,6 +10,12 @@
     "geom:latitude":46.478508,
     "geom:longitude":98.322233,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xu'reemaral Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.396143,
     "lbl:longitude":98.164119,
     "meso:admin_1":"Bayanxongor",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092043865,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718074,
     "wof:name":"Xu'reemaral",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.342347,
     "geom:longitude":105.116084,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cogt-Ovoo Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":44.334628,
     "lbl:longitude":105.116001,
     "meso:admin_1":"O'mnogovi",
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1092036203,
-    "wof:lastmodified":1536615110,
+    "wof:lastmodified":1553718062,
     "wof:name":"Cogt-Ovoo",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":45.568169,
     "geom:longitude":109.321387,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Airag Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.679333,
     "lbl:longitude":109.50101,
     "meso:admin_1":"Dornogovi",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092031733,
-    "wof:lastmodified":1536615103,
+    "wof:lastmodified":1553718055,
     "wof:name":"Airag",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

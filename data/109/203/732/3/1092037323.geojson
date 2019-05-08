@@ -10,6 +10,12 @@
     "geom:latitude":48.389988,
     "geom:longitude":101.450181,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Erdenemandal Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.474613,
     "lbl:longitude":101.35574,
     "meso:admin_1":"Arxangai",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092037323,
-    "wof:lastmodified":1536615112,
+    "wof:lastmodified":1553718064,
     "wof:name":"Erdenemandal",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203187,
-    "geom:area_square_m":1690221676.750699,
+    "geom:area_square_m":1690221676.750499,
     "geom:bbox":"102.235433656,47.5246941935,103.062212765,47.8917865742",
     "geom:latitude":47.721192,
     "geom:longitude":102.610446,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "O'giinuur Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.710084,
     "lbl:longitude":102.569139,
     "meso:admin_1":"Arxangai",
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092039533,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037664,
     "wof:name":"O'giinuur",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":46.427677,
     "geom:longitude":101.931004,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Uyanga Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.377173,
     "lbl:longitude":101.730289,
     "meso:admin_1":"O'vorxangai",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092042803,
-    "wof:lastmodified":1536615121,
+    "wof:lastmodified":1553718073,
     "wof:name":"Uyanga",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

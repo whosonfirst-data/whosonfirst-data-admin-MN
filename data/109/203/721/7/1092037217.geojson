@@ -10,6 +10,12 @@
     "geom:latitude":46.038402,
     "geom:longitude":104.955587,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Erdenedalai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.041622,
     "lbl:longitude":104.955598,
     "meso:admin_1":"Dundgovi",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092037217,
-    "wof:lastmodified":1536615112,
+    "wof:lastmodified":1553718064,
     "wof:name":"Erdenedalai",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

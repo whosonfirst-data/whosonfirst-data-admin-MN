@@ -10,6 +10,12 @@
     "geom:latitude":46.158877,
     "geom:longitude":100.315608,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayan-Ovoo Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.087845,
     "lbl:longitude":100.286636,
     "meso:admin_1":"Bayanxongor",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092033065,
-    "wof:lastmodified":1536615105,
+    "wof:lastmodified":1553718057,
     "wof:name":"Bayan-Ovoo",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

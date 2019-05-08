@@ -10,6 +10,12 @@
     "geom:latitude":47.830597,
     "geom:longitude":105.596158,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayanxangai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.910705,
     "lbl:longitude":105.533543,
     "meso:admin_1":"To'v",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092034267,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Bayanxangai",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

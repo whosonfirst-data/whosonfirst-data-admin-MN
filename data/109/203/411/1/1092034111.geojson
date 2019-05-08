@@ -10,6 +10,12 @@
     "geom:latitude":49.356752,
     "geom:longitude":96.29049,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayanxairxan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.385751,
     "lbl:longitude":96.340064,
     "meso:admin_1":"Zavxan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092034111,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Bayanxairxan",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":43.293285,
     "geom:longitude":100.661945,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Gurvantes Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.256861,
     "lbl:longitude":100.661891,
     "meso:admin_1":"O'mnogovi",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092037813,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Gurvantes",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

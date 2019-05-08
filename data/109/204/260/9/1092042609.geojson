@@ -10,6 +10,12 @@
     "geom:latitude":43.900247,
     "geom:longitude":110.278718,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Ulaanbadrax Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.893692,
     "lbl:longitude":110.295951,
     "meso:admin_1":"Dornogovi",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092042609,
-    "wof:lastmodified":1536615121,
+    "wof:lastmodified":1553718072,
     "wof:name":"Ulaanbadrax",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

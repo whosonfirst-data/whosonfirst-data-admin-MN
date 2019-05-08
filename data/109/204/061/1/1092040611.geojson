@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.46752,
-    "geom:area_square_m":4048057255.962679,
+    "geom:area_square_m":4048057255.963238,
     "geom:bbox":"103.608888305,45.1511895992,104.59833422,45.9931956787",
     "geom:latitude":45.553591,
     "geom:longitude":104.094702,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Saixan-Ovoo Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.486851,
     "lbl:longitude":104.045991,
     "meso:admin_1":"Dundgovi",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092040611,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037663,
     "wof:name":"Saixan-Ovoo",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

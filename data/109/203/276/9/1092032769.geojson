@@ -10,6 +10,12 @@
     "geom:latitude":48.411148,
     "geom:longitude":106.857433,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Batsu'mber Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.413606,
     "lbl:longitude":106.941631,
     "meso:admin_1":"To'v",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092032769,
-    "wof:lastmodified":1536615105,
+    "wof:lastmodified":1553718057,
     "wof:name":"Batsu'mber",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":44.506489,
     "geom:longitude":96.607442,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cogt Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.135841,
     "lbl:longitude":96.617322,
     "meso:admin_1":"Govi-Altai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092036241,
-    "wof:lastmodified":1536615110,
+    "wof:lastmodified":1553718062,
     "wof:name":"Cogt",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

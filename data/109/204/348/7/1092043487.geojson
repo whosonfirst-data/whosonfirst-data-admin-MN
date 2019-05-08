@@ -10,6 +10,12 @@
     "geom:latitude":48.203869,
     "geom:longitude":103.509652,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xishig-O'ndor Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.264705,
     "lbl:longitude":103.473699,
     "meso:admin_1":"Bulgan",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092043487,
-    "wof:lastmodified":1536615122,
+    "wof:lastmodified":1553718074,
     "wof:name":"Xishig-O'ndor",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

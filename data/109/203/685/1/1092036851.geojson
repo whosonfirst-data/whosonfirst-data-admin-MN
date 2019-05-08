@@ -10,6 +10,12 @@
     "geom:latitude":47.275845,
     "geom:longitude":108.966101,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Delgerxaan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.303004,
     "lbl:longitude":108.910633,
     "meso:admin_1":"Xentii",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092036851,
-    "wof:lastmodified":1536615111,
+    "wof:lastmodified":1553718063,
     "wof:name":"Delgerxaan",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

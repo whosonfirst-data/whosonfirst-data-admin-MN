@@ -10,6 +10,12 @@
     "geom:latitude":48.817293,
     "geom:longitude":105.880661,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Su'mber Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.8051,
     "lbl:longitude":105.921659,
     "meso:admin_1":"To'v",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092041439,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718070,
     "wof:name":"Su'mber",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":50.495876,
     "geom:longitude":100.84704,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Chandmani-O'ndor Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.507914,
     "lbl:longitude":100.838394,
     "meso:admin_1":"Xo'vsgol",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092035901,
-    "wof:lastmodified":1536615110,
+    "wof:lastmodified":1553718063,
     "wof:name":"Chandmani-O'ndor",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

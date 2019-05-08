@@ -10,6 +10,12 @@
     "geom:latitude":48.257844,
     "geom:longitude":104.699739,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Zaamar Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.261393,
     "lbl:longitude":104.727283,
     "meso:admin_1":"To'v",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092044343,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718075,
     "wof:name":"Zaamar",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

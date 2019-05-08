@@ -10,6 +10,12 @@
     "geom:latitude":45.782825,
     "geom:longitude":103.340578,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayangol Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.765485,
     "lbl:longitude":103.386092,
     "meso:admin_1":"O'vorxangai",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092033635,
-    "wof:lastmodified":1536615106,
+    "wof:lastmodified":1553718058,
     "wof:name":"Bayangol",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

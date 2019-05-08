@@ -10,6 +10,12 @@
     "geom:latitude":50.285604,
     "geom:longitude":91.272987,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sagil Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.292361,
     "lbl:longitude":91.272918,
     "meso:admin_1":"Uvs",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092040399,
-    "wof:lastmodified":1536615117,
+    "wof:lastmodified":1553718070,
     "wof:name":"Sagil",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

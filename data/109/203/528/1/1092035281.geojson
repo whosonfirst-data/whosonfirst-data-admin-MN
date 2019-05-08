@@ -10,6 +10,12 @@
     "geom:latitude":47.117723,
     "geom:longitude":96.679004,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cagaanchuluut Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.124624,
     "lbl:longitude":96.764195,
     "meso:admin_1":"Zavxan",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092035281,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718060,
     "wof:name":"Cagaanchuluut",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

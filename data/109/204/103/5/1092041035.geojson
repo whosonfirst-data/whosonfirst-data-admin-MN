@@ -10,6 +10,12 @@
     "geom:latitude":43.770758,
     "geom:longitude":102.398902,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sevrei Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.769372,
     "lbl:longitude":102.398982,
     "meso:admin_1":"O'mnogovi",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092041035,
-    "wof:lastmodified":1536615118,
+    "wof:lastmodified":1553718070,
     "wof:name":"Sevrei",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

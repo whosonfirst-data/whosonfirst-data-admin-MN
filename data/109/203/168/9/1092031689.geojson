@@ -10,6 +10,12 @@
     "geom:latitude":46.331249,
     "geom:longitude":105.705274,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Adaacag Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.331109,
     "lbl:longitude":105.697559,
     "meso:admin_1":"Dundgovi",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092031689,
-    "wof:lastmodified":1536615103,
+    "wof:lastmodified":1553718055,
     "wof:name":"Adaacag",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

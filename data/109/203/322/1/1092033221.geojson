@@ -10,6 +10,12 @@
     "geom:latitude":47.060315,
     "geom:longitude":95.048825,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayan-Uul Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.034335,
     "lbl:longitude":95.102865,
     "meso:admin_1":"Govi-Altai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092033221,
-    "wof:lastmodified":1536615105,
+    "wof:lastmodified":1553718058,
     "wof:name":"Bayan-Uul",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060139,
-    "geom:area_square_m":499459137.553601,
+    "geom:area_square_m":499459137.553676,
     "geom:bbox":"106.505085251,47.7099476912,106.95495221,47.9057092533",
     "geom:latitude":47.80553,
     "geom:longitude":106.738618,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xan-Uul Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.800015,
     "lbl:longitude":106.756834,
     "meso:admin_1":"Ulaanbaatar",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1092043073,
-    "wof:lastmodified":1505431358,
+    "wof:lastmodified":1553718073,
     "wof:name":"Xan-Uul",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

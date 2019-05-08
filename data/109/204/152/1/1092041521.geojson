@@ -10,6 +10,12 @@
     "geom:latitude":48.080027,
     "geom:longitude":106.950578,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Su'xbaatar Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.082684,
     "lbl:longitude":106.956404,
     "meso:admin_1":"Ulaanbaatar",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092041521,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718070,
     "wof:name":"Su'xbaatar",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

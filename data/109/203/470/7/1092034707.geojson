@@ -10,6 +10,12 @@
     "geom:latitude":48.382161,
     "geom:longitude":104.091011,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bu'regxangai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.384403,
     "lbl:longitude":104.091002,
     "meso:admin_1":"Bulgan",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092034707,
-    "wof:lastmodified":1536615108,
+    "wof:lastmodified":1553718060,
     "wof:name":"Bu'regxangai",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

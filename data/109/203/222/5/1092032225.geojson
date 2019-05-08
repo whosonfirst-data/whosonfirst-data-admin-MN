@@ -10,6 +10,12 @@
     "geom:latitude":47.472842,
     "geom:longitude":107.947566,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Arxust Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.465679,
     "lbl:longitude":107.95199,
     "meso:admin_1":"To'v",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092032225,
-    "wof:lastmodified":1536615104,
+    "wof:lastmodified":1553718056,
     "wof:name":"Arxust",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

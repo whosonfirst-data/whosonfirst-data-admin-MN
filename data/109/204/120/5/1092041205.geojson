@@ -10,6 +10,12 @@
     "geom:latitude":46.932801,
     "geom:longitude":97.195136,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Shilu'ustei Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.927697,
     "lbl:longitude":97.202103,
     "meso:admin_1":"Zavxan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092041205,
-    "wof:lastmodified":1536615118,
+    "wof:lastmodified":1553718070,
     "wof:name":"Shilu'ustei",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

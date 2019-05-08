@@ -10,6 +10,12 @@
     "geom:latitude":49.836987,
     "geom:longitude":90.624115,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bo'xmoron Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.800834,
     "lbl:longitude":90.562133,
     "meso:admin_1":"Uvs",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092034529,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Bo'xmoron",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

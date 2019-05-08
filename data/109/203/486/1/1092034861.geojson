@@ -10,6 +10,12 @@
     "geom:latitude":45.229744,
     "geom:longitude":94.132281,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bugat Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.229011,
     "lbl:longitude":94.13225,
     "meso:admin_1":"Govi-Altai",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092034861,
-    "wof:lastmodified":1536615108,
+    "wof:lastmodified":1553718060,
     "wof:name":"Bugat",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

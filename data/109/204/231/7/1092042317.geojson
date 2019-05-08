@@ -10,6 +10,12 @@
     "geom:latitude":49.827919,
     "geom:longitude":100.672569,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tu'nel Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.882497,
     "lbl:longitude":100.571658,
     "meso:admin_1":"Xo'vsgol",
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1092042317,
-    "wof:lastmodified":1536615120,
+    "wof:lastmodified":1553718072,
     "wof:name":"Tu'nel",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

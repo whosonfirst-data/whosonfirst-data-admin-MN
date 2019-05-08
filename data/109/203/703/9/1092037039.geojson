@@ -10,6 +10,12 @@
     "geom:latitude":47.969636,
     "geom:longitude":94.095149,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Do'rvoljin Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.031406,
     "lbl:longitude":93.914167,
     "meso:admin_1":"Zavxan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092037039,
-    "wof:lastmodified":1536615112,
+    "wof:lastmodified":1553718064,
     "wof:name":"Do'rvoljin",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

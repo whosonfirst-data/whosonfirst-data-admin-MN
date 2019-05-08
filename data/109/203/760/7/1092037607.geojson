@@ -10,6 +10,12 @@
     "geom:latitude":46.013415,
     "geom:longitude":107.466339,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Govi-Ugtaal Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.000112,
     "lbl:longitude":107.466356,
     "meso:admin_1":"Dundgovi",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092037607,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Govi-Ugtaal",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

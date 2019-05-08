@@ -10,6 +10,12 @@
     "geom:latitude":49.094494,
     "geom:longitude":102.098916,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayan agt Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.110438,
     "lbl:longitude":102.10657,
     "meso:admin_1":"Bulgan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092032807,
-    "wof:lastmodified":1536615105,
+    "wof:lastmodified":1553718057,
     "wof:name":"Bayan agt",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

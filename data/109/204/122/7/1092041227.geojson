@@ -10,6 +10,12 @@
     "geom:latitude":49.035806,
     "geom:longitude":99.511768,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Shine-Ider Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.020214,
     "lbl:longitude":99.511706,
     "meso:admin_1":"Xo'vsgol",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092041227,
-    "wof:lastmodified":1536615118,
+    "wof:lastmodified":1553718070,
     "wof:name":"Shine-Ider",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

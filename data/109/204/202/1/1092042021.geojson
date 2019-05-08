@@ -10,6 +10,12 @@
     "geom:latitude":47.429623,
     "geom:longitude":102.063696,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "To'vshru'ulex Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.370674,
     "lbl:longitude":101.993798,
     "meso:admin_1":"Arxangai",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1092042021,
-    "wof:lastmodified":1536615120,
+    "wof:lastmodified":1553718071,
     "wof:name":"To'vshru'ulex",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

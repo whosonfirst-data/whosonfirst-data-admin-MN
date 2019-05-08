@@ -10,6 +10,12 @@
     "geom:latitude":46.506255,
     "geom:longitude":102.863769,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Zu'unbayan-Ulaan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.555243,
     "lbl:longitude":102.911117,
     "meso:admin_1":"O'vorxangai",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092044589,
-    "wof:lastmodified":1536615124,
+    "wof:lastmodified":1553718075,
     "wof:name":"Zu'unbayan-Ulaan",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

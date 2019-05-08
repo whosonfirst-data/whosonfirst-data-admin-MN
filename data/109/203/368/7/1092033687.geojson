@@ -10,6 +10,12 @@
     "geom:latitude":44.678185,
     "geom:longitude":100.043554,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayangovi Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":44.717123,
     "lbl:longitude":100.010827,
     "meso:admin_1":"Bayanxongor",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092033687,
-    "wof:lastmodified":1536615106,
+    "wof:lastmodified":1553718058,
     "wof:name":"Bayangovi",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

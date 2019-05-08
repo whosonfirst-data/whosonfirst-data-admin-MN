@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.721131,
-    "geom:area_square_m":5784424540.681387,
+    "geom:area_square_m":5784424540.681587,
     "geom:bbox":"98.0084460672,49.0194857001,99.213007014,50.0157503581",
     "geom:latitude":49.555807,
     "geom:longitude":98.57547,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cagaan-Uul Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.560714,
     "lbl:longitude":98.586945,
     "meso:admin_1":"Xo'vsgol",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1092035237,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037670,
     "wof:name":"Cagaan-Uul",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":47.428243,
     "geom:longitude":94.374216,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xo'xmorit Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.362162,
     "lbl:longitude":94.361496,
     "meso:admin_1":"Govi-Altai",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092043601,
-    "wof:lastmodified":1536615122,
+    "wof:lastmodified":1553718074,
     "wof:name":"Xo'xmorit",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

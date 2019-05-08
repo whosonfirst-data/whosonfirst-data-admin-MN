@@ -10,6 +10,12 @@
     "geom:latitude":47.812702,
     "geom:longitude":107.421284,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Nalaix Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.801281,
     "lbl:longitude":107.424354,
     "meso:admin_1":"Ulaanbaatar",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092039163,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718067,
     "wof:name":"Nalaix",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

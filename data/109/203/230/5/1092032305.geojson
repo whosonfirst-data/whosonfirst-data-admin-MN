@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070401,
-    "geom:area_square_m":565128537.144306,
+    "geom:area_square_m":565128537.144366,
     "geom:bbox":"96.5031535516,49.3746070482,96.9237858698,49.647471537",
     "geom:latitude":49.519941,
     "geom:longitude":96.710823,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Asgat Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.528717,
     "lbl:longitude":96.735856,
     "meso:admin_1":"Zavxan",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092032305,
-    "wof:lastmodified":1553816442,
+    "wof:lastmodified":1555037672,
     "wof:name":"Asgat",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

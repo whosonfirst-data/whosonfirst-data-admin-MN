@@ -10,6 +10,12 @@
     "geom:latitude":46.554834,
     "geom:longitude":110.797035,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Galshir Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.485211,
     "lbl:longitude":110.867237,
     "meso:admin_1":"Xentii",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092037487,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Galshir",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

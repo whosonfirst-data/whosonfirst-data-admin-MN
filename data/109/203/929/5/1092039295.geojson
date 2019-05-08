@@ -10,6 +10,12 @@
     "geom:latitude":45.845024,
     "geom:longitude":101.542311,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Nariinteel Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.841046,
     "lbl:longitude":101.567826,
     "meso:admin_1":"O'vorxangai",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092039295,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718067,
     "wof:name":"Nariinteel",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":42.931661,
     "geom:longitude":107.300141,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xanbogd Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":42.950517,
     "lbl:longitude":107.300096,
     "meso:admin_1":"O'mnogovi",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092043105,
-    "wof:lastmodified":1536615121,
+    "wof:lastmodified":1553718073,
     "wof:name":"Xanbogd",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

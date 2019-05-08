@@ -10,6 +10,12 @@
     "geom:latitude":48.559803,
     "geom:longitude":101.970099,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xairxan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.56469,
     "lbl:longitude":101.970082,
     "meso:admin_1":"Arxangai",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1092042847,
-    "wof:lastmodified":1536615121,
+    "wof:lastmodified":1553718072,
     "wof:name":"Xairxan",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

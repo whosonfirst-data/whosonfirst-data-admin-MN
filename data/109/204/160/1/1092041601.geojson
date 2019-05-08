@@ -10,6 +10,12 @@
     "geom:latitude":46.127872,
     "geom:longitude":102.695648,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Taragt Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.049134,
     "lbl:longitude":102.704196,
     "meso:admin_1":"O'vorxangai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092041601,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718071,
     "wof:name":"Taragt",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

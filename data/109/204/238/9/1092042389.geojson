@@ -10,6 +10,12 @@
     "geom:latitude":50.290955,
     "geom:longitude":105.193412,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tu'shig Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.272243,
     "lbl:longitude":104.980429,
     "meso:admin_1":"Selenge",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092042389,
-    "wof:lastmodified":1536615120,
+    "wof:lastmodified":1553718072,
     "wof:name":"Tu'shig",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

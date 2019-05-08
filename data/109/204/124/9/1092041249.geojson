@@ -10,6 +10,12 @@
     "geom:latitude":43.692084,
     "geom:longitude":99.199965,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Shinejinst Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.010108,
     "lbl:longitude":99.131726,
     "meso:admin_1":"Bayanxongor",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092041249,
-    "wof:lastmodified":1536615118,
+    "wof:lastmodified":1553718071,
     "wof:name":"Shinejinst",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

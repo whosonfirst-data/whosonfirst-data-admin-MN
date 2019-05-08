@@ -10,6 +10,12 @@
     "geom:latitude":50.881664,
     "geom:longitude":98.73237,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Ulaan uul Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.948906,
     "lbl:longitude":98.555669,
     "meso:admin_1":"Xo'vsgol",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092042557,
-    "wof:lastmodified":1536615120,
+    "wof:lastmodified":1553718073,
     "wof:name":"Ulaan uul",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

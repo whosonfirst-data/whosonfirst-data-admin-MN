@@ -10,6 +10,12 @@
     "geom:latitude":48.536576,
     "geom:longitude":108.553717,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Mo'ngonmorit Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.507651,
     "lbl:longitude":108.611242,
     "meso:admin_1":"To'v",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092038853,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718067,
     "wof:name":"Mo'ngonmorit",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

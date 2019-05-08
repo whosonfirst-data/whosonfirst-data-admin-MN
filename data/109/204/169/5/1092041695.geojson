@@ -10,6 +10,12 @@
     "geom:latitude":49.671341,
     "geom:longitude":102.0857,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tarialan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.667531,
     "lbl:longitude":102.040819,
     "meso:admin_1":"Xo'vsgol",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092041695,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718071,
     "wof:name":"Tarialan",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

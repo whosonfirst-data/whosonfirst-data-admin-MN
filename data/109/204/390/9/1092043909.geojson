@@ -10,6 +10,12 @@
     "geom:latitude":42.528161,
     "geom:longitude":103.830295,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xu'rmen Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":42.536612,
     "lbl:longitude":103.830373,
     "meso:admin_1":"O'mnogovi",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092043909,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718074,
     "wof:name":"Xu'rmen",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

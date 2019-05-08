@@ -10,6 +10,12 @@
     "geom:latitude":46.19068,
     "geom:longitude":97.52169,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Delger Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.219776,
     "lbl:longitude":97.508653,
     "meso:admin_1":"Govi-Altai",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092036777,
-    "wof:lastmodified":1536615111,
+    "wof:lastmodified":1553718063,
     "wof:name":"Delger",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

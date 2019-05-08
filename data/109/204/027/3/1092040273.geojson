@@ -10,6 +10,12 @@
     "geom:latitude":47.408156,
     "geom:longitude":103.882218,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Rashaant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.43307,
     "lbl:longitude":103.861138,
     "meso:admin_1":"Bulgan",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092040273,
-    "wof:lastmodified":1536615117,
+    "wof:lastmodified":1553718069,
     "wof:name":"Rashaant",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

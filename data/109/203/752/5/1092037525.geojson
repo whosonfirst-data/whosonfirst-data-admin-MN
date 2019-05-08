@@ -10,6 +10,12 @@
     "geom:latitude":48.767472,
     "geom:longitude":100.054941,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Galt Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.755458,
     "lbl:longitude":100.062856,
     "meso:admin_1":"Xo'vsgol",
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1092037525,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Galt",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

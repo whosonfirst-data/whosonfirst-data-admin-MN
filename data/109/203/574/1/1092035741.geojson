@@ -10,6 +10,12 @@
     "geom:latitude":48.426958,
     "geom:longitude":105.275089,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Ceel Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.397696,
     "lbl:longitude":105.131816,
     "meso:admin_1":"To'v",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092035741,
-    "wof:lastmodified":1536615110,
+    "wof:lastmodified":1553718061,
     "wof:name":"Ceel",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

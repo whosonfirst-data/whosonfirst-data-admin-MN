@@ -10,6 +10,12 @@
     "geom:latitude":48.318801,
     "geom:longitude":107.744112,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Erdene Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.295325,
     "lbl:longitude":107.694788,
     "meso:admin_1":"To'v",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092037393,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Erdene",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

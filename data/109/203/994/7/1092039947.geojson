@@ -10,6 +10,12 @@
     "geom:latitude":49.148331,
     "geom:longitude":94.847006,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "O'ndorxangai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.14406,
     "lbl:longitude":94.839876,
     "meso:admin_1":"Uvs",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092039947,
-    "wof:lastmodified":1536615117,
+    "wof:lastmodified":1553718068,
     "wof:name":"O'ndorxangai",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

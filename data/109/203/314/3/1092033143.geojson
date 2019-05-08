@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404153,
-    "geom:area_square_m":3357787246.784858,
+    "geom:area_square_m":3357787246.78496,
     "geom:bbox":"111.628663789,47.3478864822,112.723034472,48.1140789127",
     "geom:latitude":47.785674,
     "geom:longitude":112.097389,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayan-Ovoo Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.871489,
     "lbl:longitude":112.089052,
     "meso:admin_1":"Xentii",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092033143,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037671,
     "wof:name":"Bayan-Ovoo",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

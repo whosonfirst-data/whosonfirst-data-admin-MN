@@ -10,6 +10,12 @@
     "geom:latitude":51.665773,
     "geom:longitude":99.012056,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cagaannuur Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":51.797379,
     "lbl:longitude":99.01214,
     "meso:admin_1":"Xo'vsgol",
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1092035395,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718062,
     "wof:name":"Cagaannuur",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

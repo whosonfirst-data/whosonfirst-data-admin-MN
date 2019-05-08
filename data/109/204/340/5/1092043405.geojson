@@ -10,6 +10,12 @@
     "geom:latitude":42.967834,
     "geom:longitude":109.007985,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xatanbulag Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":43.026774,
     "lbl:longitude":108.98433,
     "meso:admin_1":"Dornogovi",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092043405,
-    "wof:lastmodified":1536615122,
+    "wof:lastmodified":1553718073,
     "wof:name":"Xatanbulag",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

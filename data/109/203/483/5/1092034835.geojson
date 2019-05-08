@@ -10,6 +10,12 @@
     "geom:latitude":49.096392,
     "geom:longitude":103.44054,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bugat Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.100591,
     "lbl:longitude":103.430362,
     "meso:admin_1":"Bulgan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092034835,
-    "wof:lastmodified":1536615108,
+    "wof:lastmodified":1553718060,
     "wof:name":"Bugat",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

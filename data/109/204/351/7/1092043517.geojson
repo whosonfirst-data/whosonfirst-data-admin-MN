@@ -10,6 +10,12 @@
     "geom:latitude":47.872067,
     "geom:longitude":113.039229,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xo'lonbuir Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.860315,
     "lbl:longitude":113.030184,
     "meso:admin_1":"Dornod",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092043517,
-    "wof:lastmodified":1536615122,
+    "wof:lastmodified":1553718073,
     "wof:name":"Xo'lonbuir",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

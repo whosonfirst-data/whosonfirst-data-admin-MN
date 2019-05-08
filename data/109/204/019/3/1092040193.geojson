@@ -10,6 +10,12 @@
     "geom:latitude":48.78738,
     "geom:longitude":105.003253,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Orxontuul Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.782555,
     "lbl:longitude":105.012498,
     "meso:admin_1":"Selenge",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092040193,
-    "wof:lastmodified":1536615117,
+    "wof:lastmodified":1553718069,
     "wof:name":"Orxontuul",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":49.711546,
     "geom:longitude":104.173909,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Selenge Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.767847,
     "lbl:longitude":104.278608,
     "meso:admin_1":"Bulgan",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092040913,
-    "wof:lastmodified":1536615118,
+    "wof:lastmodified":1553718070,
     "wof:name":"Selenge",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

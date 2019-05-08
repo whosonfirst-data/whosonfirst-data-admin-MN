@@ -10,6 +10,12 @@
     "geom:latitude":48.48816,
     "geom:longitude":111.203814,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayan-Adraga Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.468094,
     "lbl:longitude":111.174081,
     "meso:admin_1":"Xentii",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092032845,
-    "wof:lastmodified":1536615105,
+    "wof:lastmodified":1553718057,
     "wof:name":"Bayan-Adraga",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

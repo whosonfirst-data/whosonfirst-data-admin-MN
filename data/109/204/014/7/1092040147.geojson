@@ -10,6 +10,12 @@
     "geom:latitude":49.010787,
     "geom:longitude":105.491948,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Orxon Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.981215,
     "lbl:longitude":105.497603,
     "meso:admin_1":"Selenge",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092040147,
-    "wof:lastmodified":1536615117,
+    "wof:lastmodified":1553718069,
     "wof:name":"Orxon",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

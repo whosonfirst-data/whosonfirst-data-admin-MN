@@ -10,6 +10,12 @@
     "geom:latitude":49.539669,
     "geom:longitude":93.844034,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xyargas Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.536239,
     "lbl:longitude":93.835234,
     "meso:admin_1":"Uvs",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092044117,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718075,
     "wof:name":"Xyargas",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

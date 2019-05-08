@@ -10,6 +10,12 @@
     "geom:latitude":50.079709,
     "geom:longitude":93.991243,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Zu'ungovi Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.055892,
     "lbl:longitude":94.003464,
     "meso:admin_1":"Uvs",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092044677,
-    "wof:lastmodified":1536615124,
+    "wof:lastmodified":1553718075,
     "wof:name":"Zu'ungovi",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

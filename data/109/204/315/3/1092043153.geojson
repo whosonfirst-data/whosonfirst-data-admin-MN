@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466012,
-    "geom:area_square_m":3873169533.380694,
+    "geom:area_square_m":3873169533.380247,
     "geom:bbox":"98.7604824869,47.460680058,100.090259009,48.0495812417",
     "geom:latitude":47.766423,
     "geom:longitude":99.377958,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xangai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.79041,
     "lbl:longitude":99.377949,
     "meso:admin_1":"Arxangai",
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1092043153,
-    "wof:lastmodified":1553816444,
+    "wof:lastmodified":1555037659,
     "wof:name":"Xangai",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

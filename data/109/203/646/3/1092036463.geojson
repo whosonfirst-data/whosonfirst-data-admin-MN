@@ -10,6 +10,12 @@
     "geom:latitude":47.020371,
     "geom:longitude":93.671455,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Darvi Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.989143,
     "lbl:longitude":93.68098,
     "meso:admin_1":"Xovd",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092036463,
-    "wof:lastmodified":1536615111,
+    "wof:lastmodified":1553718063,
     "wof:name":"Darvi",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

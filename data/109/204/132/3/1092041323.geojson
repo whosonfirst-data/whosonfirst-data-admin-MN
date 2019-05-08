@@ -10,6 +10,12 @@
     "geom:latitude":48.068446,
     "geom:longitude":106.643479,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Songinoxairxan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.052823,
     "lbl:longitude":106.66402,
     "meso:admin_1":"Ulaanbaatar",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092041323,
-    "wof:lastmodified":1536615119,
+    "wof:lastmodified":1553718070,
     "wof:name":"Songinoxairxan",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

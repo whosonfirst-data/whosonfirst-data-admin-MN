@@ -10,6 +10,12 @@
     "geom:latitude":49.115627,
     "geom:longitude":94.215653,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Cagaanxairxan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.1135,
     "lbl:longitude":94.222701,
     "meso:admin_1":"Uvs",
@@ -84,7 +90,7 @@
         }
     ],
     "wof:id":1092035431,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718061,
     "wof:name":"Cagaanxairxan",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

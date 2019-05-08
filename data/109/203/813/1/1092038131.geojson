@@ -10,6 +10,12 @@
     "geom:latitude":48.661043,
     "geom:longitude":100.731709,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Jargalant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.625549,
     "lbl:longitude":100.775162,
     "meso:admin_1":"Arxangai",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092038131,
-    "wof:lastmodified":1536615114,
+    "wof:lastmodified":1553718066,
     "wof:name":"Jargalant",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

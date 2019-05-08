@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.49883,
-    "geom:area_square_m":3989075885.840853,
+    "geom:area_square_m":3989075885.840511,
     "geom:bbox":"92.7659402919,49.2681563229,93.6532130823,50.15682129",
     "geom:latitude":49.704637,
     "geom:longitude":93.217075,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Malchin Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.729848,
     "lbl:longitude":93.252985,
     "meso:admin_1":"Uvs",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092038573,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037665,
     "wof:name":"Malchin",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

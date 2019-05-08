@@ -10,6 +10,12 @@
     "geom:latitude":47.195974,
     "geom:longitude":118.19928,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Xalx gol Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.362087,
     "lbl:longitude":118.169905,
     "meso:admin_1":"Dornod",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092042979,
-    "wof:lastmodified":1536615121,
+    "wof:lastmodified":1553718073,
     "wof:name":"Xalx gol",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

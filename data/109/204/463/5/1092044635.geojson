@@ -10,6 +10,12 @@
     "geom:latitude":49.959809,
     "geom:longitude":105.931333,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Zu'unburen Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.929204,
     "lbl:longitude":105.926916,
     "meso:admin_1":"Selenge",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092044635,
-    "wof:lastmodified":1536615124,
+    "wof:lastmodified":1553718075,
     "wof:name":"Zu'unburen",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

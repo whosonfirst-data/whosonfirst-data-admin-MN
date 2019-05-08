@@ -10,6 +10,12 @@
     "geom:latitude":47.961915,
     "geom:longitude":98.660187,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Caxir Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.94756,
     "lbl:longitude":98.668005,
     "meso:admin_1":"Arxangai",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092035517,
-    "wof:lastmodified":1536615109,
+    "wof:lastmodified":1553718061,
     "wof:name":"Caxir",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

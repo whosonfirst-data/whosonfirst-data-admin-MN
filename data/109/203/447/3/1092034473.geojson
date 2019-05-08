@@ -10,6 +10,12 @@
     "geom:latitude":48.591649,
     "geom:longitude":110.643929,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Binder Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.798502,
     "lbl:longitude":110.636855,
     "meso:admin_1":"Xentii",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092034473,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1553718059,
     "wof:name":"Binder",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

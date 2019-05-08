@@ -10,6 +10,12 @@
     "geom:latitude":47.123908,
     "geom:longitude":112.256841,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Mo'nxxaan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.072115,
     "lbl:longitude":111.960943,
     "meso:admin_1":"Su'xbaatar",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092038897,
-    "wof:lastmodified":1536615115,
+    "wof:lastmodified":1553718067,
     "wof:name":"Mo'nxxaan",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

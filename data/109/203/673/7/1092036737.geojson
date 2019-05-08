@@ -10,6 +10,12 @@
     "geom:latitude":45.810335,
     "geom:longitude":111.304898,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Delgerex Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":45.81794,
     "lbl:longitude":111.294932,
     "meso:admin_1":"Dornogovi",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092036737,
-    "wof:lastmodified":1536615111,
+    "wof:lastmodified":1553718063,
     "wof:name":"Delgerex",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

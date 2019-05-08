@@ -10,6 +10,12 @@
     "geom:latitude":48.946823,
     "geom:longitude":96.470888,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tu'devtei Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.046254,
     "lbl:longitude":96.465257,
     "meso:admin_1":"Zavxan",
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092042231,
-    "wof:lastmodified":1536615120,
+    "wof:lastmodified":1553718072,
     "wof:name":"Tu'devtei",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

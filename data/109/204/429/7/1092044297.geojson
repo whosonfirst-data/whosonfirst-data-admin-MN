@@ -10,6 +10,12 @@
     "geom:latitude":46.608999,
     "geom:longitude":103.709834,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Yeso'nzu'il Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.626805,
     "lbl:longitude":103.744917,
     "meso:admin_1":"O'vorxangai",
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092044297,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718075,
     "wof:name":"Yeso'nzu'il",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

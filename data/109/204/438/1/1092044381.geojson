@@ -10,6 +10,12 @@
     "geom:latitude":46.895408,
     "geom:longitude":99.158491,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Zag Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.889197,
     "lbl:longitude":99.121908,
     "meso:admin_1":"Bayanxongor",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092044381,
-    "wof:lastmodified":1536615123,
+    "wof:lastmodified":1553718075,
     "wof:name":"Zag",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

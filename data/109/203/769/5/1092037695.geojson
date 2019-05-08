@@ -10,6 +10,12 @@
     "geom:latitude":47.279158,
     "geom:longitude":98.602903,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Gurvanbulag Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.27325,
     "lbl:longitude":98.612152,
     "meso:admin_1":"Bayanxongor",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1092037695,
-    "wof:lastmodified":1536615113,
+    "wof:lastmodified":1553718065,
     "wof:name":"Gurvanbulag",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

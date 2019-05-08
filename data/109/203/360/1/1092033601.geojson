@@ -10,6 +10,12 @@
     "geom:latitude":49.321071,
     "geom:longitude":113.420298,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayandun Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.28379,
     "lbl:longitude":113.41056,
     "meso:admin_1":"Dornod",
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1092033601,
-    "wof:lastmodified":1536615106,
+    "wof:lastmodified":1553718058,
     "wof:name":"Bayandun",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":49.386509,
     "geom:longitude":105.34047,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":49.386999,
     "lbl:longitude":105.345274,
     "meso:admin_1":"Selenge",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":1092040865,
-    "wof:lastmodified":1536615118,
+    "wof:lastmodified":1553718069,
     "wof:name":"Sant",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

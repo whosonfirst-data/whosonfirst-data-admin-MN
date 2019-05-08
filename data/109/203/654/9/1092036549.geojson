@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.52954,
-    "geom:area_square_m":4505077400.579041,
+    "geom:area_square_m":4505077400.578461,
     "geom:bbox":"108.951443058,46.1700638054,110.068476056,47.0101525583",
     "geom:latitude":46.525911,
     "geom:longitude":109.476287,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Darxan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":46.487485,
     "lbl:longitude":109.43822,
     "meso:admin_1":"Xentii",
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":1092036549,
-    "wof:lastmodified":1553816443,
+    "wof:lastmodified":1555037667,
     "wof:name":"Darxan",
     "wof:parent_id":85674719,
     "wof:placetype":"county",
