@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di No\u00ebn"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041d\u043e\u0458\u043e\u043d"
     ],
     "name:mon_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1092039491,
-    "wof:lastmodified":1553718068,
+    "wof:lastmodified":1561844107,
     "wof:name":"Noyon",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

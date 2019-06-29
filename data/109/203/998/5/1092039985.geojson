@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di \u00d4rg\u00f4n"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u0440\u0433\u043e\u043d"
     ],
     "name:mon_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092039985,
-    "wof:lastmodified":1553718069,
+    "wof:lastmodified":1561844102,
     "wof:name":"O'rgon",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

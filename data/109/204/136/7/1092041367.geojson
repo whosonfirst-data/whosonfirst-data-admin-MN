@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di Songino"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u043e\u043d\u0433\u0438\u043d\u043e"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092041367,
-    "wof:lastmodified":1553718071,
+    "wof:lastmodified":1561844098,
     "wof:name":"Songino",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

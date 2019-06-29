@@ -34,10 +34,10 @@
     "name:eng_x_preferred":[
         "Norovlin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Norovlin"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041d\u043e\u0440\u043e\u0432\u043b\u0438\u043d"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092039447,
-    "wof:lastmodified":1553718068,
+    "wof:lastmodified":1561844113,
     "wof:name":"Norovlin",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

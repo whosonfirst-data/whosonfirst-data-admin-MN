@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di Cogt-Ovoo"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0426\u043e\u0433\u0442-\u041e\u0432\u043e"
     ],
     "name:mon_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1092036203,
-    "wof:lastmodified":1553718062,
+    "wof:lastmodified":1561844104,
     "wof:name":"Cogt-Ovoo",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

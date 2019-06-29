@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di Urgamal"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0423\u0440\u0433\u0430\u043c\u0430\u043b"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092042727,
-    "wof:lastmodified":1553718072,
+    "wof:lastmodified":1561844096,
     "wof:name":"Urgamal",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

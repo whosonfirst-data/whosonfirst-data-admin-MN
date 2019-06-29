@@ -29,17 +29,14 @@
     "name:cat_x_preferred":[
         "Baruun-Urt"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u70cf\u723e\u7279"
-    ],
     "name:dan_x_preferred":[
         "Baruun-Urt"
     ],
     "name:deu_x_preferred":[
         "Baruun-Urt"
     ],
-    "name:dut_x_preferred":[
-        "Baruun-Urt"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03bf\u03cd\u03bf\u03c5\u03bd-\u039f\u03cd\u03c1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Baruun-Urt"
@@ -52,18 +49,6 @@
     ],
     "name:fra_x_preferred":[
         "Baruun-Urt"
-    ],
-    "name:fre_x_preferred":[
-        "Baruun-Urt"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10e0\u10e3\u10e3\u10dc-\u10e3\u10e0\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Baruun-Urt"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c1\u03bf\u03cd\u03bf\u03c5\u03bd-\u039f\u03cd\u03c1\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0ab0\u0ac1\u0aa8-\u0a89\u0ab0\u0acd\u0a9f"
@@ -98,20 +83,17 @@
     "name:lit_x_preferred":[
         "Barun Urtas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0440\u0443\u043d-\u0423\u0440\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u0930\u0941\u090a\u0928-\u0909\u0930\u094d\u091f"
-    ],
-    "name:may_x_preferred":[
-        "Baruun-Urt"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0440\u0443\u043d-\u0423\u0440\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0440\u0443\u0443\u043d-\u0423\u0440\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Baruun-Urt"
     ],
     "name:nan_x_preferred":[
         "Baruun-Urt"
@@ -121,9 +103,6 @@
     ],
     "name:nob_x_preferred":[
         "Baruun-Urt"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u0631\u0648\u0646-\u06cc\u0648\u0631\u062a"
     ],
     "name:pol_x_preferred":[
         "Baruun-Urt"
@@ -318,7 +297,7 @@
         }
     ],
     "wof:id":421191717,
-    "wof:lastmodified":1527716387,
+    "wof:lastmodified":1561844114,
     "wof:name":"Baruun-Urt",
     "wof:parent_id":1092032453,
     "wof:placetype":"locality",

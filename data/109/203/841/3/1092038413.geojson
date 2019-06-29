@@ -31,25 +31,25 @@
     "mps:longitude":106.359186,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Javkhlant"
-    ],
     "name:eng_x_preferred":[
         "Javhlant"
     ],
     "name:eng_x_variant":[
         "Javkhlant"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Javkhlant"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u040f\u0430\u0432\u0445\u043b\u0430\u043d"
     ],
     "name:mon_x_preferred":[
         "\u0416\u0430\u0432\u0445\u043b\u0430\u043d\u0442 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Javkhlant"
+    ],
+    "name:nld_x_preferred":[
         "Javkhlant"
     ],
     "name:ukr_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092038413,
-    "wof:lastmodified":1553718066,
+    "wof:lastmodified":1561844109,
     "wof:name":"Javxlant",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

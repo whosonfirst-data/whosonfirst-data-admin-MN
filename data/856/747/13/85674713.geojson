@@ -40,17 +40,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'\u00d6mn\u00f6govi"
     ],
-    "name:chi_x_preferred":[
-        "\u5357\u6208\u58c1\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Jihogobijsk\u00fd ajmag"
     ],
     "name:dan_x_preferred":[
         "\u00d6mn\u00f6gov"
     ],
-    "name:dut_x_preferred":[
-        "\u00d6mn\u00f6gov\u012d"
+    "name:deu_x_preferred":[
+        "\u00d6mn\u00f6-Gobi-Aimag"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03bc\u03bd\u03bf\u03b3\u03ba\u03cc\u03b2\u03b9"
     ],
     "name:eng_x_preferred":[
         "Omnogov"
@@ -63,20 +63,14 @@
     "name:est_x_preferred":[
         "L\u00f5una-Gobi aimakk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0645\u0646\u0648\u06af\u0627\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "\u00d6mn\u00f6govi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d6mn\u00f6govi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10db\u10dc\u10d4\u10d2\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "\u00d6mn\u00f6-Gobi-Aimag"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03bc\u03bd\u03bf\u03b3\u03ba\u03cc\u03b2\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aae\u0acd\u0aa8\u0acb\u0a97\u0acb\u0ab5\u0abf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -102,6 +96,9 @@
     "name:kan_x_preferred":[
         "\u0c92\u0cae\u0ccd\u0ca8\u0cca\u0c97\u0cca\u0cb5\u0cbf \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10db\u10dc\u10d4\u10d2\u10dd\u10d5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc73c\ubbc0\ub290\uace0\ube44 \uc8fc"
     ],
@@ -111,14 +108,11 @@
     "name:lit_x_preferred":[
         "Piet\u0173 Gobio aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u043c\u043d\u043e\u0433\u043e\u0432\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u092e\u0928\u094b\u0917\u094b\u0935\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Omnogovi Province"
+    "name:mkd_x_preferred":[
+        "\u041e\u043c\u043d\u043e\u0433\u043e\u0432\u0438"
     ],
     "name:mon_x_preferred":[
         "\u04e8\u043c\u043d\u04e9\u0433\u043e\u0432\u044c \u0410\u0439\u043c\u0430\u0433"
@@ -133,14 +127,17 @@
         "\u04e8\u043c\u043d\u04e9\u0433\u043e\u0432\u044c",
         "\u00d6mn\u00f6gov\u012d Aymag"
     ],
+    "name:msa_x_preferred":[
+        "Omnogovi Province"
+    ],
     "name:nan_x_preferred":[
         "\u00d6mn\u00f6govi S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "\u00d6mn\u00f6gov\u012d"
+    ],
     "name:nob_x_preferred":[
         "\u00d6mn\u00f6gov"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0648\u0645\u0646\u0648\u06af\u0627\u0648\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0648\u0645\u0646\u0648\u06af\u0648\u0626\u06cc"
@@ -151,7 +148,7 @@
     "name:por_x_preferred":[
         "\u00d6mn\u00f6gov\u012d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "\u00d6mn\u00f6-Gobi-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -201,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "\u00d6mn\u00f6govi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6208\u58c1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -325,7 +325,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553550461,
+    "wof:lastmodified":1561844092,
     "wof:name":"\u00d6mn\u00f6govi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

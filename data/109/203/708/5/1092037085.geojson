@@ -34,16 +34,13 @@
     "name:cat_x_preferred":[
         "Duut"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Duut"
     ],
     "name:eng_x_preferred":[
         "Duut"
     ],
-    "name:fre_x_preferred":[
-        "Duut"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Duut"
     ],
     "name:ita_x_preferred":[
@@ -52,13 +49,16 @@
     "name:kaz_x_preferred":[
         "\u0414\u0443\u0443\u0442"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0443\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0443\u0443\u0442 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Duut"
+    ],
+    "name:nld_x_preferred":[
         "Duut"
     ],
     "name:pol_x_preferred":[
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1092037085,
-    "wof:lastmodified":1553718064,
+    "wof:lastmodified":1561844103,
     "wof:name":"Duut",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

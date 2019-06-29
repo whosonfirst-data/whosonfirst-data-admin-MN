@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Arhust"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u0440\u0445\u0443\u0441\u0442"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092032225,
-    "wof:lastmodified":1553718056,
+    "wof:lastmodified":1561844110,
     "wof:name":"Arxust",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

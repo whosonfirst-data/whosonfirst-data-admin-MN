@@ -22,17 +22,17 @@
     "name:cat_x_preferred":[
         "Altai"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u6cf0"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Altaj"
     ],
     "name:dan_x_preferred":[
         "Altaj"
     ],
-    "name:dut_x_preferred":[
-        "Altaj"
+    "name:deu_x_preferred":[
+        "Altai"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03c4\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Altai"
@@ -40,20 +40,14 @@
     "name:eng_x_variant":[
         "Altay"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0644\u062a\u0627\u06cc\u060c \u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Altai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Altay"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10da\u10d7\u10d0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Altai"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb\u03c4\u03ac\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2\u0acd\u0aa4\u0abe\u0a87"
@@ -73,6 +67,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0cb2\u0ccd\u0c9f\u0cbe\u0caf\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10da\u10d7\u10d0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ud0c0\uc774"
     ],
@@ -82,26 +79,26 @@
     "name:lit_x_preferred":[
         "Altajus"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043b\u0442\u0430\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0932\u094d\u0924\u093e\u0908"
     ],
-    "name:may_x_preferred":[
-        "Altai"
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0442\u0430\u0458"
     ],
     "name:mon_x_preferred":[
         "\u0410\u043b\u0442\u0430\u0439"
     ],
+    "name:msa_x_preferred":[
+        "Altai"
+    ],
     "name:nan_x_preferred":[
         "Altai Chh\u012b"
     ],
+    "name:nld_x_preferred":[
+        "Altaj"
+    ],
     "name:nob_x_preferred":[
         "Altai"
-    ],
-    "name:per_x_preferred":[
-        "\u0622\u0644\u062a\u0627\u06cc\u060c \u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "A\u0142taj"
@@ -147,6 +144,9 @@
     ],
     "name:war_x_preferred":[
         "Altai"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u6cf0"
     ],
     "qs:gn_country":"MN",
     "qs:gn_fcode":"PPLA",
@@ -194,7 +194,7 @@
         }
     ],
     "wof:id":421195803,
-    "wof:lastmodified":1553816383,
+    "wof:lastmodified":1561844113,
     "wof:name":"Jusenbulag",
     "wof:parent_id":1092044253,
     "wof:placetype":"locality",

@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Ugtaal"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0423\u0433\u0442\u0430\u043b"
     ],
     "name:mon_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092042515,
-    "wof:lastmodified":1553718072,
+    "wof:lastmodified":1561844096,
     "wof:name":"Ugtaalcaidam",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

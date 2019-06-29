@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di C\u0117\u0117l"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0426\u0435\u043b"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092035741,
-    "wof:lastmodified":1553718061,
+    "wof:lastmodified":1561844107,
     "wof:name":"Ceel",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

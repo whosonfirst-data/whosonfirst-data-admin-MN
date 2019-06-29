@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di Jaruu"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0408\u0430\u0440\u0443"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092044165,
-    "wof:lastmodified":1553718075,
+    "wof:lastmodified":1561844099,
     "wof:name":"Yaruu",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

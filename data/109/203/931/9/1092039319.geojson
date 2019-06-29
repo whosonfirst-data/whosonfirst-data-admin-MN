@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di N\u00f4mr\u00f4g"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041d\u043e\u043c\u0440\u043e\u0433"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092039319,
-    "wof:lastmodified":1553718067,
+    "wof:lastmodified":1561844102,
     "wof:name":"No'mrog",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

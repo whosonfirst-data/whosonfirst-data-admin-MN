@@ -34,13 +34,13 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u043b\u0443\u0442"
     ],
-    "name:dut_x_preferred":[
-        "Galuut"
-    ],
     "name:eng_x_preferred":[
         "Galuut"
     ],
-    "name:mac_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06af\u0627\u0644\u0648\u062a"
+    ],
+    "name:mkd_x_preferred":[
         "\u0413\u0430\u043b\u0443\u0442"
     ],
     "name:mon_x_preferred":[
@@ -49,8 +49,8 @@
     "name:nan_x_preferred":[
         "Galuut"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0627\u0644\u0648\u062a"
+    "name:nld_x_preferred":[
+        "Galuut"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0430\u043b\u0443\u0443\u0442"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1092037565,
-    "wof:lastmodified":1553718065,
+    "wof:lastmodified":1561844108,
     "wof:name":"Galuut",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

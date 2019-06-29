@@ -37,10 +37,10 @@
     "name:eng_x_variant":[
         "Darkhan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Darkhan"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0430\u0440\u0445\u0430\u043d"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092036549,
-    "wof:lastmodified":1555037667,
+    "wof:lastmodified":1561844111,
     "wof:name":"Darxan",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

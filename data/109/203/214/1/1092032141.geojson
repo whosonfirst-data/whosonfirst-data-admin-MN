@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di Argalant"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092032141,
-    "wof:lastmodified":1553718056,
+    "wof:lastmodified":1561844110,
     "wof:name":"Argalant",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

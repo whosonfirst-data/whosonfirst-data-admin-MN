@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di L\u00f9n"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041b\u0443\u043d"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092038487,
-    "wof:lastmodified":1553718066,
+    "wof:lastmodified":1561844109,
     "wof:name":"Lu'n",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

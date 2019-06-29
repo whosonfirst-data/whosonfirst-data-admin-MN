@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di \u010cojbalsan"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0427\u043e\u0458\u0431\u0430\u043b\u0441\u0430\u043d"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092036057,
-    "wof:lastmodified":1555037668,
+    "wof:lastmodified":1561844105,
     "wof:name":"Choibalsan",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

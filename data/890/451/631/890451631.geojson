@@ -25,9 +25,6 @@
     "name:aze_x_preferred":[
         "Erdenet"
     ],
-    "name:baq_x_preferred":[
-        "Erdenet"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u042d\u0440\u0434\u044d\u043d\u044d\u0442"
     ],
@@ -40,14 +37,11 @@
     "name:cat_x_preferred":[
         "Erdenet"
     ],
+    "name:ces_x_preferred":[
+        "Erdenet"
+    ],
     "name:che_x_preferred":[
         "\u042d\u0440\u0434\u044d\u043d\u044d\u0442"
-    ],
-    "name:chi_x_preferred":[
-        "\u989d\u5c14\u767b\u7279"
-    ],
-    "name:cze_x_preferred":[
-        "Erdenet"
     ],
     "name:dan_x_preferred":[
         "Erdenet"
@@ -58,13 +52,16 @@
     "name:dsb_x_preferred":[
         "Erdenet"
     ],
-    "name:dut_x_preferred":[
-        "Erdenet"
+    "name:ell_x_preferred":[
+        "\u0395\u03c1\u03bd\u03c4\u03b5\u03bd\u03ad\u03c4"
     ],
     "name:eng_x_preferred":[
         "Erdenet"
     ],
     "name:est_x_preferred":[
+        "Erdenet"
+    ],
+    "name:eus_x_preferred":[
         "Erdenet"
     ],
     "name:fas_x_preferred":[
@@ -76,23 +73,11 @@
     "name:fra_x_preferred":[
         "Erdenet"
     ],
-    "name:fre_x_preferred":[
-        "Erdenet"
-    ],
     "name:fry_x_preferred":[
-        "Erdenet"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10e0\u10d3\u10d4\u10dc\u10d4\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Erdenet"
     ],
     "name:gle_x_preferred":[
         "Erdenet"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c1\u03bd\u03c4\u03b5\u03bd\u03ad\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab0\u0acd\u0aa1\u0ac7\u0aa8\u0ac7\u0a9f"
@@ -118,6 +103,9 @@
     "name:kan_x_preferred":[
         "\u0c8e\u0cb0\u0ccd\u0ca1\u0cc6\u0ca8\u0cc6\u0c9f\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10e0\u10d3\u10d4\u10dc\u10d4\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc5d0\ub974\ub370\ub124\ud2b8"
     ],
@@ -133,14 +121,8 @@
     "name:lmo_x_preferred":[
         "Erdenet"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u0440\u0434\u0435\u043d\u0435\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u090f\u0930\u0921\u0947\u0928\u0947\u091f"
-    ],
-    "name:may_x_preferred":[
-        "Erdenet"
     ],
     "name:mkd_x_preferred":[
         "\u0415\u0440\u0434\u0435\u043d\u0435\u0442"
@@ -150,6 +132,9 @@
     ],
     "name:mon_x_variant":[
         "\u042d\u0440\u0434\u044d\u043d\u044d\u0442 \u0445\u043e\u0442",
+        "Erdenet"
+    ],
+    "name:msa_x_preferred":[
         "Erdenet"
     ],
     "name:nan_x_preferred":[
@@ -164,16 +149,13 @@
     "name:nob_x_preferred":[
         "Erdenet"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0631\u062f\u0646\u062a"
-    ],
     "name:pol_x_preferred":[
         "Erdenet"
     ],
     "name:por_x_preferred":[
         "Erdenet"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Erdenet"
     ],
     "name:rus_x_preferred":[
@@ -352,7 +334,7 @@
         }
     ],
     "wof:id":890451631,
-    "wof:lastmodified":1527792941,
+    "wof:lastmodified":1561844114,
     "wof:name":"Erdenet",
     "wof:parent_id":1092032979,
     "wof:placetype":"locality",

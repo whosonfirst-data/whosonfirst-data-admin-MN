@@ -31,9 +31,6 @@
     "mps:longitude":101.971175,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Bat-\u00d6lzii"
-    ],
     "name:eng_x_preferred":[
         "Bat-Olzii"
     ],
@@ -43,13 +40,16 @@
     "name:ita_x_preferred":[
         "Distretto di Bajan-\u00d4nd\u00f4r"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0430\u0442-\u041e\u043b\u0437\u0438"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0442-\u04e8\u043b\u0437\u0438\u0439 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Bat-\u00d6lzii"
+    ],
+    "name:nld_x_preferred":[
         "Bat-\u00d6lzii"
     ],
     "name:rus_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1092032607,
-    "wof:lastmodified":1553718056,
+    "wof:lastmodified":1561844105,
     "wof:name":"Bat-O'lzii",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

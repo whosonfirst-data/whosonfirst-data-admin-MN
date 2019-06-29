@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.006662,
-    "geom:area_square_m":82309479306.193283,
+    "geom:area_square_m":82309479306.189301,
     "geom:bbox":"93.2620978509,46.565857442,99.2077903346,50.043986",
     "geom:latitude":48.297391,
     "geom:longitude":96.445315,
@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Zavkhan"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u5e03\u6c57\u7701"
-    ],
     "name:dan_x_preferred":[
         "Zavkhan"
     ],
-    "name:dut_x_preferred":[
-        "Zavhan"
+    "name:deu_x_preferred":[
+        "Dsawchan-Aimag"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b1\u03b2\u03ba\u03c7\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Dzavhan"
@@ -55,20 +55,14 @@
     "name:est_x_preferred":[
         "Dzavhani aimakk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0632\u0648\u062e\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Zavhan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zavkhan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d6\u10d0\u10d5\u10ee\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dsawchan-Aimag"
-    ],
-    "name:gre_x_preferred":[
-        "\u0396\u03b1\u03b2\u03ba\u03c7\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9d\u0ab5\u0a96\u0abe\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -91,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0cb5\u0c95\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d6\u10d0\u10d5\u10ee\u10d0\u10dc\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0417\u0430\u0432\u0445\u0430\u043d \u0430\u0439\u043c\u0430\u0493\u044b"
     ],
@@ -103,14 +100,11 @@
     "name:lit_x_preferred":[
         "Dzabchano aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0417\u0430\u0432\u0445\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u091d\u0935\u0916\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Zavkhan Province"
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u0432\u0445\u0430\u043d"
     ],
     "name:mon_x_preferred":[
         "\u0417\u0430\u0432\u0445\u0430\u043d \u0410\u0439\u043c\u0430\u0433"
@@ -120,14 +114,17 @@
         "\u0417\u0430\u0432\u0445\u0430\u043d",
         "Dzavhan Aymag"
     ],
+    "name:msa_x_preferred":[
+        "Zavkhan Province"
+    ],
     "name:nan_x_preferred":[
         "Zavkhan S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Zavhan"
+    ],
     "name:nob_x_preferred":[
         "Zavkhan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0632\u0648\u062e\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0632\u0627\u0648\u062e\u0627\u0646"
@@ -138,7 +135,7 @@
     "name:por_x_preferred":[
         "Zavkhan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Zawchan-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -188,6 +185,9 @@
     ],
     "name:war_x_preferred":[
         "Zavkhan"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u5e03\u6c57\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -312,7 +312,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553814808,
+    "wof:lastmodified":1561844089,
     "wof:name":"Dzavxan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

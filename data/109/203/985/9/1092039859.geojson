@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di \u00d4nd\u00f4\u0161il"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041e\u043d\u0434\u043e\u0440\u0448\u0438\u043b"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092039859,
-    "wof:lastmodified":1553718068,
+    "wof:lastmodified":1561844107,
     "wof:name":"O'ndorshil",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

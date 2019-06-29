@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di S\u0117rg\u0117l\u0117n"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0435\u043b\u0435\u043d"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092040961,
-    "wof:lastmodified":1555037662,
+    "wof:lastmodified":1561844096,
     "wof:name":"Sergelen",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

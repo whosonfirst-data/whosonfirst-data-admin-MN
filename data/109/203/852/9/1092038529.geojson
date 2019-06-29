@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di Luus"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041b\u0443\u0441"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092038529,
-    "wof:lastmodified":1553718066,
+    "wof:lastmodified":1561844111,
     "wof:name":"Luus",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

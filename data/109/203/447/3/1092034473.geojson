@@ -31,19 +31,16 @@
     "mps:longitude":110.636855,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u4e8c\u805a\u6c34"
-    ],
     "name:eng_x_preferred":[
         "Binder"
     ],
     "name:fin_x_preferred":[
         "Binder"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Binder"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0438\u043d\u0434\u0435\u0440"
     ],
     "name:mon_x_preferred":[
@@ -57,6 +54,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0438\u043d\u0434\u0435\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u805a\u6c34"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092034473,
-    "wof:lastmodified":1553718059,
+    "wof:lastmodified":1561844103,
     "wof:name":"Binder",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

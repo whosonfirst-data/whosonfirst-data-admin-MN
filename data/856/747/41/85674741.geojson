@@ -43,17 +43,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Kh\u00f6vsg\u00f6l"
     ],
-    "name:chi_x_preferred":[
-        "\u5e93\u82cf\u53e4\u5c14\u7701"
-    ],
     "name:dan_x_preferred":[
         "Kh\u00f6vsg\u00f6l"
     ],
     "name:deu_x_preferred":[
         "Ch\u00f6wsg\u00f6l-Aimag"
     ],
-    "name:dut_x_preferred":[
-        "H\u00f6vsg\u00f6l"
+    "name:ell_x_preferred":[
+        "\u039a\u03c7\u03bf\u03b2\u03c3\u03b3\u03ba\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Hovsgol"
@@ -67,20 +64,11 @@
     "name:fin_x_preferred":[
         "H\u00f6vsg\u00f6l"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kh\u00f6vsg\u00f6l"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ee\u10e3\u10d5\u10e1\u10d2\u10d4\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Ch\u00f6wsg\u00f6l-Aimag"
     ],
     "name:gle_x_preferred":[
         "Kh\u00f6vsg\u00f6l"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c7\u03bf\u03b2\u03c3\u03b3\u03ba\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a96\u0acb\u0ab5\u0ab8\u0acd\u0a97\u0acb\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -106,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0c96\u0cca\u0cb5\u0cbe\u0cb8\u0ccd\u0c97\u0ccb\u0cb2\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10e3\u10d5\u10e1\u10d2\u10d4\u10da\u10d8"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u04e9\u0432\u0441\u0433\u04e9\u043b \u0430\u0439\u043c\u0430\u0493\u044b"
     ],
@@ -118,14 +109,11 @@
     "name:lit_x_preferred":[
         "Chubsugulo aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u043e\u0432\u0441\u0433\u043e\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u0916\u094b\u0935\u094d\u0938\u094d\u0917\u094d\u0932\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Khovsgol Province"
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u0432\u0441\u0433\u043e\u043b"
     ],
     "name:mon_x_preferred":[
         "\u0425\u04e9\u0432\u0441\u0433\u04e9\u043b \u0410\u0439\u043c\u0430\u0433"
@@ -135,14 +123,17 @@
         "\u0425\u04e9\u0432\u0441\u0433\u04e9\u043b",
         "H\u00f6vsg\u00f6l Aymag"
     ],
+    "name:msa_x_preferred":[
+        "Khovsgol Province"
+    ],
     "name:nan_x_preferred":[
         "Kh\u00f6vsg\u00f6l S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "H\u00f6vsg\u00f6l"
+    ],
     "name:nob_x_preferred":[
         "Kh\u00f6vsg\u00f6l"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u0648\u0633\u06af\u0648\u0644"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062e\u0648\u0633\u06af\u0648\u0644"
@@ -153,7 +144,7 @@
     "name:por_x_preferred":[
         "Kh\u00f6vsg\u00f6l"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ch\u00f6wsg\u00f6l-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -207,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "Kh\u00f6vsg\u00f6l"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e93\u82cf\u53e4\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -329,7 +323,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553550538,
+    "wof:lastmodified":1561844091,
     "wof:name":"H\u00f6vsg\u00f6l",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

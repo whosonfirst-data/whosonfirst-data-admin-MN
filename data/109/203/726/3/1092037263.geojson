@@ -31,16 +31,13 @@
     "mps:longitude":111.126626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u984d\u723e\u5fb7\u5c3c"
-    ],
     "name:eng_x_preferred":[
         "Erdene"
     ],
     "name:ita_x_preferred":[
         "Distretto di \u0116rd\u0117n\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u0440\u0434\u0435\u043d\u0435"
     ],
     "name:mon_x_preferred":[
@@ -48,6 +45,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0434\u0435\u043d\u0435"
+    ],
+    "name:zho_x_preferred":[
+        "\u984d\u723e\u5fb7\u5c3c"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1092037263,
-    "wof:lastmodified":1555037667,
+    "wof:lastmodified":1561844112,
     "wof:name":"Erdene",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

@@ -43,7 +43,7 @@
     "name:jpn_x_preferred":[
         "\u30db\u30b8\u30eb\u30c8"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0425\u0438\u045f\u0438\u0440\u0442"
     ],
     "name:mon_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092043939,
-    "wof:lastmodified":1553718074,
+    "wof:lastmodified":1561844098,
     "wof:name":"Xujirt",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Es\u00f4nz\u00f9jl"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0408\u0435\u0441\u043e\u043d\u0437\u0443\u0438\u043b"
     ],
     "name:mon_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1092044297,
-    "wof:lastmodified":1553718075,
+    "wof:lastmodified":1561844099,
     "wof:name":"Yeso'nzu'il",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -43,7 +43,7 @@
     "name:jpn_x_preferred":[
         "\u30b0\u30eb\u30f4\u30a1\u30f3\u30fb\u30c6\u30b9"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0413\u0443\u0440\u0432\u0430\u043d \u0442\u0435\u0441"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092037813,
-    "wof:lastmodified":1553718065,
+    "wof:lastmodified":1561844112,
     "wof:name":"Gurvantes",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

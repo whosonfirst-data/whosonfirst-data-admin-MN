@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Ulaanbadrah"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0423\u043b\u0430\u043d\u0431\u0430\u0434\u0440\u0430\u0445"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092042609,
-    "wof:lastmodified":1553718072,
+    "wof:lastmodified":1561844096,
     "wof:name":"Ulaanbadrax",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103195,
-    "geom:area_square_m":836394818.464517,
+    "geom:area_square_m":836394818.464542,
     "geom:bbox":"103.95952637,48.9026042373,104.629473042,49.1707931302",
     "geom:latitude":49.044604,
     "geom:longitude":104.296556,
@@ -43,17 +43,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Orkhon"
     ],
-    "name:chi_x_preferred":[
-        "\u9102\u5c14\u6d51\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Orchonsk\u00fd ajmag"
     ],
     "name:dan_x_preferred":[
         "Orchon-Aimag"
     ],
-    "name:dut_x_preferred":[
-        "Orhon"
+    "name:deu_x_preferred":[
+        "Orchon-Aimag"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03ba\u03cc\u03bd"
     ],
     "name:eng_x_preferred":[
         "Erdenet"
@@ -61,26 +61,17 @@
     "name:est_x_preferred":[
         "Orhoni aimakk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0631\u062e\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Orhon"
     ],
     "name:fra_x_preferred":[
         "Orkhon"
     ],
-    "name:fre_x_preferred":[
-        "Orkhon"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dd\u10e0\u10ee\u10dd\u10dc\u10d8\u10e1 \u10d0\u10d8\u10db\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Orchon-Aimag"
-    ],
     "name:gle_x_preferred":[
         "Orkhon"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c1\u03ba\u03cc\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0a96\u0acb\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -106,6 +97,9 @@
     "name:kan_x_preferred":[
         "\u0c86\u0cb0\u0ccd\u0c96\u0ccb\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10e0\u10ee\u10dd\u10dc\u10d8\u10e1 \u10d0\u10d8\u10db\u10d0\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc624\ub974\ud64d"
     ],
@@ -115,14 +109,11 @@
     "name:lit_x_preferred":[
         "Orchono aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u041e\u0440\u0445\u043e\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0913\u0930\u0916\u094b\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Orkhon"
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0445\u043e\u043d"
     ],
     "name:mon_x_preferred":[
         "\u041e\u0440\u0445\u043e\u043d"
@@ -131,6 +122,9 @@
         "Orhon",
         "Orhon Aymag",
         "\u041e\u0440\u0445\u043e\u043d \u0410\u0439\u043c\u0430\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Orkhon"
     ],
     "name:nan_x_preferred":[
         "Orkhon S\u00e9ng"
@@ -144,9 +138,6 @@
     "name:nor_x_preferred":[
         "Orkhon"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0622\u0631\u062e\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0631\u062e\u0648\u0646"
     ],
@@ -156,7 +147,7 @@
     "name:por_x_preferred":[
         "Orhon"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Orchon-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -206,6 +197,9 @@
     ],
     "name:war_x_preferred":[
         "Orkhon"
+    ],
+    "name:zho_x_preferred":[
+        "\u9102\u5c14\u6d51\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -330,7 +324,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553814808,
+    "wof:lastmodified":1561844089,
     "wof:name":"Orhon",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

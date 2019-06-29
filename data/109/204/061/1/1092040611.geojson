@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Sajhan-Ovoo"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u0458\u0445\u0430\u043d-\u041e\u0432\u043e"
     ],
     "name:mon_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092040611,
-    "wof:lastmodified":1555037663,
+    "wof:lastmodified":1561844100,
     "wof:name":"Saixan-Ovoo",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

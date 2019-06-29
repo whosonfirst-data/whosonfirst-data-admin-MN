@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di Sant"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u043d\u0442"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092040827,
-    "wof:lastmodified":1555037662,
+    "wof:lastmodified":1561844096,
     "wof:name":"Sant",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

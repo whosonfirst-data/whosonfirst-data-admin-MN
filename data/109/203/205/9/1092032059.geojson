@@ -37,10 +37,13 @@
     "name:eng_x_preferred":[
         "Altanshiree"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a\u0627\u0646\u0634\u06cc\u0631\u06cc"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Altan\u0161ir\u0117\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043b\u0442\u0430\u043d\u0448\u0438\u0440\u0435"
     ],
     "name:mon_x_preferred":[
@@ -48,9 +51,6 @@
     ],
     "name:nan_x_preferred":[
         "Altanshiree"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u062a\u0627\u0646\u0634\u06cc\u0631\u06cc"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0442\u0430\u043d\u0448\u0438\u0440\u044d\u044d"
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1092032059,
-    "wof:lastmodified":1553718056,
+    "wof:lastmodified":1561844106,
     "wof:name":"Altanshiree",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

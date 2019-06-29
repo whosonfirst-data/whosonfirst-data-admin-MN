@@ -31,22 +31,19 @@
     "mps:longitude":118.169905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5361\u723e\u6208\u723e"
-    ],
     "name:eng_x_preferred":[
         "Halhgol"
     ],
     "name:eng_x_variant":[
         "Khalkhgol"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Khalkhgol"
     ],
     "name:ita_x_preferred":[
         "Distretto di Halhgol"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0425\u0430\u043b\u0445\u0433\u043e\u043b"
     ],
     "name:mon_x_preferred":[
@@ -60,6 +57,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043b\u0445\u0433\u043e\u043b"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u723e\u6208\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1092042979,
-    "wof:lastmodified":1553718073,
+    "wof:lastmodified":1561844100,
     "wof:name":"Xalx gol",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

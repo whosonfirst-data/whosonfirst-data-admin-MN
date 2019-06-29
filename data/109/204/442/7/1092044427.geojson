@@ -34,13 +34,10 @@
     "name:cat_x_preferred":[
         "Zamyn-\u00dc\u00fcd"
     ],
-    "name:chi_x_preferred":[
-        "\u624e\u95e8\u4e4c\u5fb7"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Zamyn-\u00dad"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zamyn-\u00dc\u00fcd"
     ],
     "name:eng_x_preferred":[
@@ -52,10 +49,10 @@
     "name:epo_x_preferred":[
         "Zamiin Uud"
     ],
-    "name:fre_x_preferred":[
-        "Zamyn-\u00dc\u00fcd"
+    "name:fas_x_preferred":[
+        "\u0632\u0645\u06cc\u0646-\u06cc\u06cc\u062f"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zamyn-\u00dc\u00fcd"
     ],
     "name:hin_x_preferred":[
@@ -73,7 +70,7 @@
     "name:lit_x_preferred":[
         "Zamin Udas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0417\u0430\u043c\u0438\u043d-\u0423\u0434"
     ],
     "name:mon_x_preferred":[
@@ -82,8 +79,8 @@
     "name:nan_x_preferred":[
         "Zamyn-\u00dc\u00fcd"
     ],
-    "name:per_x_preferred":[
-        "\u0632\u0645\u06cc\u0646-\u06cc\u06cc\u062f"
+    "name:nld_x_preferred":[
+        "Zamyn-\u00dc\u00fcd"
     ],
     "name:pol_x_preferred":[
         "Dzamyn \u00dc\u00fcd"
@@ -108,6 +105,9 @@
     ],
     "name:vie_x_preferred":[
         "Zamyn-\u00dc\u00fcd"
+    ],
+    "name:zho_x_preferred":[
+        "\u624e\u95e8\u4e4c\u5fb7"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1092044427,
-    "wof:lastmodified":1553718075,
+    "wof:lastmodified":1561844099,
     "wof:name":"Zamyn U'ud",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

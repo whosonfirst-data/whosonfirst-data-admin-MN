@@ -34,16 +34,13 @@
     "name:cat_x_preferred":[
         "Tsetseg"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tsetseg"
     ],
     "name:eng_x_preferred":[
         "Tsetseg"
     ],
-    "name:fre_x_preferred":[
-        "Tsetseg"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsetseg"
     ],
     "name:ita_x_preferred":[
@@ -52,13 +49,16 @@
     "name:kaz_x_preferred":[
         "\u0426\u044d\u0446\u044d\u0433"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0426\u0435\u0446\u0435\u0433"
     ],
     "name:mon_x_preferred":[
         "\u0426\u044d\u0446\u044d\u0433 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Tsetseg"
+    ],
+    "name:nld_x_preferred":[
         "Tsetseg"
     ],
     "name:pol_x_preferred":[
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1092035559,
-    "wof:lastmodified":1553718061,
+    "wof:lastmodified":1561844108,
     "wof:name":"Ceceg",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

@@ -34,25 +34,25 @@
     "name:bul_x_preferred":[
         "\u0422\u043e\u043b\u0431\u043e"
     ],
-    "name:dut_x_preferred":[
-        "Tolbo"
-    ],
     "name:eng_x_preferred":[
         "Tolbo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tolbo"
     ],
     "name:ita_x_preferred":[
         "Tolbo"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u043e\u043b\u0431\u043e"
     ],
     "name:mon_x_preferred":[
         "\u0422\u043e\u043b\u0431\u043e \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Tolbo"
+    ],
+    "name:nld_x_preferred":[
         "Tolbo"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1092042079,
-    "wof:lastmodified":1553718072,
+    "wof:lastmodified":1561844100,
     "wof:name":"Tolbo",
     "wof:parent_id":85674705,
     "wof:placetype":"county",
