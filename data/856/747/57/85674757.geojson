@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Dundgovi"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u6208\u58c1\u7701"
-    ],
     "name:dan_x_preferred":[
         "Dundgov"
     ],
-    "name:dut_x_preferred":[
-        "Dundgov\u012d"
+    "name:deu_x_preferred":[
+        "Dund-Gobi-Aimag"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba\u03cc\u03b2\u03b9"
     ],
     "name:eng_x_preferred":[
         "Dundgovi"
@@ -62,23 +62,17 @@
     "name:est_x_preferred":[
         "Kesk-Gobi aimakk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0648\u0646\u062f\u06af\u0627\u0648\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Dundgovi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dundgovi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10e3\u10dc\u10d3\u10d2\u10dd\u10d5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Dund-Gobi-Aimag"
     ],
     "name:gle_x_preferred":[
         "Dundgovi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba\u03cc\u03b2\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac1\u0aa8\u0acd\u0aa1\u0a97\u0acb\u0ab5\u0abf \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,6 +95,9 @@
     "name:kan_x_preferred":[
         "\u0ca1\u0cc1\u0c82\u0ca1\u0ccd\u0c97\u0cca\u0cb5\u0cbf \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10e3\u10dc\u10d3\u10d2\u10dd\u10d5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\ub4dc\uace0\ube44 \uc8fc"
     ],
@@ -110,14 +107,11 @@
     "name:lit_x_preferred":[
         "Vidurinio Gobio aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u0443\u043d\u0434\u0433\u043e\u0432\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0926\u0941\u0902\u0921\u0917\u094b\u0908 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Dundgovi Province"
+    "name:mkd_x_preferred":[
+        "\u0414\u0443\u043d\u0434\u0433\u043e\u0432\u0438"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0443\u043d\u0434\u0433\u043e\u0432\u044c \u0410\u0439\u043c\u0430\u0433"
@@ -130,14 +124,17 @@
         "\u0414\u0443\u043d\u0434\u0433\u043e\u0432\u044c",
         "Dundgov\u012d Aymag"
     ],
+    "name:msa_x_preferred":[
+        "Dundgovi Province"
+    ],
     "name:nan_x_preferred":[
         "Dundgovi S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Dundgov\u012d"
+    ],
     "name:nob_x_preferred":[
         "Dundgov"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062f\u0648\u0646\u062f\u06af\u0627\u0648\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0688\u0646\u0688\u06af\u0648\u0626\u06cc"
@@ -148,7 +145,7 @@
     "name:por_x_preferred":[
         "Dundgov\u012d"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Dund-Gobi-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -201,6 +198,9 @@
     ],
     "name:war_x_preferred":[
         "Dundgovi"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u6208\u58c1\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -325,7 +325,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553550461,
+    "wof:lastmodified":1561844089,
     "wof:name":"Dundgovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

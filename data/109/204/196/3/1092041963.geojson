@@ -37,10 +37,13 @@
     "name:eng_x_variant":[
         "T\u00f6gr\u00f6g"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u06af\u0631\u06af\u060c \u0627\u0648\u0631\u062e\u0646\u06af\u06cc"
+    ],
     "name:ita_x_preferred":[
         "Distretto di T\u00f4gr\u00f4g"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u043e\u0433\u0440\u043e\u0433"
     ],
     "name:mon_x_preferred":[
@@ -48,9 +51,6 @@
     ],
     "name:nan_x_preferred":[
         "T\u00f6gr\u00f6g"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u06af\u0631\u06af\u060c \u0627\u0648\u0631\u062e\u0646\u06af\u06cc"
     ],
     "name:rus_x_preferred":[
         "\u0422\u0443\u0433\u0440\u0435\u0433"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092041963,
-    "wof:lastmodified":1555037660,
+    "wof:lastmodified":1561844097,
     "wof:name":"To'grog",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

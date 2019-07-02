@@ -40,17 +40,17 @@
     "name:cat_x_preferred":[
         "Sainshand"
     ],
-    "name:chi_x_preferred":[
-        "\u8d5b\u97f3\u5c71\u8fbe"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Sajn\u0161and"
     ],
     "name:dan_x_preferred":[
         "Sainshand"
     ],
-    "name:dut_x_preferred":[
-        "Sajnsjand"
+    "name:deu_x_preferred":[
+        "Sainschand"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ac\u03b9\u03bd\u03c3\u03b1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Saynshand"
@@ -58,20 +58,14 @@
     "name:eng_x_variant":[
         "Sainshand"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0634\u0646\u062f"
+    ],
     "name:fin_x_preferred":[
         "Sain\u0161and"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sainshand"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10d8\u10dc\u10e8\u10d0\u10dc\u10d3\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sainschand"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ac\u03b9\u03bd\u03c3\u03b1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac8\u0aa8\u0ab6\u0ac7\u0aa8\u0acd\u0aa1"
@@ -91,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc8\u0ca8\u0ccd\u0cb8\u0ccd\u0cb9\u0ccd\u0caf\u0cbe\u0c82\u0ca1\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10d8\u10dc\u10e8\u10d0\u10dc\u10d3\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0ac\uc778\uc0e8\ub4dc"
     ],
@@ -100,26 +97,26 @@
     "name:lit_x_preferred":[
         "Sain\u0161andas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0430\u0438\u043d\u0448\u0430\u043d\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0928\u094d\u0938\u0939\u0945\u0928\u094d\u0921"
     ],
-    "name:may_x_preferred":[
-        "Sainshand"
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0438\u043d\u0448\u0430\u043d\u0434"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u0439\u043d\u0448\u0430\u043d\u0434"
     ],
+    "name:msa_x_preferred":[
+        "Sainshand"
+    ],
     "name:nan_x_preferred":[
         "Sainshand"
     ],
+    "name:nld_x_preferred":[
+        "Sajnsjand"
+    ],
     "name:nob_x_preferred":[
         "Sainshand"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0646\u0634\u0646\u062f"
     ],
     "name:pol_x_preferred":[
         "Sajnszand"
@@ -133,7 +130,7 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd9\u0dba\u0dd2\u0db1\u0dca\u0dc1\u0dcf\u0db1\u0dca\u0da9\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Sajn\u0161and"
     ],
     "name:spa_x_preferred":[
@@ -165,6 +162,9 @@
     ],
     "name:war_x_preferred":[
         "Sainshand"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d5b\u97f3\u5c71\u8fbe"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":1092040513,
-    "wof:lastmodified":1553718069,
+    "wof:lastmodified":1561844100,
     "wof:name":"Sainshand",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

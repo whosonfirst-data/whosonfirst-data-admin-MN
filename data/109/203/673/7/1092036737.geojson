@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di D\u0117lg\u0117r\u0117h"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0435\u043b\u0433\u0435\u0440\u0435\u0445"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092036737,
-    "wof:lastmodified":1553718063,
+    "wof:lastmodified":1561844104,
     "wof:name":"Delgerex",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

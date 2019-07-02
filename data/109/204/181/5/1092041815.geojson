@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di T\u0117\u0161ig"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0422\u0435\u0448\u0438\u0433"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092041815,
-    "wof:lastmodified":1553718071,
+    "wof:lastmodified":1561844097,
     "wof:name":"Teshig",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

@@ -37,7 +37,7 @@
     "name:ita_x_preferred":[
         "Distretto di Manlaj"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u0430\u043d\u043b\u0430\u0458"
     ],
     "name:mon_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1092038737,
-    "wof:lastmodified":1553718066,
+    "wof:lastmodified":1561844104,
     "wof:name":"Manlai",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

@@ -17,9 +17,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u064a\u0628\u0627\u0644\u0633\u0627\u0646"
     ],
-    "name:baq_x_preferred":[
-        "Txoibalsan"
-    ],
     "name:ben_x_preferred":[
         "\u099a\u09cc\u0987\u09ac\u09be\u09b2\u09b8\u09be\u09a8"
     ],
@@ -29,17 +26,17 @@
     "name:cat_x_preferred":[
         "Choibalsan"
     ],
-    "name:chi_x_preferred":[
-        "\u55ac\u5df4\u5c71"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010cojbalsan"
     ],
     "name:dan_x_preferred":[
         "Tsjojbalsan"
     ],
-    "name:dut_x_preferred":[
-        "Tsjojbalsan"
+    "name:deu_x_preferred":[
+        "Tschoibalsan"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03bf\u03ca\u03bc\u03c0\u03b1\u03bb\u03c3\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Choibalsan"
@@ -47,23 +44,20 @@
     "name:epo_x_preferred":[
         "\u0108oibalsan"
     ],
+    "name:eus_x_preferred":[
+        "Txoibalsan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u06cc\u200c\u0628\u0627\u0644\u0633\u0627\u0646"
+    ],
     "name:fin_x_preferred":[
         "Choibalsan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Choybalsan"
     ],
     "name:fry_x_preferred":[
         "Tsjojbalsan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10dd\u10d8\u10d1\u10d0\u10da\u10e1\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tschoibalsan"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03bf\u03ca\u03bc\u03c0\u03b1\u03bb\u03c3\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0acb\u0a87\u0aac\u0abe\u0ab2\u0acd\u0ab8\u0aa8"
@@ -89,6 +83,9 @@
     "name:kan_x_preferred":[
         "\u0c9a\u0ccb\u0caf\u0cbf\u0cb2\u0ccd\u0cb8\u0cbe\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10d8\u10d1\u10d0\u10da\u10e1\u10d0\u10dc\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucc98\uc774\ubc1c\uc0c1"
     ],
@@ -98,14 +95,11 @@
     "name:lit_x_preferred":[
         "\u010coibalsanas"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u043e\u0458\u0431\u0430\u043b\u0441\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u091a\u094b\u0907\u092c\u093e\u0932\u094d\u0938\u0928"
     ],
-    "name:may_x_preferred":[
-        "Choibalsan"
+    "name:mkd_x_preferred":[
+        "\u0427\u043e\u0458\u0431\u0430\u043b\u0441\u0430\u043d"
     ],
     "name:mon_x_preferred":[
         "\u0427\u043e\u0439\u0431\u0430\u043b\u0441\u0430\u043d"
@@ -113,17 +107,20 @@
     "name:mon_x_variant":[
         "Choybalsan"
     ],
+    "name:msa_x_preferred":[
+        "Choibalsan"
+    ],
     "name:nan_x_preferred":[
         "Choibalsan"
     ],
     "name:nau_x_preferred":[
         "Choibalsan"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Tsjojbalsan"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u0648\u06cc\u200c\u0628\u0627\u0644\u0633\u0627\u0646"
+    "name:nob_x_preferred":[
+        "Tsjojbalsan"
     ],
     "name:pol_x_preferred":[
         "Czojbalsan"
@@ -131,7 +128,7 @@
     "name:por_x_preferred":[
         "Choybalsan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Choibalsan"
     ],
     "name:rus_x_preferred":[
@@ -184,6 +181,9 @@
     ],
     "name:war_x_preferred":[
         "Choibalsan"
+    ],
+    "name:zho_x_preferred":[
+        "\u55ac\u5df4\u5c71"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mongolia",
@@ -324,7 +324,7 @@
         }
     ],
     "wof:id":421168931,
-    "wof:lastmodified":1553816356,
+    "wof:lastmodified":1561844113,
     "wof:name":"Choybalsan",
     "wof:parent_id":1092034075,
     "wof:placetype":"locality",

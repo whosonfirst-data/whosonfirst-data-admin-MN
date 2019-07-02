@@ -34,7 +34,7 @@
     "name:cat_x_preferred":[
         "\u00dcyench"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u00dcyench"
     ],
     "name:eng_x_preferred":[
@@ -43,10 +43,7 @@
     "name:eng_x_variant":[
         "\u00dcyench"
     ],
-    "name:fre_x_preferred":[
-        "\u00dcyench"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00dcyench"
     ],
     "name:ita_x_preferred":[
@@ -55,13 +52,16 @@
     "name:kaz_x_preferred":[
         "\u04ae\u0435\u043d\u0447"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0423\u0458\u0435\u043d\u0447"
     ],
     "name:mon_x_preferred":[
         "\u04ae\u0435\u043d\u0447 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "\u00dcyench"
+    ],
+    "name:nld_x_preferred":[
         "\u00dcyench"
     ],
     "name:pol_x_preferred":[
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1092042481,
-    "wof:lastmodified":1553718072,
+    "wof:lastmodified":1561844098,
     "wof:name":"U'yench",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

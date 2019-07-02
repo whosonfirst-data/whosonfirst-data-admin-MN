@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Mogod"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u043e\u0433\u043e\u0434"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092039077,
-    "wof:lastmodified":1553718067,
+    "wof:lastmodified":1561844102,
     "wof:name":"Mogod",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

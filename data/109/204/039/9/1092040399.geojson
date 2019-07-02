@@ -34,22 +34,22 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u0433\u0438\u043b"
     ],
-    "name:dut_x_preferred":[
-        "Sagil"
-    ],
     "name:eng_x_preferred":[
         "Sagil"
     ],
     "name:ita_x_preferred":[
         "Distretto di Sagil"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u0433\u0438\u043b"
     ],
     "name:mon_x_preferred":[
         "\u0421\u0430\u0433\u0438\u043b \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Sagil"
+    ],
+    "name:nld_x_preferred":[
         "Sagil"
     ],
     "name:swe_x_preferred":[
@@ -95,7 +95,7 @@
         }
     ],
     "wof:id":1092040399,
-    "wof:lastmodified":1553718070,
+    "wof:lastmodified":1561844097,
     "wof:name":"Sagil",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

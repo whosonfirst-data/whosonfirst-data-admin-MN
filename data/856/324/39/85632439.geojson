@@ -162,9 +162,6 @@
     "name:cym_x_preferred":[
         "Mongolia"
     ],
-    "name:cze_x_preferred":[
-        "Mongolsko"
-    ],
     "name:dan_x_preferred":[
         "Mongoliet"
     ],
@@ -938,7 +935,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1544059210,
+    "wof:lastmodified":1561844088,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Huld"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0425\u0443\u043b\u0434"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092043987,
-    "wof:lastmodified":1553718074,
+    "wof:lastmodified":1561844094,
     "wof:name":"Xuld",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

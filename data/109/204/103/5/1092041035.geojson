@@ -40,7 +40,7 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30d6\u30ec\u30a4\u30fb\u30bd\u30e0"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0435\u0432\u0440\u0435\u0458"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092041035,
-    "wof:lastmodified":1553718070,
+    "wof:lastmodified":1561844094,
     "wof:name":"Sevrei",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

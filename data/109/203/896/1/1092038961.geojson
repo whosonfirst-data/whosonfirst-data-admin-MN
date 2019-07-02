@@ -37,10 +37,10 @@
     "name:eng_x_variant":[
         "M\u00f6r\u00f6n"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "M\u00f6r\u00f6n"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u043e\u0440\u043e\u043d"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092038961,
-    "wof:lastmodified":1555037664,
+    "wof:lastmodified":1561844111,
     "wof:name":"Mo'ron",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Z\u00f9\u00f9nbajan-Ulaan"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0417\u0443\u043d\u0431\u0430\u0458\u0430\u043d-\u0423\u043b\u0430\u043d"
     ],
     "name:mon_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092044589,
-    "wof:lastmodified":1553718075,
+    "wof:lastmodified":1561844099,
     "wof:name":"Zu'unbayan-Ulaan",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

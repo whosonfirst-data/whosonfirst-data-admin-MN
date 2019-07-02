@@ -34,7 +34,7 @@
     "name:cat_x_preferred":[
         "Tsengel"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tsengel"
     ],
     "name:eng_x_preferred":[
@@ -43,11 +43,8 @@
     "name:fin_x_preferred":[
         "Tsengel"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tsengel sum"
-    ],
-    "name:ger_x_preferred":[
-        "Tsengel"
     ],
     "name:ita_x_preferred":[
         "Distretto di C\u0117ng\u0117l"
@@ -55,13 +52,16 @@
     "name:kaz_x_preferred":[
         "\u0426\u044d\u043d\u0433\u044d\u043b \u0441\u0443\u043c"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0426\u0435\u043d\u0433\u0435\u043b"
     ],
     "name:mon_x_preferred":[
         "\u0426\u044d\u043d\u0433\u044d\u043b \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Tsengel"
+    ],
+    "name:nld_x_preferred":[
         "Tsengel"
     ],
     "name:pol_x_preferred":[
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1092035785,
-    "wof:lastmodified":1553718062,
+    "wof:lastmodified":1561844112,
     "wof:name":"Cengel",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

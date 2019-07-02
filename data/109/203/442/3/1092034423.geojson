@@ -28,7 +28,7 @@
     "name:cat_x_preferred":[
         "Bayanz\u00fcrkh"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bayanz\u00fcrkh"
     ],
     "name:eng_x_preferred":[
@@ -37,10 +37,7 @@
     "name:eng_x_variant":[
         "Bayanz\u00fcrkh"
     ],
-    "name:fre_x_preferred":[
-        "Bayanz\u00fcrkh"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bayanz\u00fcrkh"
     ],
     "name:gle_x_preferred":[
@@ -52,13 +49,16 @@
     "name:kaz_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0437\u04af\u0440\u0445 \u0441\u0443\u043c"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043d\u0437\u0443\u0440\u0445"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0437\u04af\u0440\u0445 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Bayanz\u00fcrkh"
+    ],
+    "name:nld_x_preferred":[
         "Bayanz\u00fcrkh"
     ],
     "name:pol_x_preferred":[
@@ -103,7 +103,7 @@
         }
     ],
     "wof:id":1092034423,
-    "wof:lastmodified":1536615107,
+    "wof:lastmodified":1561844110,
     "wof:name":"Bayanzu'rx",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

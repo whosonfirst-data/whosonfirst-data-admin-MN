@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di S\u0117l\u0117ng\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0435\u043b\u0435\u043d\u0433\u0435"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092040913,
-    "wof:lastmodified":1553718070,
+    "wof:lastmodified":1561844096,
     "wof:name":"Selenge",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

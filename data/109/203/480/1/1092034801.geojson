@@ -34,16 +34,13 @@
     "name:cat_x_preferred":[
         "Bugat"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bugat"
     ],
     "name:eng_x_preferred":[
         "Bugat"
     ],
-    "name:fre_x_preferred":[
-        "Bugat"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bugat"
     ],
     "name:ita_x_preferred":[
@@ -52,13 +49,16 @@
     "name:kaz_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0442"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0442 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Bugat"
+    ],
+    "name:nld_x_preferred":[
         "Bugat"
     ],
     "name:pol_x_preferred":[
@@ -110,7 +110,7 @@
         }
     ],
     "wof:id":1092034801,
-    "wof:lastmodified":1553718060,
+    "wof:lastmodified":1561844110,
     "wof:name":"Bugat",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

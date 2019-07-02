@@ -31,9 +31,6 @@
     "mps:longitude":94.361496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kh\u00f6kh morit"
-    ],
     "name:eng_x_preferred":[
         "Hohmorit"
     ],
@@ -43,13 +40,16 @@
     "name:ita_x_preferred":[
         "Distretto di H\u00f4h mor't"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0425\u043e\u0445 \u043c\u043e\u0440\u0438\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0425\u04e9\u0445\u043c\u043e\u0440\u044c\u0442 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Kh\u00f6kh morit"
+    ],
+    "name:nld_x_preferred":[
         "Kh\u00f6kh morit"
     ],
     "name:rus_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092043601,
-    "wof:lastmodified":1553718074,
+    "wof:lastmodified":1561844098,
     "wof:name":"Xo'xmorit",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

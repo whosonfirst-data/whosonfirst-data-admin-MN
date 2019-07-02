@@ -34,28 +34,28 @@
     "name:cat_x_preferred":[
         "Dashbalbar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Dashbalbar"
     ],
     "name:eng_x_preferred":[
         "Dashbalbar"
     ],
-    "name:fre_x_preferred":[
-        "Dashbalbar"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Dashbalbar"
     ],
     "name:ita_x_preferred":[
         "Distretto di Da\u0161balbar"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u0430\u0448\u0431\u0430\u043b\u0431\u0430\u0440"
     ],
     "name:mon_x_preferred":[
         "\u0414\u0430\u0448\u0431\u0430\u043b\u0431\u0430\u0440 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Dashbalbar"
+    ],
+    "name:nld_x_preferred":[
         "Dashbalbar"
     ],
     "name:pol_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1092036595,
-    "wof:lastmodified":1553718063,
+    "wof:lastmodified":1561844106,
     "wof:name":"Dashbalbar",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

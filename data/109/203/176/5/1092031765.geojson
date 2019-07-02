@@ -34,16 +34,16 @@
     "name:cat_x_preferred":[
         "Alag-Erdene"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Alag-Erdene"
     ],
     "name:eng_x_preferred":[
         "Alag-Erdene"
     ],
-    "name:fre_x_preferred":[
-        "Alag-Erdene"
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u06af-\u0627\u0631\u062f\u0646\u060c \u062e\u0648\u0633\u06af\u0644"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Alag-Erdene"
     ],
     "name:gle_x_preferred":[
@@ -52,7 +52,7 @@
     "name:ita_x_preferred":[
         "Distretto di Alag-\u0116rd\u0117n\u0117"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u043b\u0430\u0433-\u0415\u0440\u0434\u0435\u043d\u0435"
     ],
     "name:mon_x_preferred":[
@@ -61,8 +61,8 @@
     "name:nan_x_preferred":[
         "Alag-Erdene"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0627\u06af-\u0627\u0631\u062f\u0646\u060c \u062e\u0648\u0633\u06af\u0644"
+    "name:nld_x_preferred":[
+        "Alag-Erdene"
     ],
     "name:pol_x_preferred":[
         "Alag-Erdene"
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1092031765,
-    "wof:lastmodified":1553718055,
+    "wof:lastmodified":1561844113,
     "wof:name":"Alag-Erdene",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

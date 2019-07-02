@@ -34,10 +34,10 @@
     "name:eng_x_preferred":[
         "Bayan-Ovoo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bayan-Ovoo"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043d-\u041e\u0432\u043e"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092033143,
-    "wof:lastmodified":1555037671,
+    "wof:lastmodified":1561844107,
     "wof:name":"Bayan-Ovoo",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

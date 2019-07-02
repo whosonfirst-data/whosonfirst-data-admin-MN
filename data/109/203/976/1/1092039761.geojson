@@ -37,7 +37,7 @@
     "name:eng_x_variant":[
         "\u00d6mn\u00f6delger"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "\u00d6mn\u00f6delger"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092039761,
-    "wof:lastmodified":1553718068,
+    "wof:lastmodified":1561844107,
     "wof:name":"O'mnodelger",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

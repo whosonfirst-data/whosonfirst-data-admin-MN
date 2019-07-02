@@ -40,14 +40,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Bulgan"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5c14\u5e72\u7701"
-    ],
     "name:dan_x_preferred":[
         "Bulgan"
     ],
-    "name:dut_x_preferred":[
-        "Ajmag Bulgan"
+    "name:deu_x_preferred":[
+        "Bulgan-Aimag"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03bb\u03b3\u03ba\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Bulgan"
@@ -62,23 +62,17 @@
     "name:est_x_preferred":[
         "Bulgani aimakk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0644\u06af\u0646"
+    ],
     "name:fin_x_preferred":[
         "Bulgan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bulgan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10da\u10d2\u10d0\u10dc\u10d8\u10e1 \u10d0\u10d8\u10db\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bulgan-Aimag"
     ],
     "name:gle_x_preferred":[
         "Bulgan"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03cd\u03bb\u03b3\u03ba\u03b1\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab2\u0acd\u0a97\u0aa8 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -101,6 +95,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0cb2\u0ccd\u0c97\u0ca8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10da\u10d2\u10d0\u10dc\u10d8\u10e1 \u10d0\u10d8\u10db\u10d0\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubcfc\uac04 \uc8fc"
     ],
@@ -110,14 +107,11 @@
     "name:lit_x_preferred":[
         "Bulgano aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0443\u043b\u0433\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u0932\u094d\u0917\u093e\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Bulgan Province"
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0443\u043b\u0433\u0430\u043d \u0410\u0439\u043c\u0430\u0433"
@@ -127,14 +121,17 @@
         "\u0411\u0443\u043b\u0433\u0430\u043d",
         "Bulgan Aymag"
     ],
+    "name:msa_x_preferred":[
+        "Bulgan Province"
+    ],
     "name:nan_x_preferred":[
         "Bulgan S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Ajmag Bulgan"
+    ],
     "name:nob_x_preferred":[
         "Bulgan"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0648\u0644\u06af\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u0644\u06af\u0627\u0646"
@@ -145,7 +142,7 @@
     "name:por_x_preferred":[
         "Bulgan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bulgan-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -198,6 +195,9 @@
     ],
     "name:war_x_preferred":[
         "Bulgan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5c14\u5e72\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -322,7 +322,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553550473,
+    "wof:lastmodified":1561844092,
     "wof:name":"Bulgan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

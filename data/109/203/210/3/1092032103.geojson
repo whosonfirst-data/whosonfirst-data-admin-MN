@@ -34,7 +34,7 @@
     "name:eng_x_preferred":[
         "Arbulag"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arbulag"
     ],
     "name:gle_x_preferred":[
@@ -43,7 +43,7 @@
     "name:ita_x_preferred":[
         "Distretto di Arbulag"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0410\u0440\u0431\u0443\u043b\u0430\u0433"
     ],
     "name:mon_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092032103,
-    "wof:lastmodified":1553718056,
+    "wof:lastmodified":1561844104,
     "wof:name":"Arbulag",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

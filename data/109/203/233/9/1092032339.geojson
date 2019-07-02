@@ -34,9 +34,6 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0446\u0430\u0433\u0430\u043d"
     ],
-    "name:dut_x_preferred":[
-        "Baatsagaan"
-    ],
     "name:eng_x_preferred":[
         "Baatsagaan"
     ],
@@ -46,13 +43,16 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30fc\u30c4\u30a1\u30ac\u30fc\u30f3"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0430\u0446\u0430\u0433\u0430\u043d"
     ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0430\u0446\u0430\u0433\u0430\u0430\u043d \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "Baatsagaan"
+    ],
+    "name:nld_x_preferred":[
         "Baatsagaan"
     ],
     "name:rus_x_preferred":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1092032339,
-    "wof:lastmodified":1553718056,
+    "wof:lastmodified":1561844106,
     "wof:name":"Baacagaan",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

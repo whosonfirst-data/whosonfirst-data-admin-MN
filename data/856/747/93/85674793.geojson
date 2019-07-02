@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.600924,
-    "geom:area_square_m":82129617578.576904,
+    "geom:area_square_m":82129617578.578476,
     "geom:bbox":"111.220893315,44.742889,116.575968827,47.8257972652",
     "geom:latitude":46.222668,
     "geom:longitude":113.543028,
@@ -43,17 +43,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de S\u00fckhbaatar"
     ],
-    "name:chi_x_preferred":[
-        "\u82cf\u8d6b\u5df4\u6258\u5c14\u7701"
-    ],
     "name:dan_x_preferred":[
         "S\u00fckhbaatar"
     ],
     "name:deu_x_preferred":[
         "S\u00fcchbaatar-Aimag"
     ],
-    "name:dut_x_preferred":[
-        "S\u00fchbaatar"
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03ba\u03c7\u03bc\u03c0\u03b1\u03b1\u03c4\u03ac\u03c1"
     ],
     "name:eng_x_preferred":[
         "Suhbaatar"
@@ -70,17 +67,8 @@
     "name:fin_x_preferred":[
         "S\u00fchbaatar"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "S\u00fchbaatar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10e3\u10ee\u10d4-\u10d1\u10d0\u10e2\u10dd\u10e0\u10d8\u10e1 \u10d0\u10d8\u10db\u10d0\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "S\u00fcchbaatar-Aimag"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03bf\u03c5\u03ba\u03c7\u03bc\u03c0\u03b1\u03b1\u03c4\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a96\u0aac\u0abe\u0aa4\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -106,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc1\u0c96\u0cbe\u0cac\u0cbe\u0c9f\u0cb0\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10e3\u10ee\u10d4-\u10d1\u10d0\u10e2\u10dd\u10e0\u10d8\u10e1 \u10d0\u10d8\u10db\u10d0\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc218\ud750\ubc14\ud0c0\ub974 \uc8fc"
     ],
@@ -115,14 +106,11 @@
     "name:lit_x_preferred":[
         "Suche Batoro aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0443\u0445\u0431\u0430\u0442\u0430\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u0936\u0941\u092c\u092c\u094d\u092c\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Sukhbaatar Province"
+    "name:mkd_x_preferred":[
+        "\u0421\u0443\u0445\u0431\u0430\u0442\u0430\u0440"
     ],
     "name:mon_x_preferred":[
         "\u0421\u04af\u0445\u0431\u0430\u0430\u0442\u0430\u0440 \u0410\u0439\u043c\u0430\u0433"
@@ -132,14 +120,17 @@
         "\u0421\u04af\u0445\u0431\u0430\u0430\u0442\u0430\u0440",
         "S\u00fchbaatar Aymag"
     ],
+    "name:msa_x_preferred":[
+        "Sukhbaatar Province"
+    ],
     "name:nan_x_preferred":[
         "S\u00fckhbaatar S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "S\u00fchbaatar"
+    ],
     "name:nob_x_preferred":[
         "S\u00fckhbaatar"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0648\u062e\u0628\u0627\u062a\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u062e\u0628\u0627\u062a\u0627\u0631"
@@ -150,7 +141,7 @@
     "name:por_x_preferred":[
         "S\u00fckhbaatar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "S\u00fcchbaatar-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -200,6 +191,9 @@
     ],
     "name:war_x_preferred":[
         "S\u00fckhbaatar"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u8d6b\u5df4\u6258\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -324,7 +318,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553814808,
+    "wof:lastmodified":1561844089,
     "wof:name":"S\u00fchbaatar",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

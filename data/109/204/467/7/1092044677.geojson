@@ -31,9 +31,6 @@
     "mps:longitude":94.003464,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Zu'ungovi"
-    ],
     "name:eng_x_preferred":[
         "Zuungovi"
     ],
@@ -43,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di Z\u00f9\u00f9ngov'"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0417\u0443\u043d\u0433\u043e\u0432\u0438"
     ],
     "name:mon_x_preferred":[
@@ -51,6 +48,9 @@
     ],
     "name:nan_x_preferred":[
         "Z\u00fc\u00fcngovi"
+    ],
+    "name:nld_x_preferred":[
+        "Zu'ungovi"
     ],
     "name:swe_x_preferred":[
         "Z\u00fc\u00fcngovi"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092044677,
-    "wof:lastmodified":1553718075,
+    "wof:lastmodified":1561844099,
     "wof:name":"Zu'ungovi",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

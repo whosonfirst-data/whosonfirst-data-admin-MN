@@ -42,17 +42,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Govis\u00fcmber"
     ],
-    "name:chi_x_preferred":[
-        "\u6208\u58c1\u82cf\u6728\u8d1d\u5c14\u7701"
-    ],
     "name:dan_x_preferred":[
         "Gov-S\u00fcmber"
     ],
     "name:deu_x_preferred":[
         "Gobi-S\u00fcmber-Aimag"
     ],
-    "name:dut_x_preferred":[
-        "Gov\u012ds\u00fcmber"
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03b2\u03b9\u03c3\u03bf\u03cd\u03bc\u03c0\u03b5\u03c1"
     ],
     "name:eng_x_preferred":[
         "Tov"
@@ -66,20 +63,11 @@
     "name:fin_x_preferred":[
         "Govisumber"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Govis\u00fcmber"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10dd\u10d1\u10d8-\u10e1\u10e3\u10db\u10d1\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Gobi-S\u00fcmber-Aimag"
     ],
     "name:gle_x_preferred":[
         "Govis\u00fcmber"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03b2\u03b9\u03c3\u03bf\u03cd\u03bc\u03c0\u03b5\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0ab5\u0abf\u0ab8\u0ac1\u0aae\u0acd\u0aac\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -105,6 +93,9 @@
     "name:kan_x_preferred":[
         "\u0c97\u0ccb\u0cb5\u0cbf\u0cb6\u0c82\u0cac\u0cb0\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10dd\u10d1\u10d8-\u10e1\u10e3\u10db\u10d1\u10d4\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uace0\ube44\uc228\ubca0\ub974 \uc8fc"
     ],
@@ -114,14 +105,11 @@
     "name:lit_x_preferred":[
         "Gobisumbero aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u043e\u0432\u0438\u0441\u0443\u043c\u0431\u0435\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u094b\u0935\u093f\u0938\u094d\u0915\u0941\u0902\u092c\u0947\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Govisumber Province"
+    "name:mkd_x_preferred":[
+        "\u0413\u043e\u0432\u0438\u0441\u0443\u043c\u0431\u0435\u0440"
     ],
     "name:mon_x_preferred":[
         "Gov\u012ds\u00fcmber Aymag"
@@ -130,14 +118,17 @@
         "Gov\u012ds\u00fcmber",
         "\u0413\u043e\u0432\u044c\u0441\u04af\u043c\u0431\u044d\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Govisumber Province"
+    ],
     "name:nan_x_preferred":[
         "Govis\u00fcmber S\u00e9ng"
     ],
+    "name:nld_x_preferred":[
+        "Gov\u012ds\u00fcmber"
+    ],
     "name:nob_x_preferred":[
         "Gov-S\u00fcmber"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0627\u0648\u06cc\u200c\u0633\u0648\u0645\u0628\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06af\u0648\u0626\u06cc \u0633\u0645\u0628\u0631"
@@ -148,7 +139,7 @@
     "name:por_x_preferred":[
         "Gov\u012ds\u00fcmber"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gobi-S\u00fcmber-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -198,6 +189,9 @@
     ],
     "name:war_x_preferred":[
         "Govis\u00fcmber"
+    ],
+    "name:zho_x_preferred":[
+        "\u6208\u58c1\u82cf\u6728\u8d1d\u5c14\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -316,7 +310,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553550466,
+    "wof:lastmodified":1561844091,
     "wof:name":"Gov\u012d-S\u00fcmber",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

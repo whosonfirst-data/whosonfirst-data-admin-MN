@@ -37,7 +37,7 @@
     "name:eng_x_variant":[
         "Yes\u00f6nbulag"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0408\u0435\u0441\u043e\u043d\u0431\u0443\u043b\u0430\u0433"
     ],
     "name:mon_x_preferred":[
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":1092044253,
-    "wof:lastmodified":1553718075,
+    "wof:lastmodified":1561844095,
     "wof:name":"Yeso'nbulag",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

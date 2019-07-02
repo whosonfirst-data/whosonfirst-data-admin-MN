@@ -40,17 +40,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Selenge"
     ],
-    "name:chi_x_preferred":[
-        "\u8272\u695e\u683c\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Selengsk\u00fd ajmag"
     ],
     "name:dan_x_preferred":[
         "Selenge"
     ],
-    "name:dut_x_preferred":[
-        "Selenge"
+    "name:deu_x_preferred":[
+        "Selenge-Aimag"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bb\u03b5\u03bd\u03b3\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Selenge"
@@ -61,20 +61,14 @@
     "name:est_x_preferred":[
         "Selenge aimakk"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0644\u0646\u06af"
+    ],
     "name:fin_x_preferred":[
         "Selenge"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Selenge"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d4\u10da\u10d4\u10dc\u10d2\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Selenge-Aimag"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03ad\u03bb\u03b5\u03bd\u03b3\u03ba\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0ab2\u0ac7\u0a82\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -100,6 +94,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0cc6\u0cb2\u0cc6\u0c82\u0c97 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d4\u10da\u10d4\u10dc\u10d2\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc140\ub81d\uac8c \uc8fc"
     ],
@@ -109,14 +106,11 @@
     "name:lit_x_preferred":[
         "Seleng\u0117s aimakas"
     ],
-    "name:mac_x_preferred":[
-        "\u0421\u0435\u043b\u0435\u043d\u0433\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0932\u0947\u091d\u093f\u0902\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Selenge Province"
+    "name:mkd_x_preferred":[
+        "\u0421\u0435\u043b\u0435\u043d\u0433\u0435"
     ],
     "name:mon_x_preferred":[
         "\u0421\u044d\u043b\u044d\u043d\u0433\u044d \u0410\u0439\u043c\u0430\u0433"
@@ -126,14 +120,17 @@
         "\u0421\u044d\u043b\u044d\u043d\u0433\u044d",
         "Selenge Aymag"
     ],
+    "name:msa_x_preferred":[
+        "Selenge Province"
+    ],
     "name:nan_x_preferred":[
         "Selenge S\u00e9ng"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Selenge"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0633\u0644\u0646\u06af"
+    "name:nob_x_preferred":[
+        "Selenge"
     ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u06cc\u0644\u06cc\u0646\u06af\u06cc"
@@ -144,7 +141,7 @@
     "name:por_x_preferred":[
         "Selenge"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Selenge-Aimag"
     ],
     "name:rus_x_preferred":[
@@ -194,6 +191,9 @@
     ],
     "name:war_x_preferred":[
         "Selenge"
+    ],
+    "name:zho_x_preferred":[
+        "\u8272\u695e\u683c\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"MNG",
@@ -320,7 +320,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1553550588,
+    "wof:lastmodified":1561844088,
     "wof:name":"Selenge",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

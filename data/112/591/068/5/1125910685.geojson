@@ -31,35 +31,29 @@
     "name:cat_x_preferred":[
         "Choir"
     ],
-    "name:chi_x_preferred":[
-        "\u55ac\u4f0a\u723e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u010cojr"
     ],
     "name:dan_x_preferred":[
         "Choir"
     ],
-    "name:dut_x_preferred":[
-        "Tsjojr"
+    "name:deu_x_preferred":[
+        "Tschoir"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03cc\u03b9\u03c1"
     ],
     "name:eng_x_preferred":[
         "Choir"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u06cc\u0631"
+    ],
     "name:fin_x_preferred":[
         "T\u0161oir"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Choyr"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10dd\u10d8\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Tschoir"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03cc\u03b9\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0acb\u0a88\u0ab0"
@@ -82,6 +76,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccb\u0caf\u0cbf\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10dd\u10d8\u10e0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ucc98\uc774\ub974"
     ],
@@ -91,14 +88,11 @@
     "name:lit_x_preferred":[
         "\u010coiras"
     ],
-    "name:mac_x_preferred":[
-        "\u0427\u043e\u0438\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u091a\u094b\u0908\u0930"
     ],
-    "name:may_x_preferred":[
-        "Choir"
+    "name:mkd_x_preferred":[
+        "\u0427\u043e\u0438\u0440"
     ],
     "name:mon_x_preferred":[
         "\u0427\u043e\u0439\u0440"
@@ -106,11 +100,14 @@
     "name:mon_x_variant":[
         "Choyr"
     ],
+    "name:msa_x_preferred":[
+        "Choir"
+    ],
+    "name:nld_x_preferred":[
+        "Tsjojr"
+    ],
     "name:nob_x_preferred":[
         "Chior"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u06cc\u0631"
     ],
     "name:pol_x_preferred":[
         "Czojr"
@@ -154,6 +151,9 @@
     "name:war_x_preferred":[
         "Choir"
     ],
+    "name:zho_x_preferred":[
+        "\u55ac\u4f0a\u723e"
+    ],
     "qs_pg:aaroncc":"MN",
     "qs_pg:gn_country":"MN",
     "qs_pg:gn_fcode":"PPLA",
@@ -193,7 +193,7 @@
         }
     ],
     "wof:id":1125910685,
-    "wof:lastmodified":1553816620,
+    "wof:lastmodified":1561844114,
     "wof:name":"Choyr",
     "wof:parent_id":1092041407,
     "wof:placetype":"locality",

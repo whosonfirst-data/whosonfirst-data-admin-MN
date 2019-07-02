@@ -31,19 +31,19 @@
     "mps:longitude":109.234793,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03ca\u03c7\u03b1\u03bd\u03c4\u03bf\u03c5\u03bb\u03ac\u03b1\u03bd"
+    ],
     "name:eng_x_preferred":[
         "Saihandulaan"
     ],
     "name:eng_x_variant":[
         "Saikhandulaan"
     ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03ca\u03c7\u03b1\u03bd\u03c4\u03bf\u03c5\u03bb\u03ac\u03b1\u03bd"
-    ],
     "name:ita_x_preferred":[
         "Distretto di Sajhandulaan"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0421\u0430\u0458\u0445\u0430\u043d\u0434\u0443\u043b\u0430\u043d"
     ],
     "name:mon_x_preferred":[
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":1092040705,
-    "wof:lastmodified":1553718070,
+    "wof:lastmodified":1561844095,
     "wof:name":"Saixandulaan",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

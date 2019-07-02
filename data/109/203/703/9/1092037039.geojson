@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di D\u00f4rv\u00f4l\u017ein"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0414\u043e\u0440\u0432\u043e\u043b\u045f\u0438\u043d"
     ],
     "name:mon_x_preferred":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1092037039,
-    "wof:lastmodified":1553718064,
+    "wof:lastmodified":1561844109,
     "wof:name":"Do'rvoljin",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

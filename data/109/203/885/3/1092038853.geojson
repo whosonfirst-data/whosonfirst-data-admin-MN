@@ -40,7 +40,7 @@
     "name:ita_x_preferred":[
         "Distretto di M\u00f4ng\u00f4nmor't"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043d\u043c\u043e\u0440\u0442"
     ],
     "name:mon_x_preferred":[
@@ -86,7 +86,7 @@
         }
     ],
     "wof:id":1092038853,
-    "wof:lastmodified":1553718067,
+    "wof:lastmodified":1561844110,
     "wof:name":"Mo'ngonmorit",
     "wof:parent_id":85674777,
     "wof:placetype":"county",
