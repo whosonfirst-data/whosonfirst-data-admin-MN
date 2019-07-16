@@ -67,6 +67,9 @@
     "name:vie_x_preferred":[
         "Chingeltei"
     ],
+    "name:zho_x_preferred":[
+        "\u9752\u683c\u5c14\u6cf0\u533a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1092036017,
-    "wof:lastmodified":1561844111,
+    "wof:lastmodified":1563279945,
     "wof:name":"Chingeltei",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

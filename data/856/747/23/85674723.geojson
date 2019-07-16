@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u0627\u064a\u0627\u0646\u062e\u0648\u0646\u063a\u0648\u0631"
     ],
+    "name:aze_x_preferred":[
+        "Bayanxonqor vilay\u0259ti"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0430\u044f\u043d-\u0425\u0430\u043d\u0433\u043e\u0440\u0441\u043a\u0456 \u0430\u0439\u043c\u0430\u043a"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09af\u09bc\u09be\u09a8\u0995\u09cb\u0982\u0993\u09b0 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Baiankhongor"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayanhongor Aymag"
     ],
     "name:dan_x_preferred":[
         "Bajankhongor"
@@ -52,6 +61,9 @@
     "name:eng_x_preferred":[
         "Bayanhongor"
     ],
+    "name:eng_x_variant":[
+        "Bayankhongor Province"
+    ],
     "name:est_x_preferred":[
         "Bajanhongori aimakk"
     ],
@@ -64,6 +76,9 @@
     "name:fra_x_preferred":[
         "Bayanhongor"
     ],
+    "name:frr_x_preferred":[
+        "Bajanchongor"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aaf\u0a82\u0a96\u0acb\u0a82\u0a97\u0acb\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -72,6 +87,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u092f\u093e\u0928\u0916\u093c\u094b\u0902\u0917\u094b\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Bajanhongor tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
         "Provinsi Bayankhongor"
@@ -90,6 +108,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc789\ud5dd\uac70\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubc14\uc789\ud5dd\uac70\ub974\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Bajanhongoras aimaks"
@@ -138,6 +159,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u044f\u043d-\u0445\u043e\u043d\u0433\u043e\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u044f\u043d\u0445\u043e\u043d\u0433\u043e\u0440"
     ],
     "name:sco_x_preferred":[
         "Bayankhongor Province"
@@ -313,7 +337,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1561844092,
+    "wof:lastmodified":1563279743,
     "wof:name":"Bayanhongor",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -31,6 +31,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u063a\u0648\u0641\u064a-\u0623\u0644\u062a\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u063a\u0648\u0641\u064a-\u0623\u0644\u062a\u0627\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0648\u06cc-\u0622\u0644\u062a\u0627\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Qovi-Altay vilay\u0259ti"
+    ],
+    "name:bar_x_preferred":[
+        "Gobi-Altai-Aimag"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09ad\u09bf-\u0986\u09b2\u09cd\u099f\u09be\u0987 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -39,6 +51,12 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Govi-Altai"
+    ],
+    "name:ceb_x_preferred":[
+        "Gov\u012d-Altay Aymag"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Govi-Altai"
     ],
     "name:dan_x_preferred":[
         "Gov-Altaj"
@@ -52,6 +70,9 @@
     "name:eng_x_preferred":[
         "Govi-Altay"
     ],
+    "name:eng_x_variant":[
+        "Govi-Altai Province"
+    ],
     "name:est_x_preferred":[
         "Gobi Altai aimakk"
     ],
@@ -64,6 +85,9 @@
     "name:fra_x_preferred":[
         "Govi-Altai"
     ],
+    "name:frr_x_preferred":[
+        "Gow'-Altaj"
+    ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0ab5\u0abf-\u0a85\u0ab2\u0acd\u0aa4\u0abe\u0a87 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -72,6 +96,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u0935\u0940-\u0905\u0932\u094d\u0924\u093e\u0908 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "G\u00f3bi-Altaj tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
         "Provinsi Govi-Altai"
@@ -93,6 +120,9 @@
     ],
     "name:kor_x_preferred":[
         "\uace0\ube44\uc54c\ud0c0\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uace0\ube44\uc54c\ud0c0\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Gobi Altaja aimaks"
@@ -318,7 +348,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1561844091,
+    "wof:lastmodified":1563279734,
     "wof:name":"Govi-Altay",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

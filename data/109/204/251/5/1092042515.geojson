@@ -34,8 +34,14 @@
     "name:bul_x_preferred":[
         "\u0423\u0433\u0442\u0430\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Ugtaal"
+    ],
     "name:eng_x_preferred":[
         "Ugtaal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d2\u05d8\u05d0\u05dc"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ugtaal"
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1092042515,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1563279858,
     "wof:name":"Ugtaalcaidam",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

@@ -49,6 +49,9 @@
     "name:ita_x_preferred":[
         "Distretto di \u0116rd\u0117n\u0117bulgan"
     ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0440\u0434\u0435\u043d\u0435\u0431\u0443\u043b\u0433\u0430\u043d"
+    ],
     "name:mon_x_preferred":[
         "\u042d\u0440\u0434\u044d\u043d\u044d\u0431\u0443\u043b\u0433\u0430\u043d \u0441\u0443\u043c"
     ],
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1092037205,
-    "wof:lastmodified":1561844113,
+    "wof:lastmodified":1563279958,
     "wof:name":"Erdenebulgan",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Bayant\u00fcmen"
     ],
+    "name:ceb_x_preferred":[
+        "Bayant\u00fcmen Sum"
+    ],
     "name:deu_x_preferred":[
         "Bayant\u00fcmen"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Bajant\u00f9m\u0117n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e4\u30f3\u30c8\u30a5\u30fc\u30e1\u30f3\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043d\u0442\u0443\u043c\u0435\u043d"
@@ -72,6 +78,9 @@
     ],
     "name:spa_x_preferred":[
         "Bayant\u00fcmen"
+    ],
+    "name:swe_x_preferred":[
+        "Bajant\u00fcmen"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0442\u0443\u043c\u0435\u043d"
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1092034075,
-    "wof:lastmodified":1561844105,
+    "wof:lastmodified":1563279910,
     "wof:name":"Bayantu'men",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

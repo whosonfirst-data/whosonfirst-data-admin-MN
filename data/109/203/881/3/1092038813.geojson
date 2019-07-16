@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0430\u0434"
     ],
+    "name:ceb_x_preferred":[
+        "Matad"
+    ],
     "name:eng_x_preferred":[
         "Matad"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Matad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30bf\u30c3\u30c9\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u0442\u0430\u0434"
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1092038813,
-    "wof:lastmodified":1561844104,
+    "wof:lastmodified":1563279904,
     "wof:name":"Matad",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

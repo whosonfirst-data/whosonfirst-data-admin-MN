@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Selenge"
     ],
+    "name:fra_x_preferred":[
+        "Selenge"
+    ],
     "name:gle_x_preferred":[
         "Selenge"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092040913,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1563279854,
     "wof:name":"Selenge",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

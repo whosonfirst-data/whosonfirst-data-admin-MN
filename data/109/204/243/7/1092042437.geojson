@@ -40,6 +40,9 @@
     "name:fas_x_preferred":[
         "\u062a\u0648\u0648\u0634\u06cc\u0646\u0634\u06cc\u0631\u06cc\u060c \u0633\u0648\u062e\u0628\u0627\u062a\u0627\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u062a\u0648\u0648\u0634\u06cc\u0646\u0634\u06cc\u0631\u06cc"
+    ],
     "name:ita_x_preferred":[
         "Distretto di T\u00f9v\u0161in\u0161ir\u0117\u0117"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092042437,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1563279853,
     "wof:name":"Tu'vshinshiree",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

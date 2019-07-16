@@ -31,11 +31,17 @@
     "mps:longitude":108.611242,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "M\u00f6ng\u00f6nmor\u012dt"
+    ],
     "name:eng_x_preferred":[
         "Mongonmorit"
     ],
     "name:eng_x_variant":[
         "M\u00f6ng\u00f6nmorit"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00f6ng\u00f6nmort"
     ],
     "name:ita_x_preferred":[
         "Distretto di M\u00f4ng\u00f4nmor't"
@@ -86,7 +92,7 @@
         }
     ],
     "wof:id":1092038853,
-    "wof:lastmodified":1561844110,
+    "wof:lastmodified":1563279936,
     "wof:name":"Mo'ngonmorit",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

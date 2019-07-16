@@ -31,6 +31,12 @@
     "mps:longitude":101.970082,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u041a\u0445\u0430\u0438\u0440\u043a\u0445\u0430\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Hayrhan"
+    ],
     "name:eng_x_preferred":[
         "Hairhan"
     ],
@@ -45,6 +51,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30a4\u30eb\u30cf\u30f3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30cf\u30a4\u30eb\u30cf\u30f3\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u0438\u0440\u0445\u0430\u043d"
@@ -63,6 +72,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u0439\u0440\u0445\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Hayrhan"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0439\u0440\u0445\u0430\u043d"
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1092042847,
-    "wof:lastmodified":1561844098,
+    "wof:lastmodified":1563279868,
     "wof:name":"Xairxan",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

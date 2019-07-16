@@ -40,6 +40,9 @@
     "name:eng_x_variant":[
         "Kh\u00f6vsg\u00f6l"
     ],
+    "name:fra_x_preferred":[
+        "Kh\u00f6vsg\u00f6l"
+    ],
     "name:ita_x_preferred":[
         "Distretto di H\u00f4vsg\u00f4l"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092043555,
-    "wof:lastmodified":1561844094,
+    "wof:lastmodified":1563279847,
     "wof:name":"Xo'vsgol",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

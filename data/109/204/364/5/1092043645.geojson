@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Khongor"
     ],
+    "name:mkd_x_preferred":[
+        "\u0425\u043e\u043d\u0433\u043e\u0440"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u043e\u043d\u0433\u043e\u0440 \u0441\u0443\u043c"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092043645,
-    "wof:lastmodified":1561844095,
+    "wof:lastmodified":1563279847,
     "wof:name":"Xongor",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

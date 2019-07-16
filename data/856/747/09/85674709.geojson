@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0648\u0631\u0646\u0648\u063a\u0648\u0641\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0648\u0631\u0646\u0648\u063a\u0648\u0641\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0631\u0646\u0627\u0642\u0627\u0648\u06cc \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09b0\u09cd\u09a8\u09cb\u0997\u09cb\u09ac\u09bf \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -39,6 +45,15 @@
     ],
     "name:cat_x_preferred":[
         "Dornogovi"
+    ],
+    "name:ceb_x_preferred":[
+        "Dornogov\u012d Aymag"
+    ],
+    "name:ces_x_preferred":[
+        "V\u00fdchodogobijsk\u00fd ajmag"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Dornogovi"
     ],
     "name:dan_x_preferred":[
         "Dornogov"
@@ -72,6 +87,9 @@
     "name:fra_x_preferred":[
         "Dornogovi"
     ],
+    "name:frr_x_preferred":[
+        "Dornogow'"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0ab0\u0acd\u0aa8\u0acb\u0a97\u0acb\u0ab5\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -80,6 +98,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0926\u094b\u0930\u0928\u094b\u0917\u094b\u0935\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
+    ],
+    "name:hun_x_preferred":[
+        "Kelet-G\u00f3bi tartom\u00e1ny"
     ],
     "name:ind_x_preferred":[
         "Provinsi Dornogovi"
@@ -98,6 +119,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub354\ub974\ub108\uace0\ube44 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub354\ub974\ub108\uace0\ube44\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Austrumgobi aimaks"
@@ -323,7 +347,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1561844090,
+    "wof:lastmodified":1563279733,
     "wof:name":"Dornogovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

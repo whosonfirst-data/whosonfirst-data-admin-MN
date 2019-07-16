@@ -40,11 +40,17 @@
     "name:fra_x_preferred":[
         "Ikhtamir"
     ],
+    "name:hun_x_preferred":[
+        "Ih Tamir"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Ih-Tamir"
     ],
     "name:jpn_x_preferred":[
         "\u30a4\u30d5\u30fb\u30bf\u30df\u30eb"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a4\u30d5\u30fb\u30bf\u30df\u30eb\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u0418\u0445-\u0422\u0430\u043c\u0438\u0440"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1092038063,
-    "wof:lastmodified":1561844111,
+    "wof:lastmodified":1563279946,
     "wof:name":"Ixtamir",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Ulaan-Uul"
     ],
+    "name:ceb_x_preferred":[
+        "Ulaan-Uul"
+    ],
     "name:deu_x_preferred":[
         "Ulaan-Uul"
     ],
@@ -76,6 +79,9 @@
     "name:spa_x_preferred":[
         "Ulaan-Uul"
     ],
+    "name:swe_x_preferred":[
+        "Ulaan-Uul"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u043b\u0430\u0430\u043d-\u0423\u0443\u043b"
     ],
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1092042557,
-    "wof:lastmodified":1561844100,
+    "wof:lastmodified":1563279880,
     "wof:name":"Ulaan uul",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

@@ -29,6 +29,9 @@
     "name:cat_x_preferred":[
         "Baruun-Urt"
     ],
+    "name:ceb_x_preferred":[
+        "Baruun-Urt"
+    ],
     "name:dan_x_preferred":[
         "Baruun-Urt"
     ],
@@ -77,6 +80,9 @@
     "name:kor_x_preferred":[
         "\ubc14\ub8ec\uc6b0\ub974\ud2b8"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\ub860\uc624\ub974\ud2b8"
+    ],
     "name:lav_x_preferred":[
         "Barun-Urta"
     ],
@@ -94,6 +100,9 @@
     ],
     "name:msa_x_preferred":[
         "Baruun-Urt"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0627\u0631\u0648\u0646 \u0627\u0648\u0631\u062a"
     ],
     "name:nan_x_preferred":[
         "Baruun-Urt"
@@ -297,7 +306,7 @@
         }
     ],
     "wof:id":421191717,
-    "wof:lastmodified":1561844114,
+    "wof:lastmodified":1563279977,
     "wof:name":"Baruun-Urt",
     "wof:parent_id":1092032453,
     "wof:placetype":"locality",

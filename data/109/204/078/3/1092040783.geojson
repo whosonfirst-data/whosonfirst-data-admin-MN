@@ -31,6 +31,12 @@
     "mps:longitude":95.175131,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u043d\u0442\u043c\u0430\u0440\u0433\u0430\u0446"
+    ],
+    "name:ceb_x_preferred":[
+        "Santmargats"
+    ],
     "name:eng_x_preferred":[
         "Santmargats"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0442\u043c\u0430\u0440\u0433\u0430\u0446"
+    ],
+    "name:swe_x_preferred":[
+        "Santmargats"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043d\u0442\u043c\u0430\u0440\u0433\u0430\u0446"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1092040783,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1563279854,
     "wof:name":"Santmargac",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

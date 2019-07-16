@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0430\u0442\u0446\u0435\u043d\u0433\u0435\u043b"
     ],
+    "name:ceb_x_preferred":[
+        "Battsengel"
+    ],
     "name:eng_x_preferred":[
         "Battsengel"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30c3\u30c8\u30c4\u30a7\u30f3\u30b2\u30eb"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30c3\u30c8\u30c4\u30a7\u30f3\u30b2\u30eb\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0442\u0446\u0435\u043d\u0433\u0435\u043b"
@@ -62,6 +68,9 @@
         "\u0411\u0430\u0442\u0446\u044d\u043d\u0433\u044d\u043b"
     ],
     "name:swe_x_preferred":[
+        "Battsengel"
+    ],
+    "name:tgl_x_preferred":[
         "Battsengel"
     ],
     "name:ukr_x_preferred":[
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1092032647,
-    "wof:lastmodified":1561844111,
+    "wof:lastmodified":1563279947,
     "wof:name":"Batcengel",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

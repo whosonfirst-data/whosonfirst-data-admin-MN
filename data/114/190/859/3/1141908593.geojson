@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Baiankhongor"
     ],
+    "name:ceb_x_preferred":[
+        "Bayanhongor"
+    ],
     "name:ces_x_preferred":[
         "Bajanchongor"
     ],
@@ -58,6 +61,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u092f\u0928\u0916\u094b\u0902\u0917\u094b\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Bajanhongor"
     ],
     "name:ind_x_preferred":[
         "Bayankhongor"
@@ -271,7 +277,7 @@
         }
     ],
     "wof:id":1141908593,
-    "wof:lastmodified":1561844115,
+    "wof:lastmodified":1563280049,
     "wof:name":"Bayankhongor",
     "wof:parent_id":1092037209,
     "wof:placetype":"locality",

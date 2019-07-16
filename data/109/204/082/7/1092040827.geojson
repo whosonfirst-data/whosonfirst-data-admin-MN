@@ -31,6 +31,9 @@
     "mps:longitude":103.871626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sant"
+    ],
     "name:eng_x_preferred":[
         "Sant"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092040827,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1563279853,
     "wof:name":"Sant",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

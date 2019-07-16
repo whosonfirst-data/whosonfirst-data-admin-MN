@@ -23,6 +23,9 @@
     "name:bul_x_preferred":[
         "\u0423\u043b\u0430\u043d\u0433\u043e\u043c"
     ],
+    "name:bul_x_variant":[
+        "\u0423\u043b\u0430\u0430\u043d\u0433\u043e\u043c"
+    ],
     "name:cat_x_preferred":[
         "Ulaangom"
     ],
@@ -39,6 +42,12 @@
         "\u039f\u03c5\u03bb\u03b1\u03bd\u03b3\u03ba\u03cc\u03bc"
     ],
     "name:eng_x_preferred":[
+        "Ulaangom"
+    ],
+    "name:est_x_preferred":[
+        "Ulaangom"
+    ],
+    "name:eus_x_preferred":[
         "Ulaangom"
     ],
     "name:fas_x_preferred":[
@@ -62,6 +71,9 @@
     "name:hin_x_preferred":[
         "\u0909\u0932\u093e\u0928\u0917\u094b\u092e"
     ],
+    "name:hun_x_preferred":[
+        "Ul\u00e1ngom"
+    ],
     "name:ind_x_preferred":[
         "Ulaangom"
     ],
@@ -79,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b8\ub780\uacf0"
+    ],
+    "name:kor_x_variant":[
+        "\uc62c\ub780\uacf0"
     ],
     "name:lav_x_preferred":[
         "Ul\u0101ngoma"
@@ -309,7 +324,7 @@
         }
     ],
     "wof:id":421199231,
-    "wof:lastmodified":1561844114,
+    "wof:lastmodified":1563279979,
     "wof:name":"Ulaangom",
     "wof:parent_id":1092041651,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Del\u00fc\u00fcn"
     ],
+    "name:ceb_x_preferred":[
+        "Del\u00fc\u00fcn"
+    ],
     "name:deu_x_preferred":[
         "Del\u00fc\u00fcn"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:fra_x_preferred":[
         "Del\u00fc\u00fcn sum"
+    ],
+    "name:hun_x_preferred":[
+        "Del\u0171n j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di D\u0117l\u00f9\u00f9n"
@@ -69,6 +75,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u044d\u043b\u0443\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Del\u00fc\u00fcn"
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u0443\u0443\u043d"
@@ -107,7 +116,7 @@
         }
     ],
     "wof:id":1092036931,
-    "wof:lastmodified":1561844105,
+    "wof:lastmodified":1563279909,
     "wof:name":"Delu'un",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

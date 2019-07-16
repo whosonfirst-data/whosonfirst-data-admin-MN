@@ -31,6 +31,12 @@
     "mps:longitude":94.210711,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0423\u0440\u0433\u0430\u043c\u0430\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Urgamal"
+    ],
     "name:eng_x_preferred":[
         "Urgamal"
     ],
@@ -48,6 +54,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0423\u0440\u0433\u0430\u043c\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Urgamal"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0440\u0433\u0430\u043c\u0430\u043b"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1092042727,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1563279853,
     "wof:name":"Urgamal",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

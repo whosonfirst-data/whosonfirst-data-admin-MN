@@ -31,8 +31,14 @@
     "mps:longitude":89.19509,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0423\u043b\u0430\u043d\u0445\u0443\u0441"
+    ],
     "name:cat_x_preferred":[
         "Ulaankhus"
+    ],
+    "name:ceb_x_preferred":[
+        "Ulaanhus"
     ],
     "name:deu_x_preferred":[
         "Ulaankhus"
@@ -45,6 +51,9 @@
     ],
     "name:fra_x_preferred":[
         "Ulaankhus"
+    ],
+    "name:hun_x_preferred":[
+        "Ul\u00e1nhusz j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ulaanhus"
@@ -72,6 +81,9 @@
     ],
     "name:spa_x_preferred":[
         "Ulaankhus"
+    ],
+    "name:swe_x_preferred":[
+        "Ulaanhus"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043b\u0430\u0430\u043d\u0445\u0443\u0441"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1092042649,
-    "wof:lastmodified":1561844100,
+    "wof:lastmodified":1563279878,
     "wof:name":"Ulaanxus",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

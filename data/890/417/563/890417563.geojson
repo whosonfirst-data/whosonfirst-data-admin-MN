@@ -15,8 +15,80 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kharkhorin"
+    ],
+    "name:ceb_x_preferred":[
+        "Harhorin"
+    ],
+    "name:deu_x_preferred":[
+        "Charchorin"
+    ],
+    "name:eng_x_preferred":[
+        "Kharkhorin"
+    ],
+    "name:fas_x_preferred":[
+        "\u062e\u0627\u0631\u062e\u0627\u0631\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Kharkhorin"
+    ],
+    "name:hin_x_preferred":[
+        "\u0916\u093e\u0930\u0916\u094b\u0930\u093f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Harhorin"
+    ],
+    "name:ita_x_preferred":[
+        "Harhorin"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30b3\u30eb\u30e0"
+    ],
+    "name:lit_x_preferred":[
+        "Charchorinas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0440\u0445\u043e\u0440\u0438\u043d"
+    ],
     "name:mon_x_preferred":[
         "\u0425\u0430\u0440\u0445\u043e\u0440\u0438\u043d"
+    ],
+    "name:mon_x_variant":[
+        "\u0425\u0430\u0440\u0445\u043e\u0440\u0438\u043d \u0441\u0443\u043c"
+    ],
+    "name:nan_x_preferred":[
+        "Kharkhorin"
+    ],
+    "name:nld_x_preferred":[
+        "Kharkhorin"
+    ],
+    "name:pol_x_preferred":[
+        "Karakorum"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0445\u043e\u0440\u0438\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Kharkhorin"
+    ],
+    "name:spa_x_preferred":[
+        "Jarjorin"
+    ],
+    "name:swe_x_preferred":[
+        "Harhorin"
+    ],
+    "name:tur_x_preferred":[
+        "Harhorin"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0440\u0445\u043e\u0440\u0456\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u0627\u0631\u062e\u0627\u0631\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Kharkhorin"
     ],
     "qs:name":"Kharkhorin",
     "qs:photos_9r":0,
@@ -51,7 +123,7 @@
         }
     ],
     "wof:id":890417563,
-    "wof:lastmodified":1527782123,
+    "wof:lastmodified":1563279983,
     "wof:name":"Kharkhorin",
     "wof:parent_id":1092043327,
     "wof:placetype":"locality",

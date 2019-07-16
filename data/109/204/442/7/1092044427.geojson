@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Zamyn-\u00dc\u00fcd"
     ],
+    "name:ceb_x_preferred":[
+        "Dzamyn \u00dc\u00fcd"
+    ],
     "name:ces_x_preferred":[
         "Zamyn-\u00dad"
     ],
@@ -94,6 +97,9 @@
     "name:spa_x_preferred":[
         "Zamyn-\u00dc\u00fcd"
     ],
+    "name:swe_x_preferred":[
+        "Dzamyn \u00dc\u00fcd"
+    ],
     "name:tur_x_preferred":[
         "Zam\u0131n-\u00dcd"
     ],
@@ -143,7 +149,7 @@
         }
     ],
     "wof:id":1092044427,
-    "wof:lastmodified":1561844099,
+    "wof:lastmodified":1563279874,
     "wof:name":"Zamyn U'ud",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

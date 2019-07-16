@@ -34,6 +34,9 @@
     "name:bul_x_preferred":[
         "\u0413\u0430\u043b\u0443\u0442"
     ],
+    "name:ceb_x_preferred":[
+        "Galuut"
+    ],
     "name:eng_x_preferred":[
         "Galuut"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1092037565,
-    "wof:lastmodified":1561844108,
+    "wof:lastmodified":1563279928,
     "wof:name":"Galuut",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

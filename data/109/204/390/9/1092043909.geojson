@@ -40,6 +40,9 @@
     "name:ita_x_preferred":[
         "Distretto di H\u00f9rm\u0117n"
     ],
+    "name:lzh_x_preferred":[
+        "\u547c\u723e\u9580\u7e23"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0443\u0440\u043c\u0435\u043d"
     ],
@@ -49,8 +52,14 @@
     "name:nan_x_preferred":[
         "Kh\u00fcrmen"
     ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0440\u043c\u044d\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0440\u043c\u0435\u043d"
+    ],
+    "name:zho_x_preferred":[
+        "\u547c\u5c14\u95e8\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":1092043909,
-    "wof:lastmodified":1561844095,
+    "wof:lastmodified":1563279848,
     "wof:name":"Xu'rmen",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

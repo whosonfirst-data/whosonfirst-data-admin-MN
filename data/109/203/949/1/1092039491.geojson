@@ -46,6 +46,9 @@
     "name:nan_x_preferred":[
         "Noyon"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0451\u043d"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0439\u043e\u043d"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1092039491,
-    "wof:lastmodified":1561844107,
+    "wof:lastmodified":1563279922,
     "wof:name":"Noyon",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

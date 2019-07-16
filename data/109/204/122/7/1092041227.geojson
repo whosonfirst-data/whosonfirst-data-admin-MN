@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Shine-Ider"
     ],
+    "name:ceb_x_preferred":[
+        "Shine-Ider"
+    ],
     "name:deu_x_preferred":[
         "Shine-Ider"
     ],
@@ -76,6 +79,9 @@
     "name:spa_x_preferred":[
         "Shine-Ider"
     ],
+    "name:swe_x_preferred":[
+        "Shine-Ider"
+    ],
     "name:ukr_x_preferred":[
         "\u0428\u0438\u043d\u0435-\u0406\u0434\u0435\u0440"
     ],
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":1092041227,
-    "wof:lastmodified":1561844101,
+    "wof:lastmodified":1563279883,
     "wof:name":"Shine-Ider",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

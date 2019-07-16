@@ -31,6 +31,9 @@
     "mps:longitude":94.13225,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bugat"
+    ],
     "name:eng_x_preferred":[
         "Bugat"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092034861,
-    "wof:lastmodified":1561844109,
+    "wof:lastmodified":1563279936,
     "wof:name":"Bugat",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

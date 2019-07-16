@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Sagsai"
     ],
+    "name:ceb_x_preferred":[
+        "Sagsay sum"
+    ],
     "name:deu_x_preferred":[
         "Sagsai"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Sagsai sum"
+    ],
+    "name:hun_x_preferred":[
+        "Szagszaj j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Sagsaj"
@@ -72,6 +78,9 @@
     ],
     "name:spa_x_preferred":[
         "Sagsai"
+    ],
+    "name:swe_x_preferred":[
+        "Sagsay sum"
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0433\u0441\u0430\u0439"
@@ -113,7 +122,7 @@
         }
     ],
     "wof:id":1092040419,
-    "wof:lastmodified":1561844095,
+    "wof:lastmodified":1563279850,
     "wof:name":"Sagsai",
     "wof:parent_id":85674705,
     "wof:placetype":"county",
