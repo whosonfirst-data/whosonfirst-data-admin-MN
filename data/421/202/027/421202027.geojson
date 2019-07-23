@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "\u00d6nd\u00f6rkhaan"
     ],
+    "name:ceb_x_preferred":[
+        "Undurkhaan"
+    ],
     "name:dan_x_preferred":[
         "\u00d6nd\u00f6rkhaan"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0913\u0928\u094d\u0926\u0942\u0930\u0916\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "\u00d6nd\u00f6rh\u00e1n"
     ],
     "name:ind_x_preferred":[
         "\u00d6nd\u00f6rkhaan"
@@ -288,7 +294,7 @@
         }
     ],
     "wof:id":421202027,
-    "wof:lastmodified":1561844113,
+    "wof:lastmodified":1563279972,
     "wof:name":"\u00d6nd\u00f6rhaan",
     "wof:parent_id":1092043447,
     "wof:placetype":"locality",

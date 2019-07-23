@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Bugat"
     ],
+    "name:ceb_x_preferred":[
+        "Bugat"
+    ],
     "name:deu_x_preferred":[
         "Bugat"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:fra_x_preferred":[
         "Bugat"
+    ],
+    "name:hun_x_preferred":[
+        "Bugat j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Bugat"
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":1092034801,
-    "wof:lastmodified":1561844110,
+    "wof:lastmodified":1563279939,
     "wof:name":"Bugat",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

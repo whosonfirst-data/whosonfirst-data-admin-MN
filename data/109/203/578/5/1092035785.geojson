@@ -46,6 +46,9 @@
     "name:fra_x_preferred":[
         "Tsengel sum"
     ],
+    "name:hun_x_preferred":[
+        "Cengel j\u00e1r\u00e1s"
+    ],
     "name:ita_x_preferred":[
         "Distretto di C\u0117ng\u0117l"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1092035785,
-    "wof:lastmodified":1561844112,
+    "wof:lastmodified":1563279951,
     "wof:name":"Cengel",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

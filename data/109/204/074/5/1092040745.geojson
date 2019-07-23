@@ -31,6 +31,9 @@
     "mps:longitude":105.715073,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Sayhan Sum"
+    ],
     "name:eng_x_preferred":[
         "Saihan"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u06a9\u06be\u0646\u060c \u0633\u0644\u06cc\u0646\u06af\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u06a9\u06be\u0646"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -96,7 +102,7 @@
         }
     ],
     "wof:id":1092040745,
-    "wof:lastmodified":1561844099,
+    "wof:lastmodified":1563279870,
     "wof:name":"Saixan",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

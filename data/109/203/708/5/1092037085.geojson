@@ -31,7 +31,13 @@
     "mps:longitude":91.479266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0443\u0442"
+    ],
     "name:cat_x_preferred":[
+        "Duut"
+    ],
+    "name:ceb_x_preferred":[
         "Duut"
     ],
     "name:deu_x_preferred":[
@@ -73,6 +79,9 @@
     "name:spa_x_preferred":[
         "Duut"
     ],
+    "name:swe_x_preferred":[
+        "Duut"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0443\u0443\u0442"
     ],
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1092037085,
-    "wof:lastmodified":1561844103,
+    "wof:lastmodified":1563279893,
     "wof:name":"Duut",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

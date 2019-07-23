@@ -26,6 +26,9 @@
     "name:cat_x_preferred":[
         "Bulgan"
     ],
+    "name:ceb_x_preferred":[
+        "Bulgan"
+    ],
     "name:ces_x_preferred":[
         "Bulgan"
     ],
@@ -59,6 +62,9 @@
     "name:hin_x_preferred":[
         "\u092c\u0932\u094d\u0917\u093e\u0928"
     ],
+    "name:hun_x_preferred":[
+        "Bulgan"
+    ],
     "name:ind_x_preferred":[
         "Bulgan"
     ],
@@ -76,6 +82,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubcfc\uac15"
+    ],
+    "name:kor_x_variant":[
+        "\ubcfc\uac04"
     ],
     "name:lav_x_preferred":[
         "Bulgana"
@@ -294,7 +303,7 @@
         }
     ],
     "wof:id":421166891,
-    "wof:lastmodified":1561844113,
+    "wof:lastmodified":1563279969,
     "wof:name":"Bulgan",
     "wof:parent_id":1092034959,
     "wof:placetype":"locality",

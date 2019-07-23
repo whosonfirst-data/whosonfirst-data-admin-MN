@@ -49,6 +49,9 @@
     "name:nan_x_preferred":[
         "Sevrei"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u044d\u0432\u0440\u044d\u0439"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0432\u0440\u0435\u0439"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092041035,
-    "wof:lastmodified":1561844094,
+    "wof:lastmodified":1563279845,
     "wof:name":"Sevrei",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

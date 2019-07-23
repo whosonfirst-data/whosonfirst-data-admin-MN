@@ -25,6 +25,9 @@
     "mps:longitude":106.987045,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Mandal"
+    ],
     "name:eng_x_preferred":[
         "Mandal"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Mandal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30f3\u30c0\u30eb"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b"
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1092038649,
-    "wof:lastmodified":1561844111,
+    "wof:lastmodified":1563279949,
     "wof:name":"Mandal",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

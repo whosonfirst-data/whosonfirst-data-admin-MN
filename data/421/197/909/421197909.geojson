@@ -13,17 +13,35 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0627\u0646\u0647\u0648\u0646\u062c\u0648\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09af\u09bc\u09be\u0999\u09cd\u0995\u09c1\u09a8\u0997\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Baiankhongor"
     ],
+    "name:ceb_x_preferred":[
+        "Bayanhongor"
+    ],
     "name:ces_x_preferred":[
         "Bajanchongor"
+    ],
+    "name:dan_x_preferred":[
+        "Bayankhongor"
     ],
     "name:deu_x_preferred":[
         "Bajanchongor"
     ],
     "name:dsb_x_preferred":[
         "Bajanchongor"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03b3\u03b9\u03ac\u03bd \u039a\u03c7\u03bf\u03bd\u03ba\u03b3\u03cc\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Bayankhongor"
     ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0627\u0646\u062e\u0627\u0646\u06af\u0627\u0631"
@@ -34,14 +52,29 @@
     "name:fra_x_preferred":[
         "Bayanhongor"
     ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0aaf\u0aa8\u0a95\u0acb\u0a82\u0a97\u0acb\u0ab0"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05d0\u05d9\u05d9\u05e0\u05d7\u05d5\u05e0\u05d2\u05d5\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u092c\u092f\u0928\u0916\u094b\u0902\u0917\u094b\u0930"
     ],
+    "name:hun_x_preferred":[
+        "Bajanhongor"
+    ],
+    "name:ind_x_preferred":[
+        "Bayankhongor"
+    ],
     "name:ita_x_preferred":[
         "Bajanhongor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e4\u30f3\u30db\u30f3\u30b4\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0caf\u0cbe\u0ca8\u0ccd\u0c96\u0cbe\u0c82\u0c97\u0ccb\u0cb0\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10d8\u10d0\u10dc\u10ee\u10dd\u10dc\u10d2\u10dd\u10e0\u10d8"
@@ -49,8 +82,17 @@
     "name:kor_x_preferred":[
         "\ubc14\uc591\ud64d\uace0\ub974"
     ],
+    "name:kor_x_variant":[
+        "\ubc14\uc789\ud5dd\uac70\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Bajanhongora"
+    ],
     "name:lit_x_preferred":[
         "Bajanchongoras"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u092f\u093e\u0928\u0916\u094b\u0902\u0917\u094b\u0930"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043d\u0445\u043e\u043d\u0433\u043e\u0440"
@@ -58,14 +100,29 @@
     "name:mon_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0445\u043e\u043d\u0433\u043e\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Bayankhongor"
+    ],
+    "name:nan_x_preferred":[
+        "Bayankhongor"
+    ],
     "name:nld_x_preferred":[
         "Bajanhongor"
+    ],
+    "name:nob_x_preferred":[
+        "Bayankhongor"
     ],
     "name:pol_x_preferred":[
         "Bajanchongor"
     ],
+    "name:por_x_preferred":[
+        "Bajanchongor"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0445\u043e\u043d\u0433\u043e\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db7\u0dba\u0db1\u0dca\u0d9a\u0ddc\u0db1\u0dca\u0d9c\u0ddc\u0dbb\u0dca"
     ],
     "name:spa_x_preferred":[
         "Bayanhongor"
@@ -75,6 +132,12 @@
     ],
     "name:swe_x_preferred":[
         "Bajanchongor"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0baf\u0bbe\u0ba9\u0bcd\u0b95\u0bca\u0b99\u0bcd\u0b95\u0bcb\u0bb0\u0bcd"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e22\u0e31\u0e19\u0e2e\u0e2d\u0e19\u0e01\u0e2d\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Bayanhongor"
@@ -149,7 +212,7 @@
         }
     ],
     "wof:id":421197909,
-    "wof:lastmodified":1527716398,
+    "wof:lastmodified":1563279977,
     "wof:name":"Bayanhongor",
     "wof:parent_id":1092037565,
     "wof:placetype":"locality",

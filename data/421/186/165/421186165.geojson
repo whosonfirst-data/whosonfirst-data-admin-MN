@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u0641\u062f"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0648\u0641\u062f"
+    ],
     "name:aze_x_preferred":[
         "Xovd"
     ],
@@ -51,6 +54,9 @@
         "Khovd"
     ],
     "name:est_x_preferred":[
+        "Hovd"
+    ],
+    "name:eus_x_preferred":[
         "Hovd"
     ],
     "name:fas_x_preferred":[
@@ -98,6 +104,9 @@
     "name:kor_x_preferred":[
         "\ud638\ube0c\ub4dc"
     ],
+    "name:kor_x_variant":[
+        "\ud5c8\ube0c\ub4dc"
+    ],
     "name:lav_x_preferred":[
         "Hovda"
     ],
@@ -116,6 +125,9 @@
     "name:msa_x_preferred":[
         "Khovd"
     ],
+    "name:mzn_x_preferred":[
+        "\u0647\u0648\u0648\u062f"
+    ],
     "name:nan_x_preferred":[
         "Khovd"
     ],
@@ -133,6 +145,9 @@
     ],
     "name:por_x_preferred":[
         "Khovd"
+    ],
+    "name:ron_x_preferred":[
+        "Hovd"
     ],
     "name:rus_x_colloquial":[
         "\u041a\u043e\u0431\u0434\u043e"
@@ -339,7 +354,7 @@
         }
     ],
     "wof:id":421186165,
-    "wof:lastmodified":1561844114,
+    "wof:lastmodified":1563279976,
     "wof:name":"Dund-Us",
     "wof:parent_id":1092038335,
     "wof:placetype":"locality",

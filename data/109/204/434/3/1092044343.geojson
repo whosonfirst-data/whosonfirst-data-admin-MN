@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Zaamar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d0\u05d0\u05de\u05d0\u05e8"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Zaamar"
     ],
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092044343,
-    "wof:lastmodified":1561844100,
+    "wof:lastmodified":1563279878,
     "wof:name":"Zaamar",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

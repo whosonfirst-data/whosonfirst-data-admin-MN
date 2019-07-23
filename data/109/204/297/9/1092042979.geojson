@@ -43,6 +43,9 @@
     "name:ita_x_preferred":[
         "Distretto di Halhgol"
     ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30eb\u30cf\u30b4\u30eb\u90e1"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u0430\u043b\u0445\u0433\u043e\u043b"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1092042979,
-    "wof:lastmodified":1561844100,
+    "wof:lastmodified":1563279879,
     "wof:name":"Xalx gol",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

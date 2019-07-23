@@ -40,6 +40,9 @@
     "name:ita_x_preferred":[
         "Distretto di Ihh\u0117t"
     ],
+    "name:mkd_x_preferred":[
+        "\u0418\u0445\u0435\u0442"
+    ],
     "name:mon_x_preferred":[
         "\u0418\u0445\u0445\u044d\u0442 \u0441\u0443\u043c"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092037939,
-    "wof:lastmodified":1561844108,
+    "wof:lastmodified":1563279927,
     "wof:name":"Ix xet",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

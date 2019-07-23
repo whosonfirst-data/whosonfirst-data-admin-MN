@@ -31,14 +31,17 @@
     "mps:longitude":115.677127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:eng_x_preferred":[
-        "Choibalsan"
+    "name:ceb_x_preferred":[
+        "Choybalsan"
     ],
-    "name:eng_x_variant":[
+    "name:eng_x_preferred":[
         "Choibalsan"
     ],
     "name:ita_x_preferred":[
         "Distretto di \u010cojbalsan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e7\u30a4\u30d0\u30eb\u30b5\u30f3\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u0427\u043e\u0458\u0431\u0430\u043b\u0441\u0430\u043d"
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092036057,
-    "wof:lastmodified":1561844105,
+    "wof:lastmodified":1563279907,
     "wof:name":"Choibalsan",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

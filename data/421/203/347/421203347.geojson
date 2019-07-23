@@ -13,8 +13,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cat_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
+    "name:ceb_x_preferred":[
+        "Bayant\u00fcmen Sum"
+    ],
+    "name:deu_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
     "name:eng_x_preferred":[
         "Tsagaanders"
+    ],
+    "name:eng_x_variant":[
+        "Bayant\u00fcmen"
+    ],
+    "name:fra_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e4\u30f3\u30c8\u30a5\u30fc\u30e1\u30f3\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043d\u0442\u0443\u043c\u0435\u043d"
@@ -25,11 +43,29 @@
     "name:mon_x_variant":[
         "Tsagaanders"
     ],
+    "name:nan_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
+    "name:nld_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
+    "name:pol_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
+    "name:por_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0442\u0443\u043c\u044d\u043d"
     ],
     "name:rus_x_variant":[
         "\u0426\u0430\u0433\u0430\u043d\u0434\u044d\u0440\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
+    "name:swe_x_preferred":[
+        "Bajant\u00fcmen"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0442\u0443\u043c\u0435\u043d"
@@ -86,7 +122,7 @@
         }
     ],
     "wof:id":421203347,
-    "wof:lastmodified":1501225185,
+    "wof:lastmodified":1563279971,
     "wof:name":"Tsagaanders",
     "wof:parent_id":1092034075,
     "wof:placetype":"locality",

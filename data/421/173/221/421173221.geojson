@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u062c\u064a"
     ],
+    "name:bar_x_preferred":[
+        "\u00d6lgii"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09b2\u099c\u09bf"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:eng_x_preferred":[
         "\u00d6lgii"
+    ],
+    "name:eus_x_preferred":[
+        "Olgi"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0648\u0644\u06af\u06cc"
@@ -303,7 +309,7 @@
         }
     ],
     "wof:id":421173221,
-    "wof:lastmodified":1561844114,
+    "wof:lastmodified":1563279974,
     "wof:name":"\u00d6lgiy",
     "wof:parent_id":1092039573,
     "wof:placetype":"locality",

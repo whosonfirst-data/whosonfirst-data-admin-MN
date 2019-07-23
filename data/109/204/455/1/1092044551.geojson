@@ -31,7 +31,16 @@
     "mps:longitude":92.818778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0414\u0437\u0435\u0440\u0435\u0433"
+    ],
     "name:cat_x_preferred":[
+        "Zereg"
+    ],
+    "name:ceb_x_preferred":[
+        "Dzereg"
+    ],
+    "name:dan_x_preferred":[
         "Zereg"
     ],
     "name:deu_x_preferred":[
@@ -73,6 +82,9 @@
     "name:spa_x_preferred":[
         "Zereg"
     ],
+    "name:swe_x_preferred":[
+        "Dzereg"
+    ],
     "name:ukr_x_preferred":[
         "\u0417\u0435\u0440\u0435\u0433"
     ],
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1092044551,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1563279857,
     "wof:name":"Zereg",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

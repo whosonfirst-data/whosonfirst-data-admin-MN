@@ -40,6 +40,9 @@
     "name:ita_x_preferred":[
         "Distretto di Bajan-Uul"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30e4\u30f3\u30a6\u30fc\u30eb\u90e1"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043d-\u0423\u043b"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092033191,
-    "wof:lastmodified":1561844112,
+    "wof:lastmodified":1563279955,
     "wof:name":"Bayan-Uul",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

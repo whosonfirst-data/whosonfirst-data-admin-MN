@@ -34,11 +34,20 @@
     "name:eng_x_preferred":[
         "Chuluut"
     ],
+    "name:hun_x_preferred":[
+        "Csul\u00fat"
+    ],
     "name:ita_x_preferred":[
         "Distretto di \u010culuut"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e5\u30eb\u30fc\u30c8"
+    ],
+    "name:jpn_x_variant":[
+        "\u30c1\u30e5\u30eb\u30fc\u30c8\u90e1"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0443\u043b\u0443\u0442"
     ],
     "name:mon_x_preferred":[
         "\u0427\u0443\u043b\u0443\u0443\u0442 \u0441\u0443\u043c"
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1092036119,
-    "wof:lastmodified":1561844104,
+    "wof:lastmodified":1563279905,
     "wof:name":"Chuluut",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

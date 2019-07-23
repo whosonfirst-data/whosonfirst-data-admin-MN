@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "Tsagaan-Uul"
     ],
+    "name:ceb_x_preferred":[
+        "Tsagaan-Uul Sum"
+    ],
     "name:deu_x_preferred":[
         "Tsagaan-Uul"
     ],
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1092035237,
-    "wof:lastmodified":1561844112,
+    "wof:lastmodified":1563279955,
     "wof:name":"Cagaan-Uul",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

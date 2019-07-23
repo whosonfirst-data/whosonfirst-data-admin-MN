@@ -37,6 +37,9 @@
     "name:fas_x_preferred":[
         "\u0627\u06cc\u0631\u0627\u06af\u060c \u062f\u0648\u0631\u0646\u0648\u06af\u0648\u0648\u06cc"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u06cc\u0631\u0627\u06af"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Ajrag"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092031733,
-    "wof:lastmodified":1561844106,
+    "wof:lastmodified":1563279915,
     "wof:name":"Airag",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

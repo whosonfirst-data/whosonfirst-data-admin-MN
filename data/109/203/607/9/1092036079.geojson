@@ -49,6 +49,9 @@
     "name:ita_x_preferred":[
         "Chuluunkhoroot"
     ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e5\u30eb\u30fc\u30f3\u30db\u30eb\u30fc\u30c8\u90e1"
+    ],
     "name:mkd_x_preferred":[
         "\u0427\u0443\u043b\u0443\u043d\u0445\u043e\u0440\u043e\u0442"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1092036079,
-    "wof:lastmodified":1561844111,
+    "wof:lastmodified":1563279948,
     "wof:name":"Chuluunxoroot",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

@@ -31,6 +31,12 @@
     "mps:longitude":96.296715,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0425\u0430\u043b\u0438\u0443\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Haliun"
+    ],
     "name:eng_x_preferred":[
         "Haliun"
     ],
@@ -54,6 +60,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043b\u0438\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Haliun"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043b\u0456\u0443\u043d"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1092042937,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1563279857,
     "wof:name":"Xaliun",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

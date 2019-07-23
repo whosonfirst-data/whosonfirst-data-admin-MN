@@ -52,6 +52,9 @@
     "name:jpn_x_preferred":[
         "\u30cf\u30f3\u30ac\u30a4"
     ],
+    "name:jpn_x_variant":[
+        "\u30cf\u30f3\u30ac\u30a4\u90e1"
+    ],
     "name:kaz_x_preferred":[
         "\u0425\u0430\u043d\u0433\u0430\u0439"
     ],
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1092043153,
-    "wof:lastmodified":1561844097,
+    "wof:lastmodified":1563279861,
     "wof:name":"Xangai",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

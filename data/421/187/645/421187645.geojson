@@ -31,6 +31,9 @@
     "name:cat_x_preferred":[
         "Kharkhorin"
     ],
+    "name:cat_x_variant":[
+        "Karakorum"
+    ],
     "name:ces_x_preferred":[
         "Karakorum"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:eng_x_preferred":[
         "Kharkhorin"
+    ],
+    "name:eng_x_variant":[
+        "Karakorum"
     ],
     "name:epo_x_preferred":[
         "Karakorumo"
@@ -82,6 +88,9 @@
     "name:hun_x_preferred":[
         "Harhorin"
     ],
+    "name:hun_x_variant":[
+        "Karakorum"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0580\u0561\u056f\u0578\u0580\u0578\u0582\u0574"
     ],
@@ -90,6 +99,9 @@
     ],
     "name:ita_x_preferred":[
         "Harhorin"
+    ],
+    "name:ita_x_variant":[
+        "Karakorum"
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30b3\u30eb\u30e0"
@@ -115,6 +127,9 @@
     "name:mon_x_preferred":[
         "\u0425\u0430\u0440\u0445\u043e\u0440\u0438\u043d \u0441\u0443\u043c"
     ],
+    "name:mon_x_variant":[
+        "\u0425\u0430\u0440 \u0425\u043e\u0440\u0443\u043c"
+    ],
     "name:nld_x_preferred":[
         "Karakorum"
     ],
@@ -136,14 +151,23 @@
     "name:rus_x_preferred":[
         "\u0425\u0430\u0440\u0445\u043e\u0440\u0438\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u0440\u0443\u043c"
+    ],
     "name:sco_x_preferred":[
         "Kharkhorin"
+    ],
+    "name:sco_x_variant":[
+        "Karakorum"
     ],
     "name:slv_x_preferred":[
         "Karakorum"
     ],
     "name:spa_x_preferred":[
         "Jarjorin"
+    ],
+    "name:spa_x_variant":[
+        "Karak\u00f3rum"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043a\u043e\u0440\u0443\u043c"
@@ -160,14 +184,26 @@
     "name:tur_x_preferred":[
         "Harhorin"
     ],
+    "name:tur_x_variant":[
+        "Karakurum"
+    ],
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u0445\u043e\u0440\u0456\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u0430\u0440\u0430\u043a\u043e\u0440\u0443\u043c"
     ],
     "name:urd_x_preferred":[
         "\u062e\u0627\u0631\u062e\u0627\u0631\u06cc\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0642\u0631\u0627\u0642\u0631\u0645 \u0634\u06c1\u0631"
+    ],
     "name:vie_x_preferred":[
         "Kharkhorin"
+    ],
+    "name:vie_x_variant":[
+        "Karakorum"
     ],
     "name:zho_min_nan_x_preferred":[
         "Kharkhorin"
@@ -223,7 +259,7 @@
         }
     ],
     "wof:id":421187645,
-    "wof:lastmodified":1561844114,
+    "wof:lastmodified":1563279974,
     "wof:name":"Harhorin",
     "wof:parent_id":1092043327,
     "wof:placetype":"locality",

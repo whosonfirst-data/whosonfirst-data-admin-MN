@@ -37,8 +37,14 @@
     "name:eng_x_variant":[
         "L\u00fcn"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05df"
+    ],
     "name:ita_x_preferred":[
         "Distretto di L\u00f9n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30f3\u90e1"
     ],
     "name:mkd_x_preferred":[
         "\u041b\u0443\u043d"
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":1092038487,
-    "wof:lastmodified":1561844109,
+    "wof:lastmodified":1563279934,
     "wof:name":"Lu'n",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

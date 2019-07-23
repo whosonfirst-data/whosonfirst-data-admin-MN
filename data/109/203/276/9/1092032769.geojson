@@ -31,11 +31,17 @@
     "mps:longitude":106.941631,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bats\u00fcmber"
+    ],
     "name:eng_x_preferred":[
         "Batsumber"
     ],
     "name:eng_x_variant":[
         "Bats\u00fcmber"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d8\u05e1\u05d5\u05de\u05d1\u05e8"
     ],
     "name:ita_x_preferred":[
         "Distretto di Bats\u00f9mb\u0117r"
@@ -51,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0442\u0441\u0443\u043c\u0431\u044d\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bats\u00fcmber"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0442\u0441\u0443\u043c\u0431\u0435\u0440"
@@ -92,7 +101,7 @@
         }
     ],
     "wof:id":1092032769,
-    "wof:lastmodified":1561844110,
+    "wof:lastmodified":1563279938,
     "wof:name":"Batsu'mber",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

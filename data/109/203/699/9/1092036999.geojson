@@ -34,6 +34,9 @@
     "name:cat_x_preferred":[
         "D\u00f6rg\u00f6n"
     ],
+    "name:ceb_x_preferred":[
+        "D\u00f6rg\u00f6n"
+    ],
     "name:deu_x_preferred":[
         "D\u00f6rg\u00f6n"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:ita_x_preferred":[
         "D\u00f6rg\u00f6n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30eb\u30b4\u30f3\u90e1"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u04e9\u0440\u0433\u04e9\u043d"
@@ -116,7 +122,7 @@
         }
     ],
     "wof:id":1092036999,
-    "wof:lastmodified":1561844110,
+    "wof:lastmodified":1563279941,
     "wof:name":"Do'rgon",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

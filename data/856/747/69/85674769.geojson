@@ -31,6 +31,15 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062f\u0631\u062e\u0627\u0646-\u0648\u0648\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u062f\u0631\u062e\u0627\u0646-\u0648\u0648\u0644"
+    ],
+    "name:azb_x_preferred":[
+        "\u062f\u0627\u0631\u062e\u0646-\u06cc\u0648\u0644 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Darxan-Uul vilay\u0259ti"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09b0\u0996\u09be\u09a8-\u0989\u09b2 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -39,6 +48,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Darkhan-Uul"
+    ],
+    "name:ceb_x_preferred":[
+        "Darhan-Uul Aymag"
     ],
     "name:ces_x_preferred":[
         "Darchan\u00falsk\u00fd ajmag"
@@ -55,6 +67,9 @@
     "name:eng_x_preferred":[
         "Darhan"
     ],
+    "name:eng_x_variant":[
+        "Darkhan-Uul Province"
+    ],
     "name:est_x_preferred":[
         "Darhani aimakk"
     ],
@@ -66,6 +81,9 @@
     ],
     "name:fra_x_preferred":[
         "Darhan-Uul"
+    ],
+    "name:frr_x_preferred":[
+        "Darchan-Uul"
     ],
     "name:gle_x_preferred":[
         "Darkhan-Uul"
@@ -99,6 +117,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub2e4\ub974\ud56d\uc62c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub2e4\ub974\ud56d\uc62c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Darhan\u016blas aimaks"
@@ -320,7 +341,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1561844089,
+    "wof:lastmodified":1563279723,
     "wof:name":"Darhan-Uul",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

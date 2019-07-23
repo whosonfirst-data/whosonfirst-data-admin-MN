@@ -31,8 +31,17 @@
     "mps:longitude":106.276314,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u043e\u0440\u043d\u0443\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Bornuur"
+    ],
     "name:eng_x_preferred":[
         "Bornuur"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e8\u05e0\u05d5\u05e8"
     ],
     "name:ita_x_preferred":[
         "Distretto di Bornuur"
@@ -48,6 +57,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u043e\u0440\u043d\u0443\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Bornuur"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043d\u0443\u0443\u0440"
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1092034637,
-    "wof:lastmodified":1561844105,
+    "wof:lastmodified":1563279908,
     "wof:name":"Bornuur",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

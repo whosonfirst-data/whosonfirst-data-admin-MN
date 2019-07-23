@@ -28,11 +28,20 @@
     "name:bul_x_preferred":[
         "\u0410\u043b\u0442\u0430\u043d\u0431\u0443\u043b\u0430\u0433 \u0441\u0443\u043c"
     ],
+    "name:bul_x_variant":[
+        "\u041a\u044f\u0445\u0442\u0430"
+    ],
     "name:bxr_x_preferred":[
         "\u0425\u044f\u0430\u0433\u0442\u0430"
     ],
     "name:cat_x_preferred":[
         "Altanbulag"
+    ],
+    "name:cat_x_variant":[
+        "Kiakhta"
+    ],
+    "name:ceb_x_preferred":[
+        "Kyakhta"
     ],
     "name:ces_x_preferred":[
         "Kjachta"
@@ -49,8 +58,14 @@
     "name:eng_x_preferred":[
         "Altanbulag"
     ],
+    "name:eng_x_variant":[
+        "Kyakhta"
+    ],
     "name:epo_x_preferred":[
         "Kja\u0125ta"
+    ],
+    "name:est_x_preferred":[
+        "Kjahta"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062a\u0627\u0646\u200c\u0628\u0648\u0644\u0627\u06af\u060c \u0633\u0644\u06cc\u0646\u06af"
@@ -72,6 +87,9 @@
     ],
     "name:hsb_x_preferred":[
         "Kjachta"
+    ],
+    "name:hun_x_preferred":[
+        "Kjahta"
     ],
     "name:hye_x_preferred":[
         "\u053f\u0575\u0561\u056d\u057f\u0561"
@@ -116,11 +134,17 @@
     "name:pol_x_preferred":[
         "Altanbulag"
     ],
+    "name:pol_x_variant":[
+        "Kiachta"
+    ],
     "name:por_x_preferred":[
         "Kyakhta"
     ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0442\u0430\u043d\u0431\u0443\u043b\u0430\u0433"
+    ],
+    "name:rus_x_variant":[
+        "\u041a\u044f\u0445\u0442\u0430"
     ],
     "name:spa_x_preferred":[
         "Kiajta"
@@ -131,6 +155,9 @@
     "name:swe_x_preferred":[
         "Altanbulag"
     ],
+    "name:swe_x_variant":[
+        "Kjachta"
+    ],
     "name:tat_x_preferred":[
         "\u041a\u044f\u0445\u0442\u0430"
     ],
@@ -140,8 +167,14 @@
     "name:tgl_x_preferred":[
         "Kyakhta"
     ],
+    "name:tur_x_preferred":[
+        "Kyahta"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0442\u0430\u043d\u0431\u0443\u043b\u0430\u0433"
+    ],
+    "name:ukr_x_variant":[
+        "\u041a\u044f\u0445\u0442\u0430"
     ],
     "name:unk_x_variant":[
         "Kyakhta"
@@ -213,7 +246,7 @@
         }
     ],
     "wof:id":421192621,
-    "wof:lastmodified":1561844113,
+    "wof:lastmodified":1563279969,
     "wof:name":"Altanbulag",
     "wof:parent_id":1092031961,
     "wof:placetype":"locality",
