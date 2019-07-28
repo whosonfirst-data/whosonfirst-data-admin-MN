@@ -25,7 +25,13 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Altanbulag"
+    ],
     "name:mon_x_preferred":[
+        "Altanbulag"
+    ],
+    "name:swe_x_preferred":[
         "Altanbulag"
     ],
     "src:geom":"geonames",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209791609,
-    "wof:lastmodified":1537665737,
+    "wof:lastmodified":1564329223,
     "wof:name":"Altanbulag",
     "wof:parent_id":1092031997,
     "wof:placetype":"locality",

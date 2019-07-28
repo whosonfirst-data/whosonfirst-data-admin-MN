@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Nomgon"
     ],
+    "name:mon_x_preferred":[
+        "\u041d\u043e\u043c\u0433\u043e\u043d"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u043c\u0433\u043e\u043d"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1292983041,
-    "wof:lastmodified":1537665645,
+    "wof:lastmodified":1564329184,
     "wof:name":"Nomgon",
     "wof:parent_id":1092040745,
     "wof:placetype":"locality",

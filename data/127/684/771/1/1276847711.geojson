@@ -26,8 +26,29 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bulgan District"
+    ],
+    "name:fra_x_preferred":[
+        "Bulgan"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
     "name:mon_x_preferred":[
         "B\u00fcrenhayrhan"
+    ],
+    "name:mon_x_variant":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d \u0441\u0443\u043c"
+    ],
+    "name:por_x_preferred":[
+        "Bulgan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Torgut Somon",
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":1276847711,
-    "wof:lastmodified":1537665595,
+    "wof:lastmodified":1564329207,
     "wof:name":"Burenhayrhan",
     "wof:parent_id":1092035047,
     "wof:placetype":"locality",

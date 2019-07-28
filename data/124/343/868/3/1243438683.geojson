@@ -26,6 +26,24 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Otgon"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0442\u0433\u043e\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u041e\u0442\u0433\u043e\u043d \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0442\u0433\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Otgon"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0442\u0433\u043e\u043d"
+    ],
     "name:und_x_variant":[
         "Odkhan Khairkhan",
         "Otgon",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1243438683,
-    "wof:lastmodified":1537665594,
+    "wof:lastmodified":1564329334,
     "wof:name":"Buyant",
     "wof:parent_id":1092040235,
     "wof:placetype":"locality",

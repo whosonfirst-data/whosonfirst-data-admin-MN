@@ -25,10 +25,31 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hujirt"
+    ],
     "name:eng_x_preferred":[
         "Khujirt"
     ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30b8\u30eb\u30c8"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0438\u045f\u0438\u0440\u0442"
+    ],
     "name:mon_x_preferred":[
+        "\u0425\u0443\u0436\u0438\u0440\u0442"
+    ],
+    "name:mon_x_variant":[
+        "\u0425\u0443\u0436\u0438\u0440\u0442 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u0436\u0438\u0440\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Hujirt"
+    ],
+    "name:ukr_x_preferred":[
         "\u0425\u0443\u0436\u0438\u0440\u0442"
     ],
     "name:und_x_variant":[
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1276638557,
-    "wof:lastmodified":1537665666,
+    "wof:lastmodified":1564329210,
     "wof:name":"Khujirt",
     "wof:parent_id":1092043939,
     "wof:placetype":"locality",

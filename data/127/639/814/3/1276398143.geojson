@@ -28,11 +28,26 @@
     "name:eng_x_preferred":[
         "Maan\u012dt"
     ],
+    "name:gle_x_preferred":[
+        "Khishig-\u00d6nd\u00f6r"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0438\u0448\u0438\u0433-\u041e\u043d\u0434\u043e\u0440"
+    ],
     "name:mon_x_preferred":[
         "Maan\u012dt"
     ],
+    "name:mon_x_variant":[
+        "\u0425\u0438\u0448\u0438\u0433-\u04e8\u043d\u0434\u04e9\u0440 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u0448\u0438\u0433-\u0423\u043d\u0434\u044d\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0425\u0438\u0448\u0438\u0433-\u0423\u043d\u0434\u0435\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0438\u0448\u0438\u0433-\u0423\u043d\u0434\u0443\u0440"
     ],
     "name:und_x_variant":[
         "Hishig-\u00d6nd\u00f6r",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1276398143,
-    "wof:lastmodified":1537665652,
+    "wof:lastmodified":1564329211,
     "wof:name":"Maanit",
     "wof:parent_id":1092043487,
     "wof:placetype":"locality",

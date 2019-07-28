@@ -25,14 +25,35 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Tonsontsengel"
+    ],
     "name:eng_x_preferred":[
         "Tsengel"
+    ],
+    "name:fra_x_preferred":[
+        "Tosontsengel"
+    ],
+    "name:gle_x_preferred":[
+        "Tosontsengel"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u043e\u0441\u043e\u043d\u0446\u0435\u043d\u0433\u0435\u043b"
     ],
     "name:mon_x_preferred":[
         "Tsengel"
     ],
+    "name:mon_x_variant":[
+        "\u0422\u043e\u0441\u043e\u043d\u0446\u044d\u043d\u0433\u044d\u043b \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0441\u043e\u043d-\u0426\u044d\u043d\u0433\u044d\u043b"
+    ],
+    "name:rus_x_variant":[
+        "\u0422\u043e\u0441\u043e\u043d\u0446\u044d\u043d\u0433\u044d\u043b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0441\u043e\u043d\u0446\u0435\u043d\u0433\u0435\u043b"
     ],
     "name:und_x_variant":[
         "Toson tsengel sumu",
@@ -64,7 +85,7 @@
         }
     ],
     "wof:id":1243533827,
-    "wof:lastmodified":1537665615,
+    "wof:lastmodified":1564329311,
     "wof:name":"Tsengel",
     "wof:parent_id":1092042149,
     "wof:placetype":"locality",

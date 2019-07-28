@@ -25,8 +25,26 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "M\u00f6st"
+    ],
+    "name:fra_x_preferred":[
+        "M\u00f6st"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0441\u0442"
+    ],
     "name:mon_x_preferred":[
         "Ulaantolgoy"
+    ],
+    "name:mon_x_variant":[
+        "\u041c\u04e9\u0441\u0442 \u0441\u0443\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "M\u00f6st"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u0442"
     ],
     "name:und_x_variant":[
         "M\u00f6st"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1310292091,
-    "wof:lastmodified":1537665568,
+    "wof:lastmodified":1564329265,
     "wof:name":"Ulaantolgoy",
     "wof:parent_id":1092039033,
     "wof:placetype":"locality",

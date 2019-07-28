@@ -26,6 +26,9 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bodi"
+    ],
     "name:und_x_variant":[
         "Jinsatu",
         "Djinsetu Sume",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276776173,
-    "wof:lastmodified":1537665718,
+    "wof:lastmodified":1564329208,
     "wof:name":"Bodi",
     "wof:parent_id":1092038457,
     "wof:placetype":"locality",

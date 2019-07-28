@@ -25,14 +25,32 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bugat"
+    ],
     "name:eng_x_preferred":[
+        "Bugat"
+    ],
+    "name:fra_x_preferred":[
         "Bugat"
     ],
     "name:mon_x_preferred":[
         "Bugat"
     ],
+    "name:mon_x_variant":[
+        "\u0411\u0443\u0433\u0430\u0442 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u044f\u0440\u0433\u0430\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u0433\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Bugat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0442"
     ],
     "name:und_x_variant":[
         "Khirgis",
@@ -67,7 +85,7 @@
         }
     ],
     "wof:id":1343627093,
-    "wof:lastmodified":1537665597,
+    "wof:lastmodified":1564329140,
     "wof:name":"Bugat",
     "wof:parent_id":1092044117,
     "wof:placetype":"locality",

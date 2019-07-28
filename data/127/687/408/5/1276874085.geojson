@@ -25,6 +25,24 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bugat"
+    ],
+    "name:fra_x_preferred":[
+        "Bugat"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0442 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Bugat"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1276874085,
-    "wof:lastmodified":1537046938,
+    "wof:lastmodified":1564329196,
     "wof:name":"Bugat",
     "wof:parent_id":1092039573,
     "wof:placetype":"locality",

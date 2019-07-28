@@ -26,6 +26,9 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03c1\u03c7"
+    ],
     "name:mon_x_colloquial":[
         "\u0411\u044d\u0440\u0445"
     ],
@@ -33,6 +36,9 @@
         "\u0411\u044d\u0440\u0445"
     ],
     "name:mon_x_preferred":[
+        "\u0411\u044d\u0440\u0445"
+    ],
+    "name:rus_x_preferred":[
         "\u0411\u044d\u0440\u0445"
     ],
     "name:und_x_variant":[
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1276848937,
-    "wof:lastmodified":1537665719,
+    "wof:lastmodified":1564329206,
     "wof:name":"Berh",
     "wof:parent_id":1092032687,
     "wof:placetype":"locality",

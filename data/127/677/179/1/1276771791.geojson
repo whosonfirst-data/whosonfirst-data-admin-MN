@@ -26,6 +26,24 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "B\u00f6mb\u00f6g\u00f6r"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u043c\u0431\u043e\u0433\u043e\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u04e9\u043c\u0431\u04e9\u0433\u04e9\u0440 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043c\u0431\u0435\u0433\u0435\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "B\u00f6mb\u00f6g\u00f6r"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043c\u0431\u0435\u0433\u0435\u0440"
+    ],
     "name:und_x_variant":[
         "B\u00f6mb\u00f6g\u00f6r",
         "Bumbuger",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1276771791,
-    "wof:lastmodified":1537665591,
+    "wof:lastmodified":1564329209,
     "wof:name":"Dzadgay",
     "wof:parent_id":1092034505,
     "wof:placetype":"locality",

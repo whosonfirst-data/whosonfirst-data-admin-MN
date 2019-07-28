@@ -25,14 +25,38 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Alag-Erdene"
+    ],
     "name:eng_x_preferred":[
         "Manhan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0627\u06af-\u0627\u0631\u062f\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Alag-Erdene"
+    ],
+    "name:gle_x_preferred":[
+        "Alag-Erdene"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0430\u0433-\u0415\u0440\u0434\u0435\u043d\u0435"
     ],
     "name:mon_x_preferred":[
         "Manhan"
     ],
+    "name:mon_x_variant":[
+        "\u0410\u043b\u0430\u0433-\u042d\u0440\u0434\u044d\u043d\u044d \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043b\u0430\u0433-\u042d\u0440\u0434\u044d\u043d\u044d"
+    ],
+    "name:swe_x_preferred":[
+        "Alag-Erdene"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0430\u0433-\u0415\u0440\u0434\u0435\u043d\u0435"
     ],
     "name:und_x_variant":[
         "Alag Erdeni",
@@ -66,7 +90,7 @@
         }
     ],
     "wof:id":1292980337,
-    "wof:lastmodified":1537665651,
+    "wof:lastmodified":1564329184,
     "wof:name":"Manhan",
     "wof:parent_id":1092031765,
     "wof:placetype":"locality",

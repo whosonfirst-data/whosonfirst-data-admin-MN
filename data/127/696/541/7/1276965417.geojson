@@ -25,7 +25,13 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sharga"
+    ],
     "name:mon_x_preferred":[
+        "Sharga"
+    ],
+    "name:swe_x_preferred":[
         "Sharga"
     ],
     "name:und_x_variant":[
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1276965417,
-    "wof:lastmodified":1537665576,
+    "wof:lastmodified":1564329212,
     "wof:name":"Sharga",
     "wof:parent_id":1092035237,
     "wof:placetype":"locality",

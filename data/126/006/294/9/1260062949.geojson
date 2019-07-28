@@ -25,6 +25,9 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0442\u044d\u044d\u0433"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260062949,
-    "wof:lastmodified":1537016912,
+    "wof:lastmodified":1564329254,
     "wof:name":"Bayanteeg",
     "wof:parent_id":1092039295,
     "wof:placetype":"locality",

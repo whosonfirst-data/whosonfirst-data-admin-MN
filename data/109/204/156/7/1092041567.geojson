@@ -31,11 +31,29 @@
     "mps:longitude":96.525103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Tayshir"
+    ],
     "name:eng_x_preferred":[
         "Taishir"
     ],
     "name:eng_x_variant":[
         "Taishir"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0458\u0448\u0438\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u0422\u0430\u0439\u0448\u0438\u0440 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0448\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Tayshir"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0439\u0448\u0438\u0440"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -70,7 +88,7 @@
         }
     ],
     "wof:id":1092041567,
-    "wof:lastmodified":1553718071,
+    "wof:lastmodified":1564329277,
     "wof:name":"Taishir",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

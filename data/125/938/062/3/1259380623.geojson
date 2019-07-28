@@ -29,7 +29,16 @@
     "name:eng_x_preferred":[
         "Dashbalbar"
     ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0448\u0431\u0430\u043b\u0431\u0430\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u0414\u0430\u0448\u0431\u0430\u043b\u0431\u0430\u0440 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u0431\u0430\u043b\u0431\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
         "\u0414\u0430\u0448\u0431\u0430\u043b\u0431\u0430\u0440"
     ],
     "name:und_x_variant":[
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1259380623,
-    "wof:lastmodified":1537665703,
+    "wof:lastmodified":1564329336,
     "wof:name":"Dashbalbar",
     "wof:parent_id":1092036595,
     "wof:placetype":"locality",

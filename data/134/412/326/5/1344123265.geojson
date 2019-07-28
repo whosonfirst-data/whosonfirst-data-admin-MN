@@ -25,7 +25,25 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bayantsogt Sum"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0458\u0430\u043d\u0446\u043e\u0433\u0442"
+    ],
     "name:mon_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0446\u043e\u0433\u0442"
+    ],
+    "name:mon_x_variant":[
+        "\u0411\u0430\u044f\u043d\u0446\u043e\u0433\u0442 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0446\u043e\u0433\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Bajantsogt"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0446\u043e\u0433\u0442"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1344123265,
-    "wof:lastmodified":1537568526,
+    "wof:lastmodified":1564329147,
     "wof:name":"Bayantsogt",
     "wof:parent_id":1092033433,
     "wof:placetype":"locality",

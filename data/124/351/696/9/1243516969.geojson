@@ -26,11 +26,38 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Baruunturuun"
+    ],
     "name:eng_x_preferred":[
         "Baruunturuun"
     ],
+    "name:fra_x_preferred":[
+        "Baruunturuun"
+    ],
+    "name:ita_x_preferred":[
+        "Baruunturuun"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u043d\u0442\u0443\u0440\u0443\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u0443\u043d\u0442\u0443\u0440\u0443\u0443\u043d \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0443\u043d-\u0422\u0443\u0440\u0443\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u0440\u0443\u0443\u043d\u0442\u0443\u0440\u0443\u0443\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Baruunturuun"
+    ],
+    "name:swe_x_preferred":[
+        "Baruunturuun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0440\u0443\u0443\u043d\u0442\u0443\u0440\u0443\u0443\u043d"
     ],
     "name:und_x_variant":[
         "Turun",
@@ -66,7 +93,7 @@
         }
     ],
     "wof:id":1243516969,
-    "wof:lastmodified":1537665601,
+    "wof:lastmodified":1564329325,
     "wof:name":"Baruunturuun",
     "wof:parent_id":1092032563,
     "wof:placetype":"locality",

@@ -28,8 +28,17 @@
     "name:eng_x_preferred":[
         "Enhtal"
     ],
+    "name:fra_x_preferred":[
+        "Sant"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043d\u0442"
+    ],
     "name:mon_x_preferred":[
         "Enhtal"
+    ],
+    "name:mon_x_variant":[
+        "\u0421\u0430\u043d\u0442 \u0441\u0443\u043c"
     ],
     "name:rus_x_preferred":[
         "\u042d\u043d\u0445\u0442\u0430\u043b"
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1276735137,
-    "wof:lastmodified":1537665691,
+    "wof:lastmodified":1564329195,
     "wof:name":"Enhtal",
     "wof:parent_id":1092040865,
     "wof:placetype":"locality",

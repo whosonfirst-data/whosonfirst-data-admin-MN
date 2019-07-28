@@ -26,6 +26,21 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buga"
+    ],
+    "name:deu_x_preferred":[
+        "Buga"
+    ],
+    "name:ita_x_preferred":[
+        "Buga"
+    ],
+    "name:lav_x_preferred":[
+        "Buga"
+    ],
+    "name:spa_x_preferred":[
+        "Buga"
+    ],
     "name:und_x_variant":[
         "Dorvoljin"
     ],
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276569291,
-    "wof:lastmodified":1537665597,
+    "wof:lastmodified":1564329198,
     "wof:name":"Buga",
     "wof:parent_id":1092037039,
     "wof:placetype":"locality",

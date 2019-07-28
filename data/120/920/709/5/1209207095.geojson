@@ -26,6 +26,18 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Bulgan",
         "\u00d6nd\u00f6rhushuu"
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1209207095,
-    "wof:lastmodified":1537665639,
+    "wof:lastmodified":1564329233,
     "wof:name":"OEndoerhoshuu",
     "wof:parent_id":85632439,
     "wof:placetype":"locality",

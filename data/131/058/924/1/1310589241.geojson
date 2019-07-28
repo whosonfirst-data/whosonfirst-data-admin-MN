@@ -26,6 +26,18 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0442\u043d\u043e\u0440\u043e\u0432"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u0442\u043d\u043e\u0440\u043e\u0432 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0442\u043d\u043e\u0440\u043e\u0432"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0442\u043d\u043e\u0440\u043e\u0432"
+    ],
     "name:und_x_variant":[
         "Batu-norubo",
         "Batu-Norboiin h\u00fcrie",
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1310589241,
-    "wof:lastmodified":1537665698,
+    "wof:lastmodified":1564329271,
     "wof:name":"Dundburd",
     "wof:parent_id":1092032687,
     "wof:placetype":"locality",

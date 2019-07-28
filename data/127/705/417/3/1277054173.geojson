@@ -29,8 +29,20 @@
     "name:eng_x_preferred":[
         "Uldz"
     ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0440\u043e\u0432\u043b\u0438\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u041d\u043e\u0440\u043e\u0432\u043b\u0438\u043d \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u043b\u0434\u0437"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0440\u043e\u0432\u043b\u0438\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0440\u043e\u0432\u043b\u0438\u043d"
     ],
     "name:und_x_variant":[
         "Norbolin",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1277054173,
-    "wof:lastmodified":1537665608,
+    "wof:lastmodified":1564329202,
     "wof:name":"Uldz",
     "wof:parent_id":1092039447,
     "wof:placetype":"locality",

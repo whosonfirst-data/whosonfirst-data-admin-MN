@@ -25,14 +25,38 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bulgan"
+    ],
+    "name:deu_x_preferred":[
+        "Bulgan"
+    ],
     "name:eng_x_preferred":[
         "Bulgan"
+    ],
+    "name:fra_x_preferred":[
+        "Bulgan"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
     ],
     "name:mon_x_preferred":[
         "Bulgan"
     ],
+    "name:mon_x_variant":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0430\u0433\u0430\u043d-\u0423\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bulgan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
     ],
     "name:und_x_variant":[
         "Tsagan Ure",
@@ -41,6 +65,9 @@
         "Tsagan Ure Sume",
         "Tsagan-ur somon",
         "Tsagaan \u00fc\u00fcre sumu"
+    ],
+    "name:vie_x_preferred":[
+        "Bulgan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +92,7 @@
         }
     ],
     "wof:id":1343937093,
-    "wof:lastmodified":1537665713,
+    "wof:lastmodified":1564329157,
     "wof:name":"Bulgan",
     "wof:parent_id":1092035203,
     "wof:placetype":"locality",

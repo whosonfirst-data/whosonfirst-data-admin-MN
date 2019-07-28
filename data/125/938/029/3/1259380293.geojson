@@ -26,11 +26,29 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bayandun"
+    ],
     "name:eng_x_preferred":[
         "Naranbulag"
     ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0458\u0430\u043d\u0434\u0443\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0434\u0443\u043d \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0440\u0430\u043d\u0431\u0443\u043b\u0430\u043a"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u0430\u044f\u043d\u0434\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Bayandun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0434\u0443\u043d"
     ],
     "name:und_x_variant":[
         "Bayan D\u00fcng Suma",
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":1259380293,
-    "wof:lastmodified":1537665647,
+    "wof:lastmodified":1564329336,
     "wof:name":"Naranbulag",
     "wof:parent_id":1092033601,
     "wof:placetype":"locality",

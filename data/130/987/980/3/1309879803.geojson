@@ -25,8 +25,29 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dashinchilen Sum"
+    ],
+    "name:gle_x_preferred":[
+        "Dashinchilen"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u0430\u0448\u0438\u043d\u0447\u0438\u043b\u0435\u043d"
+    ],
     "name:mon_x_preferred":[
         "S\u00fc\u00fcj"
+    ],
+    "name:mon_x_variant":[
+        "\u0414\u0430\u0448\u0438\u043d\u0447\u0438\u043b\u044d\u043d \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0448\u0438\u043d\u0447\u0438\u043b\u044d\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Dasjintjilen"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u0448\u0438\u043d\u0447\u0438\u043b\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Dashinchilen",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1309879803,
-    "wof:lastmodified":1537665625,
+    "wof:lastmodified":1564329305,
     "wof:name":"Dashinchilling",
     "wof:parent_id":1092036631,
     "wof:placetype":"locality",

@@ -26,11 +26,35 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ulaanhus"
+    ],
     "name:eng_x_preferred":[
         "Bil\u00fc\u00fc"
     ],
+    "name:fra_x_preferred":[
+        "Ulaankhus"
+    ],
+    "name:hun_x_preferred":[
+        "Ul\u00e1nhusz j\u00e1r\u00e1s"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0423\u043b\u0430\u043d\u0445\u0443\u0441"
+    ],
+    "name:mon_x_preferred":[
+        "\u0423\u043b\u0430\u0430\u043d\u0445\u0443\u0441 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0425\u0443\u0441"
+    ],
+    "name:rus_x_variant":[
+        "\u0423\u043b\u0430\u0430\u043d\u0445\u0443\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Ulaanhus"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043b\u0430\u0430\u043d\u0445\u0443\u0441"
     ],
     "name:und_x_variant":[
         "Ulan-Us-Khushu",
@@ -71,7 +95,7 @@
         }
     ],
     "wof:id":1343663749,
-    "wof:lastmodified":1537665599,
+    "wof:lastmodified":1564329155,
     "wof:name":"Biluu",
     "wof:parent_id":1092042649,
     "wof:placetype":"locality",

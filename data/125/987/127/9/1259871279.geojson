@@ -25,8 +25,17 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0414\u0435\u043b\u0433\u0435\u0440\u0435\u0445"
+    ],
     "name:mon_x_preferred":[
         "Hongor"
+    ],
+    "name:mon_x_variant":[
+        "\u0414\u044d\u043b\u0433\u044d\u0440\u044d\u0445 \u0441\u0443\u043c"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0435\u043b\u0433\u0435\u0440\u0435\u0445"
     ],
     "name:und_x_variant":[
         "Delgerekhu Sume",
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1259871279,
-    "wof:lastmodified":1537665672,
+    "wof:lastmodified":1564329350,
     "wof:name":"Hongor",
     "wof:parent_id":1092036737,
     "wof:placetype":"locality",

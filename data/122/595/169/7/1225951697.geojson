@@ -25,7 +25,19 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buga"
+    ],
+    "name:deu_x_preferred":[
+        "Buga"
+    ],
     "name:eng_x_preferred":[
+        "Buga"
+    ],
+    "name:ita_x_preferred":[
+        "Buga"
+    ],
+    "name:lav_x_preferred":[
         "Buga"
     ],
     "name:mon_x_preferred":[
@@ -36,6 +48,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Buga"
     ],
     "name:und_x_variant":[
         "Bugat",
@@ -64,7 +79,7 @@
         }
     ],
     "wof:id":1225951697,
-    "wof:lastmodified":1537665597,
+    "wof:lastmodified":1564329355,
     "wof:name":"Buga",
     "wof:parent_id":1092039573,
     "wof:placetype":"locality",

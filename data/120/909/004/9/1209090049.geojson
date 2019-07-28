@@ -26,6 +26,39 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u062a\u0627\u064a"
+    ],
+    "name:aze_x_preferred":[
+        "Altay"
+    ],
+    "name:bre_x_preferred":[
+        "Altay"
+    ],
+    "name:ceb_x_preferred":[
+        "Altay"
+    ],
+    "name:deu_x_preferred":[
+        "Altay"
+    ],
+    "name:hun_x_preferred":[
+        "Altaj j\u00e1r\u00e1s"
+    ],
+    "name:mlg_x_preferred":[
+        "Altay"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u043b\u0442\u0430\u0439 \u0441\u0443\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Altay"
+    ],
+    "name:swe_x_preferred":[
+        "Altay"
+    ],
+    "name:tur_x_preferred":[
+        "Altay"
+    ],
     "name:und_x_variant":[
         "Alta\u00ef",
         "Altay"
@@ -47,7 +80,7 @@
         }
     ],
     "wof:id":1209090049,
-    "wof:lastmodified":1537665603,
+    "wof:lastmodified":1564329215,
     "wof:name":"Altay",
     "wof:parent_id":85632439,
     "wof:placetype":"locality",

@@ -26,6 +26,30 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bulgan Sum"
+    ],
+    "name:fra_x_preferred":[
+        "Bulgan"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d \u0441\u0443\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Bulgan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
+    "name:tgl_x_preferred":[
+        "Bulgan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Bulgan"
     ],
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1226761949,
-    "wof:lastmodified":1537665713,
+    "wof:lastmodified":1564329367,
     "wof:name":"Bulagiyn Denj",
     "wof:parent_id":1092035823,
     "wof:placetype":"locality",

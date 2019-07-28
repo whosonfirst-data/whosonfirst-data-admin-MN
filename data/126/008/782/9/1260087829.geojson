@@ -26,6 +26,33 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Tsengel"
+    ],
+    "name:fra_x_preferred":[
+        "Tsengel"
+    ],
+    "name:hun_x_preferred":[
+        "Cengel j\u00e1r\u00e1s"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u043d\u0433\u0435\u043b"
+    ],
+    "name:mon_x_preferred":[
+        "\u0426\u044d\u043d\u0433\u044d\u043b \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u044d\u043d\u0433\u044d\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Tsengel"
+    ],
+    "name:tur_x_preferred":[
+        "Tsengel"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u043d\u0433\u0435\u043b"
+    ],
     "name:und_x_variant":[
         "Tsengel Suma",
         "Tsengel",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1260087829,
-    "wof:lastmodified":1537665585,
+    "wof:lastmodified":1564329253,
     "wof:name":"Hoshoot",
     "wof:parent_id":1092035785,
     "wof:placetype":"locality",

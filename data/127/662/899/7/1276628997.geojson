@@ -26,15 +26,60 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u062d\u062f\u0629"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u0995\u0995"
+    ],
+    "name:ces_x_preferred":[
+        "Jednotka"
+    ],
+    "name:deu_x_preferred":[
+        "Unit"
+    ],
     "name:eng_x_preferred":[
         "Un\u012dt"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e6\u30cb\u30c3\u30c8"
+    ],
+    "name:nld_x_preferred":[
+        "Unit"
+    ],
+    "name:nor_x_preferred":[
+        "Unit"
     ],
     "name:rus_x_preferred":[
         "\u0423\u043d\u044c\u0442"
     ],
+    "name:rus_x_variant":[
+        "\u042e\u043d\u0438\u0442"
+    ],
+    "name:slk_x_preferred":[
+        "Jednotka"
+    ],
+    "name:som_x_preferred":[
+        "Halbeeg"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0435\u0434\u0438\u043d\u0438\u0446\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Birim"
+    ],
+    "name:ukr_x_preferred":[
+        "\u042e\u043d\u0456\u0442"
+    ],
     "name:und_x_variant":[
         "Un\u2019t",
         "Un\u012dt"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06a9\u0627\u0626\u06cc"
+    ],
+    "name:uzb_x_preferred":[
+        "Birlik"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +104,7 @@
         }
     ],
     "wof:id":1276628997,
-    "wof:lastmodified":1537665608,
+    "wof:lastmodified":1564329211,
     "wof:name":"Unit",
     "wof:parent_id":1092044071,
     "wof:placetype":"locality",

@@ -28,11 +28,15 @@
     "name:eng_x_preferred":[
         "Orhon"
     ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0445\u043e\u043d"
+    ],
     "name:mon_x_preferred":[
         "Orhon"
     ],
     "name:mon_x_variant":[
-        "\u041e\u0440\u0445\u043e\u043d"
+        "\u041e\u0440\u0445\u043e\u043d",
+        "\u041e\u0440\u0445\u043e\u043d \u0441\u0443\u043c"
     ],
     "name:rus_x_preferred":[
         "\u041e\u0440\u0445\u043e\u043d"
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259552049,
-    "wof:lastmodified":1537665679,
+    "wof:lastmodified":1564329339,
     "wof:name":"Orhon",
     "wof:parent_id":1092040117,
     "wof:placetype":"locality",

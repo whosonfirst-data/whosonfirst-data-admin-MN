@@ -26,11 +26,38 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Nogoonnuur"
+    ],
+    "name:ceb_x_preferred":[
+        "Nogoonnuur"
+    ],
     "name:eng_x_preferred":[
         "Nogoonnuur"
     ],
+    "name:fra_x_preferred":[
+        "Nogoonnuur"
+    ],
+    "name:hun_x_preferred":[
+        "Nog\u00f3nn\u00far j\u00e1r\u00e1s"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u043e\u0433\u043e\u043d\u0443\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u041d\u043e\u0433\u043e\u043e\u043d\u043d\u0443\u0443\u0440 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u043e\u0433\u043e\u043d-\u041d\u0443\u0440"
+    ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0433\u043e\u043e\u043d\u043d\u0443\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Nogoonnuur"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u043e\u0433\u043e\u043e\u043d\u043d\u0443\u0443\u0440"
     ],
     "name:und_x_variant":[
         "Notoonnuur",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1310602853,
-    "wof:lastmodified":1537665579,
+    "wof:lastmodified":1564329271,
     "wof:name":"Nogoonnuur",
     "wof:parent_id":1092039367,
     "wof:placetype":"locality",
