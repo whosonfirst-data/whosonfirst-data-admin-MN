@@ -25,8 +25,26 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tsetseg"
+    ],
+    "name:fra_x_preferred":[
+        "Tsetseg"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0426\u0435\u0446\u0435\u0433"
+    ],
     "name:mon_x_preferred":[
         "Tsetsegnuur"
+    ],
+    "name:mon_x_variant":[
+        "\u0426\u044d\u0446\u044d\u0433 \u0441\u0443\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Tsetseg"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0435\u0446\u0435\u0433"
     ],
     "name:und_x_variant":[
         "Tsetseg-Nur",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1209702845,
-    "wof:lastmodified":1537665569,
+    "wof:lastmodified":1564329223,
     "wof:name":"Tsetsegnuur",
     "wof:parent_id":1092035559,
     "wof:placetype":"locality",

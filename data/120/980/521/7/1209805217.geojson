@@ -26,10 +26,25 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Urgamal"
+    ],
     "name:eng_x_preferred":[
         "Hungiy"
     ],
+    "name:mkd_x_preferred":[
+        "\u0423\u0440\u0433\u0430\u043c\u0430\u043b"
+    ],
+    "name:mon_x_preferred":[
+        "\u0423\u0440\u0433\u0430\u043c\u0430\u043b \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
+        "\u0423\u0440\u0433\u0430\u043c\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Urgamal"
+    ],
+    "name:ukr_x_preferred":[
         "\u0423\u0440\u0433\u0430\u043c\u0430\u043b"
     ],
     "name:und_x_variant":[
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1209805217,
-    "wof:lastmodified":1537665584,
+    "wof:lastmodified":1564329234,
     "wof:name":"Hungiy",
     "wof:parent_id":1092042727,
     "wof:placetype":"locality",

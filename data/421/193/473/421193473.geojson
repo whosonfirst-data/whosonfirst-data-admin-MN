@@ -13,11 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "S\u00fcmber"
+    ],
     "name:mon_x_preferred":[
         "\u0421\u04af\u043c\u0431\u044d\u0440 \u0441\u0443\u043c"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043c\u0431\u044d\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00fcmber"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":421193473,
-    "wof:lastmodified":1527716149,
+    "wof:lastmodified":1564329307,
     "wof:name":"S\u00fcmber",
     "wof:parent_id":1092041407,
     "wof:placetype":"locality",

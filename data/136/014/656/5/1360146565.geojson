@@ -26,6 +26,51 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nalayh"
+    ],
+    "name:deu_x_preferred":[
+        "Nalaich"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0644\u0627\u06cc\u062e"
+    ],
+    "name:fra_x_preferred":[
+        "Nalayh"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0932\u093e\u0907\u0916"
+    ],
+    "name:ita_x_preferred":[
+        "Nalajh"
+    ],
+    "name:lit_x_preferred":[
+        "Nalaichas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041d\u0430\u043b\u0430\u0458\u0445"
+    ],
+    "name:mon_x_preferred":[
+        "\u041d\u0430\u043b\u0430\u0439\u0445"
+    ],
+    "name:nor_x_preferred":[
+        "Nalajkh"
+    ],
+    "name:pol_x_preferred":[
+        "Nalajch"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043b\u0430\u0439\u0445"
+    ],
+    "name:swe_x_preferred":[
+        "Nalayh"
+    ],
+    "name:tur_x_preferred":[
+        "Nalayh"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u043b\u0430\u0439\u0445"
+    ],
     "name:und_x_variant":[
         "Nalaykha",
         "Nalayha",
@@ -35,6 +80,15 @@
         "Na-lai-ha",
         "Nalaykhu",
         "Nalayh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0644\u0627\u06cc\u062e"
+    ],
+    "name:vie_x_preferred":[
+        "Nalaikh"
+    ],
+    "name:zho_x_preferred":[
+        "\u7eb3\u6765\u54c8\u533a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +114,7 @@
         }
     ],
     "wof:id":1360146565,
-    "wof:lastmodified":1537665647,
+    "wof:lastmodified":1564329272,
     "wof:name":"Nalayh",
     "wof:parent_id":1092039163,
     "wof:placetype":"locality",

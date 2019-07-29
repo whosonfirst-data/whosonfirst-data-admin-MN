@@ -25,8 +25,29 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0427\u0443\u043b\u0443\u0442"
+    ],
     "name:mon_x_preferred":[
         "Jargalant"
+    ],
+    "name:mon_x_variant":[
+        "\u0427\u0443\u043b\u0443\u0443\u0442 \u0441\u0443\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Czuluut"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u0443\u0443\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Tjuluut"
+    ],
+    "name:tgl_x_preferred":[
+        "Chuluut"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0443\u043b\u0443\u0443\u0442"
     ],
     "name:und_x_variant":[
         "Chuluutayn Hiid",
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1226663959,
-    "wof:lastmodified":1537665658,
+    "wof:lastmodified":1564329364,
     "wof:name":"Jargalant",
     "wof:parent_id":1092036119,
     "wof:placetype":"locality",

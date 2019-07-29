@@ -25,8 +25,26 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bogd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u062f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u043e\u0433\u0434"
+    ],
     "name:mon_x_preferred":[
         "Horiult"
+    ],
+    "name:mon_x_variant":[
+        "\u0411\u043e\u0433\u0434 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0433\u0434"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u043e\u0433\u0434"
     ],
     "name:und_x_variant":[
         "Bogda ula somon",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1344069895,
-    "wof:lastmodified":1537665669,
+    "wof:lastmodified":1564329148,
     "wof:name":"Horiult",
     "wof:parent_id":1092034563,
     "wof:placetype":"locality",

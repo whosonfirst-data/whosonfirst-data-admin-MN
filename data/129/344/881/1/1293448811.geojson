@@ -29,7 +29,19 @@
     "name:eng_x_preferred":[
         "Erhet"
     ],
+    "name:gle_x_preferred":[
+        "Mogod"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u0434"
+    ],
+    "name:mon_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u0434 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
+        "\u041c\u043e\u0433\u043e\u0434"
+    ],
+    "name:ukr_x_preferred":[
         "\u041c\u043e\u0433\u043e\u0434"
     ],
     "name:und_x_variant":[
@@ -63,7 +75,7 @@
         }
     ],
     "wof:id":1293448811,
-    "wof:lastmodified":1537665688,
+    "wof:lastmodified":1564329191,
     "wof:name":"Erhet",
     "wof:parent_id":1092039077,
     "wof:placetype":"locality",

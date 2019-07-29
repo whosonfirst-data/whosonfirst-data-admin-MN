@@ -25,14 +25,26 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Telmen"
+    ],
     "name:eng_x_preferred":[
         "\u00d6v\u00f6gdiy"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0435\u043b\u043c\u0435\u043d"
     ],
     "name:mon_x_preferred":[
         "\u00d6v\u00f6gdiy"
     ],
+    "name:mon_x_variant":[
+        "\u0422\u044d\u043b\u043c\u044d\u043d \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u044d\u043b\u043c\u044d\u043d"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0435\u043b\u043c\u0435\u043d"
     ],
     "name:und_x_variant":[
         "Tel\u2019min sumu",
@@ -65,7 +77,7 @@
         }
     ],
     "wof:id":1243258621,
-    "wof:lastmodified":1537665578,
+    "wof:lastmodified":1564329322,
     "wof:name":"Telmin Suma",
     "wof:parent_id":1092041771,
     "wof:placetype":"locality",

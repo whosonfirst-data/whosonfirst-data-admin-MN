@@ -26,6 +26,15 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Naran"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u0627\u0646"
+    ],
+    "name:swe_x_preferred":[
+        "Naran"
+    ],
     "name:und_x_variant":[
         "Urto Naran",
         "Nalin",
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1277062159,
-    "wof:lastmodified":1537665647,
+    "wof:lastmodified":1564329192,
     "wof:name":"Naran",
     "wof:parent_id":1092036973,
     "wof:placetype":"locality",

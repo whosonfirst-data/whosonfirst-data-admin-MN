@@ -26,6 +26,12 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hongor"
+    ],
+    "name:swe_x_preferred":[
+        "Hongor"
+    ],
     "name:und_x_variant":[
         "Khongor",
         "Hongor"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243439803,
-    "wof:lastmodified":1537665671,
+    "wof:lastmodified":1564329335,
     "wof:name":"Hongor",
     "wof:parent_id":1092031689,
     "wof:placetype":"locality",

@@ -26,6 +26,24 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Erdenetsogt Sum"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d0e\u0d7c\u0d21\u0d46\u0d28\u0d46\u0d38\u0d4d\u0d31\u0d4d\u0d31\u0d4d\u0d38\u0d4b\u0d17\u0d4d\u0d21\u0d4d"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u0440\u0434\u0435\u043d\u0435\u0446\u043e\u0433\u0442"
+    ],
+    "name:mon_x_preferred":[
+        "\u042d\u0440\u0434\u044d\u043d\u044d\u0446\u043e\u0433\u0442 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440\u0434\u044d\u043d\u044d\u0446\u043e\u0433\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0440\u0434\u0435\u043d\u0435\u0446\u043e\u0433\u0442"
+    ],
     "name:und_x_variant":[
         "Bayan Oboo Suma",
         "Bayan Obo",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1193120571,
-    "wof:lastmodified":1537665690,
+    "wof:lastmodified":1564329243,
     "wof:name":"Erdenetsogt",
     "wof:parent_id":1092033095,
     "wof:placetype":"locality",

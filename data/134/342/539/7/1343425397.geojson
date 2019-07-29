@@ -28,10 +28,22 @@
     "name:eng_x_preferred":[
         "Bugat"
     ],
+    "name:gle_x_preferred":[
+        "Bugat"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0442"
+    ],
     "name:mon_x_preferred":[
         "Bugat"
     ],
+    "name:mon_x_variant":[
+        "\u0411\u0443\u0433\u0430\u0442 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u0442"
+    ],
+    "name:ukr_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0442"
     ],
     "src:geom":"geonames",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1343425397,
-    "wof:lastmodified":1537665715,
+    "wof:lastmodified":1564329163,
     "wof:name":"Bugat",
     "wof:parent_id":1092034835,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bayandelger"
+    ],
+    "name:mon_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0434\u044d\u043b\u0433\u044d\u0440 \u0441\u0443\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Bayandelger"
+    ],
     "name:und_x_variant":[
         "Bayan Delger Sume",
         "Bayan Delger Suma",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1226608289,
-    "wof:lastmodified":1537665725,
+    "wof:lastmodified":1564329361,
     "wof:name":"Bayandelger",
     "wof:parent_id":1092033557,
     "wof:placetype":"locality",

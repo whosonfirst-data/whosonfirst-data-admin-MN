@@ -28,11 +28,23 @@
     "name:eng_x_preferred":[
         "Nart"
     ],
+    "name:fra_x_preferred":[
+        "Orkhon"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041e\u0440\u0445\u043e\u043d"
+    ],
     "name:mon_x_preferred":[
         "Nart"
     ],
+    "name:mon_x_variant":[
+        "\u041e\u0440\u0445\u043e\u043d \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0440\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0440\u0445\u043e\u043d"
     ],
     "name:und_x_variant":[
         "Orhon",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1327315899,
-    "wof:lastmodified":1537665645,
+    "wof:lastmodified":1564329119,
     "wof:name":"Nart",
     "wof:parent_id":1092040147,
     "wof:placetype":"locality",

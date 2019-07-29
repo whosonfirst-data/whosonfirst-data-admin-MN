@@ -25,6 +25,24 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Argalant"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
+    ],
+    "name:mon_x_preferred":[
+        "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
+    ],
+    "name:swe_x_preferred":[
+        "Argalant"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1310271191,
-    "wof:lastmodified":1537568525,
+    "wof:lastmodified":1564329264,
     "wof:name":"Argalant",
     "wof:parent_id":1092032141,
     "wof:placetype":"locality",

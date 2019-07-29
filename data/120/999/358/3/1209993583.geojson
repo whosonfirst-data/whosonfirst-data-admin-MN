@@ -25,8 +25,35 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Altay"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062a\u0627\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Altai"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043b\u0442\u0430\u0458"
+    ],
     "name:mon_x_preferred":[
         "Bor-\u00dcdz\u00fc\u00fcr"
+    ],
+    "name:mon_x_variant":[
+        "\u0410\u043b\u0442\u0430\u0439 \u0441\u0443\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Altaj"
+    ],
+    "name:por_x_preferred":[
+        "Altai"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0442\u0430\u0439"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0442\u0430\u0439"
     ],
     "name:und_x_variant":[
         "Altay Somon",
@@ -59,7 +86,7 @@
         }
     ],
     "wof:id":1209993583,
-    "wof:lastmodified":1537665597,
+    "wof:lastmodified":1564329222,
     "wof:name":"Altay sumu",
     "wof:parent_id":1092031925,
     "wof:placetype":"locality",

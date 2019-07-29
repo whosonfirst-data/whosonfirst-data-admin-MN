@@ -25,7 +25,19 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Asgat"
+    ],
     "name:mon_x_preferred":[
+        "Asgat"
+    ],
+    "name:mon_x_variant":[
+        "\u0410\u0441\u0433\u0430\u0442 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0441\u0433\u0430\u0442"
+    ],
+    "name:swe_x_preferred":[
         "Asgat"
     ],
     "src:geom":"geonames",
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343942251,
-    "wof:lastmodified":1537665740,
+    "wof:lastmodified":1564329158,
     "wof:name":"Asgat",
     "wof:parent_id":1092032305,
     "wof:placetype":"locality",

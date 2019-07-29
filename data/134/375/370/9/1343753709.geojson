@@ -25,8 +25,20 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mkd_x_preferred":[
+        "\u0418\u0445\u0435\u0442"
+    ],
     "name:mon_x_preferred":[
         "Bayan"
+    ],
+    "name:mon_x_variant":[
+        "\u0418\u0445\u0445\u044d\u0442 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0445\u0445\u044d\u0442"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0445\u0445\u0435\u0442"
     ],
     "name:und_x_variant":[
         "Inhet",
@@ -65,7 +77,7 @@
         }
     ],
     "wof:id":1343753709,
-    "wof:lastmodified":1537665728,
+    "wof:lastmodified":1564329165,
     "wof:name":"Bayan",
     "wof:parent_id":1092037939,
     "wof:placetype":"locality",

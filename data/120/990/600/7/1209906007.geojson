@@ -26,11 +26,17 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Altanbulag"
+    ],
     "name:eng_x_preferred":[
         "Altanbulag"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u044f\u043d-\u0425\u0430\u0439\u0440\u0445\u0430\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Altanbulag"
     ],
     "name:und_x_variant":[
         "Bayan Khairkhan",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1209906007,
-    "wof:lastmodified":1537665603,
+    "wof:lastmodified":1564329220,
     "wof:name":"Altanbulag",
     "wof:parent_id":1092034111,
     "wof:placetype":"locality",

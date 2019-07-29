@@ -26,6 +26,27 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guchin-Us"
+    ],
+    "name:fra_x_preferred":[
+        "Guchin-Us sum"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0443\u0447\u0438\u043d-\u0423\u0441"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u0443\u0447\u0438\u043d-\u0423\u0441 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0447\u0438\u043d-\u0423\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Guchin-Us"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u0447\u0438\u043d-\u0423\u0441"
+    ],
     "name:und_x_variant":[
         "Guchin",
         "Guchin Usa Suma",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1260151007,
-    "wof:lastmodified":1537665735,
+    "wof:lastmodified":1564329249,
     "wof:name":"Arguut",
     "wof:parent_id":1092037651,
     "wof:placetype":"locality",

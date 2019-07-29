@@ -28,8 +28,23 @@
     "name:eng_x_preferred":[
         "S\u00fcmber"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0645\u0628\u0631"
+    ],
+    "name:ind_x_preferred":[
+        "Sumber"
+    ],
+    "name:jav_x_preferred":[
+        "Sumber"
+    ],
+    "name:mlg_x_preferred":[
+        "Sumber"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043c\u0431\u044d\u0440"
+    ],
+    "name:sun_x_preferred":[
+        "Sumber"
     ],
     "name:und_x_variant":[
         "S\u00fcmber"
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1226736041,
-    "wof:lastmodified":1537665575,
+    "wof:lastmodified":1564329358,
     "wof:name":"Sumber",
     "wof:parent_id":1092032103,
     "wof:placetype":"locality",

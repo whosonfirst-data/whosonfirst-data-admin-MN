@@ -25,18 +25,45 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sagsay sum"
+    ],
     "name:eng_x_preferred":[
         "Uujim"
+    ],
+    "name:fra_x_preferred":[
+        "Sagsai"
+    ],
+    "name:hun_x_preferred":[
+        "Szagszaj j\u00e1r\u00e1s"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0433\u0441\u0430\u0458"
     ],
     "name:mon_x_preferred":[
         "Uujim"
     ],
+    "name:mon_x_variant":[
+        "\u0421\u0430\u0433\u0441\u0430\u0439 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
+        "\u0421\u0430\u0433\u0441\u0430\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Sagsai"
+    ],
+    "name:swe_x_preferred":[
+        "Sagsay sum"
+    ],
+    "name:ukr_x_preferred":[
         "\u0421\u0430\u0433\u0441\u0430\u0439"
     ],
     "name:und_x_variant":[
         "Sagsay",
         "Sagsa\u00ef"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06af\u0633\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1193144523,
-    "wof:lastmodified":1537665567,
+    "wof:lastmodified":1564329244,
     "wof:name":"Uujim",
     "wof:parent_id":1092040419,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Mandal"
+    ],
     "name:und_x_variant":[
         "Mandal Sumu",
         "Mandal Somon",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1326743291,
-    "wof:lastmodified":1537665652,
+    "wof:lastmodified":1564329123,
     "wof:name":"Mandal",
     "wof:parent_id":1092037565,
     "wof:placetype":"locality",

@@ -26,6 +26,27 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matad"
+    ],
+    "name:fin_x_preferred":[
+        "Matad"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434"
+    ],
+    "name:mon_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434 \u0441\u0443\u043c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Matad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0442\u0430\u0434"
+    ],
     "name:und_x_variant":[
         "Matad",
         "Matad Sume",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1260386663,
-    "wof:lastmodified":1537665694,
+    "wof:lastmodified":1564329251,
     "wof:name":"Dzuunbulag",
     "wof:parent_id":1092038813,
     "wof:placetype":"locality",

@@ -26,11 +26,32 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shine-Ider"
+    ],
     "name:eng_x_preferred":[
         "Erdenet"
     ],
+    "name:fra_x_preferred":[
+        "Shine-Ider"
+    ],
+    "name:gle_x_preferred":[
+        "Shine-Ider"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0428\u0438\u043d\u0435-\u0418\u0434\u0435\u0440"
+    ],
+    "name:mon_x_preferred":[
+        "\u0428\u0438\u043d\u044d-\u0418\u0434\u044d\u0440"
+    ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u043d\u044d-\u0418\u0434\u044d\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Shine-Ider"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0438\u043d\u0435-\u0406\u0434\u0435\u0440"
     ],
     "name:und_x_variant":[
         "Shine-Ider"
@@ -59,7 +80,7 @@
         }
     ],
     "wof:id":1292980335,
-    "wof:lastmodified":1537665588,
+    "wof:lastmodified":1564329184,
     "wof:name":"Erdenet",
     "wof:parent_id":1092041227,
     "wof:placetype":"locality",

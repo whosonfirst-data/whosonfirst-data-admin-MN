@@ -31,10 +31,19 @@
     "mps:longitude":103.422653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Gurvanbulag"
+    ],
     "name:eng_x_preferred":[
         "Gurvanbulag"
     ],
     "name:eng_x_variant":[
+        "Gurvanbulag"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u0440\u0432\u0430\u043d\u0431\u0443\u043b\u0430\u0433"
+    ],
+    "name:swe_x_preferred":[
         "Gurvanbulag"
     ],
     "src:geom":"meso",
@@ -70,7 +79,7 @@
         }
     ],
     "wof:id":1092037737,
-    "wof:lastmodified":1553718065,
+    "wof:lastmodified":1564329298,
     "wof:name":"Gurvanbulag",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

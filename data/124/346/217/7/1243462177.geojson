@@ -25,11 +25,23 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tsagaannuur"
+    ],
     "name:eng_x_preferred":[
         "Tsagaannuur"
     ],
+    "name:fra_x_preferred":[
+        "Tsagaannuur"
+    ],
+    "name:mon_x_preferred":[
+        "\u0426\u0430\u0433\u0430\u0430\u043d\u043d\u0443\u0443\u0440 \u0441\u0443\u043c"
+    ],
     "name:rus_x_preferred":[
         "\u0426\u0430\u0433\u0430\u043d-\u041d\u0443\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Tsagaannuur"
     ],
     "name:und_x_variant":[
         "Tsagan-nur"
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1243462177,
-    "wof:lastmodified":1537665571,
+    "wof:lastmodified":1564329318,
     "wof:name":"Tsagaannuur",
     "wof:parent_id":1092039367,
     "wof:placetype":"locality",
