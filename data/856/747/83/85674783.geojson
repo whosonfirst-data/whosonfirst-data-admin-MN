@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UB"
+    ],
     "lbl:latitude":47.970116,
     "lbl:longitude":106.978931,
     "mps:latitude":47.95929,
@@ -611,16 +614,13 @@
         }
     ],
     "wof:id":85674783,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279741,
+    "wof:lastmodified":1565728045,
     "wof:name":"Ulaanbaatar",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

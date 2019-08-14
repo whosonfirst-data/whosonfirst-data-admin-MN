@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":49.820135,
     "lbl:longitude":105.330771,
     "mps:latitude":49.42956,
@@ -329,16 +332,13 @@
         }
     ],
     "wof:id":85674761,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279721,
+    "wof:lastmodified":1565728041,
     "wof:name":"Selenge",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BU"
+    ],
     "lbl:latitude":48.837083,
     "lbl:longitude":103.209243,
     "mps:latitude":48.900613,
@@ -328,16 +331,13 @@
         }
     ],
     "wof:id":85674749,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279745,
+    "wof:lastmodified":1565728046,
     "wof:name":"Bulgan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

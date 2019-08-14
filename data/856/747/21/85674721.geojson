@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AR"
+    ],
     "lbl:latitude":47.913206,
     "lbl:longitude":101.256279,
     "mps:latitude":47.910462,
@@ -339,16 +342,13 @@
         }
     ],
     "wof:id":85674721,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279732,
+    "wof:lastmodified":1565728044,
     "wof:name":"Arhangay",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

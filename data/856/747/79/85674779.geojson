@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GS"
+    ],
     "lbl:latitude":46.483922,
     "lbl:longitude":108.577044,
     "mps:latitude":47.740836,
@@ -331,7 +334,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279737,
+    "wof:lastmodified":1565728045,
     "wof:name":"Gov\u012d-S\u00fcmber",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

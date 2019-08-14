@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OG"
+    ],
     "lbl:latitude":43.351303,
     "lbl:longitude":104.205316,
     "mps:latitude":43.330561,
@@ -331,16 +334,13 @@
         }
     ],
     "wof:id":85674713,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279745,
+    "wof:lastmodified":1565728046,
     "wof:name":"\u00d6mn\u00f6govi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

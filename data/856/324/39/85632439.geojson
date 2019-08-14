@@ -15,6 +15,9 @@
     "itu:country_code":[
         "976"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MN"
+    ],
     "lbl:latitude":45.99339,
     "lbl:longitude":104.159557,
     "mps:latitude":45.99339,
@@ -1007,16 +1010,13 @@
         }
     ],
     "wof:id":85632439,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279719,
+    "wof:lastmodified":1565728040,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

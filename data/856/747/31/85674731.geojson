@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GA"
+    ],
     "lbl:latitude":45.420633,
     "lbl:longitude":96.215645,
     "mps:latitude":45.467132,
@@ -339,16 +342,13 @@
         }
     ],
     "wof:id":85674731,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279734,
+    "wof:lastmodified":1565728044,
     "wof:name":"Govi-Altay",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

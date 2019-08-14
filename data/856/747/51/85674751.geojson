@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ER"
+    ],
     "lbl:latitude":49.034885,
     "lbl:longitude":104.375064,
     "mps:latitude":49.014921,
@@ -339,16 +342,13 @@
         }
     ],
     "wof:id":85674751,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279724,
+    "wof:lastmodified":1565728042,
     "wof:name":"Orhon",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

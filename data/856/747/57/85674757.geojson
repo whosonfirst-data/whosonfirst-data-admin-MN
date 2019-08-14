@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DU"
+    ],
     "lbl:latitude":45.40555,
     "lbl:longitude":106.321664,
     "mps:latitude":45.404426,
@@ -331,16 +334,13 @@
         }
     ],
     "wof:id":85674757,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279723,
+    "wof:lastmodified":1565728042,
     "wof:name":"Dundgovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

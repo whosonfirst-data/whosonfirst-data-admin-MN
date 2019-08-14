@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HD"
+    ],
     "lbl:latitude":47.440049,
     "lbl:longitude":92.437182,
     "mps:latitude":47.208611,
@@ -299,16 +302,13 @@
         }
     ],
     "wof:id":85674737,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279737,
+    "wof:lastmodified":1565728044,
     "wof:name":"Hovd",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

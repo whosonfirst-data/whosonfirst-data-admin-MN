@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
     "lbl:latitude":47.572809,
     "lbl:longitude":105.71491,
     "mps:latitude":47.558964,
@@ -341,16 +344,13 @@
         }
     ],
     "wof:id":85674777,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279742,
+    "wof:lastmodified":1565728045,
     "wof:name":"T\u00f6v",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OH"
+    ],
     "lbl:latitude":45.851896,
     "lbl:longitude":102.568286,
     "mps:latitude":45.845467,
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85674765,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279735,
+    "wof:lastmodified":1565728044,
     "wof:name":"\u00d6v\u00f6rhangay",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

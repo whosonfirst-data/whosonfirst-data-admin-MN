@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DG"
+    ],
     "lbl:latitude":44.299327,
     "lbl:longitude":109.846399,
     "mps:latitude":44.462792,
@@ -338,16 +341,13 @@
         }
     ],
     "wof:id":85674709,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279733,
+    "wof:lastmodified":1565728044,
     "wof:name":"Dornogovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

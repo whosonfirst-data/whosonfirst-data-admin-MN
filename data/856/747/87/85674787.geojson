@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DD"
+    ],
     "lbl:latitude":48.767794,
     "lbl:longitude":114.21605,
     "mps:latitude":48.89854,
@@ -343,16 +346,13 @@
         }
     ],
     "wof:id":85674787,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279730,
+    "wof:lastmodified":1565728043,
     "wof:name":"Dornod",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

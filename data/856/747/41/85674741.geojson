@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HG"
+    ],
     "lbl:latitude":50.364353,
     "lbl:longitude":99.956029,
     "mps:latitude":50.366223,
@@ -329,16 +332,13 @@
         }
     ],
     "wof:id":85674741,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279738,
+    "wof:lastmodified":1565728045,
     "wof:name":"H\u00f6vsg\u00f6l",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

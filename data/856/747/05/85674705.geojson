@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BO"
+    ],
     "lbl:latitude":48.796451,
     "lbl:longitude":89.819475,
     "mps:latitude":48.790071,
@@ -333,16 +336,13 @@
         }
     ],
     "wof:id":85674705,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279726,
+    "wof:lastmodified":1565728043,
     "wof:name":"Bayan-\u00d6lgiy",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HN"
+    ],
     "lbl:latitude":47.874862,
     "lbl:longitude":110.487011,
     "mps:latitude":47.891614,
@@ -321,16 +324,13 @@
         }
     ],
     "wof:id":85674719,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279731,
+    "wof:lastmodified":1565728044,
     "wof:name":"Hentiy",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

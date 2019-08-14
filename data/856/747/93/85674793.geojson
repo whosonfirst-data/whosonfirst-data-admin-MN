@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SB"
+    ],
     "lbl:latitude":46.186952,
     "lbl:longitude":113.279893,
     "mps:latitude":46.186768,
@@ -324,16 +327,13 @@
         }
     ],
     "wof:id":85674793,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279725,
+    "wof:lastmodified":1565728042,
     "wof:name":"S\u00fchbaatar",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

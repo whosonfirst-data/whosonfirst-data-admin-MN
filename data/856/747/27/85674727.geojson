@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "DZ"
+    ],
     "lbl:latitude":48.377321,
     "lbl:longitude":96.445268,
     "mps:latitude":48.272508,
@@ -321,16 +324,13 @@
         }
     ],
     "wof:id":85674727,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "mon"
     ],
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1563279727,
+    "wof:lastmodified":1565728043,
     "wof:name":"Dzavxan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
