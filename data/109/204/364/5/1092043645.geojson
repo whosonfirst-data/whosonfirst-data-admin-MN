@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.392214,
     "lbl:longitude":106.291243,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Darxan-Uul",
     "meso:diss_me":"XongorDarxan-Uul",
     "meso:gadm_admin":"Khongor",
@@ -31,6 +33,7 @@
     "mps:longitude":106.291243,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Hongor"
     ],
@@ -56,7 +59,7 @@
         "Khongor"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092043645,
-    "wof:lastmodified":1563279847,
+    "wof:lastmodified":1566611678,
     "wof:name":"Xongor",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

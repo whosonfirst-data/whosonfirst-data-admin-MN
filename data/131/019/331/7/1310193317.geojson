@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"111.06333,47.48,111.10333,47.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Idermegyyn Khid",
         "Idermeg\u00f6yn Khid",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310193317,
-    "wof:lastmodified":1537665661,
+    "wof:lastmodified":1566611669,
     "wof:name":"Idermegiin Hiid",
     "wof:parent_id":1092032687,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"110.73,44.31333,110.77,44.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dalay\u00f6n Khid",
         "Dalayn Khid",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1292927109,
-    "wof:lastmodified":1537665706,
+    "wof:lastmodified":1566611616,
     "wof:name":"Dalayn Hiid",
     "wof:parent_id":1092037263,
     "wof:placetype":"locality",

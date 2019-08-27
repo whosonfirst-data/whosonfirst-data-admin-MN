@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.79041,
     "lbl:longitude":99.377949,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arxangai",
     "meso:diss_me":"XangaiArxangai",
     "meso:gadm_admin":"Khangai",
@@ -31,6 +33,7 @@
     "mps:longitude":99.377949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Khangai"
     ],
@@ -92,7 +95,7 @@
         "\u676d\u7231\u82cf\u6728"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1092043153,
-    "wof:lastmodified":1563279861,
+    "wof:lastmodified":1566611684,
     "wof:name":"Xangai",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

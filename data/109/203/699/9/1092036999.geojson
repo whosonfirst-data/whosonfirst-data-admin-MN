@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.325932,
     "lbl:longitude":92.88841,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Xovd",
     "meso:diss_me":"Do'rgonXovd",
     "meso:gadm_admin":"D\u00f6rg\u00f6n",
@@ -31,6 +33,7 @@
     "mps:longitude":92.88841,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "D\u00f6rg\u00f6n"
     ],
@@ -89,7 +92,7 @@
         "\u0414\u0443\u0440\u0433\u0443\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":1092036999,
-    "wof:lastmodified":1563279941,
+    "wof:lastmodified":1566611734,
     "wof:name":"Do'rgon",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

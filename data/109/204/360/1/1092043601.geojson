@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.362162,
     "lbl:longitude":94.361496,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Govi-Altai",
     "meso:diss_me":"Xo'xmoritGovi-Altai",
     "meso:gadm_admin":"Kh\u00f6kh morit",
@@ -31,6 +33,7 @@
     "mps:longitude":94.361496,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "H\u00f6hmor\u012dt"
     ],
@@ -65,7 +68,7 @@
         "\u0425\u0443\u0445\u043c\u043e\u0440\u044c\u0442"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092043601,
-    "wof:lastmodified":1563279867,
+    "wof:lastmodified":1566611688,
     "wof:name":"Xo'xmorit",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

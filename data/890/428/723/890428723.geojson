@@ -11,14 +11,18 @@
     "geom:longitude":104.5,
     "gn:country":"MN",
     "gn:fcode":"PPLA2",
-    "gn:pop":1500,
+    "gn:population":1500,
     "iso:country":"MN",
+    "lbl:bbox":"104.48,47.31333,104.52,47.35333",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mon_x_preferred":[
         "Ulaanhudag"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Erdeni Santa"
     ],
     "qs:name":"Ulaanhudag",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":2028429,
         "gp:id":2265328,
-        "qs:id":570996
+        "qs_pg:id":570996
     },
     "wof:country":"MN",
     "wof:created":1469051767,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890428723,
-    "wof:lastmodified":1505343507,
+    "wof:lastmodified":1566611754,
     "wof:name":"Ulaanhudag",
     "wof:parent_id":1092037369,
     "wof:placetype":"locality",

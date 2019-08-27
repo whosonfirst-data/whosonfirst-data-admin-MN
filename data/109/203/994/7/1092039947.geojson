@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.14406,
     "lbl:longitude":94.839876,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Uvs",
     "meso:diss_me":"O'ndorxangaiUvs",
     "meso:gadm_admin":"\u00d6nd\u00f6rkhangai",
@@ -31,6 +33,7 @@
     "mps:longitude":94.839876,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ondorhangai"
     ],
@@ -59,7 +62,7 @@
         "\u0423\u043d\u0434\u0443\u0440\u0445\u0430\u043d\u0433\u0430\u0439"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092039947,
-    "wof:lastmodified":1561844109,
+    "wof:lastmodified":1566611726,
     "wof:name":"O'ndorxangai",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

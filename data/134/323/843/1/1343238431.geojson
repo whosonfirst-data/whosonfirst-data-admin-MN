@@ -23,8 +23,12 @@
     "gn:population":2140,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"100.64257,51.48725,100.68257,51.52725",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hanh"
     ],
@@ -53,14 +57,12 @@
         "\u0425\u0430\u043d\u0445"
     ],
     "name:und_x_variant":[
-        "Hanh",
         "Khangin",
         "Hangin",
         "Khanga Sume",
         "Hanga Suma",
         "Khanga",
         "Hanga",
-        "Khankh",
         "Hanga Sumu",
         "Khankha Somon",
         "T'u-erh-t'u",
@@ -92,7 +94,7 @@
         }
     ],
     "wof:id":1343238431,
-    "wof:lastmodified":1564329151,
+    "wof:lastmodified":1566611593,
     "wof:name":"Turt",
     "wof:parent_id":1092043281,
     "wof:placetype":"locality",

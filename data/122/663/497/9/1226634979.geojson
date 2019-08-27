@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"95.34667,46.14667,95.38667,46.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Boro Utszyuriin Suburga",
         "Boro \u00dcdz\u00fc\u00fcriin Subarga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226634979,
-    "wof:lastmodified":1537665597,
+    "wof:lastmodified":1566611800,
     "wof:name":"Boro Udzuuriin Subarga",
     "wof:parent_id":1092042937,
     "wof:placetype":"locality",

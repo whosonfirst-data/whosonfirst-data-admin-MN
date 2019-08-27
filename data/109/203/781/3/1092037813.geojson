@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.256861,
     "lbl:longitude":100.661891,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"O'mnogovi",
     "meso:diss_me":"GurvantesO'mnogovi",
     "meso:gadm_admin":"Gurvan tes",
@@ -31,6 +33,7 @@
     "mps:longitude":100.661891,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0413\u0443\u0440\u0432\u0430\u043d\u0442\u0435\u0441"
     ],
@@ -71,7 +74,7 @@
         "\u53e4\u5c14\u73ed\u65af\u7279\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1092037813,
-    "wof:lastmodified":1563279952,
+    "wof:lastmodified":1566611740,
     "wof:name":"Gurvantes",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

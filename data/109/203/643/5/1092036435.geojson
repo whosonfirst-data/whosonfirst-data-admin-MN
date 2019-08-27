@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.540973,
     "lbl:longitude":94.388292,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Govi-Altai",
     "meso:diss_me":"DarviGovi-Altai",
     "meso:gadm_admin":"Darvi",
@@ -31,6 +33,7 @@
     "mps:longitude":94.388292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Darvi"
     ],
@@ -50,7 +53,7 @@
         "Darvi"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1092036435,
-    "wof:lastmodified":1564329287,
+    "wof:lastmodified":1566611707,
     "wof:name":"Darvi",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

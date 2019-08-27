@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"104.76333,46.76333,104.80333,46.80333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ug\u00f6rkhin khid",
         "\u00d6g\u00f6rh\u00f6n-Hiyd",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293167017,
-    "wof:lastmodified":1537665642,
+    "wof:lastmodified":1566611623,
     "wof:name":"Ugyrkhin khid",
     "wof:parent_id":1092036817,
     "wof:placetype":"locality",

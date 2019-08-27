@@ -10,10 +10,14 @@
     "geom:latitude":49.8807,
     "geom:longitude":115.72526,
     "iso:country":"MN",
+    "lbl:bbox":"115.70526,49.8607,115.74526,49.9007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ir\u00efnts\u0101bu Kaihy\u014d"
     ],
     "qs:gn_country":"MN",
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":2031374,
         "gp:id":2266639,
-        "qs:id":462982
+        "qs_pg:id":462982
     },
     "wof:country":"MN",
     "wof:created":1459009928,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":421197887,
-    "wof:lastmodified":1505340753,
+    "wof:lastmodified":1566611753,
     "wof:name":"Ereentsay",
     "wof:parent_id":1092036079,
     "wof:placetype":"locality",

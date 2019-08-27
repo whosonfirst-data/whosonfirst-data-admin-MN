@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.626805,
     "lbl:longitude":103.744917,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"O'vorxangai",
     "meso:diss_me":"Yeso'nzu'ilO'vorxangai",
     "meso:gadm_admin":"Yes\u00f6nz\u00fcil",
@@ -31,6 +33,7 @@
     "mps:longitude":103.744917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Eson-Zuil"
     ],
@@ -65,7 +68,7 @@
         "\u06cc\u0633\u0648\u0646\u0632\u0648\u0627\u0644"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092044297,
-    "wof:lastmodified":1563279872,
+    "wof:lastmodified":1566611690,
     "wof:name":"Yeso'nzu'il",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

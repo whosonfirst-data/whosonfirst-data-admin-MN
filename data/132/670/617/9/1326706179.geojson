@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"107.14667,47.14667,107.18667,47.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abdara Bayan Sume",
         "Abdara-Bayan",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326706179,
-    "wof:lastmodified":1537665739,
+    "wof:lastmodified":1566611582,
     "wof:name":"Abdar Bayan Suma",
     "wof:parent_id":1092041003,
     "wof:placetype":"locality",

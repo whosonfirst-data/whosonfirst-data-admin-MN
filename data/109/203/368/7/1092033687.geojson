@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.717123,
     "lbl:longitude":100.010827,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bayanxongor",
     "meso:diss_me":"BayangoviBayanxongor",
     "meso:gadm_admin":"Bayangovi",
@@ -31,6 +33,7 @@
     "mps:longitude":100.010827,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bayangov\u012d"
     ],
@@ -59,7 +62,7 @@
         "\u0411\u0430\u044f\u043d\u0433\u043e\u0432\u044c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092033687,
-    "wof:lastmodified":1563279926,
+    "wof:lastmodified":1566611724,
     "wof:name":"Bayangovi",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"99.88,49.51333,99.92,49.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u2019u-kung-sai-yin",
         "Bugseyn Khure",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242757209,
-    "wof:lastmodified":1537665597,
+    "wof:lastmodified":1566611758,
     "wof:name":"Bugseyn Huryee",
     "wof:parent_id":1092034765,
     "wof:placetype":"locality",

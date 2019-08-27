@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":45.135841,
     "lbl:longitude":96.617322,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Govi-Altai",
     "meso:diss_me":"CogtGovi-Altai",
     "meso:gadm_admin":"Tsogt",
@@ -31,6 +33,7 @@
     "mps:longitude":96.617322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0426\u043e\u0433\u0442"
     ],
@@ -65,7 +68,7 @@
         "\u0426\u043e\u0433\u0442"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092036241,
-    "wof:lastmodified":1563279937,
+    "wof:lastmodified":1566611731,
     "wof:name":"Cogt",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

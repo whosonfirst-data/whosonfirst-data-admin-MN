@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"89.44438,49.58681,89.48438,49.62681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326531691,
-    "wof:lastmodified":1536984030,
+    "wof:lastmodified":1566611584,
     "wof:name":"Ulaanbaishint",
     "wof:parent_id":1092039367,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.691895,
     "lbl:longitude":103.955387,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"O'mnogovi",
     "meso:diss_me":"Mandal-OvooO'mnogovi",
     "meso:gadm_admin":"Mandal-Ovoo",
@@ -31,6 +33,7 @@
     "mps:longitude":103.955387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mandal-Ovoo"
     ],
@@ -50,7 +53,7 @@
         "\u041c\u0430\u043d\u0434\u0430\u043b-\u043e\u0432\u043e\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1092038615,
-    "wof:lastmodified":1561844105,
+    "wof:lastmodified":1566611712,
     "wof:name":"Mandal-Ovoo",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

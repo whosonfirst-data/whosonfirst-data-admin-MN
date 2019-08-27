@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"105.36833,49.125,105.40833,49.165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nart"
     ],
@@ -47,8 +51,7 @@
         "\u041e\u0440\u0445\u043e\u043d"
     ],
     "name:und_x_variant":[
-        "Orhon",
-        "Orkhon"
+        "Orhon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1327315899,
-    "wof:lastmodified":1564329119,
+    "wof:lastmodified":1566611573,
     "wof:name":"Nart",
     "wof:parent_id":1092040147,
     "wof:placetype":"locality",

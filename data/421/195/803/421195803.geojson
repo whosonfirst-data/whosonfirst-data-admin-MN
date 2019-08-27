@@ -10,8 +10,12 @@
     "geom:latitude":46.37222,
     "geom:longitude":96.25833,
     "iso:country":"MN",
+    "lbl:bbox":"96.23833,46.35222,96.27833,46.39222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0627\u0644\u062a\u0627\u064a"
@@ -145,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0442\u0430\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yusun-bulak"
     ],
     "name:urd_x_preferred":[
@@ -189,7 +193,7 @@
     "wof:concordances":{
         "gn:id":1516393,
         "gp:id":2265975,
-        "qs:id":913000,
+        "qs_pg:id":913000,
         "wd:id":"Q433861",
         "wk:page":"Altai City"
     },
@@ -206,7 +210,7 @@
         }
     ],
     "wof:id":421195803,
-    "wof:lastmodified":1563279970,
+    "wof:lastmodified":1566611751,
     "wof:name":"Jusenbulag",
     "wof:parent_id":1092044253,
     "wof:placetype":"locality",

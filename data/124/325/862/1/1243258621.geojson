@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"97.59861,48.62278,97.63861,48.66278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Telmen"
     ],
@@ -50,8 +54,7 @@
         "Tel\u2019min sumu",
         "Telmin",
         "\u00d6vg\u00f6diy",
-        "Telmin somon",
-        "Telmen"
+        "Telmin somon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1243258621,
-    "wof:lastmodified":1564329322,
+    "wof:lastmodified":1566611764,
     "wof:name":"Telmin Suma",
     "wof:parent_id":1092041771,
     "wof:placetype":"locality",

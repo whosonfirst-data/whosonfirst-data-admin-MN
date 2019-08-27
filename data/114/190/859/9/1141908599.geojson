@@ -10,10 +10,14 @@
     "geom:latitude":46.39612,
     "geom:longitude":95.845043,
     "iso:country":"MN",
+    "lbl:bbox":"95.8250434967,46.376120218,95.8650434967,46.416120218",
     "lbl:latitude":46.39612,
     "lbl:longitude":95.845043,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0644\u062a\u0627\u064a"
     ],
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":1141908599,
-    "wof:lastmodified":1564329376,
+    "wof:lastmodified":1566611803,
     "wof:name":"Altay",
     "wof:parent_id":1092041123,
     "wof:placetype":"locality",

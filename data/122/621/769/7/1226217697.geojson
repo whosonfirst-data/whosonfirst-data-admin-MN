@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"92.3824,50.58977,92.4224,50.62977",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Dz\u00fc\u00fcnh\u00f6v\u00f6\u00f6"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226217697,
-    "wof:lastmodified":1537665589,
+    "wof:lastmodified":1566611789,
     "wof:name":"Dzuunhovoo",
     "wof:parent_id":1092036665,
     "wof:placetype":"locality",

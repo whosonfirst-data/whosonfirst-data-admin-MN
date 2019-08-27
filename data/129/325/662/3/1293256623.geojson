@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"103.28,49.48,103.32,49.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Delger nur dugang",
         "Delger Nuur Dugang"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293256623,
-    "wof:lastmodified":1537665702,
+    "wof:lastmodified":1566611619,
     "wof:name":"Delger Nuur Dugang",
     "wof:parent_id":1092044071,
     "wof:placetype":"locality",

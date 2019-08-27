@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"115.27396,46.93343,115.31396,46.97343",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Matad"
     ],
@@ -48,7 +52,6 @@
         "\u041c\u0430\u0442\u0430\u0434"
     ],
     "name:und_x_variant":[
-        "Matad",
         "Matad Sume",
         "Madat sumu",
         "Matad somon",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1260386663,
-    "wof:lastmodified":1564329251,
+    "wof:lastmodified":1566611659,
     "wof:name":"Dzuunbulag",
     "wof:parent_id":1092038813,
     "wof:placetype":"locality",

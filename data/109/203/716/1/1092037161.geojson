@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.483787,
     "lbl:longitude":101.450369,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arxangai",
     "meso:diss_me":"ErdenebulganArxangai",
     "meso:gadm_admin":"Erdenebulgan",
@@ -31,6 +33,7 @@
     "mps:longitude":101.450369,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Erdene-Bulgan"
     ],
@@ -38,7 +41,7 @@
         "Erdenebulgan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1092037161,
-    "wof:lastmodified":1553718063,
+    "wof:lastmodified":1566611744,
     "wof:name":"Erdenebulgan",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

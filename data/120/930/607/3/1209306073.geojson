@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"110.48,44.64667,110.52,44.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abdarantyn khural",
         "Abdarant\u00f6n Khural",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209306073,
-    "wof:lastmodified":1537665739,
+    "wof:lastmodified":1566611641,
     "wof:name":"Abdarantaiin Hural",
     "wof:parent_id":85632439,
     "wof:placetype":"locality",

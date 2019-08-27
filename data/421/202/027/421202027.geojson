@@ -10,6 +10,9 @@
     "geom:latitude":47.31944,
     "geom:longitude":110.65556,
     "iso:country":"MN",
+    "lbl:bbox":"110.63556,47.29944,110.67556,47.33944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -139,9 +142,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043d\u0434\u0435\u0440\u0445\u0430\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "\u00d6nd\u00f6rkhaan"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0646\u062f\u0648\u0631\u062e\u0627\u0646"
@@ -278,7 +278,7 @@
     "wof:concordances":{
         "gn:id":2029656,
         "gp:id":2266558,
-        "qs:id":1354356,
+        "qs_pg:id":1354356,
         "wd:id":"Q297632"
     },
     "wof:country":"MN",
@@ -294,7 +294,7 @@
         }
     ],
     "wof:id":421202027,
-    "wof:lastmodified":1563279972,
+    "wof:lastmodified":1566611751,
     "wof:name":"\u00d6nd\u00f6rhaan",
     "wof:parent_id":1092043447,
     "wof:placetype":"locality",

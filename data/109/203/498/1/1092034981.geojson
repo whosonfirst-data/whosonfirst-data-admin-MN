@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.643848,
     "lbl:longitude":114.283949,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dornod",
     "meso:diss_me":"BulganDornod",
     "meso:gadm_admin":"Bulgan",
@@ -31,6 +33,7 @@
     "mps:longitude":114.283949,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Bulgan"
     ],
@@ -77,7 +80,7 @@
         "\u0411\u0443\u043b\u0433\u0430\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":1092034981,
-    "wof:lastmodified":1563279913,
+    "wof:lastmodified":1566611717,
     "wof:name":"Bulgan",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

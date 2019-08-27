@@ -12,6 +12,7 @@
     "iso:country":"MN",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "\u00d6lgii Airport"
     ],
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":102547073,
-    "wof:lastmodified":1563279688,
+    "wof:lastmodified":1566611586,
     "wof:name":"Olgiy Airport",
     "wof:parent_id":85674705,
     "wof:placetype":"campus",

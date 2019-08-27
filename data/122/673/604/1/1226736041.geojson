@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"99.49611,50.13806,99.53611,50.17806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "S\u00fcmber"
     ],
@@ -45,9 +49,6 @@
     ],
     "name:sun_x_preferred":[
         "Sumber"
-    ],
-    "name:und_x_variant":[
-        "S\u00fcmber"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1226736041,
-    "wof:lastmodified":1564329358,
+    "wof:lastmodified":1566611790,
     "wof:name":"Sumber",
     "wof:parent_id":1092032103,
     "wof:placetype":"locality",

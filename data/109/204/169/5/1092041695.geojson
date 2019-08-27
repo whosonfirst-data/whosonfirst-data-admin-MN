@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.667531,
     "lbl:longitude":102.040819,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Xo'vsgol",
     "meso:diss_me":"TarialanXo'vsgol",
     "meso:gadm_admin":"Tarialan",
@@ -31,6 +33,7 @@
     "mps:longitude":102.040819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Tarialan"
     ],
@@ -80,7 +83,7 @@
         "\u0422\u0430\u0440\u0456\u0430\u043b\u0430\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1092041695,
-    "wof:lastmodified":1561844095,
+    "wof:lastmodified":1566611677,
     "wof:name":"Tarialan",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":45.40555,
     "lbl:longitude":106.321664,
+    "lbl:min_zoom":8.0,
     "mps:latitude":45.404426,
     "mps:longitude":106.332301,
     "mz:hierarchy_label":1,
@@ -185,7 +186,7 @@
         "Dundgobi"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bc1\u0ba3\u0bcd\u0b9f\u0bcd\u0b95\u0bcb\u0bb5\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bc1\u0ba3\u0bcd\u0b9f\u0bcd\u0b95\u0bcb\u0bb5\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c26\u0c41\u0c02\u0c21\u0c4d\u0c17\u0c4b\u0c35\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -205,7 +206,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0443\u043d\u0434\u0433\u043e\u0432\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dunda Gobi Aymag"
     ],
     "name:urd_x_preferred":[
@@ -292,9 +293,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"74,700",
     "statoids:area_mi":"28,840",
     "statoids:as_of_date":"2010-11-11",
@@ -319,7 +320,7 @@
         "gp:id":2346162,
         "hasc:id":"MN.DU",
         "iso:id":"MN-059",
-        "qs:id":423801,
+        "qs_pg:id":423801,
         "unlc:id":"MN-059",
         "wd:id":"Q211835",
         "wk:page":"Dundgovi Province"
@@ -340,11 +341,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728042,
+    "wof:lastmodified":1566611605,
     "wof:name":"Dundgovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":38543,
     "wof:population_rank":7,

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"88.88,48.73,88.92,48.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsengel hayrhan sumu",
         "Tsengel\u2019-Khayrkhan-Somon",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260296493,
-    "wof:lastmodified":1537665570,
+    "wof:lastmodified":1566611662,
     "wof:name":"Tsengel Hayrhan Suma",
     "wof:parent_id":1092035785,
     "wof:placetype":"locality",

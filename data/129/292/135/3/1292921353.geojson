@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"100.74,48.71167,100.78,48.75167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bayantsagaan"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1292921353,
-    "wof:lastmodified":1564329175,
+    "wof:lastmodified":1566611616,
     "wof:name":"Bayantsagaan",
     "wof:parent_id":1092038131,
     "wof:placetype":"locality",

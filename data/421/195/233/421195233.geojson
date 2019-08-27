@@ -10,8 +10,12 @@
     "geom:latitude":46.1,
     "geom:longitude":95.61667,
     "iso:country":"MN",
+    "lbl:bbox":"95.59667,46.08,95.63667,46.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Bajan"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Bajan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayan Suma"
     ],
     "qs:gn_country":"MN",
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1516310,
         "gp:id":2266569,
-        "qs:id":133111
+        "qs_pg:id":133111
     },
     "wof:country":"MN",
     "wof:created":1459009836,
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421195233,
-    "wof:lastmodified":1564329307,
+    "wof:lastmodified":1566611751,
     "wof:name":"Bajan",
     "wof:parent_id":1092042937,
     "wof:placetype":"locality",

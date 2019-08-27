@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"110.14667,46.23,110.18667,46.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mkd_x_preferred":[
         "\u0418\u0445\u0435\u0442"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1343753709,
-    "wof:lastmodified":1564329165,
+    "wof:lastmodified":1566611600,
     "wof:name":"Bayan",
     "wof:parent_id":1092037939,
     "wof:placetype":"locality",

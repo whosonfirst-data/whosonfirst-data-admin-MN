@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"103.13,47.43,103.17,47.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Hashaat"
     ],
@@ -51,7 +55,6 @@
     ],
     "name:und_x_variant":[
         "Khashaat",
-        "Hashaat",
         "Khashiatu Somon",
         "Hashiyantu sumu",
         "Khashiyantu",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1242781905,
-    "wof:lastmodified":1564329329,
+    "wof:lastmodified":1566611768,
     "wof:name":"Bayan",
     "wof:parent_id":1092043373,
     "wof:placetype":"locality",

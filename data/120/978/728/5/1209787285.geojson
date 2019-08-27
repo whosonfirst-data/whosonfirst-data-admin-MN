@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"115.51333,45.98,115.55333,46.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khukhutyyn dugang",
         "Khukhutyin dugang",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209787285,
-    "wof:lastmodified":1537665673,
+    "wof:lastmodified":1566611645,
     "wof:name":"Hohoteyn Dugang",
     "wof:parent_id":1092037207,
     "wof:placetype":"locality",

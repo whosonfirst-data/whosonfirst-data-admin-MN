@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.370674,
     "lbl:longitude":101.993798,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arxangai",
     "meso:diss_me":"To'vshru'ulexArxangai",
     "meso:gadm_admin":"T\u00fcvshr\u00fc\u00fclekh",
@@ -31,6 +33,7 @@
     "mps:longitude":101.993798,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "T\u00f6vshr\u00fc\u00fcleh Sum"
     ],
@@ -80,7 +83,7 @@
         "\u0422\u0443\u0432\u0448\u0440\u0443\u0443\u043b\u0435\u0445"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1092042021,
-    "wof:lastmodified":1563279859,
+    "wof:lastmodified":1566611683,
     "wof:name":"To'vshru'ulex",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

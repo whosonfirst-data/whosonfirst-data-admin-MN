@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":50.003759,
     "lbl:longitude":102.998685,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bulgan",
     "meso:diss_me":"TeshigBulgan",
     "meso:gadm_admin":"Teshig",
@@ -31,6 +33,7 @@
     "mps:longitude":102.998685,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u0448\u0438\u0433"
     ],
@@ -65,7 +68,7 @@
         "\u0422\u0435\u0448\u0438\u0433"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092041815,
-    "wof:lastmodified":1563279863,
+    "wof:lastmodified":1566611686,
     "wof:name":"Teshig",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"111.59667,46.38,111.63667,46.42",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uldzuitu Somon",
         "\u00d6ldzi\u00eft",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276739177,
-    "wof:lastmodified":1537665640,
+    "wof:lastmodified":1566611628,
     "wof:name":"Oldziyt",
     "wof:parent_id":1092042437,
     "wof:placetype":"locality",

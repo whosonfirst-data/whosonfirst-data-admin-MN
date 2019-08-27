@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"95.23,49.31333,95.27,49.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tszun kholgay khure",
         "Dz\u00fc\u00fcn Hulagay H\u00fcryee"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260247573,
-    "wof:lastmodified":1537665589,
+    "wof:lastmodified":1566611658,
     "wof:name":"Dzuun Hulagay Huryee",
     "wof:parent_id":1092044717,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"105.03,47.94667,105.07,47.98667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ulan tologoy Khural",
         "Ulaan Tologoy Hural"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209381005,
-    "wof:lastmodified":1537665609,
+    "wof:lastmodified":1566611639,
     "wof:name":"Ulaan Tologoy Hural",
     "wof:parent_id":85632439,
     "wof:placetype":"locality",

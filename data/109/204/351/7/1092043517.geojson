@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.860315,
     "lbl:longitude":113.030184,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dornod",
     "meso:diss_me":"Xo'lonbuirDornod",
     "meso:gadm_admin":"Kh\u00f6l\u00f6nbuir",
@@ -31,6 +33,7 @@
     "mps:longitude":113.030184,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Holonbuir"
     ],
@@ -65,7 +68,7 @@
         "\u547c\u502b\u8c9d\u723e\u8607\u6728"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092043517,
-    "wof:lastmodified":1563279866,
+    "wof:lastmodified":1566611687,
     "wof:name":"Xo'lonbuir",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

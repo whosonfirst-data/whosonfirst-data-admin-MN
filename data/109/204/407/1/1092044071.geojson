@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.373927,
     "lbl:longitude":102.790554,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bulgan",
     "meso:diss_me":"Xutag-O'ndorBulgan",
     "meso:gadm_admin":"Khutag-\u00d6nd\u00f6r",
@@ -31,6 +33,7 @@
     "mps:longitude":102.790554,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hutag-\u00d6nd\u00f6r Sum"
     ],
@@ -65,7 +68,7 @@
         "\u0425\u0443\u0442\u0430\u043d-\u0423\u043d\u0434\u0443\u0440"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092044071,
-    "wof:lastmodified":1563279858,
+    "wof:lastmodified":1566611683,
     "wof:name":"Xutag-O'ndor",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

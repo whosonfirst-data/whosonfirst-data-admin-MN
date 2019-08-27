@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.00202,
     "lbl:longitude":106.895012,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Ulaanbaatar",
     "meso:diss_me":"ChingelteiUlaanbaatar",
     "meso:gadm_admin":"Ulan Bator",
@@ -31,6 +33,7 @@
     "mps:longitude":106.895012,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b9\u03bd\u03b3\u03ba\u03b5\u03bb\u03c4\u03ad\u03b9"
     ],
@@ -71,7 +74,7 @@
         "\u9752\u683c\u5c14\u6cf0\u533a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1092036017,
-    "wof:lastmodified":1563279945,
+    "wof:lastmodified":1566611736,
     "wof:name":"Chingeltei",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

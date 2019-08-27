@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"108.06333,46.39667,108.10333,46.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lamon-jasa",
         "Lam\u00f6yn Chzhisa",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344042895,
-    "wof:lastmodified":1537665654,
+    "wof:lastmodified":1566611598,
     "wof:name":"Lamaiin Jisa",
     "wof:parent_id":1092035311,
     "wof:placetype":"locality",

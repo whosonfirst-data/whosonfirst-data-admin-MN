@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"107.26333,47.74667,107.30333,47.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nalayh"
     ],
@@ -78,8 +82,7 @@
         "Nalaikha",
         "Naraiha",
         "Na-lai-ha",
-        "Nalaykhu",
-        "Nalayh"
+        "Nalaykhu"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0644\u0627\u06cc\u062e"
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1360146565,
-    "wof:lastmodified":1564329272,
+    "wof:lastmodified":1566611673,
     "wof:name":"Nalayh",
     "wof:parent_id":1092039163,
     "wof:placetype":"locality",

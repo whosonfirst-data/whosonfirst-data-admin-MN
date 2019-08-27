@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.684797,
     "lbl:longitude":104.612791,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"To'v",
     "meso:diss_me":"DelgerxaanTo'v",
     "meso:gadm_admin":"Delgerkhaan",
@@ -31,6 +33,7 @@
     "mps:longitude":104.612791,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Delgerhaan"
     ],
@@ -38,7 +41,7 @@
         "Delgerkhaan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1092036817,
-    "wof:lastmodified":1553718063,
+    "wof:lastmodified":1566611706,
     "wof:name":"Delgerxaan",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

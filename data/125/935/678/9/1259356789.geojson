@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"104.40299,43.55243,104.44299,43.59243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259356789,
-    "wof:lastmodified":1537039092,
+    "wof:lastmodified":1566611782,
     "wof:name":"Dalandzadgad",
     "wof:parent_id":1092036353,
     "wof:placetype":"locality",

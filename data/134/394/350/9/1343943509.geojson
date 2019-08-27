@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"106.33,46.34667,106.37,46.38667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kumirnya Tsakurten-sume",
         "Tsahir-Jisa-Hiyd",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343943509,
-    "wof:lastmodified":1537665616,
+    "wof:lastmodified":1566611596,
     "wof:name":"Tsahir Jisa Hiid",
     "wof:parent_id":1092036711,
     "wof:placetype":"locality",

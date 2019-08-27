@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"91.38,49.89667,91.42,49.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Togos-Buyantayn H\u00fcree",
         "Tugus bulitiin khure",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276619617,
-    "wof:lastmodified":1537665572,
+    "wof:lastmodified":1566611631,
     "wof:name":"Togos Bulteyn Huryee",
     "wof:parent_id":1092042359,
     "wof:placetype":"locality",

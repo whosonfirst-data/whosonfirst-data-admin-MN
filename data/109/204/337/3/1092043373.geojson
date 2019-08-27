@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.51377,
     "lbl:longitude":103.084744,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arxangai",
     "meso:diss_me":"XashaatArxangai",
     "meso:gadm_admin":"Khashaat",
@@ -31,6 +33,7 @@
     "mps:longitude":103.084744,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hashaat"
     ],
@@ -74,7 +77,7 @@
         "\u0425\u0430\u0448\u0430\u0430\u0442"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":1092043373,
-    "wof:lastmodified":1563279846,
+    "wof:lastmodified":1566611677,
     "wof:name":"Xashaat",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

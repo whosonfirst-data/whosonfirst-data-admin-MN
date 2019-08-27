@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.066306,
     "lbl:longitude":102.536423,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arxangai",
     "meso:diss_me":"O'lziitArxangai",
     "meso:gadm_admin":"\u00d6lziit",
@@ -31,6 +33,7 @@
     "mps:longitude":102.536423,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ulziit"
     ],
@@ -38,7 +41,7 @@
         "\u00d6lziit"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1092039645,
-    "wof:lastmodified":1553718068,
+    "wof:lastmodified":1566611705,
     "wof:name":"O'lziit",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

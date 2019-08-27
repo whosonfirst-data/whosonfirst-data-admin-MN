@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"97.26333,47.21333,97.30333,47.25333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Urgun Shirigin Khure",
         "\u00d6rg\u00f6n Shirigiin H\u00fcryee"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225940759,
-    "wof:lastmodified":1537665578,
+    "wof:lastmodified":1566611787,
     "wof:name":"Orgon Shirigiin Huryee",
     "wof:parent_id":1092041205,
     "wof:placetype":"locality",

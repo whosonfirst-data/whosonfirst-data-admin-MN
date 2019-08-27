@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"106.58,44.28,106.62,44.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hara-Noyonii-Hiyd",
         "Khara noyan\u00f6y khid",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293857725,
-    "wof:lastmodified":1537665680,
+    "wof:lastmodified":1566611618,
     "wof:name":"Hara Noyonii Hiid",
     "wof:parent_id":1092038737,
     "wof:placetype":"locality",

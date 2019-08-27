@@ -10,10 +10,14 @@
     "geom:latitude":46.300002,
     "geom:longitude":100.983335,
     "iso:country":"MN",
+    "lbl:bbox":"100.963334512,46.2800020539,101.003334512,46.3200020539",
     "lbl:latitude":46.300002,
     "lbl:longitude":100.983335,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0646\u0647\u0648\u0646\u062c\u0648\u0631"
     ],
@@ -277,7 +281,7 @@
         }
     ],
     "wof:id":1141908593,
-    "wof:lastmodified":1563280049,
+    "wof:lastmodified":1566611804,
     "wof:name":"Bayankhongor",
     "wof:parent_id":1092037209,
     "wof:placetype":"locality",

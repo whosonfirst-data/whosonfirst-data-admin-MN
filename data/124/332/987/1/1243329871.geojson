@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"108.18,47.48,108.22,47.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Galutuyn Bayshing",
         "Galutuin Bayshing",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243329871,
-    "wof:lastmodified":1537665687,
+    "wof:lastmodified":1566611765,
     "wof:name":"Galuutayn Bayshing",
     "wof:parent_id":1092033557,
     "wof:placetype":"locality",

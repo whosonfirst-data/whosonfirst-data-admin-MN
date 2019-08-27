@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.049134,
     "lbl:longitude":102.704196,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"O'vorxangai",
     "meso:diss_me":"TaragtO'vorxangai",
     "meso:gadm_admin":"Taragt",
@@ -31,6 +33,7 @@
     "mps:longitude":102.704196,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0433\u0442"
     ],
@@ -65,7 +68,7 @@
         "\u5854\u62c9\u683c\u7279\u8607\u6728"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092041601,
-    "wof:lastmodified":1563279846,
+    "wof:lastmodified":1566611677,
     "wof:name":"Taragt",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

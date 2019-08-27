@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"110.61333,48.58,110.65333,48.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lamain Khure",
         "Rama-hito",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1242765699,
-    "wof:lastmodified":1537665654,
+    "wof:lastmodified":1566611769,
     "wof:name":"Lamaiin Huryee",
     "wof:parent_id":1092034473,
     "wof:placetype":"locality",

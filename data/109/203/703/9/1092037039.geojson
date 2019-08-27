@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.031406,
     "lbl:longitude":93.914167,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Zavxan",
     "meso:diss_me":"Do'rvoljinZavxan",
     "meso:gadm_admin":"D\u00f6rv\u00f6ljin",
@@ -31,6 +33,7 @@
     "mps:longitude":93.914167,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dorvoljin Sum"
     ],
@@ -62,7 +65,7 @@
         "\u0414\u043e\u0440\u0432\u043e\u043b\u0436\u0438\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1092037039,
-    "wof:lastmodified":1563279931,
+    "wof:lastmodified":1566611727,
     "wof:name":"Do'rvoljin",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.70688,
     "lbl:longitude":102.496188,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bulgan",
     "meso:diss_me":"SaixanBulgan",
     "meso:gadm_admin":"Saikhan",
@@ -31,6 +33,7 @@
     "mps:longitude":102.496188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Saihan"
     ],
@@ -38,7 +41,7 @@
         "Saikhan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1092040657,
-    "wof:lastmodified":1553718069,
+    "wof:lastmodified":1566611681,
     "wof:name":"Saixan",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

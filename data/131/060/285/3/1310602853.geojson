@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"90.22204,49.59627,90.26204,49.63627",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Nogoonnuur"
     ],
@@ -60,8 +64,7 @@
         "\u041d\u043e\u0433\u043e\u043e\u043d\u043d\u0443\u0443\u0440"
     ],
     "name:und_x_variant":[
-        "Notoonnuur",
-        "Nogoonnuur"
+        "Notoonnuur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1310602853,
-    "wof:lastmodified":1564329271,
+    "wof:lastmodified":1566611672,
     "wof:name":"Nogoonnuur",
     "wof:parent_id":1092039367,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"113.49667,46.59667,113.53667,46.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gurban-bulak Somon",
         "Gurban Bulag",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226622345,
-    "wof:lastmodified":1537665685,
+    "wof:lastmodified":1566611801,
     "wof:name":"Gurban Bulag Suma",
     "wof:parent_id":1092032453,
     "wof:placetype":"locality",

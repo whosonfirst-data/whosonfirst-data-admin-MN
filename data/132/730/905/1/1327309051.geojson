@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"91.69782,49.08641,91.73782,49.12641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00d6mn\u00f6gov\u012d"
     ],
@@ -46,7 +50,6 @@
     ],
     "name:und_x_variant":[
         "\u00d6m\u00f6n\u00f6 Gobi",
-        "\u00d6mn\u00f6gov\u012d",
         "\u00d6mn\u00f6gow'",
         "Umne-Gobi",
         "Umun-gobi somon",
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1327309051,
-    "wof:lastmodified":1564329118,
+    "wof:lastmodified":1566611573,
     "wof:name":"Namir",
     "wof:parent_id":1092039801,
     "wof:placetype":"locality",

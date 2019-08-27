@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":45.210498,
     "lbl:longitude":101.514945,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"O'vorxangai",
     "meso:diss_me":"Baruunbayan-UlaanO'vorxangai",
     "meso:gadm_admin":"Baruun Bayan-Ulaan",
@@ -31,6 +33,7 @@
     "mps:longitude":101.514945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Baruunbayan-Ulaan"
     ],
@@ -59,7 +62,7 @@
         "\u0411\u0430\u0440\u0443\u0443\u043d \u0431\u0430\u044f\u043d \u0443\u043b\u0430\u0430\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092032493,
-    "wof:lastmodified":1561844110,
+    "wof:lastmodified":1566611731,
     "wof:name":"Baruunbayan-Ulaan",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

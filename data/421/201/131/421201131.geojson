@@ -10,10 +10,14 @@
     "geom:latitude":45.30423,
     "geom:longitude":113.84977,
     "iso:country":"MN",
+    "lbl:bbox":"113.82977,45.28423,113.86977,45.32423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daringanga"
     ],
     "qs:gn_country":"MN",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2029558,
         "gp:id":2266166,
-        "qs:id":913012
+        "qs_pg:id":913012
     },
     "wof:country":"MN",
     "wof:created":1459010057,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421201131,
-    "wof:lastmodified":1501225190,
+    "wof:lastmodified":1566611753,
     "wof:name":"Ovoot",
     "wof:parent_id":1092036391,
     "wof:placetype":"locality",

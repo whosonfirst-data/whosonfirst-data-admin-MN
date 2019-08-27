@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"98.61333,49.83,98.65333,49.87",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dordogoy\u2019iin H\u00fcrie",
         "Dordogoyn H\u00fcree",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1193264671,
-    "wof:lastmodified":1537665592,
+    "wof:lastmodified":1566611658,
     "wof:name":"Dordogoyn Huryee",
     "wof:parent_id":1092035237,
     "wof:placetype":"locality",

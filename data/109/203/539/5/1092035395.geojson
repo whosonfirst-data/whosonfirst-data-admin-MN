@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":51.797379,
     "lbl:longitude":99.01214,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Xo'vsgol",
     "meso:diss_me":"CagaannuurXo'vsgol",
     "meso:gadm_admin":"Tsagaannuur",
@@ -31,6 +33,7 @@
     "mps:longitude":99.01214,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Tsagaannuur"
     ],
@@ -83,7 +86,7 @@
         "\u0426\u0430\u0433\u0430\u0430\u043d\u043d\u0443\u0443\u0440"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1092035395,
-    "wof:lastmodified":1561844108,
+    "wof:lastmodified":1566611723,
     "wof:name":"Cagaannuur",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

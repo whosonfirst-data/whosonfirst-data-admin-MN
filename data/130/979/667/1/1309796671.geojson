@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"104.41333,46.11333,104.45333,46.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amayn usun\u00f6y khid",
         "Amain usunyy khid",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309796671,
-    "wof:lastmodified":1537665737,
+    "wof:lastmodified":1566611747,
     "wof:name":"Amaiin Usanii Hiid",
     "wof:parent_id":1092032939,
     "wof:placetype":"locality",

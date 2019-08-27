@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"91.52796,46.07237,91.56796,46.11237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bulgan District"
     ],
@@ -56,7 +60,6 @@
         "Torgutin Khure",
         "Buergenkhe",
         "T\u2019u-ku-te-su-mu",
-        "Bulgan",
         "Bulagan-gol",
         "Bulagan",
         "Bulgan-Gol",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1276847711,
-    "wof:lastmodified":1564329207,
+    "wof:lastmodified":1566611634,
     "wof:name":"Burenhayrhan",
     "wof:parent_id":1092035047,
     "wof:placetype":"locality",

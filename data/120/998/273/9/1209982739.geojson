@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"108.59667,48.13,108.63667,48.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gomboin Shuten Dugang",
         "Gomboiin Sh\u00fcteen Dugang"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209982739,
-    "wof:lastmodified":1537665686,
+    "wof:lastmodified":1566611640,
     "wof:name":"Gomboiin Shuteen Dugang",
     "wof:parent_id":1092038853,
     "wof:placetype":"locality",
