@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"109.79667,48.06333,109.83667,48.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Hentiy"
     ],
@@ -41,8 +45,7 @@
         "Khentei",
         "Khentei-Somon",
         "Khentei Sume",
-        "Khentey",
-        "Hentiy"
+        "Khentey"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1242665489,
-    "wof:lastmodified":1537665676,
+    "wof:lastmodified":1566611759,
     "wof:name":"Hentiy",
     "wof:parent_id":1092039761,
     "wof:placetype":"locality",

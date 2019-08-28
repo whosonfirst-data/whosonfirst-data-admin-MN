@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":42.788847,
     "lbl:longitude":102.382551,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"O'mnogovi",
     "meso:diss_me":"NoyonO'mnogovi",
     "meso:gadm_admin":"Noyon",
@@ -31,6 +33,7 @@
     "mps:longitude":102.382551,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Noyon"
     ],
@@ -53,7 +56,7 @@
         "\u041d\u043e\u0439\u043e\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092039491,
-    "wof:lastmodified":1563279922,
+    "wof:lastmodified":1566611721,
     "wof:name":"Noyon",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

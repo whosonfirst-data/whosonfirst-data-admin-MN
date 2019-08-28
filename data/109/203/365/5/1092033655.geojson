@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.018734,
     "lbl:longitude":106.222678,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Selenge",
     "meso:diss_me":"BayangolSelenge",
     "meso:gadm_admin":"Bayangol",
@@ -31,6 +33,7 @@
     "mps:longitude":106.222678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bayangol"
     ],
@@ -56,7 +59,7 @@
         "Bayangol"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -88,7 +91,7 @@
         }
     ],
     "wof:id":1092033655,
-    "wof:lastmodified":1564329284,
+    "wof:lastmodified":1566611702,
     "wof:name":"Bayangol",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

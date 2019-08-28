@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"94.34449,45.53655,94.38449,45.57655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bugat"
     ],
@@ -40,9 +44,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0442"
-    ],
-    "name:und_x_variant":[
-        "Bugat"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1259868739,
-    "wof:lastmodified":1564329353,
+    "wof:lastmodified":1566611786,
     "wof:name":"Bayangol",
     "wof:parent_id":1092034861,
     "wof:placetype":"locality",

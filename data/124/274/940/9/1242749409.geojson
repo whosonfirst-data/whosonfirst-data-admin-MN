@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"115.14667,46.48,115.18667,46.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Buruta",
         "Biruta",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242749409,
-    "wof:lastmodified":1537665718,
+    "wof:lastmodified":1566611757,
     "wof:name":"Biruuta",
     "wof:parent_id":1092037207,
     "wof:placetype":"locality",

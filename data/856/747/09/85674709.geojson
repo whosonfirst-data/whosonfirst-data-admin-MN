@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":44.299327,
     "lbl:longitude":109.846399,
+    "lbl:min_zoom":8.0,
     "mps:latitude":44.462792,
     "mps:longitude":109.957624,
     "mz:hierarchy_label":1,
@@ -192,7 +193,7 @@
         "Dornogobi"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bca\u0bb0\u0bbf\u0ba9\u0bcb\u0b95\u0bcb\u0bb5\u0bbf   \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bca\u0bb0\u0bbf\u0ba9\u0bcb\u0b95\u0bcb\u0bb5\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c21\u0c4b\u0c30\u0c4d\u0c28\u0c4b\u0c17\u0c4b\u0c35\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -212,7 +213,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0440\u043d\u043e\u0433\u043e\u0432\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dornot-gogi"
     ],
     "name:urd_x_preferred":[
@@ -299,9 +300,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"109,500",
     "statoids:area_mi":"42,280",
     "statoids:as_of_date":"2010-11-11",
@@ -326,7 +327,7 @@
         "gp:id":2346161,
         "hasc:id":"MN.DG",
         "iso:id":"MN-063",
-        "qs:id":211645,
+        "qs_pg:id":211645,
         "unlc:id":"MN-063",
         "wd:id":"Q213272",
         "wk:page":"Dornogovi Province"
@@ -347,11 +348,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728044,
+    "wof:lastmodified":1566611609,
     "wof:name":"Dornogovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":57930,
     "wof:population_rank":8,

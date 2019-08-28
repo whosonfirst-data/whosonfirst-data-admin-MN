@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"106.72076,48.35062,106.76076,48.39062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bats\u00fcmber"
     ],
@@ -50,8 +54,7 @@
         "Batu Sumbur Somon",
         "Batur Sumbur Sume",
         "Batu s\u00fcmb\u00fcr sumu",
-        "Bata S\u00fcmber Somon",
-        "Bats\u00fcmber"
+        "Bata S\u00fcmber Somon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1360148019,
-    "wof:lastmodified":1564329273,
+    "wof:lastmodified":1566611673,
     "wof:name":"Mandal",
     "wof:parent_id":1092032769,
     "wof:placetype":"locality",

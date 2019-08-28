@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.251935,
     "lbl:longitude":102.798429,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"O'vorxangai",
     "meso:diss_me":"ArvaixeerO'vorxangai",
     "meso:gadm_admin":"Arvaikheer",
@@ -31,6 +33,7 @@
     "mps:longitude":102.798429,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bak_x_preferred":[
         "\u0410\u0440\u0432\u0430\u0439\u0445\u044d\u044d\u0440"
     ],
@@ -134,7 +137,7 @@
         "\u963f\u723e\u62dc\u8d6b\u96f7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":1092032185,
-    "wof:lastmodified":1563279898,
+    "wof:lastmodified":1566611707,
     "wof:name":"Arvaixeer",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

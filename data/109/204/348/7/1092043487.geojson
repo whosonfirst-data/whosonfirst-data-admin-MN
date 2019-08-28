@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.264705,
     "lbl:longitude":103.473699,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bulgan",
     "meso:diss_me":"Xishig-O'ndorBulgan",
     "meso:gadm_admin":"Khishig-\u00d6nd\u00f6r",
@@ -31,6 +33,7 @@
     "mps:longitude":103.473699,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Hishig-Ondor"
     ],
@@ -59,7 +62,7 @@
         "\u0425\u0438\u0448\u0438\u0433-\u0423\u043d\u0434\u0443\u0440"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092043487,
-    "wof:lastmodified":1561844097,
+    "wof:lastmodified":1566611683,
     "wof:name":"Xishig-O'ndor",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

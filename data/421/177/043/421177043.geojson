@@ -10,6 +10,9 @@
     "geom:latitude":48.85229,
     "geom:longitude":106.45786,
     "iso:country":"MN",
+    "lbl:bbox":"106.43786,48.83229,106.47786,48.87229",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
@@ -20,7 +23,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0437\u0443\u043d\u0445\u0430\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dz\u00fc\u00fcnkharaa"
     ],
     "ne:ADM0CAP":0.0,
@@ -145,7 +148,7 @@
     "wof:concordances":{
         "gn:id":2031533,
         "gp:id":2266632,
-        "qs:id":1093834
+        "qs_pg:id":1093834
     },
     "wof:country":"MN",
     "wof:created":1459009131,
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":421177043,
-    "wof:lastmodified":1505340631,
+    "wof:lastmodified":1566611754,
     "wof:name":"Dz\u00fc\u00fcnharaa",
     "wof:parent_id":1092044757,
     "wof:placetype":"locality",

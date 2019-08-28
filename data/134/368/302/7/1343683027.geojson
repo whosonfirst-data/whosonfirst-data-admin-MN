@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"109.89667,42.64667,109.93667,42.68667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bayan Obo Khid",
         "Bayan Oboo Hiid"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343683027,
-    "wof:lastmodified":1537665722,
+    "wof:lastmodified":1566611594,
     "wof:name":"Bayan Oboo Hiid",
     "wof:parent_id":1092043405,
     "wof:placetype":"locality",

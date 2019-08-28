@@ -10,8 +10,12 @@
     "geom:latitude":47.19753,
     "geom:longitude":102.82379,
     "iso:country":"MN",
+    "lbl:bbox":"102.80379,47.17753,102.84379,47.21753",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Karakoroem"
@@ -242,7 +246,7 @@
     "wof:concordances":{
         "gn:id":2030927,
         "gp:id":2266657,
-        "qs:id":1083726,
+        "qs_pg:id":1083726,
         "wd:id":"Q62677",
         "wk:page":"Kharkhorin"
     },
@@ -259,7 +263,7 @@
         }
     ],
     "wof:id":421187645,
-    "wof:lastmodified":1563279974,
+    "wof:lastmodified":1566611751,
     "wof:name":"Harhorin",
     "wof:parent_id":1092043327,
     "wof:placetype":"locality",

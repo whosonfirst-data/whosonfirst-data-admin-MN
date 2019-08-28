@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.221192,
     "lbl:longitude":99.921277,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Arxangai",
     "meso:diss_me":"TariatArxangai",
     "meso:gadm_admin":"Tariat",
@@ -31,6 +33,7 @@
     "mps:longitude":99.921277,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Tariat"
     ],
@@ -95,7 +98,7 @@
         "\u0422\u0430\u0440\u0456\u0430\u0442"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":1092041727,
-    "wof:lastmodified":1563279863,
+    "wof:lastmodified":1566611685,
     "wof:name":"Tariat",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

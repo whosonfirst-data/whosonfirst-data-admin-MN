@@ -10,13 +10,17 @@
     "geom:latitude":44.67024,
     "geom:longitude":102.17491,
     "iso:country":"MN",
+    "lbl:bbox":"102.15491,44.65024,102.19491,44.69024",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:rus_x_preferred":[
         "\u0425\u043e\u0432\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bogd"
     ],
     "qs:gn_country":"MN",
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":2030474,
         "gp:id":2265872,
-        "qs:id":900438
+        "qs_pg:id":900438
     },
     "wof:country":"MN",
     "wof:created":1459009452,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421185705,
-    "wof:lastmodified":1505340694,
+    "wof:lastmodified":1566611754,
     "wof:name":"Hovd",
     "wof:parent_id":1092034601,
     "wof:placetype":"locality",

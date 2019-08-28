@@ -10,6 +10,9 @@
     "geom:latitude":48.00556,
     "geom:longitude":91.64194,
     "iso:country":"MN",
+    "lbl:bbox":"91.62194,47.98556,91.66194,48.02556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -194,7 +197,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0431\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chirgalantu"
     ],
     "name:urd_x_preferred":[
@@ -337,7 +340,7 @@
     "wof:concordances":{
         "gn:id":1516048,
         "gp:id":2265580,
-        "qs:id":913002,
+        "qs_pg:id":913002,
         "wd:id":"Q731256",
         "wk:page":"Khovd (city)"
     },
@@ -354,7 +357,7 @@
         }
     ],
     "wof:id":421186165,
-    "wof:lastmodified":1563279976,
+    "wof:lastmodified":1566611752,
     "wof:name":"Dund-Us",
     "wof:parent_id":1092038335,
     "wof:placetype":"locality",

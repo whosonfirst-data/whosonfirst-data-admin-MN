@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":49.034885,
     "lbl:longitude":104.375064,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.014921,
     "mps:longitude":104.379884,
     "mz:hierarchy_label":1,
@@ -300,9 +301,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"840",
     "statoids:area_mi":"320",
     "statoids:as_of_date":"2010-11-11",
@@ -328,7 +329,7 @@
         "gp:id":20070015,
         "hasc:id":"MN.ER",
         "iso:id":"MN-035",
-        "qs:id":484685,
+        "qs_pg:id":484685,
         "unlc:id":"MN-035",
         "wd:id":"Q234710"
     },
@@ -348,11 +349,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728042,
+    "wof:lastmodified":1566611606,
     "wof:name":"Orhon",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":87118,
     "wof:population_rank":8,

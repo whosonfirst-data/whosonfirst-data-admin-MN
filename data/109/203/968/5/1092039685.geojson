@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.814424,
     "lbl:longitude":106.598681,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dundgovi",
     "meso:diss_me":"O'lziitDundgovi",
     "meso:gadm_admin":"\u00d6lziit",
@@ -31,6 +33,7 @@
     "mps:longitude":106.598681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Olziit"
     ],
@@ -38,7 +41,7 @@
         "\u00d6lziit"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1092039685,
-    "wof:lastmodified":1553718068,
+    "wof:lastmodified":1566611723,
     "wof:name":"O'lziit",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

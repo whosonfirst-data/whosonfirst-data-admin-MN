@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"101.95235,47.77309,101.99235,47.81309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Battsengel"
     ],
@@ -54,7 +58,6 @@
         "\u0411\u0430\u0442\u0446\u0435\u043d\u0433\u0435\u043b"
     ],
     "name:und_x_variant":[
-        "Battsengel",
         "Tamiriin Khure",
         "Tamiriin H\u00fcryee"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1277092003,
-    "wof:lastmodified":1564329192,
+    "wof:lastmodified":1566611627,
     "wof:name":"Jargalant",
     "wof:parent_id":1092032647,
     "wof:placetype":"locality",

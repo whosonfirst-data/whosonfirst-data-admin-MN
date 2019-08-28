@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"109.45258,47.47308,109.49258,47.51308",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jargaltkhaan"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243532753,
-    "wof:lastmodified":1537665657,
+    "wof:lastmodified":1566611756,
     "wof:name":"Jargalthaan",
     "wof:parent_id":1092038369,
     "wof:placetype":"locality",

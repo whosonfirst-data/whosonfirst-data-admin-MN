@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"108.71333,47.26333,108.75333,47.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Herlenbayan-Ulaan",
         "Dulaan"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209696987,
-    "wof:lastmodified":1537665699,
+    "wof:lastmodified":1566611648,
     "wof:name":"Dulaan",
     "wof:parent_id":1092036851,
     "wof:placetype":"locality",

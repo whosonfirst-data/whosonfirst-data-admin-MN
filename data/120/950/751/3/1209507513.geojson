@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"114.29667,49.29667,114.33667,49.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Subsul Burdii Khorshoo",
         "Subsul-Burdii Khorsho",
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209507513,
-    "wof:lastmodified":1537665626,
+    "wof:lastmodified":1566611646,
     "wof:name":"Subsal Burideiin Horshoo",
     "wof:parent_id":85632439,
     "wof:placetype":"locality",

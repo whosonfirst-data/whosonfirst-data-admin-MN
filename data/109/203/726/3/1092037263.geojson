@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.155471,
     "lbl:longitude":111.126626,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dornogovi",
     "meso:diss_me":"ErdeneDornogovi",
     "meso:gadm_admin":"Erdene",
@@ -31,6 +33,7 @@
     "mps:longitude":111.126626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Erdene"
     ],
@@ -53,7 +56,7 @@
         "\u984d\u723e\u5fb7\u5c3c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1092037263,
-    "wof:lastmodified":1563279953,
+    "wof:lastmodified":1566611741,
     "wof:name":"Erdene",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

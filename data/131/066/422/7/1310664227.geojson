@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"113.48,44.93,113.52,44.97",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khudug\u00f6yn Khid",
         "Khudugin-khural",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310664227,
-    "wof:lastmodified":1537665666,
+    "wof:lastmodified":1566611670,
     "wof:name":"Hudagiin Hiid",
     "wof:parent_id":1092039249,
     "wof:placetype":"locality",

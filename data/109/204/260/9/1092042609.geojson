@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":43.893692,
     "lbl:longitude":110.295951,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dornogovi",
     "meso:diss_me":"UlaanbadraxDornogovi",
     "meso:gadm_admin":"Ulaanbadrakh",
@@ -31,6 +33,7 @@
     "mps:longitude":110.295951,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ulaanbadrah"
     ],
@@ -56,7 +59,7 @@
         "\u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0434\u0440\u0430\u0445"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092042609,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1566611682,
     "wof:name":"Ulaanbadrax",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

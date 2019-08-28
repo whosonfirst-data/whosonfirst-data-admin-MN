@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.729848,
     "lbl:longitude":93.252985,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Uvs",
     "meso:diss_me":"MalchinUvs",
     "meso:gadm_admin":"Malchin",
@@ -31,6 +33,7 @@
     "mps:longitude":93.252985,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Malchin"
     ],
@@ -59,7 +62,7 @@
         "\u041c\u0430\u043b\u0447\u0438\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092038573,
-    "wof:lastmodified":1563279907,
+    "wof:lastmodified":1566611712,
     "wof:name":"Malchin",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

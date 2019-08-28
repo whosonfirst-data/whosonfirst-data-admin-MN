@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"113.21333,48.54667,113.25333,48.58667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Galuut"
     ],
@@ -59,8 +63,7 @@
         "Galutyyn Somon",
         "Galutyin Somon",
         "Galutyn-somon",
-        "Galuutayn Suma",
-        "Galuut"
+        "Galuutayn Suma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1344249713,
-    "wof:lastmodified":1564329147,
+    "wof:lastmodified":1566611591,
     "wof:name":"Galuut",
     "wof:parent_id":1092035175,
     "wof:placetype":"locality",

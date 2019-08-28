@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.560066,
     "lbl:longitude":101.032906,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bayanxongor",
     "meso:diss_me":"ErdenecogtBayanxongor",
     "meso:gadm_admin":"Erdenetsogt",
@@ -31,6 +33,7 @@
     "mps:longitude":101.032906,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Erdenetsogt Sum"
     ],
@@ -62,7 +65,7 @@
         "\u0415\u0440\u0434\u0435\u043d\u0435\u0446\u043e\u0433\u0442"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1092037209,
-    "wof:lastmodified":1563279957,
+    "wof:lastmodified":1566611744,
     "wof:name":"Erdenecogt",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

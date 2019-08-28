@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"101.43977,45.94404,101.47977,45.98404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tsagaan-Ovoo Sum"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293363529,
-    "wof:lastmodified":1564329172,
+    "wof:lastmodified":1566611614,
     "wof:name":"Tsagaan-Ovoo",
     "wof:parent_id":1092039295,
     "wof:placetype":"locality",

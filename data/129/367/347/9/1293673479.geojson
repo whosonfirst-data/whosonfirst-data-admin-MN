@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"97.3544,48.19987,97.3944,48.23987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ider"
     ],
@@ -52,7 +56,6 @@
         "Iderin Sume",
         "Ideriin Horshoo",
         "Ider tsetserlig somon",
-        "Ider",
         "Ideriin khorsho",
         "Ider-tsetserleg"
     ],
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1293673479,
-    "wof:lastmodified":1564329183,
+    "wof:lastmodified":1566611621,
     "wof:name":"Dzuunmod",
     "wof:parent_id":1092037897,
     "wof:placetype":"locality",

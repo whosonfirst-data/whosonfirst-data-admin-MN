@@ -10,8 +10,12 @@
     "geom:latitude":46.260438,
     "geom:longitude":102.782591,
     "iso:country":"MN",
+    "lbl:bbox":"102.762591,46.240438,102.802591,46.280438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bak_x_preferred":[
         "\u0410\u0440\u0432\u0430\u0439\u0445\u044d\u044d\u0440"
@@ -140,7 +144,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2266536,
-        "qs:id":1211364,
+        "qs_pg:id":1211364,
         "wd:id":"Q717684"
     },
     "wof:country":"MN",
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":421171177,
-    "wof:lastmodified":1563279982,
+    "wof:lastmodified":1566611754,
     "wof:name":"Arvaikher",
     "wof:parent_id":1092032185,
     "wof:placetype":"locality",

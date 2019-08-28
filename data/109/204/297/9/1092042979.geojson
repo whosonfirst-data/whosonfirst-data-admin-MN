@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.362087,
     "lbl:longitude":118.169905,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dornod",
     "meso:diss_me":"Xalx golDornod",
     "meso:gadm_admin":"Khalkhgol",
@@ -31,6 +33,7 @@
     "mps:longitude":118.169905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Halhgol"
     ],
@@ -65,7 +68,7 @@
         "\u5361\u723e\u6208\u723e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092042979,
-    "wof:lastmodified":1563279879,
+    "wof:lastmodified":1566611694,
     "wof:name":"Xalx gol",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

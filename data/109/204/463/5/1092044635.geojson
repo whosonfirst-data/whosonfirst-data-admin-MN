@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.929204,
     "lbl:longitude":105.926916,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Selenge",
     "meso:diss_me":"Zu'unburenSelenge",
     "meso:gadm_admin":"Z\u00fc\u00fcnb\u00fcren",
@@ -31,6 +33,7 @@
     "mps:longitude":105.926916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Zuunburen"
     ],
@@ -62,7 +65,7 @@
         "\u0416\u0443\u0443\u043d\u0431\u0443\u0440\u0435\u043d"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1092044635,
-    "wof:lastmodified":1561844096,
+    "wof:lastmodified":1566611681,
     "wof:name":"Zu'unburen",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

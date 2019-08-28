@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.23621,
     "lbl:longitude":109.469649,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Xentii",
     "meso:diss_me":"O'mnodelgerXentii",
     "meso:gadm_admin":"\u00d6mn\u00f6delger",
@@ -31,6 +33,7 @@
     "mps:longitude":109.469649,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Omnodelger"
     ],
@@ -56,7 +59,7 @@
         "\u0423\u043c\u043d\u0443\u0434\u0435\u043b\u0433\u0435\u0440"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092039761,
-    "wof:lastmodified":1563279922,
+    "wof:lastmodified":1566611722,
     "wof:name":"O'mnodelger",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

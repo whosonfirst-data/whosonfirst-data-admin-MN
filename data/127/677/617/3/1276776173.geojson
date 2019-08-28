@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"100.554,45.39171,100.594,45.43171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bodi"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1276776173,
-    "wof:lastmodified":1564329208,
+    "wof:lastmodified":1566611635,
     "wof:name":"Bodi",
     "wof:parent_id":1092038457,
     "wof:placetype":"locality",

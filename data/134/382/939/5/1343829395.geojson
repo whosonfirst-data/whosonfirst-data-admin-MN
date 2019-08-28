@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"114.06333,45.19667,114.10333,45.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Burgastayn Dugang",
         "Burgaasatayn Dugang"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343829395,
-    "wof:lastmodified":1537665712,
+    "wof:lastmodified":1566611593,
     "wof:name":"Burgaasatayn Dugang",
     "wof:parent_id":1092036391,
     "wof:placetype":"locality",

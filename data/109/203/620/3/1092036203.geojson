@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":44.334628,
     "lbl:longitude":105.116001,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"O'mnogovi",
     "meso:diss_me":"Cogt-OvooO'mnogovi",
     "meso:gadm_admin":"Tsogt-Ovoo",
@@ -31,6 +33,7 @@
     "mps:longitude":105.116001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tsogt-Ovoo"
     ],
@@ -50,7 +53,7 @@
         "\u0426\u043e\u0433\u0442 \u043e\u0432\u043e\u043e"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1092036203,
-    "wof:lastmodified":1561844104,
+    "wof:lastmodified":1566611711,
     "wof:name":"Cogt-Ovoo",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

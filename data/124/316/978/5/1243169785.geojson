@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"113.76333,49.28,113.80333,49.32",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Okutuin-hito",
         "Ugtumyin-Khid",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243169785,
-    "wof:lastmodified":1537665610,
+    "wof:lastmodified":1566611772,
     "wof:name":"Ugtamiin Hiid",
     "wof:parent_id":1092033601,
     "wof:placetype":"locality",

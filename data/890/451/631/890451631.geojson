@@ -11,8 +11,11 @@
     "geom:longitude":104.08333,
     "gn:country":"MN",
     "gn:fcode":"PPLA",
-    "gn:pop":79647,
+    "gn:population":79647,
     "iso:country":"MN",
+    "lbl:bbox":"104.06333,49.01333,104.10333,49.05333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -323,7 +326,7 @@
     "wof:concordances":{
         "gn:id":2031405,
         "gp:id":56122848,
-        "qs:id":137642,
+        "qs_pg:id":137642,
         "wd:id":"Q230628",
         "wk:page":"Erdenet"
     },
@@ -340,7 +343,7 @@
         }
     ],
     "wof:id":890451631,
-    "wof:lastmodified":1563279985,
+    "wof:lastmodified":1566611755,
     "wof:name":"Erdenet",
     "wof:parent_id":1092032979,
     "wof:placetype":"locality",

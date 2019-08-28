@@ -10,8 +10,12 @@
     "geom:latitude":45.7625,
     "geom:longitude":106.27083,
     "iso:country":"MN",
+    "lbl:bbox":"106.25083,45.7425,106.29083,45.7825",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u062f\u0627\u0644\u063a\u0648\u0641\u064a"
@@ -139,7 +143,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u0434\u0430\u043b\u0433\u043e\u0432\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mandal Gobi"
     ],
     "name:urd_x_preferred":[
@@ -191,7 +195,7 @@
     "wof:concordances":{
         "gn:id":2030065,
         "gp:id":2266553,
-        "qs:id":235544,
+        "qs_pg:id":235544,
         "wd:id":"Q1000373",
         "wk:page":"Mandalgovi"
     },
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":421170523,
-    "wof:lastmodified":1563279981,
+    "wof:lastmodified":1566611753,
     "wof:name":"Mandalgov\u012d",
     "wof:parent_id":1092040571,
     "wof:placetype":"locality",

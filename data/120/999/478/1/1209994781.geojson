@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"111.69667,48.23,111.73667,48.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khartszonyy-khid",
         "Khartszany-khid",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1209994781,
-    "wof:lastmodified":1537665679,
+    "wof:lastmodified":1566611642,
     "wof:name":"Hardzanii Hiid",
     "wof:parent_id":1092032687,
     "wof:placetype":"locality",

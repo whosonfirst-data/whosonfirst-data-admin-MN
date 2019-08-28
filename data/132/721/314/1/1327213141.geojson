@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"99.85389,48.75278,99.89389,48.79278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Galt"
     ],
@@ -55,9 +59,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u0442"
     ],
-    "name:und_x_variant":[
-        "Galt"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1327213141,
-    "wof:lastmodified":1564329137,
+    "wof:lastmodified":1566611584,
     "wof:name":"Ider",
     "wof:parent_id":1092037525,
     "wof:placetype":"locality",

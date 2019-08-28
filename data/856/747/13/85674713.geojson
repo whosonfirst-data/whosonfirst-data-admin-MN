@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":43.351303,
     "lbl:longitude":104.205316,
+    "lbl:min_zoom":8.0,
     "mps:latitude":43.330561,
     "mps:longitude":104.195578,
     "mz:hierarchy_label":1,
@@ -185,7 +186,7 @@
         "\u00d6mn\u00f6gobi"
     ],
     "name:tam_x_preferred":[
-        "\u0b92\u0bae\u0bcd\u0ba8\u0b95\u0bcb\u0bb5\u0bbf   \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b92\u0bae\u0bcd\u0ba8\u0b95\u0bcb\u0bb5\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c2e\u0c4d\u0c28\u0c4b\u0c17\u0c4b\u0c35\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -205,7 +206,7 @@
     "name:ukr_x_preferred":[
         "\u0423\u043c\u043d\u0435\u0433\u043e\u0432\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nan go bi Bu"
     ],
     "name:urd_x_preferred":[
@@ -292,9 +293,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"165,400",
     "statoids:area_mi":"63,860",
     "statoids:as_of_date":"2010-11-11",
@@ -320,7 +321,7 @@
         "gp:id":2346168,
         "hasc:id":"MN.OG",
         "iso:id":"MN-053",
-        "qs:id":1252049,
+        "qs_pg:id":1252049,
         "unlc:id":"MN-053",
         "wd:id":"Q235579"
     },
@@ -340,11 +341,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728046,
+    "wof:lastmodified":1566611613,
     "wof:name":"\u00d6mn\u00f6govi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":60855,
     "wof:population_rank":8,

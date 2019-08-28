@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"106.16578,50.06578,106.20578,50.10578",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Shaamar"
     ],
@@ -43,8 +47,7 @@
     ],
     "name:und_x_variant":[
         "Shamor",
-        "Shamar",
-        "Shaamar"
+        "Shamar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1343430597,
-    "wof:lastmodified":1564329169,
+    "wof:lastmodified":1566611602,
     "wof:name":"Delgerhaan",
     "wof:parent_id":1092041081,
     "wof:placetype":"locality",

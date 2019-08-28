@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"103.48,43.44667,103.52,43.48667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khongor Obo Somon",
         "Hongor oboo",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343344981,
-    "wof:lastmodified":1537665671,
+    "wof:lastmodified":1566611596,
     "wof:name":"Hongor Oboo Suma",
     "wof:parent_id":1092033481,
     "wof:placetype":"locality",

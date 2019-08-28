@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"110.68,49.04667,110.72,49.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Serunyy-dugang",
         "Seruny-dugang",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209493509,
-    "wof:lastmodified":1537665631,
+    "wof:lastmodified":1566611646,
     "wof:name":"Seruunii Dugang",
     "wof:parent_id":85632439,
     "wof:placetype":"locality",

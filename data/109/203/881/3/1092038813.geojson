@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.155866,
     "lbl:longitude":115.897797,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dornod",
     "meso:diss_me":"MatadDornod",
     "meso:gadm_admin":"Matad",
@@ -31,6 +33,7 @@
     "mps:longitude":115.897797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u0442\u0430\u0434"
     ],
@@ -71,7 +74,7 @@
         "\u99ac\u5854\u5fb7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1092038813,
-    "wof:lastmodified":1563279904,
+    "wof:lastmodified":1566611711,
     "wof:name":"Matad",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

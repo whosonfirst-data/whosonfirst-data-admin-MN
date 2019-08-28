@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"112.47193,49.25329,112.51193,49.29329",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ereen"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193010911,
-    "wof:lastmodified":1537665636,
+    "wof:lastmodified":1566611654,
     "wof:name":"Ovor-Ereen",
     "wof:parent_id":1092033191,
     "wof:placetype":"locality",

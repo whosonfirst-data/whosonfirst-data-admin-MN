@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.023368,
     "lbl:longitude":93.839157,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Govi-Altai",
     "meso:diss_me":"TonkhilGovi-Altai",
     "meso:gadm_admin":"Tonkhil",
@@ -31,6 +33,7 @@
     "mps:longitude":93.839157,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0422\u043e\u043d\u0445\u0438\u043b"
     ],
@@ -68,7 +71,7 @@
         "\u0422\u043e\u043d\u0445\u0456\u043b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1092042107,
-    "wof:lastmodified":1563279852,
+    "wof:lastmodified":1566611680,
     "wof:name":"Tonkhil",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

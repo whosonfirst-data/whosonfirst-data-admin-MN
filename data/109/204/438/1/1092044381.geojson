@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.889197,
     "lbl:longitude":99.121908,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bayanxongor",
     "meso:diss_me":"ZagBayanxongor",
     "meso:gadm_admin":"Zag",
@@ -31,6 +33,7 @@
     "mps:longitude":99.121908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0414\u0437\u0430\u0433"
     ],
@@ -68,7 +71,7 @@
         "\u0632\u06af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":1092044381,
-    "wof:lastmodified":1563279858,
+    "wof:lastmodified":1566611683,
     "wof:name":"Zag",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

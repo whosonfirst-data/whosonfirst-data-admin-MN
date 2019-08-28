@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"91.88424,49.75849,91.92424,49.79849",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Harhiraa"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209390061,
-    "wof:lastmodified":1537665587,
+    "wof:lastmodified":1566611640,
     "wof:name":"Harhiraa",
     "wof:parent_id":85632439,
     "wof:placetype":"locality",

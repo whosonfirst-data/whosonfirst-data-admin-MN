@@ -10,6 +10,9 @@
     "geom:latitude":47.70694,
     "geom:longitude":106.95278,
     "iso:country":"MN",
+    "lbl:bbox":"106.93278,47.68694,106.97278,47.72694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -152,7 +155,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0443\u0443\u043d\u043c\u043e\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzun-mod"
     ],
     "name:urd_x_preferred":[
@@ -295,7 +298,7 @@
     "wof:concordances":{
         "gn:id":2031517,
         "gp:id":2266540,
-        "qs:id":274116,
+        "qs_pg:id":274116,
         "wd:id":"Q917690",
         "wk:page":"Zuunmod"
     },
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":421168929,
-    "wof:lastmodified":1563279968,
+    "wof:lastmodified":1566611750,
     "wof:name":"Dzuunmod",
     "wof:parent_id":1092044801,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"MN",
     "lbl:latitude":50.137866,
     "lbl:longitude":106.746215,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Selenge",
     "meso:diss_me":"AltanbulagSelenge",
     "meso:gadm_admin":"Altanbulag",
@@ -25,6 +27,7 @@
     "mps:longitude":106.746215,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Altanbulag"
     ],
@@ -35,7 +38,7 @@
         "Altanbulag"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632439,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1092031961,
-    "wof:lastmodified":1564329291,
+    "wof:lastmodified":1566611723,
     "wof:name":"Altanbulag",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

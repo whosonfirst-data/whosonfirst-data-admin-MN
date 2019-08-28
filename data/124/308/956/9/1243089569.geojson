@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"113.21333,48.26333,113.25333,48.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Savangiyn-Urto",
         "Savangiin-urto",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243089569,
-    "wof:lastmodified":1537665635,
+    "wof:lastmodified":1566611756,
     "wof:name":"Sabangiin Ortoo",
     "wof:parent_id":1092035175,
     "wof:placetype":"locality",

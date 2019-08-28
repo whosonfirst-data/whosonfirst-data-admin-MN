@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.219776,
     "lbl:longitude":97.508653,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Govi-Altai",
     "meso:diss_me":"DelgerGovi-Altai",
     "meso:gadm_admin":"Delger",
@@ -31,6 +33,7 @@
     "mps:longitude":97.508653,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0414\u0435\u043b\u0433\u0435\u0440"
     ],
@@ -65,7 +68,7 @@
         "\u0414\u0435\u043b\u0433\u0435\u0440"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092036777,
-    "wof:lastmodified":1563279940,
+    "wof:lastmodified":1566611733,
     "wof:name":"Delger",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

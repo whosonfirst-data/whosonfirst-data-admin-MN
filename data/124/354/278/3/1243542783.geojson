@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"111.14667,47.98,111.18667,48.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dara Ekhin Khiit",
         "Dara-ekheyn-khid",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243542783,
-    "wof:lastmodified":1537665705,
+    "wof:lastmodified":1566611756,
     "wof:name":"Dara Eheiin Hiid",
     "wof:parent_id":1092032687,
     "wof:placetype":"locality",

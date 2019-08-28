@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"102.42554,46.28241,102.46554,46.32241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taragt"
     ],
@@ -48,7 +52,6 @@
         "Targatu sumu",
         "Targata Suma",
         "Targata",
-        "Taragt",
         "Targatu somon",
         "Targat",
         "Targatu"
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1309989003,
-    "wof:lastmodified":1564329299,
+    "wof:lastmodified":1566611745,
     "wof:name":"Huremt",
     "wof:parent_id":1092041601,
     "wof:placetype":"locality",

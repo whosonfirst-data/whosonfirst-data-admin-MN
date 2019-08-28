@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"100.81333,50.56333,100.85333,50.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khokhon\u2019 Khure",
         "Hohon H\u00fcree",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209995803,
-    "wof:lastmodified":1537665673,
+    "wof:lastmodified":1566611642,
     "wof:name":"Hohon Huryee",
     "wof:parent_id":1092035901,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":47.440049,
     "lbl:longitude":92.437182,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.208611,
     "mps:longitude":92.635778,
     "mz:hierarchy_label":1,
@@ -173,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u043e\u0432\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hobdo Aymag"
     ],
     "name:urd_x_preferred":[
@@ -260,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"76,100",
     "statoids:area_mi":"29,380",
     "statoids:as_of_date":"2010-11-11",
@@ -287,7 +288,7 @@
         "gp:id":2346166,
         "hasc:id":"MN.HD",
         "iso:id":"MN-043",
-        "qs:id":219574,
+        "qs_pg:id":219574,
         "unlc:id":"MN-043",
         "wd:id":"Q194098",
         "wk:page":"Khovd Province"
@@ -308,11 +309,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728044,
+    "wof:lastmodified":1566611610,
     "wof:name":"Hovd",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":76252,
     "wof:population_rank":8,

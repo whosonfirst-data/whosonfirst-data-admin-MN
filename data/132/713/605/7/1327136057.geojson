@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Hovd",
     "iso:country":"MN",
+    "lbl:bbox":"91.06782,46.9067,91.10782,46.9467",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bulgan",
         "Bulagan Suma"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327136057,
-    "wof:lastmodified":1537665582,
+    "wof:lastmodified":1566611578,
     "wof:name":"Jargalant",
     "wof:parent_id":1092034925,
     "wof:placetype":"locality",

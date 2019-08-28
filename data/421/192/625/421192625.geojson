@@ -10,10 +10,14 @@
     "geom:latitude":45.13333,
     "geom:longitude":104.13333,
     "iso:country":"MN",
+    "lbl:bbox":"104.11333,45.11333,104.15333,45.15333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shokho\u00eft"
     ],
     "qs:gn_country":"MN",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":2029218,
         "gp:id":2266249,
-        "qs:id":1168542
+        "qs_pg:id":1168542
     },
     "wof:country":"MN",
     "wof:created":1459009743,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":421192625,
-    "wof:lastmodified":1501225187,
+    "wof:lastmodified":1566611750,
     "wof:name":"Shohoyt",
     "wof:parent_id":1092036889,
     "wof:placetype":"locality",

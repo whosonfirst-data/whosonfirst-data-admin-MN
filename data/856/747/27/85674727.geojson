@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":48.377321,
     "lbl:longitude":96.445268,
+    "lbl:min_zoom":8.0,
     "mps:latitude":48.272508,
     "mps:longitude":96.476548,
     "mz:hierarchy_label":1,
@@ -195,7 +196,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0432\u0445\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dsabkhan Aimak"
     ],
     "name:urd_x_preferred":[
@@ -282,9 +283,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"82,500",
     "statoids:area_mi":"31,850",
     "statoids:as_of_date":"2010-11-11",
@@ -309,7 +310,7 @@
         "gp:id":2346163,
         "hasc:id":"MN.DZ",
         "iso:id":"MN-057",
-        "qs:id":219572,
+        "qs_pg:id":219572,
         "unlc:id":"MN-057",
         "wd:id":"Q167764",
         "wk:page":"Zavkhan Province"
@@ -330,11 +331,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728043,
+    "wof:lastmodified":1566611607,
     "wof:name":"Dzavxan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":64924,
     "wof:population_rank":8,

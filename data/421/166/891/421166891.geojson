@@ -10,6 +10,9 @@
     "geom:latitude":48.8125,
     "geom:longitude":103.53472,
     "iso:country":"MN",
+    "lbl:bbox":"103.51472,48.7925,103.55472,48.8325",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -149,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u043b\u0433\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bulagan"
     ],
     "name:urd_x_preferred":[
@@ -286,7 +289,7 @@
     "wof:concordances":{
         "gn:id":2032201,
         "gp:id":2266537,
-        "qs:id":274119,
+        "qs_pg:id":274119,
         "wd:id":"Q945055",
         "wk:page":"Bulgan (city)"
     },
@@ -303,7 +306,7 @@
         }
     ],
     "wof:id":421166891,
-    "wof:lastmodified":1563279969,
+    "wof:lastmodified":1566611750,
     "wof:name":"Bulgan",
     "wof:parent_id":1092034959,
     "wof:placetype":"locality",

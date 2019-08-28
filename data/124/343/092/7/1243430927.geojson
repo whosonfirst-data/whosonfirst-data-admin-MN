@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"101.56333,49.23,101.60333,49.27",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Semchin-Dugan",
         "Semchin Dugang"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243430927,
-    "wof:lastmodified":1537665632,
+    "wof:lastmodified":1566611774,
     "wof:name":"Semchin Dugang",
     "wof:parent_id":1092040315,
     "wof:placetype":"locality",

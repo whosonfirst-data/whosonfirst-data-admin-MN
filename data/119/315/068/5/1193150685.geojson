@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"100.64667,48.29667,100.68667,48.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maniin-Dugan",
         "Maniin Dugang"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1193150685,
-    "wof:lastmodified":1537665650,
+    "wof:lastmodified":1566611654,
     "wof:name":"Maniin Dugang",
     "wof:parent_id":1092039845,
     "wof:placetype":"locality",

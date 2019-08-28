@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"107.93,45.84667,107.97,45.88667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Barun-Norga",
         "Barun tsorga",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293483191,
-    "wof:lastmodified":1537665728,
+    "wof:lastmodified":1566611617,
     "wof:name":"Baruun Tsorgo",
     "wof:parent_id":1092033727,
     "wof:placetype":"locality",

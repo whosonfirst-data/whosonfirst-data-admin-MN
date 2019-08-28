@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":49.386586,
     "lbl:longitude":106.15135,
+    "lbl:min_zoom":8.0,
     "mps:latitude":49.36185,
     "mps:longitude":106.154466,
     "mz:hierarchy_label":1,
@@ -207,7 +208,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u0445\u0430\u043d-\u0423\u0443\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Darhan Uul"
     ],
     "name:urd_x_preferred":[
@@ -294,9 +295,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"3,280",
     "statoids:area_mi":"1,270",
     "statoids:as_of_date":"2010-11-11",
@@ -321,7 +322,7 @@
         "gp:id":20070014,
         "hasc:id":"MN.DA",
         "iso:id":"MN-037",
-        "qs:id":425212,
+        "qs_pg:id":425212,
         "unlc:id":"MN-037",
         "wd:id":"Q18827"
     },
@@ -341,11 +342,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728042,
+    "wof:lastmodified":1566611605,
     "wof:name":"Darhan-Uul",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":90642,
     "wof:population_rank":8,

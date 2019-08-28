@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":46.098504,
     "lbl:longitude":110.196163,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Dornogovi",
     "meso:diss_me":"Ix xetDornogovi",
     "meso:gadm_admin":"Ikhkhet",
@@ -31,6 +33,7 @@
     "mps:longitude":110.196163,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ihhet"
     ],
@@ -59,7 +62,7 @@
         "\u4f0a\u8d6b\u8d6b\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092037939,
-    "wof:lastmodified":1563279927,
+    "wof:lastmodified":1566611725,
     "wof:name":"Ix xet",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

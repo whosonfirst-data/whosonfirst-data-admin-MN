@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.892801,
     "lbl:longitude":106.042542,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"To'v",
     "meso:diss_me":"ArgalantTo'v",
     "meso:gadm_admin":"Argalant",
@@ -31,6 +33,7 @@
     "mps:longitude":106.042542,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
     ],
@@ -65,7 +68,7 @@
         "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1092032141,
-    "wof:lastmodified":1563279939,
+    "wof:lastmodified":1566611732,
     "wof:name":"Argalant",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

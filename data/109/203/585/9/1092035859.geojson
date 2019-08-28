@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":47.8539,
     "lbl:longitude":108.966835,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Xentii",
     "meso:diss_me":"CenxermandalXentii",
     "meso:gadm_admin":"Tsenkhermandal",
@@ -31,6 +33,7 @@
     "mps:longitude":108.966835,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tsenhermandal"
     ],
@@ -56,7 +59,7 @@
         "\u0426\u0435\u043d\u0445\u0435\u0440\u043c\u0430\u043d\u0434\u0430\u043b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1092035859,
-    "wof:lastmodified":1561844112,
+    "wof:lastmodified":1566611739,
     "wof:name":"Cenxermandal",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

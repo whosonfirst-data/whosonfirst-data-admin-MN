@@ -11,10 +11,14 @@
     "geom:longitude":102.81349,
     "gn:country":"MN",
     "gn:fcode":"PPL",
-    "gn:pop":8977,
+    "gn:population":8977,
     "iso:country":"MN",
+    "lbl:bbox":"102.79349,47.17245,102.83349,47.21245",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Kharkhorin"
     ],
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":7648891,
         "gp:id":2266657,
-        "qs:id":695733,
+        "qs_pg:id":695733,
         "wd:id":"Q932069",
         "wk:page":"Kharkhorin"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890417563,
-    "wof:lastmodified":1563279983,
+    "wof:lastmodified":1566611754,
     "wof:name":"Kharkhorin",
     "wof:parent_id":1092043327,
     "wof:placetype":"locality",

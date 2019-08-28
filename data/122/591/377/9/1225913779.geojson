@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"105.09667,49.89667,105.13667,49.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Naman Han H\u00fcryee",
         "Nomon-khan-lamyyn khid",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1225913779,
-    "wof:lastmodified":1537665644,
+    "wof:lastmodified":1566611796,
     "wof:name":"Nomon Haan Lamaiin Hiid",
     "wof:parent_id":1092035355,
     "wof:placetype":"locality",

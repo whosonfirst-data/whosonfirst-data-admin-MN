@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":47.970116,
     "lbl:longitude":106.978931,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.95929,
     "mps:longitude":106.962393,
     "mz:hierarchy_label":1,
@@ -570,9 +571,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"4,700",
     "statoids:area_mi":"1,810",
     "statoids:as_of_date":"2010-11-11",
@@ -599,7 +600,7 @@
         "hasc:id":"MN.UB",
         "iso:id":"MN-1",
         "loc:id":"n82211486",
-        "qs:id":223783,
+        "qs_pg:id":223783,
         "unlc:id":"MN-1",
         "wd:id":"Q23430",
         "wk:page":"Ulaanbaatar"
@@ -620,11 +621,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728045,
+    "wof:lastmodified":1566611611,
     "wof:name":"Ulaanbaatar",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":1154290,
     "wof:population_rank":12,

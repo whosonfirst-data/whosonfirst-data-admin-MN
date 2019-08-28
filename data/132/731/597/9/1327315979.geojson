@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"106.64667,50.16333,106.68667,50.20333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hunda"
     ],
@@ -54,8 +58,7 @@
         "Hunda"
     ],
     "name:und_x_variant":[
-        "Khunda",
-        "Hunda"
+        "Khunda"
     ],
     "name:zho_x_preferred":[
         "\u4ea8\u9054\u5cf6"
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1327315979,
-    "wof:lastmodified":1564329119,
+    "wof:lastmodified":1566611573,
     "wof:name":"Hunda",
     "wof:parent_id":1092031961,
     "wof:placetype":"locality",

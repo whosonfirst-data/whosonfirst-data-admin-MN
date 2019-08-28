@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"111.14667,44.89667,111.18667,44.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bulungyyn khural",
         "Bulangin",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193012809,
-    "wof:lastmodified":1537665713,
+    "wof:lastmodified":1566611654,
     "wof:name":"Bulangiin Hural",
     "wof:parent_id":1092039985,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":48.575063,
     "lbl:longitude":99.395618,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Xo'vsgol",
     "meso:diss_me":"JargalantXo'vsgol",
     "meso:gadm_admin":"Jargalant",
@@ -31,6 +33,7 @@
     "mps:longitude":99.395618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Jargalant"
     ],
@@ -38,7 +41,7 @@
         "Jargalant"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1092038297,
-    "wof:lastmodified":1553718066,
+    "wof:lastmodified":1566611707,
     "wof:name":"Jargalant",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

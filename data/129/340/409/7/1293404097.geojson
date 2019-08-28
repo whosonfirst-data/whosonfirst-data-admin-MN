@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"101.84667,47.51333,101.88667,47.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khushigiin bulung",
         "H\u00f6sh\u00f6\u00f6giin Bulang"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293404097,
-    "wof:lastmodified":1537665669,
+    "wof:lastmodified":1566611619,
     "wof:name":"Hoshoogiin Bulang",
     "wof:parent_id":1092034893,
     "wof:placetype":"locality",

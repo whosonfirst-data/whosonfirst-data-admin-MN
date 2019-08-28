@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"112.89667,47.06333,112.93667,47.10333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsagan-chulutyin Khid",
         "Tsagan chulutyyn khid",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1309982327,
-    "wof:lastmodified":1537665619,
+    "wof:lastmodified":1566611746,
     "wof:name":"Tsagaan Chuluutayn Hiid",
     "wof:parent_id":1092038897,
     "wof:placetype":"locality",

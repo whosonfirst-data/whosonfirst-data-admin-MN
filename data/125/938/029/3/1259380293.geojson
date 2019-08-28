@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Choibalsan",
     "iso:country":"MN",
+    "lbl:bbox":"113.35427,49.2236,113.39427,49.2636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bayandun"
     ],
@@ -54,7 +58,6 @@
         "Bayan D\u00fcng Suma",
         "Bayan d\u00fcng sumu",
         "Bayan-d\u00fcng",
-        "Bayandun",
         "Bayan-Dung-Somon",
         "Bayan Dun Suma"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1259380293,
-    "wof:lastmodified":1564329336,
+    "wof:lastmodified":1566611775,
     "wof:name":"Naranbulag",
     "wof:parent_id":1092033601,
     "wof:placetype":"locality",

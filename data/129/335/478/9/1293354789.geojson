@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"104.36196,49.29751,104.40196,49.33751",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "S\u00f6rt"
     ],
@@ -48,7 +52,6 @@
         "Hangal",
         "Khangal Somon",
         "Hangal sumu",
-        "Khangal",
         "Hangal Suma"
     ],
     "src:geom":"geonames",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1293354789,
-    "wof:lastmodified":1564329182,
+    "wof:lastmodified":1566611620,
     "wof:name":"Sort",
     "wof:parent_id":1092043201,
     "wof:placetype":"locality",

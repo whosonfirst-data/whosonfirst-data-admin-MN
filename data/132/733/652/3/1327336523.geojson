@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"100.37135,44.71637,100.41135,44.75637",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Orgon"
     ],
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":1327336523,
-    "wof:lastmodified":1564329131,
+    "wof:lastmodified":1566611580,
     "wof:name":"Orgon",
     "wof:parent_id":1092033687,
     "wof:placetype":"locality",

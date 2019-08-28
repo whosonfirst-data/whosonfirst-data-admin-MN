@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":47.572809,
     "lbl:longitude":105.71491,
+    "lbl:min_zoom":8.0,
     "mps:latitude":47.558964,
     "mps:longitude":105.721236,
     "mz:hierarchy_label":1,
@@ -195,7 +196,7 @@
         "T\u00f6v"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bcb\u0bb5\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bcb\u0bb5\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4b\u0c35\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -215,7 +216,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0432\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ch\u016b \u014d Bu"
     ],
     "name:urd_x_preferred":[
@@ -302,9 +303,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-11-11",
+    "src:population_date":"2010-11-11",
     "statoids:area_km":"74,000",
     "statoids:area_mi":"28,570",
     "statoids:as_of_date":"2010-11-11",
@@ -329,7 +330,7 @@
         "gp:id":2346172,
         "hasc:id":"MN.TO",
         "iso:id":"MN-047",
-        "qs:id":1285283,
+        "qs_pg:id":1285283,
         "unlc:id":"MN-047",
         "wd:id":"Q276195",
         "wk:page":"T\u00f6v Province"
@@ -350,11 +351,10 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1565728045,
+    "wof:lastmodified":1566611612,
     "wof:name":"T\u00f6v",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":83838,
     "wof:population_rank":8,

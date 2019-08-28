@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":49.721726,
     "lbl:longitude":107.630961,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Selenge",
     "meso:diss_me":"Xu'derSelenge",
     "meso:gadm_admin":"Kh\u00fcder",
@@ -31,6 +33,7 @@
     "mps:longitude":107.630961,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Huder"
     ],
@@ -62,7 +65,7 @@
         "\u0425\u0443\u0434\u0435\u0440"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1092043817,
-    "wof:lastmodified":1561844101,
+    "wof:lastmodified":1566611698,
     "wof:name":"Xu'der",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

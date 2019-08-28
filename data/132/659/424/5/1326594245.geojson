@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
+    "lbl:bbox":"102.65,50.13611,102.69,50.17611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dugun-Iringin",
         "Eringin Dugang",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326594245,
-    "wof:lastmodified":1537665688,
+    "wof:lastmodified":1566611577,
     "wof:name":"Eringiin Dugang",
     "wof:parent_id":1092041815,
     "wof:placetype":"locality",
