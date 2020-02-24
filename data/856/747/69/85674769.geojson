@@ -327,6 +327,9 @@
         "wd:id":"Q18827"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9022b144e9b0b944cc24783580efffb6",
     "wof:hierarchy":[
         {
@@ -342,7 +345,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611605,
+    "wof:lastmodified":1582379199,
     "wof:name":"Darhan-Uul",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

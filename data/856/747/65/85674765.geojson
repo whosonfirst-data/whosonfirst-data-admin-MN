@@ -333,6 +333,9 @@
         "wk:page":"\u00d6v\u00f6rkhangai Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d917ca5973616f39feb4e61b5a27b198",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611610,
+    "wof:lastmodified":1582379202,
     "wof:name":"\u00d6v\u00f6rhangay",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

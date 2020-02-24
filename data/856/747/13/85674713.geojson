@@ -326,6 +326,9 @@
         "wd:id":"Q235579"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"305b6aef765e624ee7c2a2bc6e02e14a",
     "wof:hierarchy":[
         {
@@ -341,7 +344,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611613,
+    "wof:lastmodified":1582379204,
     "wof:name":"\u00d6mn\u00f6govi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

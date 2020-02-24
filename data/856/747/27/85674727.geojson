@@ -316,6 +316,9 @@
         "wk:page":"Zavkhan Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9634ef2b852af63c63629f09ca897ba7",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611607,
+    "wof:lastmodified":1582379200,
     "wof:name":"Dzavxan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

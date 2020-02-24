@@ -316,6 +316,9 @@
         "wk:page":"Khentii Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2251f2e5e2c55be23adc15582291576c",
     "wof:hierarchy":[
         {
@@ -331,7 +334,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611608,
+    "wof:lastmodified":1582379201,
     "wof:name":"Hentiy",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

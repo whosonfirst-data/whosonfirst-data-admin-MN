@@ -329,6 +329,9 @@
         "wk:page":"Uvs Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d7595d6e8ef6b322d370ae1d5ec321c3",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611607,
+    "wof:lastmodified":1582379200,
     "wof:name":"Uvs",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

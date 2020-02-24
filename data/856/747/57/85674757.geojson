@@ -326,6 +326,9 @@
         "wk:page":"Dundgovi Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6b102e9ffd807e98b15d2db095f7c02f",
     "wof:hierarchy":[
         {
@@ -341,7 +344,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611605,
+    "wof:lastmodified":1582379198,
     "wof:name":"Dundgovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -328,6 +328,9 @@
         "wk:page":"Bayan-\u00d6lgii Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b9b7dd3d2f9e79435dca06c8cbd49dc",
     "wof:hierarchy":[
         {
@@ -343,7 +346,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611606,
+    "wof:lastmodified":1582379199,
     "wof:name":"Bayan-\u00d6lgiy",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

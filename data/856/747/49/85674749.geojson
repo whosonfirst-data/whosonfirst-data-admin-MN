@@ -323,6 +323,9 @@
         "wk:page":"Bulgan Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b124e3df0b45d7b48470ef322e9504eb",
     "wof:hierarchy":[
         {
@@ -338,7 +341,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611613,
+    "wof:lastmodified":1582379204,
     "wof:name":"Bulgan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -334,6 +334,9 @@
         "wk:page":"Arkhangai Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0a498d9d17815fd68350f0b7186ea016",
     "wof:hierarchy":[
         {
@@ -349,7 +352,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611609,
+    "wof:lastmodified":1582379201,
     "wof:name":"Arhangay",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

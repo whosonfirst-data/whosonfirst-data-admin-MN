@@ -323,6 +323,9 @@
         "wk:page":"Bayankhongor Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0906a8078b0859eae832c431bc2e863a",
     "wof:hierarchy":[
         {
@@ -338,7 +341,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611612,
+    "wof:lastmodified":1582379203,
     "wof:name":"Bayanhongor",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

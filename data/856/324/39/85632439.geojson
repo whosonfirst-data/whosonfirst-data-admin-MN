@@ -946,6 +946,7 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
+        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1000,6 +1001,11 @@
     },
     "wof:country":"MN",
     "wof:country_alpha3":"MNG",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"72f72d007dc1db36c6fb3c1f92a99307",
     "wof:hierarchy":[
         {
@@ -1014,7 +1020,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611603,
+    "wof:lastmodified":1582379196,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

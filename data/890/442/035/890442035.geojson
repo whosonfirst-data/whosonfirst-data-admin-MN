@@ -301,6 +301,9 @@
     },
     "wof:country":"MN",
     "wof:created":1469052348,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"141ff190e597f822cb6eb1e8e6df6688",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
         }
     ],
     "wof:id":890442035,
-    "wof:lastmodified":1566611754,
+    "wof:lastmodified":1582379210,
     "wof:name":"Dalandzadgad",
     "wof:parent_id":1092036353,
     "wof:placetype":"locality",
