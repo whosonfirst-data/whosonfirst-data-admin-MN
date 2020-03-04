@@ -606,6 +606,9 @@
         "wk:page":"Ulaanbaatar"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"52b4f3228c5f50bd3f43772240d74c26",
     "wof:hierarchy":[
         {
@@ -621,7 +624,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611611,
+    "wof:lastmodified":1582379203,
     "wof:name":"Ulaanbaatar",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

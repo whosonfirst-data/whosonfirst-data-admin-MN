@@ -294,6 +294,9 @@
         "wk:page":"Khovd Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"713716d06c09bdf689fbea6bf4303c65",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611610,
+    "wof:lastmodified":1582379202,
     "wof:name":"Hovd",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

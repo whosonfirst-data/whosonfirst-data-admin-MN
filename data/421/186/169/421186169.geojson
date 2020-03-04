@@ -638,6 +638,9 @@
     },
     "wof:country":"MN",
     "wof:created":1459009472,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"52b4f3228c5f50bd3f43772240d74c26",
     "wof:hierarchy":[
         {
@@ -649,7 +652,7 @@
         }
     ],
     "wof:id":421186169,
-    "wof:lastmodified":1566611752,
+    "wof:lastmodified":1582379209,
     "wof:name":"Ulan Bator",
     "wof:parent_id":1092033659,
     "wof:placetype":"locality",

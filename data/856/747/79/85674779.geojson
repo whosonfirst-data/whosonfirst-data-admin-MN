@@ -317,6 +317,9 @@
         "wd:id":"Q236333"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a658a58393912f90033c8f5c5eaeff8a",
     "wof:hierarchy":[
         {
@@ -332,7 +335,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611611,
+    "wof:lastmodified":1582379202,
     "wof:name":"Gov\u012d-S\u00fcmber",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

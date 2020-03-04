@@ -334,6 +334,9 @@
         "wd:id":"Q234710"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae893d10beb0bf38399a943d6b3e65ee",
     "wof:hierarchy":[
         {
@@ -349,7 +352,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611606,
+    "wof:lastmodified":1582379199,
     "wof:name":"Orhon",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

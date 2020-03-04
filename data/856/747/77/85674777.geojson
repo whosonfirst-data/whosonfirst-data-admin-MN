@@ -336,6 +336,9 @@
         "wk:page":"T\u00f6v Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ae92097b6db3475f86eb2b524f4c47f2",
     "wof:hierarchy":[
         {
@@ -351,7 +354,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611612,
+    "wof:lastmodified":1582379203,
     "wof:name":"T\u00f6v",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

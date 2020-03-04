@@ -338,6 +338,9 @@
         "wk:page":"Dornod Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"300d54af92fb4639a4609f0feacc3847",
     "wof:hierarchy":[
         {
@@ -353,7 +356,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611608,
+    "wof:lastmodified":1582379201,
     "wof:name":"Dornod",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -324,6 +324,9 @@
         "wk:page":"Kh\u00f6vsg\u00f6l Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"79609ca6ec0e0adc3e4b2a0df35364c8",
     "wof:hierarchy":[
         {
@@ -339,7 +342,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611611,
+    "wof:lastmodified":1582379202,
     "wof:name":"H\u00f6vsg\u00f6l",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

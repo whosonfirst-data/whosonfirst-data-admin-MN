@@ -319,6 +319,9 @@
         "wk:page":"S\u00fckhbaatar Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0c47a6f3bb970234a18047ab68aebdf",
     "wof:hierarchy":[
         {
@@ -334,7 +337,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611606,
+    "wof:lastmodified":1582379199,
     "wof:name":"S\u00fchbaatar",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

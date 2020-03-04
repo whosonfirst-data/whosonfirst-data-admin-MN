@@ -333,6 +333,9 @@
         "wk:page":"Dornogovi Province"
     },
     "wof:country":"MN",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"635050409abcf5d5dfd3728782713d58",
     "wof:hierarchy":[
         {
@@ -348,7 +351,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1566611609,
+    "wof:lastmodified":1582379201,
     "wof:name":"Dornogovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
