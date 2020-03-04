@@ -946,7 +946,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1020,7 +1019,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1582379196,
+    "wof:lastmodified":1583259881,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
