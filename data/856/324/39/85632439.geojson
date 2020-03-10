@@ -977,9 +977,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Mongolia",
-        "digitalenvoy:country_code":[
-            496
-        ],
+        "digitalenvoy:country_code":496,
         "fb:id":"en.mongolia",
         "fifa:id":"MNG",
         "fips:code":"MG",
@@ -1022,7 +1020,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1583529186,
+    "wof:lastmodified":1583797394,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
