@@ -128,7 +128,7 @@
         "\u0d9a\u0ddc\u0dba\u0dd2\u0dbb\u0dca"
     ],
     "name:sin_x_variant":[
-        "\u0d9a\u0ddc\u0dba\u0dd2\u0dbb\u0dca "
+        "\u0d9a\u0ddc\u0dba\u0dd2\u0dbb\u0dca"
     ],
     "name:spa_x_preferred":[
         "Choyr"
@@ -146,7 +146,7 @@
         "\u0e04\u0e27\u0e32\u0e22\u0e40\u0e2d\u0e48\u0e2d\u0e23\u0e4c"
     ],
     "name:tha_x_variant":[
-        "\u0e04\u0e27\u0e32\u0e22\u0e40\u0e2d\u0e48\u0e2d\u0e23\u0e4c "
+        "\u0e04\u0e27\u0e32\u0e22\u0e40\u0e2d\u0e48\u0e2d\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Choir"
@@ -189,8 +189,8 @@
     "wof:belongsto":[
         102191569,
         85632439,
-        85674779,
-        1092041407
+        1092041407,
+        85674779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -211,7 +211,7 @@
         }
     ],
     "wof:id":1125910685,
-    "wof:lastmodified":1566611755,
+    "wof:lastmodified":1587163114,
     "wof:name":"Choyr",
     "wof:parent_id":1092041407,
     "wof:placetype":"locality",

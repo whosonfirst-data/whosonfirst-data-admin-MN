@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":184.666944,
-    "geom:area_square_m":1560903532525.364014,
+    "geom:area_square_m":1560903532737.022949,
     "geom:bbox":"87.73762,41.58152,119.931949,52.148696",
     "geom:latitude":46.836005,
     "geom:longitude":103.06909,
@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":7.0,
     "mz:min_zoom":2.0,
+    "name:abk_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0430"
+    ],
     "name:ace_x_preferred":[
         "Mongolia"
     ],
@@ -58,6 +61,9 @@
     "name:arg_x_preferred":[
         "Mongolia"
     ],
+    "name:ary_x_preferred":[
+        "\u0645\u0648\u0646\u06ad\u0648\u0644\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u0645\u0648\u0646\u062c\u0648\u0644\u064a\u0627"
     ],
@@ -84,6 +90,9 @@
     ],
     "name:bam_x_preferred":[
         "Mo\u014boli"
+    ],
+    "name:ban_x_preferred":[
+        "Mongolia"
     ],
     "name:bar_x_preferred":[
         "Mongolei"
@@ -185,6 +194,12 @@
     "name:dan_x_preferred":[
         "Mongoliet"
     ],
+    "name:deu_at_x_preferred":[
+        "Mongolei"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Mongolei"
+    ],
     "name:deu_x_preferred":[
         "Mongolei"
     ],
@@ -208,6 +223,12 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03b3\u03b3\u03bf\u03bb\u03af\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Mongolia"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Mongolia"
     ],
     "name:eng_x_preferred":[
         "Mongolia"
@@ -251,6 +272,9 @@
     "name:fas_x_variant":[
         "\u0645\u063a\u0644\u0633\u062a\u0627\u0646"
     ],
+    "name:fij_x_preferred":[
+        "Mongolia"
+    ],
     "name:fin_x_preferred":[
         "Mongolia"
     ],
@@ -271,6 +295,9 @@
     ],
     "name:gag_x_preferred":[
         "Mongoliya"
+    ],
+    "name:gcr_x_preferred":[
+        "Mongoli"
     ],
     "name:gla_x_preferred":[
         "Mong\u00f2ilia"
@@ -441,6 +468,9 @@
     "name:lao_x_preferred":[
         "\u0ea1\u0ebb\u0e87\u0ec2\u0e81\u0ea5\u0eb5"
     ],
+    "name:lao_x_variant":[
+        "\u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea1\u0ebb\u0e87\u0ec2\u0e81\u0ea5\u0eb5"
+    ],
     "name:lat_x_preferred":[
         "Mongolia"
     ],
@@ -497,6 +527,9 @@
     ],
     "name:mdf_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0435"
+    ],
+    "name:min_x_preferred":[
+        "Mongolia"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0458\u0430"
@@ -629,6 +662,9 @@
     "name:pol_x_preferred":[
         "Mongolia"
     ],
+    "name:por_br_x_preferred":[
+        "Mong\u00f3lia"
+    ],
     "name:por_x_preferred":[
         "Mong\u00f3lia"
     ],
@@ -722,6 +758,12 @@
     "name:srn_x_preferred":[
         "Mongolikondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0458\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Mongolija"
+    ],
     "name:srp_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0458\u0430"
     ],
@@ -739,6 +781,9 @@
     ],
     "name:szl_x_preferred":[
         "M\u016fngolijo"
+    ],
+    "name:szy_x_preferred":[
+        "Mongolia"
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0b99\u0bcd\u0b95\u0bcb\u0bb2\u0bbf\u0baf\u0bbe"
@@ -855,8 +900,20 @@
     "name:zha_x_preferred":[
         "Mungzguj"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u8499\u53e4\u56fd"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u8499\u53e4\u570b"
+    ],
     "name:zho_min_nan_x_preferred":[
         "B\u00f4ng-k\u00f3\u0358"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u8499\u53e4\u56fd"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8499\u53e4\u570b"
     ],
     "name:zho_x_preferred":[
         "\u8499\u53e4\u56fd"
@@ -1020,7 +1077,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1583797394,
+    "wof:lastmodified":1587428729,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
