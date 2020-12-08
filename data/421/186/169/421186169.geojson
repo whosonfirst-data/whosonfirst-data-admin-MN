@@ -664,7 +664,9 @@
         85674783
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632439,
+    "wof:capital_of":[
+        85632439
+    ],
     "wof:concordances":{
         "gn:id":2028462,
         "gp:id":2266535,
@@ -688,7 +690,7 @@
         }
     ],
     "wof:id":421186169,
-    "wof:lastmodified":1587428731,
+    "wof:lastmodified":1607390883,
     "wof:name":"Ulan Bator",
     "wof:parent_id":1092033659,
     "wof:placetype":"locality",
