@@ -671,6 +671,7 @@
         "gn:id":2028462,
         "gp:id":2266535,
         "loc:id":"n82211486",
+        "ne:id":1159150781,
         "qs_pg:id":913003,
         "wd:id":"Q23430"
     },
@@ -690,7 +691,8 @@
         }
     ],
     "wof:id":421186169,
-    "wof:lastmodified":1607390883,
+    "wof:lastmodified":1608688177,
+    "wof:megacity":1,
     "wof:name":"Ulan Bator",
     "wof:parent_id":1092033659,
     "wof:placetype":"locality",
