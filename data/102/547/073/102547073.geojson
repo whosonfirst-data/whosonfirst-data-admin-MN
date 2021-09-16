@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"89.9197222222,48.9916666667,89.9197222222,48.9916666667",
+    "geom:bbox":"89.919722,48.991667,89.919722,48.991667",
     "geom:latitude":48.991667,
     "geom:longitude":89.919722,
     "iso:country":"MN",
@@ -18,6 +18,10 @@
     ],
     "name:eng_x_preferred":[
         "\u00d6lgii Airport"
+    ],
+    "name:eng_x_variant":[
+        "ULG",
+        "ZMUL"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u0644\u06af\u06cc"
@@ -87,7 +91,7 @@
         "wd:id":"Q2525980"
     },
     "wof:country":"MN",
-    "wof:geomhash":"2b50faedb8cd994b98b89a07229a1c4f",
+    "wof:geomhash":"f6f57933ed9c5d5a9ad3badc4cf0e767",
     "wof:hierarchy":[
         {
             "campus_id":102547073,
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":102547073,
-    "wof:lastmodified":1566611586,
+    "wof:lastmodified":1631755297,
     "wof:name":"Olgiy Airport",
     "wof:parent_id":85674705,
     "wof:placetype":"campus",
@@ -108,10 +112,10 @@
     ]
 },
   "bbox": [
-    89.919722222222,
-    48.991666666667,
-    89.919722222222,
-    48.991666666667
+    89.919722,
+    48.991667,
+    89.919722,
+    48.991667
 ],
-  "geometry": {"coordinates":[89.91972222222201,48.991666666667],"type":"Point"}
+  "geometry": {"coordinates":[89.91972199999999,48.991667],"type":"Point"}
 }
