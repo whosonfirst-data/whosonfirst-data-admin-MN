@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d9\u05d9\u05d0\u05d8-\u05d0\u05d5\u05d7\u05d4\u05d4"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":421194507,
-    "wof:lastmodified":1566611751,
+    "wof:lastmodified":1636504689,
     "wof:name":"Buyant-Uhaa",
     "wof:parent_id":1092040513,
     "wof:placetype":"locality",

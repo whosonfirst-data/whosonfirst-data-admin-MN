@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Bulgan"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d2\u05df"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u043b\u0433\u0430\u043d"
     ],
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1343937093,
-    "wof:lastmodified":1566611595,
+    "wof:lastmodified":1636504684,
     "wof:name":"Bulgan",
     "wof:parent_id":1092035203,
     "wof:placetype":"locality",

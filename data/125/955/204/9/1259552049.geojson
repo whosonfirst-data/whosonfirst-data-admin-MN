@@ -29,7 +29,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u0993\u09b0\u09b9\u09a8"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c1\u03c7\u03cc\u03bd"
+    ],
     "name:eng_x_preferred":[
+        "Orhon"
+    ],
+    "name:ind_x_preferred":[
         "Orhon"
     ],
     "name:mkd_x_preferred":[
@@ -48,6 +57,9 @@
     "name:und_x_variant":[
         "Harosha",
         "Orkhon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u06c1\u0648\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -73,7 +85,7 @@
         }
     ],
     "wof:id":1259552049,
-    "wof:lastmodified":1566611777,
+    "wof:lastmodified":1636504690,
     "wof:name":"Orhon",
     "wof:parent_id":1092040117,
     "wof:placetype":"locality",

@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b9\u09cb\u09ad\u09a6"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03b2\u03bd\u03c4"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u043e\u0432\u0434"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":421185705,
-    "wof:lastmodified":1566611754,
+    "wof:lastmodified":1636504689,
     "wof:name":"Hovd",
     "wof:parent_id":1092034601,
     "wof:placetype":"locality",

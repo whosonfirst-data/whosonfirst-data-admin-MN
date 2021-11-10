@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"95.8450434967,46.396120218,95.8450434967,46.396120218",
+    "geom:bbox":"95.845043,46.39612,95.845043,46.39612",
     "geom:latitude":46.39612,
     "geom:longitude":95.845043,
     "iso:country":"MN",
@@ -34,6 +34,9 @@
         "Altay"
     ],
     "name:hun_x_preferred":[
+        "Altaj"
+    ],
+    "name:hun_x_variant":[
         "Altaj j\u00e1r\u00e1s"
     ],
     "name:mlg_x_preferred":[
@@ -43,6 +46,9 @@
         "\u0410\u043b\u0442\u0430\u0439 \u0441\u0443\u043c"
     ],
     "name:pol_x_preferred":[
+        "Altay"
+    ],
+    "name:por_x_preferred":[
         "Altay"
     ],
     "name:swe_x_preferred":[
@@ -157,7 +163,7 @@
     "wof:concordances":{},
     "wof:country":"MN",
     "wof:created":1499130938,
-    "wof:geomhash":"dc0d40288b1720113d51737f5b67f4ab",
+    "wof:geomhash":"5db4600092ceeba58aa61aae3a1404fd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +174,7 @@
         }
     ],
     "wof:id":1141908599,
-    "wof:lastmodified":1566611803,
+    "wof:lastmodified":1636504690,
     "wof:name":"Altay",
     "wof:parent_id":1092041123,
     "wof:placetype":"locality",
@@ -178,10 +184,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    95.84504349669015,
-    46.39612021797541,
-    95.84504349669015,
-    46.39612021797541
+    95.845043,
+    46.39612,
+    95.845043,
+    46.39612
 ],
-  "geometry": {"coordinates":[95.84504349669015,46.39612021797541],"type":"Point"}
+  "geometry": {"coordinates":[95.845043,46.39612],"type":"Point"}
 }

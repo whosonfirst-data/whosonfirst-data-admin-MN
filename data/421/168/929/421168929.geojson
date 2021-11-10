@@ -128,6 +128,9 @@
     "name:pol_x_preferred":[
         "Dzuunmod"
     ],
+    "name:por_x_preferred":[
+        "Zuunmod"
+    ],
     "name:rus_x_preferred":[
         "\u0417\u0443\u0443\u043d\u043c\u043e\u0434"
     ],
@@ -315,7 +318,7 @@
         }
     ],
     "wof:id":421168929,
-    "wof:lastmodified":1566611750,
+    "wof:lastmodified":1636504688,
     "wof:name":"Dzuunmod",
     "wof:parent_id":1092044801,
     "wof:placetype":"locality",

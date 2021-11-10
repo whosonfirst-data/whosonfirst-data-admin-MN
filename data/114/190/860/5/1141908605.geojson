@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"102.766584838,46.2499792675,102.766584838,46.2499792675",
+    "geom:bbox":"102.766585,46.249979,102.766585,46.249979",
     "geom:latitude":46.249979,
     "geom:longitude":102.766585,
     "iso:country":"MN",
@@ -18,6 +18,21 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0641\u0627\u0647\u064a\u0631"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09ad\u09be\u09df\u09b9\u09bf\u09b0"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03b2\u03b1\u03ca\u03c7\u03af\u03c1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u0930\u094d\u0935\u0947\u0939\u0940\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Arvayheer"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Mongolia",
     "ne:ADM0_A3":"MNG",
@@ -124,7 +139,7 @@
     "wof:concordances":{},
     "wof:country":"MN",
     "wof:created":1499130940,
-    "wof:geomhash":"2ed206e5da859eb9033b214a169bcac7",
+    "wof:geomhash":"a1cff4a22ec45356aa602c854414275e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,7 +150,7 @@
         }
     ],
     "wof:id":1141908605,
-    "wof:lastmodified":1566611804,
+    "wof:lastmodified":1636504691,
     "wof:name":"Arvayheer",
     "wof:parent_id":1092032185,
     "wof:placetype":"locality",
@@ -145,10 +160,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    102.76658483786366,
-    46.24997926745414,
-    102.76658483786366,
-    46.24997926745414
+    102.766585,
+    46.249979,
+    102.766585,
+    46.249979
 ],
-  "geometry": {"coordinates":[102.76658483786366,46.24997926745414],"type":"Point"}
+  "geometry": {"coordinates":[102.76658500000001,46.249979],"type":"Point"}
 }
