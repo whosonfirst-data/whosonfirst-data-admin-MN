@@ -38,6 +38,12 @@
     "name:azb_x_preferred":[
         "\u0628\u0648\u0644\u0642\u0646 \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
     ],
+    "name:aze_x_preferred":[
+        "Bulqan vilay\u0259ti"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u043b\u0433\u0430\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u09cd\u0997\u09be\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:ceb_x_preferred":[
         "Bulgan"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Bulgan"
     ],
     "name:dan_x_preferred":[
         "Bulgan"
@@ -101,6 +110,9 @@
     ],
     "name:hun_x_preferred":[
         "Bulgan tartom\u00e1ny"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Bulgan"
     ],
     "name:ind_x_preferred":[
         "Provinsi Bulgan"
@@ -217,6 +229,9 @@
     ],
     "name:war_x_preferred":[
         "Bulgan"
+    ],
+    "name:yue_x_preferred":[
+        "\u5e03\u723e\u5e72\u76df"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5c14\u5e72\u7701"
@@ -344,7 +359,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1636504685,
+    "wof:lastmodified":1690939700,
     "wof:name":"Bulgan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -40,8 +40,14 @@
     "name:eng_x_preferred":[
         "Jinst"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u0646\u0633\u062a"
+    ],
     "name:fra_x_preferred":[
         "Jinst"
+    ],
+    "name:hun_x_preferred":[
+        "Dzsinszt j\u00e1r\u00e1s"
     ],
     "name:mkd_x_preferred":[
         "\u040f\u0438\u043d\u0441\u0442"
@@ -63,6 +69,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0416\u0438\u043d\u0441\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Jinst"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d25\u65af\u7279\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1092038457,
-    "wof:lastmodified":1627522371,
+    "wof:lastmodified":1690939732,
     "wof:name":"Jinst",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

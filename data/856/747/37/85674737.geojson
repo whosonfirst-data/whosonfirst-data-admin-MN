@@ -41,6 +41,9 @@
     "name:aze_x_preferred":[
         "Xovd aymak\u0131"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u043e\u045e\u0434"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09cb\u09ad\u09a6"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:ceb_x_preferred":[
         "Hovd"
+    ],
+    "name:ces_x_preferred":[
+        "Chovdsk\u00fd ajmag"
     ],
     "name:cym_x_preferred":[
         "Talaith Khovd"
@@ -99,6 +105,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053d\u0578\u057e\u0564\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Hovd"
     ],
     "name:ind_x_preferred":[
         "Provinsi Khovd"
@@ -191,6 +200,12 @@
     ],
     "name:war_x_preferred":[
         "Khovd"
+    ],
+    "name:wuu_x_preferred":[
+        "\u79d1\u5e03\u591a\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u79d1\u5e03\u591a\u76df"
     ],
     "name:zho_x_preferred":[
         "\u79d1\u5e03\u591a\u7701"
@@ -318,7 +333,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1636504685,
+    "wof:lastmodified":1690939697,
     "wof:name":"Hovd",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

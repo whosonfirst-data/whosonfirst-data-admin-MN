@@ -40,8 +40,14 @@
     "name:eng_x_preferred":[
         "Tseel"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0644"
+    ],
     "name:fra_x_preferred":[
         "Tseel"
+    ],
+    "name:hun_x_preferred":[
+        "C\u00e9l j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di C\u0117\u0117l"
@@ -63,6 +69,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0435\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "Tseel"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f66\u52d2\u82cf\u6728"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1092035699,
-    "wof:lastmodified":1627522377,
+    "wof:lastmodified":1690939726,
     "wof:name":"Ceel",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0633\u062a\u0633\u0631\u0644\u064a\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0633\u062a\u0633\u0631\u0644\u064a\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Tsetserleg"
+    ],
     "name:bel_x_preferred":[
         "\u0426\u044d\u0446\u044d\u0440\u043b\u044d\u0433"
     ],
@@ -60,6 +66,9 @@
         "Tsetserleg"
     ],
     "name:fra_x_preferred":[
+        "Tsetserleg"
+    ],
+    "name:gle_x_preferred":[
         "Tsetserleg"
     ],
     "name:guj_x_preferred":[
@@ -164,6 +173,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062a\u06cc\u062a\u06cc\u0631\u0644\u06cc\u06af"
+    ],
+    "name:uzb_x_preferred":[
+        "Tsetserleg"
     ],
     "name:vie_x_preferred":[
         "Tsetserleg"
@@ -313,7 +325,7 @@
         }
     ],
     "wof:id":421179709,
-    "wof:lastmodified":1566611754,
+    "wof:lastmodified":1690939770,
     "wof:name":"Cecerleg",
     "wof:parent_id":1092037161,
     "wof:placetype":"locality",

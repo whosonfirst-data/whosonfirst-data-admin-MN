@@ -34,17 +34,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Dz\u00fc\u00fcngov\u012d"
+    ],
     "name:eng_x_preferred":[
         "Zuungovi"
     ],
     "name:eng_x_variant":[
         "Z\u00fc\u00fcngovi"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0646\u06af\u0648\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Zuungovi"
     ],
+    "name:hun_x_preferred":[
+        "Dz\u0171ng\u00f3bi j\u00e1r\u00e1s"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Z\u00f9\u00f9ngov'"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30f3\u30b4\u30d3"
     ],
     "name:mkd_x_preferred":[
         "\u0417\u0443\u043d\u0433\u043e\u0432\u0438"
@@ -58,11 +70,17 @@
     "name:nld_x_preferred":[
         "Zu'ungovi"
     ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u0443\u043d\u044d\u0433\u043e\u0432\u044c"
+    ],
     "name:swe_x_preferred":[
         "Z\u00fc\u00fcngovi"
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0443\u0443\u043d\u0433\u043e\u0432\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Z\u00fc\u00fcngovi"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":1092044677,
-    "wof:lastmodified":1627522381,
+    "wof:lastmodified":1690939719,
     "wof:name":"Zu'ungovi",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

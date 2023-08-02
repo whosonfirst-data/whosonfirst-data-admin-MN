@@ -34,14 +34,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Mogod"
+    ],
     "name:eng_x_preferred":[
         "Mogod"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u06af\u0648\u062f"
     ],
     "name:fra_x_preferred":[
         "Mogod"
     ],
     "name:gle_x_preferred":[
         "Mogod"
+    ],
+    "name:hun_x_preferred":[
+        "Mogod j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Mogod"
@@ -60,6 +69,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u0433\u043e\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "Mogod"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u679c\u5fb7\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":1092039077,
-    "wof:lastmodified":1627522372,
+    "wof:lastmodified":1690939727,
     "wof:name":"Mogod",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

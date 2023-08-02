@@ -43,8 +43,14 @@
     "name:eng_x_preferred":[
         "Naranbulag"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u0627\u0646\u0628\u0648\u0644\u0627\u06af"
+    ],
     "name:fra_x_preferred":[
         "Naranbulag"
+    ],
+    "name:hun_x_preferred":[
+        "Naranbulag j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Naranbulag"
@@ -61,11 +67,17 @@
     "name:nld_x_preferred":[
         "Naranbulag"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0440\u0430\u043d\u0431\u0443\u043b\u0430\u0433"
+    ],
     "name:swe_x_preferred":[
         "Naranbulag"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0430\u043d\u0431\u0443\u043b\u0430\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "Naranbulag"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1092039209,
-    "wof:lastmodified":1627522372,
+    "wof:lastmodified":1690939760,
     "wof:name":"Naranbulag",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

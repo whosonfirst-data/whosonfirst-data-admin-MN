@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u064a\u0628\u0627\u0644\u0633\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0634\u0648\u064a\u0628\u0627\u0644\u0633\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Choibalsan"
+    ],
     "name:bel_x_preferred":[
         "\u0427\u0430\u0439\u0431\u0430\u043b\u0441\u0430\u043d"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:fry_x_preferred":[
         "Tsjojbalsan"
+    ],
+    "name:gle_x_preferred":[
+        "Choibalsan"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0acb\u0a87\u0aac\u0abe\u0ab2\u0acd\u0ab8\u0aa8"
@@ -333,7 +342,7 @@
         }
     ],
     "wof:id":421168931,
-    "wof:lastmodified":1566611750,
+    "wof:lastmodified":1690939764,
     "wof:name":"Choybalsan",
     "wof:parent_id":1092034075,
     "wof:placetype":"locality",

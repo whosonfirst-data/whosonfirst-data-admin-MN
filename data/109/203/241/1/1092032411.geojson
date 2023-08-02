@@ -34,8 +34,14 @@
     "name:eng_x_preferred":[
         "Bayan"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Bagakhangai"
+    ],
+    "name:hun_x_preferred":[
+        "Bajan j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Bajan"
@@ -54,6 +60,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Bayan"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u5f65"
@@ -82,7 +91,7 @@
         }
     ],
     "wof:id":1092032411,
-    "wof:lastmodified":1627522363,
+    "wof:lastmodified":1690939751,
     "wof:name":"Bagaxangai",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

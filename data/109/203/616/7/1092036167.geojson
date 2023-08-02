@@ -46,14 +46,23 @@
     "name:eng_x_preferred":[
         "Tsogttsetsii"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0648\u06af\u062a\u0633\u062a\u0633\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Cogt-Cecii"
+    ],
+    "name:hun_x_preferred":[
+        "Cogtcecij j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Cogtc\u0117cij"
     ],
     "name:kor_x_preferred":[
         "\ud1a0\uadf8\uccb4\uce58"
+    ],
+    "name:kor_x_variant":[
+        "\ud1a0\uadf8\uccb4\uce58\uad70"
     ],
     "name:mkd_x_preferred":[
         "\u0426\u043e\u0433\u0442\u0446\u0435\u0446\u0438"
@@ -75,6 +84,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u043e\u0433\u0442\u0446\u0435\u0446\u0456\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Tsogttsetsii"
+    ],
+    "name:zho_x_preferred":[
+        "\u671d\u683c\u7279\u8f66\u9f50"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -110,7 +125,7 @@
         }
     ],
     "wof:id":1092036167,
-    "wof:lastmodified":1627522368,
+    "wof:lastmodified":1690939735,
     "wof:name":"Cogt-Cecii",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

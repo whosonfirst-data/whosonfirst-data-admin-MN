@@ -40,8 +40,14 @@
     "name:eng_x_preferred":[
         "Tsetsen-Uul"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u062a\u0633\u0646-\u0627\u0648\u0644"
+    ],
     "name:fra_x_preferred":[
         "Tsetsen-Uul"
+    ],
+    "name:hun_x_preferred":[
+        "Cecen-\u00dal j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di C\u0117c\u0117n-Uul"
@@ -63,6 +69,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0426\u0435\u0446\u0435\u043d-\u0443\u0443\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "Tsetsen-Uul"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1092035587,
-    "wof:lastmodified":1627522377,
+    "wof:lastmodified":1690939727,
     "wof:name":"Cecen-Uul",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

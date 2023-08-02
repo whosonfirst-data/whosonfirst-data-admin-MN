@@ -34,14 +34,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bul_x_preferred":[
+        "\u0414\u0435\u043b\u0433\u0435\u0440\u0435\u0445"
+    ],
+    "name:ceb_x_preferred":[
+        "Delgereh"
+    ],
     "name:eng_x_preferred":[
         "Delgereh"
     ],
     "name:eng_x_variant":[
         "Delgerekh"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0644\u06af\u0631\u062e"
+    ],
     "name:fra_x_preferred":[
         "Delgerex"
+    ],
+    "name:hun_x_preferred":[
+        "Delgereh j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di D\u0117lg\u0117r\u0117h"
@@ -58,8 +70,17 @@
     "name:rus_x_preferred":[
         "\u0414\u044d\u043b\u0433\u044d\u0440\u044d\u0445"
     ],
+    "name:swe_x_preferred":[
+        "Delgereh"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u0433\u0435\u0440\u0435\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "Delgerekh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u52d2\u683c\u96f7\u8d6b"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -95,7 +116,7 @@
         }
     ],
     "wof:id":1092036737,
-    "wof:lastmodified":1627522368,
+    "wof:lastmodified":1690939733,
     "wof:name":"Delgerex",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

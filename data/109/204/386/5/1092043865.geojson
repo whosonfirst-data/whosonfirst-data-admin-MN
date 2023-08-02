@@ -43,8 +43,17 @@
     "name:eng_x_variant":[
         "Kh\u00fcreemaral"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0631\u0645\u0627\u0631\u0627\u0644"
+    ],
     "name:fra_x_preferred":[
         "Xu'reemaral"
+    ],
+    "name:fra_x_variant":[
+        "Kh\u00fcreemaral"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00fcr\u00e9maral j\u00e1r\u00e1s"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u0443\u0440\u0435\u043c\u0430\u0440\u0430\u043b"
@@ -66,6 +75,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0440\u0435\u0435\u043c\u0430\u0440\u0430\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "Kh\u00fcreemaral"
+    ],
+    "name:zho_x_preferred":[
+        "\u547c\u96f7\u4e4c\u62c9\u52d2\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1092043865,
-    "wof:lastmodified":1627522380,
+    "wof:lastmodified":1690939725,
     "wof:name":"Xu'reemaral",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

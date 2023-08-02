@@ -43,6 +43,9 @@
     "name:aka_x_preferred":[
         "M\u0254ngolia"
     ],
+    "name:aka_x_variant":[
+        "Mongolia"
+    ],
     "name:als_x_preferred":[
         "Mongolei"
     ],
@@ -52,8 +55,14 @@
     "name:amh_x_variant":[
         "\u121e\u1295\u130e\u120a\u12eb"
     ],
+    "name:ami_x_preferred":[
+        "Mongolia"
+    ],
     "name:ang_x_preferred":[
         "Mongolland"
+    ],
+    "name:anp_x_preferred":[
+        "\u092e\u0902\u0917\u094b\u0932\u093f\u092f\u093e"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0646\u063a\u0648\u0644\u064a\u0627"
@@ -75,6 +84,9 @@
     ],
     "name:ast_x_preferred":[
         "Mongolia"
+    ],
+    "name:awa_x_preferred":[
+        "\u092e\u0919\u094d\u0917\u094b\u0932\u093f\u092f\u093e"
     ],
     "name:azb_x_preferred":[
         "\u0645\u0648\u063a\u0648\u0644\u06cc\u0633\u062a\u0627\u0646"
@@ -115,6 +127,12 @@
     ],
     "name:bih_x_preferred":[
         "\u092e\u0902\u0917\u094b\u0932\u093f\u092f\u093e"
+    ],
+    "name:bis_x_preferred":[
+        "Mongolia"
+    ],
+    "name:blk_x_preferred":[
+        "\u1019\u103d\u1014\u103a\u1002\u102d\u102f\u101c\u102e\u1038\u101a\u102c\u1038\u1001\u1019\u103a\u1038\u1011\u102e"
     ],
     "name:bod_x_preferred":[
         "\u0f66\u0f7c\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0d"
@@ -185,10 +203,16 @@
     "name:crh_x_preferred":[
         "Mo\u011folistan"
     ],
+    "name:crh_x_variant":[
+        "Mo\u00f1\u011fol Ulus\u0131"
+    ],
     "name:csb_x_preferred":[
         "M\u00f2ngolsk\u00f4"
     ],
     "name:cym_x_preferred":[
+        "Mongolia"
+    ],
+    "name:dag_x_preferred":[
         "Mongolia"
     ],
     "name:dan_x_preferred":[
@@ -293,6 +317,9 @@
     "name:ful_x_preferred":[
         "Monngolii"
     ],
+    "name:ful_x_variant":[
+        "Monngoliya"
+    ],
     "name:gag_x_preferred":[
         "Mongoliya"
     ],
@@ -316,6 +343,9 @@
     ],
     "name:gom_x_preferred":[
         "\u092e\u0902\u0917\u094b\u0932\u093f\u092f\u093e"
+    ],
+    "name:gpe_x_preferred":[
+        "Mongolia"
     ],
     "name:grn_x_preferred":[
         "Mong\u00f3lia"
@@ -356,6 +386,9 @@
     "name:hif_x_preferred":[
         "Mongolia"
     ],
+    "name:hil_x_preferred":[
+        "Monggolya"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0902\u0917\u094b\u0932\u093f\u092f\u093e"
     ],
@@ -379,6 +412,9 @@
     ],
     "name:ilo_x_preferred":[
         "Mongolia"
+    ],
+    "name:ilo_x_variant":[
+        "Monggolia"
     ],
     "name:ina_x_preferred":[
         "Mongolia"
@@ -414,6 +450,9 @@
     "name:kaa_x_preferred":[
         "Mongoliya"
     ],
+    "name:kab_x_preferred":[
+        "Mongolie"
+    ],
     "name:kal_x_preferred":[
         "Mongolia"
     ],
@@ -435,6 +474,9 @@
     "name:kbp_x_preferred":[
         "Mo\u014bgolii"
     ],
+    "name:kcg_x_preferred":[
+        "Monggoliya"
+    ],
     "name:khm_x_preferred":[
         "\u1798\u17c9\u17bb\u1784\u17a0\u17d2\u1782\u17c4\u179b\u17b8"
     ],
@@ -455,6 +497,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubabd\uace8"
+    ],
+    "name:krj_x_preferred":[
+        "Monggolya"
     ],
     "name:kur_x_preferred":[
         "Mongolya"
@@ -498,6 +543,9 @@
     "name:lit_x_preferred":[
         "Mongolija"
     ],
+    "name:lld_x_preferred":[
+        "Mongolia"
+    ],
     "name:lmo_x_preferred":[
         "Mungolia"
     ],
@@ -516,6 +564,9 @@
     "name:lzh_x_preferred":[
         "\u8499\u53e4\u570b"
     ],
+    "name:mad_x_preferred":[
+        "Mongolia"
+    ],
     "name:mai_x_preferred":[
         "\u092e\u0919\u094d\u0917\u094b\u0932\u093f\u092f\u093e"
     ],
@@ -527,6 +578,12 @@
     ],
     "name:mdf_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0435"
+    ],
+    "name:mdf_x_variant":[
+        "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u0439"
     ],
     "name:min_x_preferred":[
         "Mongolia"
@@ -543,13 +600,17 @@
     "name:mlt_x_preferred":[
         "Mongolja"
     ],
+    "name:mni_x_preferred":[
+        "\uabc3\uabe3\uabe1\uabd2\uabe3\uabc2\uabe4\uabcc\uabe5"
+    ],
     "name:mon_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441"
     ],
     "name:mon_x_variant":[
         "Mongol Uls",
         "\u041c\u043e\u043d\u0433\u043e\u043f \u0423\u043b\u0441",
-        "B\u00fcgd Nayramdah Mongol Ard Uls"
+        "B\u00fcgd Nayramdah Mongol Ard Uls",
+        "\u041c\u043e\u043d\u0433\u043e\u043b \u0423\u043b\u0441"
     ],
     "name:mri_x_preferred":[
         "Mong\u014dria"
@@ -638,6 +699,9 @@
     "name:pam_x_preferred":[
         "Mongolia"
     ],
+    "name:pam_x_variant":[
+        "Monggolia"
+    ],
     "name:pan_x_preferred":[
         "\u0a2e\u0a70\u0a17\u0a4b\u0a32\u0a40\u0a06"
     ],
@@ -713,6 +777,9 @@
     "name:sgs_x_preferred":[
         "Monguol\u0117j\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1019\u1030\u1004\u103a\u1087\u1075\u1030\u101d\u103a\u1038\u101c\u102e\u1038\u101a\u1083\u1038"
+    ],
     "name:sin_x_preferred":[
         "\u0db8\u0ddc\u0d82\u0d9c\u0ddd\u0dbd\u0dd2\u0dba\u0dcf\u0dc0"
     ],
@@ -728,8 +795,14 @@
     "name:sme_x_preferred":[
         "Mongolia"
     ],
+    "name:smn_x_preferred":[
+        "Mongolia"
+    ],
     "name:smo_x_preferred":[
         "Mogitolia"
+    ],
+    "name:sms_x_preferred":[
+        "Mongolia"
     ],
     "name:sna_x_preferred":[
         "Mongolia"
@@ -791,6 +864,9 @@
     "name:tat_x_preferred":[
         "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f"
     ],
+    "name:tay_x_preferred":[
+        "Mongolia"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c02\u0c17\u0c4b\u0c32\u0c3f\u0c2f\u0c3e"
     ],
@@ -803,6 +879,9 @@
     "name:tgl_x_preferred":[
         "Mongolia"
     ],
+    "name:tgl_x_variant":[
+        "Monggolya"
+    ],
     "name:tha_x_preferred":[
         "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e21\u0e2d\u0e07\u0e42\u0e01\u0e40\u0e25\u0e35\u0e22"
     ],
@@ -812,8 +891,14 @@
     "name:tir_x_preferred":[
         "\u121e\u1295\u130e\u120a\u12eb"
     ],
+    "name:tok_x_preferred":[
+        "ma Monko"
+    ],
     "name:ton_x_preferred":[
         "Mongok\u014dlia"
+    ],
+    "name:trv_x_preferred":[
+        "Mongolia"
     ],
     "name:tuk_x_preferred":[
         "Mongoli\u00fda"
@@ -823,6 +908,9 @@
     ],
     "name:tur_x_preferred":[
         "Mo\u011folistan"
+    ],
+    "name:twi_x_preferred":[
+        "Mongolia"
     ],
     "name:tyv_x_preferred":[
         "\u041c\u043e\u043e\u043b"
@@ -851,6 +939,9 @@
     ],
     "name:vec_x_preferred":[
         "Mongo\u0142ia"
+    ],
+    "name:vec_x_variant":[
+        "Mong\u00f2lia"
     ],
     "name:vep_x_preferred":[
         "Mongolii"
@@ -1143,7 +1234,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1617827638,
+    "wof:lastmodified":1690939691,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

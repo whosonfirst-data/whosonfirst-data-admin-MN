@@ -40,8 +40,14 @@
     "name:eng_x_preferred":[
         "Malchin"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0686\u06cc\u0646"
+    ],
     "name:fra_x_preferred":[
         "Tsalgar"
+    ],
+    "name:hun_x_preferred":[
+        "Malcsin j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Mal\u010din"
@@ -58,11 +64,17 @@
     "name:nld_x_preferred":[
         "Malchin"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0447\u0438\u043d"
+    ],
     "name:swe_x_preferred":[
         "Malchin"
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0447\u0438\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Malchin"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1092038573,
-    "wof:lastmodified":1627522377,
+    "wof:lastmodified":1690939736,
     "wof:name":"Malchin",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

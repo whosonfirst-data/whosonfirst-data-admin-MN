@@ -43,8 +43,14 @@
     "name:eng_x_variant":[
         "Kh\u00f6kh morit"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u062e \u0645\u0648\u0631\u06cc\u062a"
+    ],
     "name:fra_x_preferred":[
         "Xo'xmorit"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00f6hmorit j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di H\u00f4h mor't"
@@ -69,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0445\u043c\u043e\u0440\u044c\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Kh\u00f6kh morit"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1092043601,
-    "wof:lastmodified":1627522380,
+    "wof:lastmodified":1690939714,
     "wof:name":"Xo'xmorit",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

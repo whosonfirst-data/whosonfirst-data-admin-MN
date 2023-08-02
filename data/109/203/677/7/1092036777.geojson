@@ -43,8 +43,14 @@
     "name:eng_x_preferred":[
         "Delger"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0644\u06af\u0631"
+    ],
     "name:fra_x_preferred":[
         "Delger"
+    ],
+    "name:hun_x_preferred":[
+        "Delger j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di D\u0117lg\u0117r"
@@ -69,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u043b\u0433\u0435\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Delger"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1092036777,
-    "wof:lastmodified":1627522368,
+    "wof:lastmodified":1690939754,
     "wof:name":"Delger",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

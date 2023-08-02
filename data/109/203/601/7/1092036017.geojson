@@ -34,6 +34,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:cym_x_preferred":[
+        "Chingeltei"
+    ],
+    "name:deu_x_preferred":[
+        "Chingeltei"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03b9\u03bd\u03b3\u03ba\u03b5\u03bb\u03c4\u03ad\u03b9"
     ],
@@ -42,6 +48,9 @@
     ],
     "name:eng_x_variant":[
         "Ulan Bator"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0646\u06af\u0644\u062a\u0626\u06cc"
     ],
     "name:fra_x_preferred":[
         "Chingeltei"
@@ -75,6 +84,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9752\u683c\u5c14\u6cf0\u533a"
+    ],
+    "name:zho_x_variant":[
+        "\u9752\u683c\u723e\u6cf0\u5340"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":1092036017,
-    "wof:lastmodified":1627522367,
+    "wof:lastmodified":1690939757,
     "wof:name":"Chingeltei",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

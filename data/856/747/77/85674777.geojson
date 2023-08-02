@@ -62,6 +62,12 @@
     "name:ceb_x_preferred":[
         "T\u00f6v Aymag"
     ],
+    "name:ces_x_preferred":[
+        "Centr\u00e1ln\u00ed ajmag"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith T\u00f6v"
+    ],
     "name:dan_x_preferred":[
         "T\u00f6v"
     ],
@@ -110,6 +116,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054f\u0578\u0582\u057e\u0565"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco T\u00f6v"
     ],
     "name:ind_x_preferred":[
         "Provinsi T\u00f6v"
@@ -227,6 +236,9 @@
     ],
     "name:war_x_preferred":[
         "T\u00f6v"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e2d\u592e\u76df"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u592e\u7701"
@@ -354,7 +366,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1614895325,
+    "wof:lastmodified":1690939699,
     "wof:name":"T\u00f6v",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

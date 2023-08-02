@@ -34,11 +34,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bul_x_preferred":[
+        "\u0426\u0430\u0433\u0430\u043d\u0434\u0435\u043b\u0433\u0435\u0440"
+    ],
+    "name:ceb_x_preferred":[
+        "Tsagaandelger"
+    ],
     "name:eng_x_preferred":[
         "Tsagaandelger"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0633\u0627\u06af\u0627\u0646\u062f\u0644\u06af\u0631"
+    ],
     "name:fra_x_preferred":[
         "Tsagaandelger"
+    ],
+    "name:hun_x_preferred":[
+        "Cag\u00e1ndelger j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Cagaand\u0117lg\u0117r"
@@ -55,8 +67,14 @@
     "name:rus_x_preferred":[
         "\u0426\u0430\u0433\u0430\u0430\u043d\u0434\u044d\u043b\u0433\u044d\u0440"
     ],
+    "name:swe_x_preferred":[
+        "Tsagaandelger"
+    ],
     "name:ukr_x_preferred":[
         "\u0426\u0430\u0433\u0430\u0430\u043d\u0434\u0435\u043b\u0433\u0435\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Tsagaandelger"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +110,7 @@
         }
     ],
     "wof:id":1092035311,
-    "wof:lastmodified":1627522377,
+    "wof:lastmodified":1690939749,
     "wof:name":"Cagaandelger",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

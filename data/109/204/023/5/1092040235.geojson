@@ -43,8 +43,14 @@
     "name:eng_x_preferred":[
         "Otgon"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u062a\u06af\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Otgon"
+    ],
+    "name:hun_x_preferred":[
+        "Otgon j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ongon"
@@ -66,6 +72,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u0442\u0433\u043e\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Otgon"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1092040235,
-    "wof:lastmodified":1627522374,
+    "wof:lastmodified":1690939703,
     "wof:name":"Otgon",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

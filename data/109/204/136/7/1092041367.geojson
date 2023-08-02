@@ -34,11 +34,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bul_x_preferred":[
+        "\u0421\u043e\u043d\u0433\u0438\u043d\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Songino"
+    ],
     "name:eng_x_preferred":[
         "Songino"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u06af\u06cc\u0646\u0648"
+    ],
     "name:fra_x_preferred":[
         "Songino"
+    ],
+    "name:hun_x_preferred":[
+        "Szongino j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Songino"
@@ -55,8 +67,14 @@
     "name:rus_x_preferred":[
         "\u0421\u043e\u043d\u0433\u0438\u043d\u043e"
     ],
+    "name:swe_x_preferred":[
+        "Songino"
+    ],
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0433\u0438\u043d\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Songino"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -92,7 +110,7 @@
         }
     ],
     "wof:id":1092041367,
-    "wof:lastmodified":1627522375,
+    "wof:lastmodified":1690939712,
     "wof:name":"Songino",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

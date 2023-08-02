@@ -34,14 +34,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Bugat"
+    ],
     "name:eng_x_preferred":[
         "Bugat"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u0627\u062a"
     ],
     "name:fra_x_preferred":[
         "Bugat"
     ],
     "name:gle_x_preferred":[
         "Bugat"
+    ],
+    "name:hun_x_preferred":[
+        "Bugat j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Bugat"
@@ -60,6 +69,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0433\u0430\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Bugat"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u560e\u7279\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":1092034835,
-    "wof:lastmodified":1627522366,
+    "wof:lastmodified":1690939733,
     "wof:name":"Bugat",
     "wof:parent_id":85674749,
     "wof:placetype":"county",
