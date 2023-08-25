@@ -34,11 +34,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Manlay"
+    ],
     "name:eng_x_preferred":[
         "Manlai"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0646\u0644\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Manlai"
+    ],
+    "name:hun_x_preferred":[
+        "Manlaj j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Manlaj"
@@ -52,8 +61,14 @@
     "name:nan_x_preferred":[
         "Manlai"
     ],
+    "name:swe_x_preferred":[
+        "Manlay"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u043b\u0430\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Manlai"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -89,7 +104,7 @@
         }
     ],
     "wof:id":1092038737,
-    "wof:lastmodified":1627522372,
+    "wof:lastmodified":1690939732,
     "wof:name":"Manlai",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

@@ -43,8 +43,14 @@
     "name:eng_x_preferred":[
         "Taragt"
     ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u06af\u062a"
+    ],
     "name:fra_x_preferred":[
         "Taragt"
+    ],
+    "name:hun_x_preferred":[
+        "Taragt j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Taragt"
@@ -66,6 +72,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0430\u0433\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Taragt"
     ],
     "name:zho_x_preferred":[
         "\u5854\u62c9\u683c\u7279\u8607\u6728"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1092041601,
-    "wof:lastmodified":1627522376,
+    "wof:lastmodified":1690939702,
     "wof:name":"Taragt",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

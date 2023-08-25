@@ -34,14 +34,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Dz\u00fc\u00fcnhangay"
+    ],
     "name:eng_x_preferred":[
         "Zuunhangai"
     ],
     "name:eng_x_variant":[
         "Z\u00fc\u00fcnkhangai"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0646\u062e\u0627\u0646\u06af\u0627\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Zu'unxangai"
+    ],
+    "name:hun_x_preferred":[
+        "Dz\u0171nhangaj j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Z\u00f9\u00f9nhangaj"
@@ -58,6 +67,9 @@
     "name:nld_x_preferred":[
         "Zu'unhangai"
     ],
+    "name:rus_x_preferred":[
+        "\u0417\u0443\u0443\u043d\u0445\u0430\u043d\u0433\u0430\u0439"
+    ],
     "name:spa_x_preferred":[
         "Z\u00fc\u00fcnkhangai"
     ],
@@ -66,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0443\u0443\u043d\u0445\u0430\u043d\u0433\u0430\u0439"
+    ],
+    "name:vie_x_preferred":[
+        "Z\u00fc\u00fcnkhangai"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1092044717,
-    "wof:lastmodified":1627522381,
+    "wof:lastmodified":1690939703,
     "wof:name":"Zu'unxangai",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

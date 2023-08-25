@@ -43,8 +43,14 @@
     "name:eng_x_preferred":[
         "Buutsagaan"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062a\u0633\u0627\u06af\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Buutsagaan"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00facag\u00e1n j\u00e1r\u00e1s"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0443\u0446\u0430\u0433\u0430\u043d"
@@ -66,6 +72,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0443\u0446\u0430\u0433\u0430\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Buutsagaan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u67e5\u5e72\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1092035069,
-    "wof:lastmodified":1627522367,
+    "wof:lastmodified":1690939746,
     "wof:name":"Buucagaan",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

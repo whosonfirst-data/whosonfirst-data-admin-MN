@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Shar\u00efngol"
+    ],
     "name:eng_x_preferred":[
         "Shariingol"
     ],
@@ -49,6 +52,9 @@
     "name:hin_x_preferred":[
         "\u0936\u0948\u0930\u093f\u0902\u0917\u094b\u0932"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30e3\u30ea\u30f3\u30b4\u30eb"
+    ],
     "name:mkd_x_preferred":[
         "\u0428\u0430\u0440\u0438\u043d\u0433\u043e\u043b"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0428\u0430\u0440\u044b\u043d\u0433\u043e\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Shar\u00efngol"
     ],
     "name:tur_x_preferred":[
         "\u015ear\u0131ngol"
@@ -116,7 +125,7 @@
         }
     ],
     "wof:id":1092041159,
-    "wof:lastmodified":1627522375,
+    "wof:lastmodified":1690939723,
     "wof:name":"Sharyngol",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

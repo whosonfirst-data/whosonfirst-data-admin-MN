@@ -28,11 +28,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Sergelen"
+    ],
     "name:eng_x_preferred":[
         "Sergelen"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06af\u0644\u0646"
+    ],
     "name:fra_x_preferred":[
         "Sergelen"
+    ],
+    "name:hun_x_preferred":[
+        "Szergelen j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di S\u0117rg\u0117l\u0117n"
@@ -54,6 +63,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0435\u0440\u0433\u0435\u043b\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Sergelen"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -79,7 +91,7 @@
         }
     ],
     "wof:id":1092041003,
-    "wof:lastmodified":1627522375,
+    "wof:lastmodified":1690939713,
     "wof:name":"Sergelen",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

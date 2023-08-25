@@ -34,14 +34,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bul_x_preferred":[
+        "\u0418\u0445\u0435\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Ihhet"
+    ],
     "name:eng_x_preferred":[
         "Ihhet"
     ],
     "name:eng_x_variant":[
         "Ikhkhet"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062e\u062e\u062a"
+    ],
     "name:fra_x_preferred":[
         "Ix xet"
+    ],
+    "name:hun_x_preferred":[
+        "Ihhet j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ihh\u0117t"
@@ -58,8 +70,14 @@
     "name:rus_x_preferred":[
         "\u0418\u0445\u0445\u044d\u0442"
     ],
+    "name:swe_x_preferred":[
+        "Ihhet"
+    ],
     "name:ukr_x_preferred":[
         "\u0406\u0445\u0445\u0435\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Ikhkhet"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u8d6b\u8d6b\u7279"
@@ -98,7 +116,7 @@
         }
     ],
     "wof:id":1092037939,
-    "wof:lastmodified":1627522370,
+    "wof:lastmodified":1690939746,
     "wof:name":"Ix xet",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

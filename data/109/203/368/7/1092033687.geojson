@@ -40,8 +40,17 @@
     "name:eng_x_preferred":[
         "Bayangovi"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0627\u0646\u06af\u0648\u0648\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Bayangovi"
+    ],
+    "name:fra_x_variant":[
+        "Bayangovi sum"
+    ],
+    "name:hun_x_preferred":[
+        "Bajangobi j\u00e1r\u00e1s"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043d\u0433\u043e\u0432\u0438"
@@ -63,6 +72,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d\u0433\u043e\u0432\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Bayangovi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5f66\u6208\u58c1\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +113,7 @@
         }
     ],
     "wof:id":1092033687,
-    "wof:lastmodified":1627522365,
+    "wof:lastmodified":1690939746,
     "wof:name":"Bayangovi",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

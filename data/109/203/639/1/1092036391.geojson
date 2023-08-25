@@ -34,14 +34,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:aze_x_preferred":[
+        "Dariqanqa"
+    ],
     "name:ceb_x_preferred":[
         "Dar\u012dganga Sum"
     ],
     "name:eng_x_preferred":[
         "Dariganga"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u06cc\u06af\u0627\u0646\u06af\u0627"
+    ],
     "name:fra_x_preferred":[
         "Dariganga"
+    ],
+    "name:hun_x_preferred":[
+        "Dariganga j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Dar'ganga"
@@ -64,8 +73,14 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0440\u044c\u0433\u0430\u043d\u0433\u0430"
     ],
+    "name:vie_x_preferred":[
+        "Dariganga"
+    ],
     "name:zho_x_preferred":[
         "\u9054\u91cc\u7518\u5620"
+    ],
+    "name:zho_x_variant":[
+        "\u8fbe\u91cc\u5e72\u560e"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1092036391,
-    "wof:lastmodified":1627522368,
+    "wof:lastmodified":1690939756,
     "wof:name":"Dariganga",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

@@ -32,8 +32,14 @@
     "name:eng_x_variant":[
         "Bayant\u00fcmen"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0627\u0646\u062a\u0648\u0645\u0646"
+    ],
     "name:fra_x_preferred":[
         "Bayant\u00fcmen"
+    ],
+    "name:hun_x_preferred":[
+        "Bajant\u00fcmen j\u00e1r\u00e1s"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30e4\u30f3\u30c8\u30a5\u30fc\u30e1\u30f3\u90e1"
@@ -77,8 +83,14 @@
     "name:und_x_variant":[
         "Bain Tumen"
     ],
+    "name:vie_x_preferred":[
+        "Bayant\u00fcmen"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Bayant\u00fcmen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5f66\u56fe\u95e8\u82cf\u6728"
     ],
     "qs:gn_country":"MN",
     "qs:gn_fcode":"PPLA2",
@@ -126,7 +138,7 @@
         }
     ],
     "wof:id":421203347,
-    "wof:lastmodified":1566611751,
+    "wof:lastmodified":1690939766,
     "wof:name":"Tsagaanders",
     "wof:parent_id":1092034075,
     "wof:placetype":"locality",

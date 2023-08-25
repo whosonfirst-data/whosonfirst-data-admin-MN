@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
     "name:bel_x_preferred":[
         "\u041c\u0443\u0440\u044d\u043d"
     ],
@@ -27,6 +30,9 @@
         "M\u00f6r\u00f6n"
     ],
     "name:ceb_x_preferred":[
+        "M\u00f6r\u00f6n"
+    ],
+    "name:ces_x_preferred":[
         "M\u00f6r\u00f6n"
     ],
     "name:deu_x_preferred":[
@@ -112,6 +118,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u0443\u0440\u044d\u043d"
+    ],
+    "name:slk_x_preferred":[
+        "M\u00f6r\u00f6n"
     ],
     "name:spa_x_preferred":[
         "M\u00f6r\u00f6n"
@@ -281,7 +290,7 @@
         }
     ],
     "wof:id":421180747,
-    "wof:lastmodified":1566611751,
+    "wof:lastmodified":1690939767,
     "wof:name":"M\u00f6r\u00f6n",
     "wof:parent_id":1092039001,
     "wof:placetype":"locality",

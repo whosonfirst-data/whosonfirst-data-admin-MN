@@ -40,8 +40,14 @@
     "name:eng_x_variant":[
         "Kh\u00f6l\u00f6nbuir"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0644\u0648\u0646\u0628\u0648\u0626\u06cc\u0631"
+    ],
     "name:fra_x_preferred":[
         "Xo'lonbuir"
+    ],
+    "name:hun_x_preferred":[
+        "H\u00f6l\u00f6nbujr j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di H\u00f4l\u00f4nbujr"
@@ -66,6 +72,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043b\u0435\u043d\u0431\u0443\u0439\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Kh\u00f6l\u00f6nbuir"
     ],
     "name:zho_x_preferred":[
         "\u547c\u502b\u8c9d\u723e\u8607\u6728"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1092043517,
-    "wof:lastmodified":1627522380,
+    "wof:lastmodified":1690939713,
     "wof:name":"Xo'lonbuir",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

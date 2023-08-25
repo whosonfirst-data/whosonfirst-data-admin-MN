@@ -20,8 +20,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0634\u0646\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0646\u0634\u0646\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Sainshand"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0987\u09a8\u09cd\u09b9\u09cd\u09af\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:bul_x_preferred":[
+        "\u0421\u0430\u0439\u043d\u0448\u0430\u043d\u0434"
     ],
     "name:cat_x_preferred":[
         "Sainshand"
@@ -43,6 +52,9 @@
     ],
     "name:eng_x_preferred":[
         "Sainshand"
+    ],
+    "name:est_x_preferred":[
+        "Sajn\u0161and"
     ],
     "name:eus_x_preferred":[
         "Sainxand"
@@ -306,7 +318,7 @@
         }
     ],
     "wof:id":421168933,
-    "wof:lastmodified":1566611750,
+    "wof:lastmodified":1690939764,
     "wof:name":"Saynshand",
     "wof:parent_id":1092040513,
     "wof:placetype":"locality",

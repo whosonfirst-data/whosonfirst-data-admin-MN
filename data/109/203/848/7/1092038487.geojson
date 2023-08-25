@@ -34,17 +34,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "L\u00fcn"
+    ],
     "name:eng_x_preferred":[
         "Lun"
     ],
     "name:eng_x_variant":[
         "L\u00fcn"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Lun"
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "L\u00fcn j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di L\u00f9n"
@@ -64,8 +73,14 @@
     "name:rus_x_preferred":[
         "\u041b\u0443\u043d\u044d"
     ],
+    "name:swe_x_preferred":[
+        "L\u00fcn"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "L\u00fcn"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1092038487,
-    "wof:lastmodified":1627522371,
+    "wof:lastmodified":1690939751,
     "wof:name":"Lu'n",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

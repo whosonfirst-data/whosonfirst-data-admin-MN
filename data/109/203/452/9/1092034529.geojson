@@ -43,8 +43,14 @@
     "name:eng_x_variant":[
         "B\u00f6khm\u00f6r\u00f6n"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u062e\u0645\u0648\u0631\u0648\u0646"
+    ],
     "name:fra_x_preferred":[
         "Bo'xmoron"
+    ],
+    "name:hun_x_preferred":[
+        "B\u00f6hm\u00f6r\u00f6n j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di B\u00f4hm\u00f4r\u00f4n"
@@ -61,11 +67,20 @@
     "name:nld_x_preferred":[
         "Bo'hmoron"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0445\u0435\u043c\u0443\u0440\u0435\u043d"
+    ],
     "name:swe_x_preferred":[
         "B\u00f6hm\u00f6r\u00f6n"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0445\u043c\u0443\u0440\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00f6khm\u00f6r\u00f6n"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u8d6b\u83ab\u4f26\u82cf\u6728"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1092034529,
-    "wof:lastmodified":1627522366,
+    "wof:lastmodified":1690939736,
     "wof:name":"Bo'xmoron",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

@@ -52,6 +52,12 @@
     "name:fra_x_preferred":[
         "To'vshru'ulex"
     ],
+    "name:fra_x_variant":[
+        "T\u00f6vshr\u00fc\u00fclekh sum"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00f6vsr\u0171leh j\u00e1r\u00e1s"
+    ],
     "name:ita_x_preferred":[
         "Distretto di T\u00f9v\u0161r\u00f9\u00f9l\u0117h"
     ],
@@ -66,6 +72,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0422\u04af\u0432\u0448\u0440\u04af\u04af\u043b\u044d\u0445 \u0441\u0443\u043c"
+    ],
+    "name:mon_x_variant":[
+        "\u0422\u04e9\u0432\u0448\u0440\u04af\u04af\u043b\u044d\u0445 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
         "T\u00fcvshr\u00fc\u00fclekh"
@@ -84,6 +93,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0443\u0432\u0448\u0440\u0443\u0443\u043b\u0435\u0445"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00fcvshr\u00fc\u00fclekh"
+    ],
+    "name:zho_x_preferred":[
+        "\u56fe\u5e03\u4ec0\u9c81\u52d2\u8d6b\u82cf\u6728"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":1092042021,
-    "wof:lastmodified":1627522377,
+    "wof:lastmodified":1690939709,
     "wof:name":"To'vshru'ulex",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

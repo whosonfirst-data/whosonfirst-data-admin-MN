@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"100.983334512,46.3000020539,100.983334512,46.3000020539",
+    "geom:bbox":"100.983335,46.300002,100.983335,46.300002",
     "geom:latitude":46.300002,
     "geom:longitude":100.983335,
     "iso:country":"MN",
@@ -21,6 +21,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0646\u0647\u0648\u0646\u062c\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0627\u0646\u0647\u0648\u0646\u062c\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Bayankhongor"
+    ],
+    "name:aze_x_preferred":[
+        "Bayanxonqor"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c7\u09af\u09bc\u09be\u0999\u09cd\u0995\u09c1\u09a8\u0997\u09b0"
     ],
@@ -32,6 +41,9 @@
     ],
     "name:ces_x_preferred":[
         "Bajanchongor"
+    ],
+    "name:chv_x_preferred":[
+        "\u0411\u0430\u044f\u043d\u0445\u043e\u043d\u0433\u043e\u0440"
     ],
     "name:dan_x_preferred":[
         "Bayankhongor"
@@ -48,6 +60,9 @@
     "name:eng_x_preferred":[
         "Bayankhongor"
     ],
+    "name:est_x_preferred":[
+        "Bajanhongor"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u06cc\u0627\u0646\u062e\u0627\u0646\u06af\u0627\u0631"
     ],
@@ -56,6 +71,9 @@
     ],
     "name:fra_x_preferred":[
         "Bayanhongor"
+    ],
+    "name:fra_x_variant":[
+        "Bayankhongor khot"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abe\u0aaf\u0aa8\u0a95\u0acb\u0a82\u0a97\u0acb\u0ab0"
@@ -270,7 +288,7 @@
     },
     "wof:country":"MN",
     "wof:created":1499130937,
-    "wof:geomhash":"7f21b649d6b6d6c52bb4fbadfd652b18",
+    "wof:geomhash":"54debdad1de2609daec78206461c9f69",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -281,7 +299,7 @@
         }
     ],
     "wof:id":1141908593,
-    "wof:lastmodified":1566611804,
+    "wof:lastmodified":1690939771,
     "wof:name":"Bayankhongor",
     "wof:parent_id":1092037209,
     "wof:placetype":"locality",
@@ -291,10 +309,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    100.98333451233572,
-    46.30000205391264,
-    100.98333451233572,
-    46.30000205391264
+    100.983335,
+    46.300002,
+    100.983335,
+    46.300002
 ],
-  "geometry": {"coordinates":[100.98333451233572,46.30000205391264],"type":"Point"}
+  "geometry": {"coordinates":[100.983335,46.300002],"type":"Point"}
 }

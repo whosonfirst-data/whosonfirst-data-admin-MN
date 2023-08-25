@@ -40,8 +40,14 @@
     "name:eng_x_preferred":[
         "Chandmani"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0646\u062f\u0645\u0627\u0646\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Chandmani"
+    ],
+    "name:hun_x_preferred":[
+        "Csandmani j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di \u010candman'"
@@ -66,6 +72,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u043d\u0434\u043c\u0430\u043d\u044c"
+    ],
+    "name:vie_x_preferred":[
+        "Chandmani"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1092035941,
-    "wof:lastmodified":1627522367,
+    "wof:lastmodified":1690939726,
     "wof:name":"Chandmani",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

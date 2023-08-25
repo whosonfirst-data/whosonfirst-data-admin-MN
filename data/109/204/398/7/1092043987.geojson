@@ -34,14 +34,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:bul_x_preferred":[
+        "\u0425\u0443\u043b\u0434"
+    ],
+    "name:ceb_x_preferred":[
+        "Huld"
+    ],
+    "name:deu_x_preferred":[
+        "Huld"
+    ],
     "name:eng_x_preferred":[
         "Huld"
     ],
     "name:eng_x_variant":[
         "Khuld"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0644\u062f"
+    ],
     "name:fra_x_preferred":[
         "Xuld"
+    ],
+    "name:hun_x_preferred":[
+        "Huld j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Huld"
@@ -60,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u043b\u0434"
+    ],
+    "name:vie_x_preferred":[
+        "Khuld"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -95,7 +113,7 @@
         }
     ],
     "wof:id":1092043987,
-    "wof:lastmodified":1627522380,
+    "wof:lastmodified":1690939701,
     "wof:name":"Xuld",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

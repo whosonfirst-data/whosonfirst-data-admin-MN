@@ -40,8 +40,14 @@
     "name:eng_x_preferred":[
         "Choibalsan"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0648\u06cc\u0628\u0627\u0644\u0633\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Choybalsan"
+    ],
+    "name:hun_x_preferred":[
+        "Csojbalszan j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di \u010cojbalsan"
@@ -63,6 +69,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0427\u043e\u0439\u0431\u0430\u043b\u0441\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Choibalsan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e54\u5df4\u5c71\u82cf\u6728"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1092036057,
-    "wof:lastmodified":1627522367,
+    "wof:lastmodified":1690939736,
     "wof:name":"Choibalsan",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

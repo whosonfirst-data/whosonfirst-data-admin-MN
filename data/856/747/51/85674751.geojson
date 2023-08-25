@@ -59,6 +59,9 @@
     "name:ces_x_preferred":[
         "Orchonsk\u00fd ajmag"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Orkhon"
+    ],
     "name:dan_x_preferred":[
         "Orchon-Aimag"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:hun_x_variant":[
         "Orhon tartom\u00e1ny"
+    ],
+    "name:ido_x_preferred":[
+        "Provinco Orhon"
     ],
     "name:ind_x_preferred":[
         "Provinsi Orkhon"
@@ -228,6 +234,9 @@
     ],
     "name:war_x_preferred":[
         "Orkhon"
+    ],
+    "name:yue_x_preferred":[
+        "\u9102\u723e\u6e3e"
     ],
     "name:zho_x_preferred":[
         "\u9102\u5c14\u6d51\u7701"
@@ -355,7 +364,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1636504684,
+    "wof:lastmodified":1690939692,
     "wof:name":"Orhon",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

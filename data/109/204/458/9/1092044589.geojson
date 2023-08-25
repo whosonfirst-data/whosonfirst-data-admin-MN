@@ -34,14 +34,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Dz\u00fc\u00fcnbayan-Ulaan"
+    ],
     "name:eng_x_preferred":[
         "Zuunbayan-Ulaan"
     ],
     "name:eng_x_variant":[
         "Z\u00fc\u00fcnbayan-Ulaan"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0646\u0628\u0627\u06cc\u0627\u0646-\u0627\u0648\u0644\u0627\u0646"
+    ],
     "name:fra_x_preferred":[
         "Zuunbayan-Ulaan"
+    ],
+    "name:hun_x_preferred":[
+        "Dz\u0171nbajan-Ul\u00e1n j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Z\u00f9\u00f9nbajan-Ulaan"
@@ -63,6 +72,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0443\u0443\u043d\u0431\u0430\u044f\u043d \u0443\u043b\u0430\u0430\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Z\u00fc\u00fcnbayan-Ulaan"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1092044589,
-    "wof:lastmodified":1627522381,
+    "wof:lastmodified":1690939719,
     "wof:name":"Zu'unbayan-Ulaan",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

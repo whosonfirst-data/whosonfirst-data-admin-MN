@@ -49,6 +49,9 @@
     "name:fra_x_preferred":[
         "Galuut"
     ],
+    "name:hun_x_preferred":[
+        "Gal\u00fat j\u00e1r\u00e1s"
+    ],
     "name:mkd_x_preferred":[
         "\u0413\u0430\u043b\u0443\u0442"
     ],
@@ -69,6 +72,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u0443\u0443\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Galuut"
+    ],
+    "name:zho_x_preferred":[
+        "\u560e\u5362\u7279\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1092037565,
-    "wof:lastmodified":1627522370,
+    "wof:lastmodified":1690939747,
     "wof:name":"Galuut",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

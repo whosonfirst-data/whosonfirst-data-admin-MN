@@ -43,8 +43,14 @@
     "name:eng_x_preferred":[
         "Nariinteel"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u0631\u06cc\u0646\u062a\u0644"
+    ],
     "name:fra_x_preferred":[
         "Nariinteel"
+    ],
+    "name:hun_x_preferred":[
+        "Nar\u00ednt\u00e9l j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Narijnt\u0117\u0117l"
@@ -66,6 +72,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0440\u0438\u0439\u043d \u0442\u0435\u0435\u043b"
+    ],
+    "name:vie_x_preferred":[
+        "Nariinteel"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +110,7 @@
         }
     ],
     "wof:id":1092039295,
-    "wof:lastmodified":1627522372,
+    "wof:lastmodified":1690939759,
     "wof:name":"Nariinteel",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -34,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "T\u00fcmentsogt"
+    ],
     "name:eng_x_preferred":[
         "Tumentsogt"
     ],
@@ -49,6 +52,12 @@
     "name:fra_x_preferred":[
         "Tumentsogt"
     ],
+    "name:fra_x_variant":[
+        "T\u00fcmentsogt"
+    ],
+    "name:hun_x_preferred":[
+        "T\u00fcmencogt j\u00e1r\u00e1s"
+    ],
     "name:ita_x_preferred":[
         "Distretto di T\u00f9m\u0117ncogt"
     ],
@@ -59,6 +68,12 @@
         "\u0422\u04af\u043c\u044d\u043d\u0446\u043e\u0433\u0442 \u0441\u0443\u043c"
     ],
     "name:nan_x_preferred":[
+        "T\u00fcmentsogt"
+    ],
+    "name:swe_x_preferred":[
+        "T\u00fcmentsogt"
+    ],
+    "name:vie_x_preferred":[
         "T\u00fcmentsogt"
     ],
     "src:geom":"meso",
@@ -95,7 +110,7 @@
         }
     ],
     "wof:id":1092042269,
-    "wof:lastmodified":1627522378,
+    "wof:lastmodified":1690939705,
     "wof:name":"Tu'mencogt",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

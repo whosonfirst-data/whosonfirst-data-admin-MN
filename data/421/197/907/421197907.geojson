@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u062e\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0627\u0631\u062e\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Darkhan"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0430\u0440\u0445\u0430\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0430\u0440\u0445\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09a1\u09be\u09b0\u0996\u09be\u09a8"
@@ -34,6 +43,9 @@
     ],
     "name:cat_x_preferred":[
         "Darkhan"
+    ],
+    "name:ceb_x_preferred":[
+        "Darhan"
     ],
     "name:ces_x_preferred":[
         "Darchan"
@@ -77,6 +89,9 @@
     "name:fry_x_preferred":[
         "Darhan"
     ],
+    "name:gle_x_preferred":[
+        "Darkhan"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0abe\u0ab0\u0acd\u0a96\u0aa8"
     ],
@@ -88,6 +103,9 @@
     ],
     "name:hun_x_preferred":[
         "Darhan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0561\u0580\u056d\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Darkhan"
@@ -148,6 +166,9 @@
         "Darhan"
     ],
     "name:rus_x_preferred":[
+        "\u0414\u0430\u0440\u0445\u0430\u043d"
+    ],
+    "name:sah_x_preferred":[
         "\u0414\u0430\u0440\u0445\u0430\u043d"
     ],
     "name:sco_x_preferred":[
@@ -242,7 +263,7 @@
         }
     ],
     "wof:id":421197907,
-    "wof:lastmodified":1566611753,
+    "wof:lastmodified":1690939769,
     "wof:name":"Darhan",
     "wof:parent_id":1092036507,
     "wof:placetype":"locality",

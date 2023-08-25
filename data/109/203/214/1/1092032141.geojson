@@ -37,17 +37,26 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
     ],
+    "name:cat_x_preferred":[
+        "Argalant"
+    ],
     "name:ceb_x_preferred":[
         "Argalant"
     ],
     "name:eng_x_preferred":[
         "Argalant"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0631\u06af\u0627\u0644\u0627\u0646\u062a"
+    ],
     "name:fra_x_preferred":[
         "Argalant"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05e8\u05d2\u05d0\u05dc\u05d0\u05e0\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Argalant j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Argalant"
@@ -69,6 +78,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0433\u0430\u043b\u0430\u043d\u0442"
+    ],
+    "name:vie_x_preferred":[
+        "Argalant"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1092032141,
-    "wof:lastmodified":1627522363,
+    "wof:lastmodified":1690939754,
     "wof:name":"Argalant",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

@@ -40,8 +40,14 @@
     "name:eng_x_preferred":[
         "Ider"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u062f\u0631"
+    ],
     "name:fra_x_preferred":[
         "Ider"
+    ],
+    "name:hun_x_preferred":[
+        "Ider j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Id\u0117r"
@@ -63,6 +69,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0406\u0434\u0435\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Ider"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":1092037897,
-    "wof:lastmodified":1627522370,
+    "wof:lastmodified":1690939761,
     "wof:name":"Ider",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

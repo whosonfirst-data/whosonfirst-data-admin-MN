@@ -34,14 +34,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ceb_x_preferred":[
+        "Hongor"
+    ],
     "name:eng_x_preferred":[
         "Hongor"
     ],
     "name:eng_x_variant":[
         "Khongor"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0648\u0646\u06af\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "Xongor"
+    ],
+    "name:fra_x_variant":[
+        "Khongor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b3\u30f3\u30b4\u30eb"
     ],
     "name:mkd_x_preferred":[
         "\u0425\u043e\u043d\u0433\u043e\u0440"
@@ -59,6 +71,12 @@
         "\u0425\u043e\u043d\u0433\u043e\u0440"
     ],
     "name:spa_x_preferred":[
+        "Khongor"
+    ],
+    "name:swe_x_preferred":[
+        "Chongor"
+    ],
+    "name:vie_x_preferred":[
         "Khongor"
     ],
     "src:geom":"meso",
@@ -95,7 +113,7 @@
         }
     ],
     "wof:id":1092043645,
-    "wof:lastmodified":1627522380,
+    "wof:lastmodified":1690939702,
     "wof:name":"Xongor",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

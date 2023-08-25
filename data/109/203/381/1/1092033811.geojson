@@ -43,8 +43,17 @@
     "name:eng_x_preferred":[
         "Bayanlig"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u06cc\u0627\u0646\u0644\u06cc\u06af"
+    ],
     "name:fra_x_preferred":[
         "Khatansuudal"
+    ],
+    "name:fra_x_variant":[
+        "Bayanlig sum"
+    ],
+    "name:hun_x_preferred":[
+        "Bajanlig j\u00e1r\u00e1s"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0458\u0430\u043d\u043b\u0438\u0433"
@@ -66,6 +75,12 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u044f\u043d\u043b\u0438\u0433"
+    ],
+    "name:vie_x_preferred":[
+        "Bayanlig"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u5f66\u52d2\u683c\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":1092033811,
-    "wof:lastmodified":1627522371,
+    "wof:lastmodified":1690939762,
     "wof:name":"Bayanlig",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

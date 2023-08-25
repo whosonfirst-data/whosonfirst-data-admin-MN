@@ -34,6 +34,9 @@
     "name:arg_x_preferred":[
         "Ul\u00e1n Bator"
     ],
+    "name:ary_x_preferred":[
+        "\u0624\u0644\u0627\u0646 \u0628\u0627\u0637\u0627\u0631"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0648\u0644\u0627\u0646 \u0628\u0627\u062a\u0648\u0631"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440"
+    ],
+    "name:ban_x_preferred":[
+        "Ulaanbaatar"
     ],
     "name:bcl_x_preferred":[
         "Ulaanbaatar"
@@ -98,6 +104,9 @@
         "Ulaanbaatar"
     ],
     "name:cos_x_preferred":[
+        "Ulaanbaatar"
+    ],
+    "name:crh_x_preferred":[
         "Ulaanbaatar"
     ],
     "name:cym_x_preferred":[
@@ -157,6 +166,9 @@
     ],
     "name:fry_x_preferred":[
         "Ulaanbaatar"
+    ],
+    "name:gag_x_preferred":[
+        "Ulan Batur"
     ],
     "name:gla_x_preferred":[
         "Ulan Bator"
@@ -266,6 +278,9 @@
     "name:lez_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440"
     ],
+    "name:lfn_x_preferred":[
+        "Ulan Bator"
+    ],
     "name:lij_x_preferred":[
         "Ulaanbaatar"
     ],
@@ -293,6 +308,9 @@
     "name:mar_x_preferred":[
         "\u0909\u0932\u093e\u0928\u092c\u093e\u0924\u0930"
     ],
+    "name:mdf_x_preferred":[
+        "\u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440"
+    ],
     "name:mhr_x_preferred":[
         "\u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440"
     ],
@@ -301,6 +319,9 @@
     ],
     "name:mlg_x_preferred":[
         "Ulan Bator"
+    ],
+    "name:mlt_x_preferred":[
+        "Ulaanbaatar"
     ],
     "name:mon_x_preferred":[
         "\u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440"
@@ -383,6 +404,9 @@
     "name:por_x_variant":[
         "Ulan Bator"
     ],
+    "name:pus_x_preferred":[
+        "\u0627\u0648\u0644\u0627\u0646 \u0628\u0627\u062a\u0648\u0631"
+    ],
     "name:ron_x_preferred":[
         "Ulaanbaatar"
     ],
@@ -391,6 +415,9 @@
     ],
     "name:sah_x_preferred":[
         "\u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c69\u1c5e\u1c5f\u1c71\u1c75\u1c5f\u1c74\u1c5a\u1c68"
     ],
     "name:scn_x_preferred":[
         "Ulan Bator"
@@ -467,6 +494,9 @@
     "name:tur_x_preferred":[
         "Ulan Batur"
     ],
+    "name:udm_x_preferred":[
+        "\u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440"
+    ],
     "name:uig_x_preferred":[
         "Ulanbatur"
     ],
@@ -481,6 +511,9 @@
     ],
     "name:uzb_x_preferred":[
         "Ulan-Bator"
+    ],
+    "name:vec_x_preferred":[
+        "Ulan Bator"
     ],
     "name:vep_x_preferred":[
         "Ulanbatar"
@@ -660,8 +693,8 @@
     "wof:belongsto":[
         102191569,
         85632439,
-        1092033659,
-        85674783
+        85674783,
+        1092033659
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -691,7 +724,7 @@
         }
     ],
     "wof:id":421186169,
-    "wof:lastmodified":1608688177,
+    "wof:lastmodified":1690939768,
     "wof:megacity":1,
     "wof:name":"Ulan Bator",
     "wof:parent_id":1092033659,

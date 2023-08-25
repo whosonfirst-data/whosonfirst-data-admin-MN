@@ -43,11 +43,17 @@
     "name:eng_x_preferred":[
         "Bornuur"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0646\u0648\u0631"
+    ],
     "name:fra_x_preferred":[
         "Bornuur"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e8\u05e0\u05d5\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Born\u00far j\u00e1r\u00e1s"
     ],
     "name:ita_x_preferred":[
         "Distretto di Bornuur"
@@ -69,6 +75,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0440\u043d\u0443\u0443\u0440"
+    ],
+    "name:vie_x_preferred":[
+        "Bornuur"
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":1092034637,
-    "wof:lastmodified":1627522366,
+    "wof:lastmodified":1690939736,
     "wof:name":"Bornuur",
     "wof:parent_id":85674777,
     "wof:placetype":"county",
