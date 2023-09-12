@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.821167,
-    "geom:area_square_m":6470135923.915262,
+    "geom:area_square_m":6470135854.072918,
     "geom:bbox":"91.703699,49.982498,93.404796,50.884476",
     "geom:latitude":50.415765,
     "geom:longitude":92.518902,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Davst Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.393648,
     "lbl:longitude":92.575453,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Davst"
+    ],
     "name:eng_x_variant":[
         "Tes"
     ],
@@ -47,7 +56,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473897997,
-    "wof:geomhash":"9649ef974de6b7f57ebab64285525307",
+    "wof:geomhash":"66885caadbb4a22372e12af8ce60a990",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1092036665,
-    "wof:lastmodified":1628266643,
+    "wof:lastmodified":1694498071,
     "wof:name":"Davst",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

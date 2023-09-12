@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060139,
-    "geom:area_square_m":499459137.553676,
+    "geom:area_square_m":499458515.387311,
     "geom:bbox":"106.505085,47.709948,106.954952,47.905709",
     "geom:latitude":47.80553,
     "geom:longitude":106.738618,
@@ -61,10 +61,12 @@
         85674783
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"MN.UB.KH"
+    },
     "wof:country":"MN",
     "wof:created":1473898245,
-    "wof:geomhash":"90bd11b67e9499d38a3ab23c30115b27",
+    "wof:geomhash":"9703d8530782b8f2bdbf7a8e3f9e057d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1092043073,
-    "wof:lastmodified":1627522379,
+    "wof:lastmodified":1694492705,
     "wof:name":"Xan-Uul",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

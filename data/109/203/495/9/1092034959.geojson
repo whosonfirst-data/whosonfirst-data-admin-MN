@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011228,
-    "geom:area_square_m":91410442.334024,
+    "geom:area_square_m":91410462.2497,
     "geom:bbox":"103.372308,48.768154,103.576037,48.873288",
     "geom:latitude":48.823468,
     "geom:longitude":103.492068,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bulgan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.827277,
     "lbl:longitude":103.490525,
     "lbl:max_zoom":10.0,
@@ -32,6 +38,9 @@
         "Bulgan"
     ],
     "name:deu_x_preferred":[
+        "Bulgan"
+    ],
+    "name:eng_x_preferred":[
         "Bulgan"
     ],
     "name:eng_x_variant":[
@@ -74,7 +83,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473897929,
-    "wof:geomhash":"fd12bf04d4e7f6631c4bbe104392475b",
+    "wof:geomhash":"11065221b91c7edb8e67390e8431e81d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +93,7 @@
         }
     ],
     "wof:id":1092034959,
-    "wof:lastmodified":1636504688,
+    "wof:lastmodified":1694498109,
     "wof:name":"Bulgan",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

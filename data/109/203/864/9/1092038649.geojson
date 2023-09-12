@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.586919,
-    "geom:area_square_m":4777744072.158495,
+    "geom:area_square_m":4777744839.610382,
     "geom:bbox":"106.183563,48.544818,107.765649,49.18732",
     "geom:latitude":48.827196,
     "geom:longitude":106.974999,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Mandal Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.820186,
     "lbl:longitude":106.987045,
     "lbl:max_zoom":10.0,
@@ -90,7 +96,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473898075,
-    "wof:geomhash":"39d624c9a47999d242481f7e4851006f",
+    "wof:geomhash":"afd8d2be5a149c6693e3937a8c668730",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1092038649,
-    "wof:lastmodified":1690939759,
+    "wof:lastmodified":1694497833,
     "wof:name":"Mandal",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

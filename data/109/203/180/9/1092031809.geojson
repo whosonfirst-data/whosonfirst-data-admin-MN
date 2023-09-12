@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855596,
-    "geom:area_square_m":7118056346.768541,
+    "geom:area_square_m":7118056650.811337,
     "geom:bbox":"95.352802,47.318218,97.767068,48.131992",
     "geom:latitude":47.715561,
     "geom:longitude":96.600983,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Aldarkhaan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.845203,
     "lbl:longitude":97.123618,
     "lbl:max_zoom":10.0,
@@ -93,7 +99,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473897800,
-    "wof:geomhash":"8f1830685965e047348c34d02e19318a",
+    "wof:geomhash":"2cfa432e178ae32c2f363534a26d1ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1092031809,
-    "wof:lastmodified":1690939740,
+    "wof:lastmodified":1694498059,
     "wof:name":"Aldarxaan",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.438624,
-    "geom:area_square_m":3633663163.810991,
+    "geom:area_square_m":3633663089.041757,
     "geom:bbox":"91.219337,47.594623,92.495392,48.372854",
     "geom:latitude":47.935471,
     "geom:longitude":91.920615,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Buyant Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.948516,
     "lbl:longitude":91.930296,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Buyant"
+    ],
+    "name:eng_x_preferred":[
         "Buyant"
     ],
     "name:eng_x_variant":[
@@ -56,7 +65,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473897938,
-    "wof:geomhash":"bcede23a0610742f2b9a02a1f9d5f90e",
+    "wof:geomhash":"537e9ee98151380be19c39f4cfbe220b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +75,7 @@
         }
     ],
     "wof:id":1092035139,
-    "wof:lastmodified":1628266634,
+    "wof:lastmodified":1694498071,
     "wof:name":"Buyant",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

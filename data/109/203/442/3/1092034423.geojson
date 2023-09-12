@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.546996,
-    "geom:area_square_m":4326821326.990227,
+    "geom:area_square_m":4326821438.373163,
     "geom:bbox":"98.064385,49.906259,99.30779,50.569866",
     "geom:latitude":50.2295,
     "geom:longitude":98.678019,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayanz\u00fcrkh Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.262666,
     "lbl:longitude":98.666216,
     "lbl:max_zoom":10.0,
@@ -105,7 +111,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473897903,
-    "wof:geomhash":"3bd0fdd01e420a71624352999beba66b",
+    "wof:geomhash":"07a83ff052b3900359d71ab419589253",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1092034423,
-    "wof:lastmodified":1690939754,
+    "wof:lastmodified":1694497833,
     "wof:name":"Bayanzu'rx",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

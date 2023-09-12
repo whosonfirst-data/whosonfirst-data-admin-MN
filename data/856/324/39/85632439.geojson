@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":184.666944,
-    "geom:area_square_m":1560903532737.022949,
+    "geom:area_square_m":1560903532737.05127,
     "geom:bbox":"87.73762,41.58152,119.931949,52.148696",
     "geom:latitude":46.836005,
     "geom:longitude":103.06909,
@@ -14,6 +14,9 @@
     "iso:country":"MN",
     "itu:country_code":[
         "976"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "MN"
@@ -1162,7 +1165,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"976",
     "statoids:ds":"MGL",
     "statoids:fifa":"MNG",
@@ -1220,7 +1224,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"741f7eda612f676435886e0d9dd20b70",
+    "wof:geomhash":"8f6faf5a9ed5075f12e0c23fb274d64b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1234,12 +1238,12 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939691,
+    "wof:lastmodified":1694492108,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":2953190,
-    "wof:population_rank":12,
+    "wof:population":3225167,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mn",
     "wof:shortcode":"MN",
     "wof:superseded_by":[],

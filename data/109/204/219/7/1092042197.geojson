@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.644844,
-    "geom:area_square_m":5278551477.931371,
+    "geom:area_square_m":5278551245.24017,
     "geom:bbox":"97.792475,47.936305,98.705931,49.055712",
     "geom:latitude":48.54664,
     "geom:longitude":98.234647,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Tosoncengel Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.649816,
     "lbl:longitude":98.152137,
     "lbl:max_zoom":10.0,
@@ -28,6 +34,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Tosoncengel"
+    ],
     "name:eng_x_variant":[
         "Tosontsengel"
     ],
@@ -45,7 +54,7 @@
     "wof:concordances":{},
     "wof:country":"MN",
     "wof:created":1473898214,
-    "wof:geomhash":"23393ec2774fdac83d7fb6fdad3f1caf",
+    "wof:geomhash":"0e1d6ff39b6cce81c3f7c337f1059b79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1092042197,
-    "wof:lastmodified":1628266727,
+    "wof:lastmodified":1694498076,
     "wof:name":"Tosoncengel",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.305367,
-    "geom:area_square_m":2422075623.632599,
+    "geom:area_square_m":2422075546.199533,
     "geom:bbox":"106.103368,49.797287,107.319416,50.344644",
     "geom:latitude":50.099668,
     "geom:longitude":106.746125,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Altanbulag Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":50.137866,
     "lbl:longitude":106.746215,
     "lbl:max_zoom":10.0,
@@ -29,6 +35,9 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Altanbulag"
+    ],
+    "name:eng_x_preferred":[
         "Altanbulag"
     ],
     "name:eng_x_variant":[
@@ -53,7 +62,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473897806,
-    "wof:geomhash":"35419613656bafac035de83a84c754ce",
+    "wof:geomhash":"ef70886d7213ef244c70d36857702dcb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1092031961,
-    "wof:lastmodified":1628266619,
+    "wof:lastmodified":1694498070,
     "wof:name":"Altanbulag",
     "wof:parent_id":85674761,
     "wof:placetype":"county",
