@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.182759,
-    "geom:area_square_m":1509369656.704277,
+    "geom:area_square_m":1509369584.488205,
     "geom:bbox":"105.607573,47.927852,106.478415,48.2894",
     "geom:latitude":48.094181,
     "geom:longitude":105.973662,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayanchandmani Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":48.128428,
     "lbl:longitude":105.907675,
     "lbl:max_zoom":10.0,
@@ -81,7 +87,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473897861,
-    "wof:geomhash":"9ab68b658d882f2ae972fdce56eea7ca",
+    "wof:geomhash":"8ac08770e5808fb2975d0739aa87c8af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1092033433,
-    "wof:lastmodified":1690939764,
+    "wof:lastmodified":1694498060,
     "wof:name":"Bayancogt",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

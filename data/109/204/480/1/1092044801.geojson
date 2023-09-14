@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002147,
-    "geom:area_square_m":17869625.358009,
+    "geom:area_square_m":17869722.214446,
     "geom:bbox":"106.915684,47.67906,106.972065,47.727562",
     "geom:latitude":47.702248,
     "geom:longitude":106.944473,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Sergelen Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.703461,
     "lbl:longitude":106.94501,
     "lbl:max_zoom":10.0,
@@ -81,7 +87,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473898310,
-    "wof:geomhash":"4b0c82fa1c5dfabffb7f883308383e02",
+    "wof:geomhash":"419fe911f2e3acbf1baca16d7fa8e09b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1092044801,
-    "wof:lastmodified":1690939718,
+    "wof:lastmodified":1694498060,
     "wof:name":"Zuunmod",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

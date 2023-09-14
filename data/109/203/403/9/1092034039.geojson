@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.352678,
-    "geom:area_square_m":2966500197.83687,
+    "geom:area_square_m":2966500112.331529,
     "geom:bbox":"107.226285,46.778398,108.180564,47.495266",
     "geom:latitude":47.137082,
     "geom:longitude":107.70481,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Bayan Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.167008,
     "lbl:longitude":107.712055,
     "lbl:max_zoom":10.0,
@@ -81,7 +87,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473897887,
-    "wof:geomhash":"d76c0467fb045499991f5ae715180697",
+    "wof:geomhash":"49265e6d8cc6dbb5c29e8ca7e06d7959",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":1092034039,
-    "wof:lastmodified":1690939759,
+    "wof:lastmodified":1694498060,
     "wof:name":"Bayan",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

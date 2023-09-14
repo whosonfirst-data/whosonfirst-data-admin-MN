@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005296,
-    "geom:area_square_m":44043222.297161,
+    "geom:area_square_m":44043222.297173,
     "geom:bbox":"96.8129934275,47.6949804155,96.8958531398,47.792759848",
     "geom:latitude":47.739969,
     "geom:longitude":96.853905,
     "iso:country":"MN",
+    "label:eng_x_preferred_longname":[
+        "Uliastai Soum"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "soum"
+    ],
     "lbl:latitude":47.735251,
     "lbl:longitude":96.854694,
     "lbl:max_zoom":10.0,
@@ -44,6 +50,9 @@
         "Uliastaj"
     ],
     "name:deu_x_preferred":[
+        "Uliastai"
+    ],
+    "name:eng_x_preferred":[
         "Uliastai"
     ],
     "name:eng_x_variant":[
@@ -134,7 +143,7 @@
     },
     "wof:country":"MN",
     "wof:created":1473898232,
-    "wof:geomhash":"b4671508913c328a83932d2ce6c4dc91",
+    "wof:geomhash":"d83c2a374d79f74886ac8aceac7e8185",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +153,7 @@
         }
     ],
     "wof:id":1092042683,
-    "wof:lastmodified":1566611681,
+    "wof:lastmodified":1694497833,
     "wof:name":"Uliastai",
     "wof:parent_id":85674727,
     "wof:placetype":"county",
