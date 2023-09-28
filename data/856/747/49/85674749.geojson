@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.978294,
-    "geom:area_square_m":48529986119.162239,
+    "geom:area_square_m":48529985996.921898,
     "geom:bbox":"101.612056,47.236981,104.78046,50.439279",
     "geom:latitude":48.96233,
     "geom:longitude":103.397871,
@@ -334,17 +334,19 @@
         "gn:id":2032199,
         "gp:id":2346174,
         "hasc:id":"MN.BU",
+        "iso:code":"MN-067",
         "iso:id":"MN-067",
         "qs_pg:id":235579,
         "unlc:id":"MN-067",
         "wd:id":"Q209774",
         "wk:page":"Bulgan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"508d091315533ab2fa75b060ad4af917",
+    "wof:geomhash":"4926bf0dac24cfab04910383a7c3c761",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -359,7 +361,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939700,
+    "wof:lastmodified":1695884957,
     "wof:name":"Bulgan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

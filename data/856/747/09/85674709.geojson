@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.367224,
-    "geom:area_square_m":109186763963.771332,
+    "geom:area_square_m":109186762816.015015,
     "geom:bbox":"107.654808,42.396397,111.986236,46.633321",
     "geom:latitude":44.42959,
     "geom:longitude":109.805523,
@@ -338,17 +338,19 @@
         "gn:id":2031798,
         "gp:id":2346161,
         "hasc:id":"MN.DG",
+        "iso:code":"MN-063",
         "iso:id":"MN-063",
         "qs_pg:id":211645,
         "unlc:id":"MN-063",
         "wd:id":"Q213272",
         "wk:page":"Dornogovi Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44fbbc3493206b7bd1fdf960d96e6760",
+    "wof:geomhash":"8beb1752e635916cfd3cea8e82811356",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -363,7 +365,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939696,
+    "wof:lastmodified":1695884376,
     "wof:name":"Dornogovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":12.732823,
-    "geom:area_square_m":100696054396.656036,
+    "geom:area_square_m":100696054363.555725,
     "geom:bbox":"96.838046,48.252978,102.752031,52.148696",
     "geom:latitude":50.235021,
     "geom:longitude":99.912188,
@@ -335,16 +335,18 @@
         "gn:id":2030469,
         "gp:id":2346167,
         "hasc:id":"MN.HG",
+        "iso:code":"MN-041",
         "iso:id":"MN-041",
         "qs_pg:id":423813,
         "wd:id":"Q244788",
         "wk:page":"Kh\u00f6vsg\u00f6l Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f80728e2d800ca97a5c72e0ecdfb81a",
+    "wof:geomhash":"59bc2af8ea52de13e5422cc2ed9c9599",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -359,7 +361,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939698,
+    "wof:lastmodified":1695884534,
     "wof:name":"H\u00f6vsg\u00f6l",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

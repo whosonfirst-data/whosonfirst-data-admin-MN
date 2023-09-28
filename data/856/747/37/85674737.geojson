@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.98077,
-    "geom:area_square_m":75862104084.381058,
+    "geom:area_square_m":75862104798.581741,
     "geom:bbox":"90.654385,44.99941,94.30601,48.966417",
     "geom:latitude":46.901559,
     "geom:longitude":92.289261,
@@ -308,17 +308,19 @@
         "gn:id":1515696,
         "gp:id":2346166,
         "hasc:id":"MN.HD",
+        "iso:code":"MN-043",
         "iso:id":"MN-043",
         "qs_pg:id":219574,
         "unlc:id":"MN-043",
         "wd:id":"Q194098",
         "wk:page":"Khovd Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3b80a60868f3b7937fbd8e37528f365e",
+    "wof:geomhash":"0dfa128399355819e4763052b60c04d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -333,7 +335,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939697,
+    "wof:lastmodified":1695884957,
     "wof:name":"Hovd",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

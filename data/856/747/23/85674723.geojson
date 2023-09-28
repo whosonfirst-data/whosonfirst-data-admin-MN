@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":13.257848,
-    "geom:area_square_m":115380247408.664383,
+    "geom:area_square_m":115380248091.998291,
     "geom:bbox":"97.632146,42.565788,101.742119,47.739982",
     "geom:latitude":45.251727,
     "geom:longitude":99.516912,
@@ -331,17 +331,19 @@
         "gn:id":1516290,
         "gp:id":2346158,
         "hasc:id":"MN.BH",
+        "iso:code":"MN-069",
         "iso:id":"MN-069",
         "qs_pg:id":1222560,
         "unlc:id":"MN-069",
         "wd:id":"Q276200",
         "wk:page":"Bayankhongor Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"51b4b8c28edb98636e70dd7e32e8146a",
+    "wof:geomhash":"4bc930adaf19d57608ca69b4d78c894a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -356,7 +358,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939699,
+    "wof:lastmodified":1695884377,
     "wof:name":"Bayanhongor",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

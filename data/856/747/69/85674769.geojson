@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404839,
-    "geom:area_square_m":3256634885.809024,
+    "geom:area_square_m":3256634844.427663,
     "geom:bbox":"105.831499,49.124066,106.81992,49.920553",
     "geom:latitude":49.416174,
     "geom:longitude":106.282034,
@@ -333,16 +333,18 @@
         "gn:id":2055111,
         "gp:id":20070014,
         "hasc:id":"MN.DA",
+        "iso:code":"MN-037",
         "iso:id":"MN-037",
         "qs_pg:id":425212,
         "unlc:id":"MN-037",
         "wd:id":"Q18827"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d83b32cf71eec83a4367719dd3d993ec",
+    "wof:geomhash":"5fefda68a11e5c6674637604862838fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -357,7 +359,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939692,
+    "wof:lastmodified":1695884376,
     "wof:name":"Darhan-Uul",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

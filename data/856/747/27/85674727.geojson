@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":10.006662,
-    "geom:area_square_m":82309479306.189301,
+    "geom:area_square_m":82309479769.671021,
     "geom:bbox":"93.262098,46.565857,99.20779,50.043986",
     "geom:latitude":48.297391,
     "geom:longitude":96.445315,
@@ -330,17 +330,19 @@
         "gn:id":1516012,
         "gp:id":2346163,
         "hasc:id":"MN.DZ",
+        "iso:code":"MN-057",
         "iso:id":"MN-057",
         "qs_pg:id":219572,
         "unlc:id":"MN-057",
         "wd:id":"Q167764",
         "wk:page":"Zavkhan Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e8e44821ccdf0a1ee04383145cee2a5",
+    "wof:geomhash":"986bb85c275ec0d4caaedd12454dc902",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -355,7 +357,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939694,
+    "wof:lastmodified":1695884376,
     "wof:name":"Dzavxan",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

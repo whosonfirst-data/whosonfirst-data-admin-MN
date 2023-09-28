@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.148203,
-    "geom:area_square_m":41361753705.814621,
+    "geom:area_square_m":41361753705.819977,
     "geom:bbox":"104.410874,48.531821,108.574916,50.479269",
     "geom:latitude":49.475889,
     "geom:longitude":106.223984,
@@ -338,17 +338,19 @@
         "gn:id":2029432,
         "gp:id":2346170,
         "hasc:id":"MN.SL",
+        "iso:code":"MN-049",
         "iso:id":"MN-049",
         "qs_pg:id":1046893,
         "unlc:id":"MN-049",
         "wd:id":"Q234680",
         "wk:page":"Selenge Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7007c8e860bab053f2fb835a316ca5f3",
+    "wof:geomhash":"55418e51d89684a8adbbe3eaced1fedb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -363,7 +365,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939691,
+    "wof:lastmodified":1695884440,
     "wof:name":"Selenge",
     "wof:parent_id":85632439,
     "wof:placetype":"region",
