@@ -1204,6 +1204,7 @@
         "hasc:id":"MN",
         "icao:code":"JU",
         "ioc:id":"MGL",
+        "iso:code":"MN",
         "itu:id":"MNG",
         "m49:code":"496",
         "marc:id":"mp",
@@ -1217,6 +1218,7 @@
         "wk:page":"Mongolia",
         "wmo:id":"MO"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:country_alpha3":"MNG",
     "wof:geom_alt":[
@@ -1238,7 +1240,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1694639562,
+    "wof:lastmodified":1695881220,
     "wof:name":"Mongolia",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
