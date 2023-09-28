@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.277671,
-    "geom:area_square_m":2306813068.18926,
+    "geom:area_square_m":2306813419.971418,
     "geom:bbox":"103.648144,47.506206,104.501377,48.205378",
     "geom:latitude":47.788795,
     "geom:longitude":104.102271,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.BU.DA",
         "wd:id":"Q2606094"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897995,
-    "wof:geomhash":"54b33654e0ef64e4f3db6519376895e6",
+    "wof:geomhash":"ccab8cc172ae84ae118b8484d6ee6e67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092036631,
-    "wof:lastmodified":1690939756,
+    "wof:lastmodified":1695886017,
     "wof:name":"Dashinchilen",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

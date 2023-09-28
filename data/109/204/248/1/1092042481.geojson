@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.860098,
-    "geom:area_square_m":7402058499.229876,
+    "geom:area_square_m":7402058344.409463,
     "geom:bbox":"91.243354,45.062033,92.332579,46.692761",
     "geom:latitude":45.891953,
     "geom:longitude":91.806866,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.HD.UE",
         "wd:id":"Q3404181"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898224,
-    "wof:geomhash":"01490229525896ef645d4c4d2fad24bc",
+    "wof:geomhash":"b955161eed5acae051603854d08f0d13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092042481,
-    "wof:lastmodified":1690939715,
+    "wof:lastmodified":1695886844,
     "wof:name":"U'yench",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

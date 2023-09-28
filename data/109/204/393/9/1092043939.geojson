@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.200083,
-    "geom:area_square_m":1691766456.200923,
+    "geom:area_square_m":1691766043.118435,
     "geom:bbox":"102.371021,46.698002,103.358257,47.11213",
     "geom:latitude":46.858739,
     "geom:longitude":102.803831,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.OH.HU",
         "wd:id":"Q3396568"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898281,
-    "wof:geomhash":"9046d7f7c0a240158757d7612382ef64",
+    "wof:geomhash":"e18f0ad97d1c312a7e91da250ef165d6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092043939,
-    "wof:lastmodified":1690939714,
+    "wof:lastmodified":1695886031,
     "wof:name":"Xujirt",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

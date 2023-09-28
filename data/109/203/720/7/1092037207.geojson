@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.966727,
-    "geom:area_square_m":16880616647.280725,
+    "geom:area_square_m":16880616511.802727,
     "geom:bbox":"114.467152,45.376507,116.575969,46.629181",
     "geom:latitude":46.040922,
     "geom:longitude":115.436022,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.SB.ER",
         "wd:id":"Q3402197"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898020,
-    "wof:geomhash":"0c8d4e5d5145a8f3e0a8b23a254662e5",
+    "wof:geomhash":"01036590c6c68d912da36343e4f0ee7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092037207,
-    "wof:lastmodified":1690939763,
+    "wof:lastmodified":1695886018,
     "wof:name":"Erdenecagaan",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

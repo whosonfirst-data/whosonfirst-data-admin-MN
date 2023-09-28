@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.731272,
-    "geom:area_square_m":5608438478.368448,
+    "geom:area_square_m":5608438808.838678,
     "geom:bbox":"98.219276,51.131731,99.871532,52.148696",
     "geom:latitude":51.665772,
     "geom:longitude":99.012056,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.HG.TN",
         "wd:id":"Q2607710"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897948,
-    "wof:geomhash":"90050fa6dc117956e0c2821a838d4059",
+    "wof:geomhash":"9302e45d887a5928e612f42d448697f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092035395,
-    "wof:lastmodified":1690939745,
+    "wof:lastmodified":1695886847,
     "wof:name":"Cagaannuur",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

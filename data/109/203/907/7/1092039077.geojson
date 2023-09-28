@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.342151,
-    "geom:area_square_m":2815419493.212374,
+    "geom:area_square_m":2815419623.035602,
     "geom:bbox":"102.599918,47.854165,103.242027,48.659168",
     "geom:latitude":48.281744,
     "geom:longitude":102.927183,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.BU.MO",
         "wd:id":"Q2606090"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898092,
-    "wof:geomhash":"000c7575b846a5ef3c6bac298461ba7f",
+    "wof:geomhash":"4f603d98093a3e0a9ee757b01ff68bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092039077,
-    "wof:lastmodified":1690939727,
+    "wof:lastmodified":1695886021,
     "wof:name":"Mogod",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.444213,
-    "geom:area_square_m":3755951273.108742,
+    "geom:area_square_m":3755951368.66086,
     "geom:bbox":"104.650025,46.461981,105.691005,47.223806",
     "geom:latitude":46.858654,
     "geom:longitude":105.173592,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.TO.BU",
         "wd:id":"Q3396586"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897918,
-    "wof:geomhash":"91c4a24a716478d419ecfb7469872608",
+    "wof:geomhash":"18dc90397f7633fe09affecd3ea1a1a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092034745,
-    "wof:lastmodified":1690939753,
+    "wof:lastmodified":1695886014,
     "wof:name":"Bu'ren",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.472143,
-    "geom:area_square_m":3794738909.024424,
+    "geom:area_square_m":3794738891.515877,
     "geom:bbox":"98.803737,49.133993,100.527585,49.896313",
     "geom:latitude":49.458919,
     "geom:longitude":99.575042,
@@ -125,9 +125,10 @@
         "hasc:id":"MN.HG.BU",
         "wd:id":"Q2607968"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897920,
-    "wof:geomhash":"0dcf205e36515bf4ddf2cea54dad29a1",
+    "wof:geomhash":"004d280de897bdbadaf0dec7512c2657",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1092034765,
-    "wof:lastmodified":1690939731,
+    "wof:lastmodified":1695886846,
     "wof:name":"Bu'rentogtox",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

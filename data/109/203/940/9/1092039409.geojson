@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.016856,
-    "geom:area_square_m":18412756968.08263,
+    "geom:area_square_m":18412757038.843452,
     "geom:bbox":"104.188096,41.58152,105.954152,43.230625",
     "geom:latitude":42.41029,
     "geom:longitude":105.012197,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.OG.NG",
         "wd:id":"Q3402154"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898103,
-    "wof:geomhash":"dfb69ef7a12ac871937619ab000a5575",
+    "wof:geomhash":"1334f01c5aeb5769c9daabe09939fa0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092039409,
-    "wof:lastmodified":1690939742,
+    "wof:lastmodified":1695886021,
     "wof:name":"Nomgon",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

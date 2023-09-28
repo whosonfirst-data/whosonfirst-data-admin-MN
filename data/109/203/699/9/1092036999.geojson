@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.498188,
-    "geom:area_square_m":4092932943.281123,
+    "geom:area_square_m":4092933479.753502,
     "geom:bbox":"92.234096,48.028102,93.510298,48.649275",
     "geom:latitude":48.362292,
     "geom:longitude":92.836728,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.HD.DO",
         "wd:id":"Q3300878"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898010,
-    "wof:geomhash":"f92307f322bd6a548b57e722f5bc34af",
+    "wof:geomhash":"7ffe1d61f4f724932ccdd9a13ed1d2e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092036999,
-    "wof:lastmodified":1690939755,
+    "wof:lastmodified":1695886848,
     "wof:name":"Do'rgon",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

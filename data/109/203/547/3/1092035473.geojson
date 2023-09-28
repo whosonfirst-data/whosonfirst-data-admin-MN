@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.313905,
-    "geom:area_square_m":2625651668.789577,
+    "geom:area_square_m":2625651896.0943,
     "geom:bbox":"96.08322,47.199116,97.529675,47.6292",
     "geom:latitude":47.432822,
     "geom:longitude":96.788496,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.DZ.TH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897951,
-    "wof:geomhash":"b0b7d293bab86d44fbcc9c29921b794a",
+    "wof:geomhash":"f0e53cd5e79a732f784bcac6cdb34e4a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092035473,
-    "wof:lastmodified":1627522367,
+    "wof:lastmodified":1695886015,
     "wof:name":"Cagaanxairxan",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

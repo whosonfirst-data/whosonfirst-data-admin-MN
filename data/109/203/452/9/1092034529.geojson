@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.477553,
-    "geom:area_square_m":3808524321.648535,
+    "geom:area_square_m":3808524531.436281,
     "geom:bbox":"89.999186,49.424032,91.492108,50.200675",
     "geom:latitude":49.836987,
     "geom:longitude":90.624115,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.UV.BO",
         "wd:id":"Q3402203"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897909,
-    "wof:geomhash":"8b9cc578332e2c79bebd9c88fc7acb1e",
+    "wof:geomhash":"91933139037fe926113319c6b28e04f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092034529,
-    "wof:lastmodified":1690939736,
+    "wof:lastmodified":1695886014,
     "wof:name":"Bo'xmoron",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

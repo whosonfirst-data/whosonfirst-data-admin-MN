@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.115397,
-    "geom:area_square_m":924592955.587545,
+    "geom:area_square_m":924593372.902216,
     "geom:bbox":"95.38023,49.375293,95.831134,49.830734",
     "geom:latitude":49.611047,
     "geom:longitude":95.594522,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.DZ.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898202,
-    "wof:geomhash":"211b6216706b745d7411376c1049a858",
+    "wof:geomhash":"c624fc37d5307fed97e8279a2baab6d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092041897,
-    "wof:lastmodified":1627522376,
+    "wof:lastmodified":1695886026,
     "wof:name":"Tes",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

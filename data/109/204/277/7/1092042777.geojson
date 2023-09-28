@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.583135,
-    "geom:area_square_m":4956941579.673172,
+    "geom:area_square_m":4956942059.952463,
     "geom:bbox":"111.813479,46.09347,113.059824,46.913378",
     "geom:latitude":46.570838,
     "geom:longitude":112.39031,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.SB.UU",
         "wd:id":"Q3403882"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898235,
-    "wof:geomhash":"6a0d61bf7e614566042f87e57dc97a6d",
+    "wof:geomhash":"36e2e0e22b50cbd944c99d17f64a3f7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092042777,
-    "wof:lastmodified":1690939715,
+    "wof:lastmodified":1695886029,
     "wof:name":"Uulbayan",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

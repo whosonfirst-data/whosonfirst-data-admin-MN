@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.815524,
-    "geom:area_square_m":7281682039.311141,
+    "geom:area_square_m":7281681924.699512,
     "geom:bbox":"105.255314,43.363152,106.523362,44.245529",
     "geom:latitude":43.7719,
     "geom:longitude":105.878907,
@@ -113,9 +113,10 @@
         "hasc:id":"MN.OG.TT",
         "wd:id":"Q902868"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897978,
-    "wof:geomhash":"21635de92b0596938b984825f44f0764",
+    "wof:geomhash":"695b6d285964f3055babb40496d3e4f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1092036167,
-    "wof:lastmodified":1690939735,
+    "wof:lastmodified":1695886016,
     "wof:name":"Cogt-Cecii",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

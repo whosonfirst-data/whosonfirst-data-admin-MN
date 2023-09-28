@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287004,
-    "geom:area_square_m":2332938034.414855,
+    "geom:area_square_m":2332938194.571922,
     "geom:bbox":"90.605559,48.617942,91.345907,49.29369",
     "geom:latitude":48.899667,
     "geom:longitude":90.928173,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.BO.BN",
         "wd:id":"Q2089537"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897882,
-    "wof:geomhash":"c4e26992ab2f1d6a86b220a7b47e6784",
+    "wof:geomhash":"19b398ada30bd1ae462ab9dca557bfbf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092033889,
-    "wof:lastmodified":1690939764,
+    "wof:lastmodified":1695886848,
     "wof:name":"Bayannuur",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

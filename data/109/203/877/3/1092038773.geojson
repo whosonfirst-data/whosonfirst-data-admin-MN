@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.515655,
-    "geom:area_square_m":4316774158.885788,
+    "geom:area_square_m":4316774637.536184,
     "geom:bbox":"91.765812,46.913771,92.786274,47.809753",
     "geom:latitude":47.388685,
     "geom:longitude":92.266209,
@@ -128,9 +128,10 @@
         "hasc:id":"MN.HD.MA",
         "wd:id":"Q3300311"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898080,
-    "wof:geomhash":"8e6e2e5386e6c35617628414fdd2228d",
+    "wof:geomhash":"4a17269ec6d2423fa51583944db0da9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092038773,
-    "wof:lastmodified":1690939751,
+    "wof:lastmodified":1695886847,
     "wof:name":"Manxan",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

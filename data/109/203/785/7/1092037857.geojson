@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.650763,
-    "geom:area_square_m":5257102979.41856,
+    "geom:area_square_m":5257103390.017538,
     "geom:bbox":"114.267774,48.76546,115.577504,49.714504",
     "geom:latitude":49.207542,
     "geom:longitude":114.969772,
@@ -116,9 +116,10 @@
         "hasc:id":"MN.DD.GU",
         "wd:id":"Q3404308"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898046,
-    "wof:geomhash":"bcac1eac5836c7ec4dc81ff68866bafe",
+    "wof:geomhash":"47419db4a43b3b069791f98255116b92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1092037857,
-    "wof:lastmodified":1690939742,
+    "wof:lastmodified":1695886846,
     "wof:name":"Gurvanzagal",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

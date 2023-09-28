@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.443904,
-    "geom:area_square_m":3540836407.945043,
+    "geom:area_square_m":3540836197.271177,
     "geom:bbox":"100.043387,49.42726,101.377691,50.111685",
     "geom:latitude":49.827919,
     "geom:longitude":100.672569,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.HG.TU",
         "wd:id":"Q2607922"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898218,
-    "wof:geomhash":"68b7e90f042471051cb1e3a03a229575",
+    "wof:geomhash":"4ab6747051614253045b2d6a39fb2a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092042317,
-    "wof:lastmodified":1690939719,
+    "wof:lastmodified":1695886844,
     "wof:name":"Tu'nel",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

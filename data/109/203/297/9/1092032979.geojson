@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034058,
-    "geom:area_square_m":275980013.059945,
+    "geom:area_square_m":275980223.403423,
     "geom:bbox":"103.959526,48.9642,104.269578,49.157151",
     "geom:latitude":49.056202,
     "geom:longitude":104.110848,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.ER.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897845,
-    "wof:geomhash":"b2b19666e6c94a63055f9f249e29f92c",
+    "wof:geomhash":"d81ae56b58d6b46fa4db81aaa36ee136",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092032979,
-    "wof:lastmodified":1627522364,
+    "wof:lastmodified":1695886011,
     "wof:name":"Bayan-O'ndor",
     "wof:parent_id":85674751,
     "wof:placetype":"county",

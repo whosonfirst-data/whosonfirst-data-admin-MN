@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.387886,
-    "geom:area_square_m":3345672868.114331,
+    "geom:area_square_m":3345673072.563903,
     "geom:bbox":"105.811004,45.407893,106.924362,46.103636",
     "geom:latitude":45.768557,
     "geom:longitude":106.288566,
@@ -80,9 +80,10 @@
         "hasc:id":"MN.DU.SA",
         "wd:id":"Q7402468"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898150,
-    "wof:geomhash":"1630568ddf042f22fd6f129d5f770a75",
+    "wof:geomhash":"047053bc6afbc17be65ffc9ec8d07a1e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092040571,
-    "wof:lastmodified":1690939721,
+    "wof:lastmodified":1695886023,
     "wof:name":"Saintsagaan",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

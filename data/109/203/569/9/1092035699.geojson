@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.647851,
-    "geom:area_square_m":5617639625.537799,
+    "geom:area_square_m":5617639890.915531,
     "geom:bbox":"94.954844,45.030834,96.282182,45.814635",
     "geom:latitude":45.471738,
     "geom:longitude":95.67783,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.GA.TL",
         "wd:id":"Q3404143"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897960,
-    "wof:geomhash":"7342fe468479fd44339c74221e0732b9",
+    "wof:geomhash":"1a9d39290b959d02eb649eaeb750c115",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092035699,
-    "wof:lastmodified":1690939726,
+    "wof:lastmodified":1695886027,
     "wof:name":"Ceel",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

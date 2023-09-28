@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.411445,
-    "geom:area_square_m":3378438965.470573,
+    "geom:area_square_m":3378438642.878783,
     "geom:bbox":"100.919552,48.000769,101.961763,48.749341",
     "geom:latitude":48.389988,
     "geom:longitude":101.450181,
@@ -128,9 +128,10 @@
         "hasc:id":"MN.AR.EM",
         "wd:id":"Q2672420"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898027,
-    "wof:geomhash":"2de3254fcb31e51595baa5d36ade3c91",
+    "wof:geomhash":"65c09d2eefa7c8eeddb37a3c9ce922a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092037323,
-    "wof:lastmodified":1690939748,
+    "wof:lastmodified":1695886028,
     "wof:name":"Erdenemandal",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

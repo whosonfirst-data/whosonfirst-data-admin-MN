@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.421083,
-    "geom:area_square_m":3601201957.573987,
+    "geom:area_square_m":3601202094.987665,
     "geom:bbox":"106.395928,45.831789,107.190762,46.596608",
     "geom:latitude":46.239796,
     "geom:longitude":106.800587,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.DU.DR",
         "wd:id":"Q3410089"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898009,
-    "wof:geomhash":"8be8b55c5d20cc03fe0d2cf47258164b",
+    "wof:geomhash":"817cef8b20aae9310ca4505acbcfd3b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092036973,
-    "wof:lastmodified":1690939755,
+    "wof:lastmodified":1695886017,
     "wof:name":"Deren",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

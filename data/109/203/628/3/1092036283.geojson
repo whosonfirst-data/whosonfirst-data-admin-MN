@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.604689,
-    "geom:area_square_m":4896473028.684554,
+    "geom:area_square_m":4896472843.698845,
     "geom:bbox":"110.742406,48.690038,112.291941,49.414212",
     "geom:latitude":49.090545,
     "geom:longitude":111.511189,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.HN.DD",
         "wd:id":"Q2223424"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897982,
-    "wof:geomhash":"3de73ae8e74d493db5c8b94a12c1eac6",
+    "wof:geomhash":"fed0f05fc5b2e5590d0e0973324bb3e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092036283,
-    "wof:lastmodified":1690939732,
+    "wof:lastmodified":1695886846,
     "wof:name":"Dadal",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

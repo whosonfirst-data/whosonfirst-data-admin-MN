@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.32837,
-    "geom:area_square_m":2666653967.750444,
+    "geom:area_square_m":2666653674.888488,
     "geom:bbox":"96.111354,48.41945,96.855936,49.290016",
     "geom:latitude":48.946823,
     "geom:longitude":96.470888,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DZ.TT",
         "wd:id":"Q3402401"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898216,
-    "wof:geomhash":"2883a233f5d83b0446a1c0651a9adfd3",
+    "wof:geomhash":"ed01b1ee07ff64fd6b4f70d558585645",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092042231,
-    "wof:lastmodified":1690939716,
+    "wof:lastmodified":1695886028,
     "wof:name":"Tu'devtei",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

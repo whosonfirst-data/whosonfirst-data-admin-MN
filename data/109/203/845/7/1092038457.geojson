@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.59375,
-    "geom:area_square_m":5154195701.026935,
+    "geom:area_square_m":5154196135.529487,
     "geom:bbox":"99.591702,44.991588,100.97816,45.853432",
     "geom:latitude":45.409474,
     "geom:longitude":100.297294,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.BH.JI",
         "wd:id":"Q2089911"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898068,
-    "wof:geomhash":"75ccebeaa473c50b9eccf6520133af27",
+    "wof:geomhash":"1451d798e94fc2b8d5d574bd7ddb228f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092038457,
-    "wof:lastmodified":1690939732,
+    "wof:lastmodified":1695886020,
     "wof:name":"Jinst",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

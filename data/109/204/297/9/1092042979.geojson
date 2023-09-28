@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.32078,
-    "geom:area_square_m":27900772902.249687,
+    "geom:area_square_m":27900772786.151093,
     "geom:bbox":"116.848663,46.353984,119.931949,48.048079",
     "geom:latitude":47.195974,
     "geom:longitude":118.19928,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.DD.HA",
         "wd:id":"Q384528"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898242,
-    "wof:geomhash":"197225b215ababb45c385343089041a9",
+    "wof:geomhash":"556740046c95f4eb378eb08aea81dc38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092042979,
-    "wof:lastmodified":1690939721,
+    "wof:lastmodified":1695886845,
     "wof:name":"Xalx gol",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

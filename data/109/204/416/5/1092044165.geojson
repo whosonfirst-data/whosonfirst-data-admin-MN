@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.60028,
-    "geom:area_square_m":4954811862.679879,
+    "geom:area_square_m":4954813165.266928,
     "geom:bbox":"95.344462,47.698781,97.131648,48.604389",
     "geom:latitude":48.122709,
     "geom:longitude":96.437196,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.DZ.YA",
         "wd:id":"Q3403779"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898289,
-    "wof:geomhash":"cafd3f7357926cc62871337d293d2cf0",
+    "wof:geomhash":"35494441c01db4bdf833f10ee8db4bf8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092044165,
-    "wof:lastmodified":1690939717,
+    "wof:lastmodified":1695886032,
     "wof:name":"Yaruu",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

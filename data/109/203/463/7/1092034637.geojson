@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.139964,
-    "geom:area_square_m":1146880422.988572,
+    "geom:area_square_m":1146879946.665115,
     "geom:bbox":"105.988054,48.27816,106.534148,48.690847",
     "geom:latitude":48.495604,
     "geom:longitude":106.254213,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.TO.BR",
         "wd:id":"Q3396355"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897914,
-    "wof:geomhash":"85d07fef81d75808bffedf9a8c0ee71f",
+    "wof:geomhash":"028b1b7ee182bf6f183a05192831ec7c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092034637,
-    "wof:lastmodified":1690939736,
+    "wof:lastmodified":1695886014,
     "wof:name":"Bornuur",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

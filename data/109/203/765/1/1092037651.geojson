@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.54737,
-    "geom:area_square_m":4763000890.219834,
+    "geom:area_square_m":4763001276.969166,
     "geom:bbox":"101.854618,44.898208,102.880969,45.781688",
     "geom:latitude":45.273573,
     "geom:longitude":102.395456,
@@ -116,9 +116,10 @@
         "hasc:id":"MN.OH.GU",
         "wd:id":"Q3402397"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898039,
-    "wof:geomhash":"62bc90387080ff4c2c185436f314d59b",
+    "wof:geomhash":"9d21d88c0d6c4f7fe2d339117998f51c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1092037651,
-    "wof:lastmodified":1690939729,
+    "wof:lastmodified":1695886845,
     "wof:name":"Guchin-Us",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

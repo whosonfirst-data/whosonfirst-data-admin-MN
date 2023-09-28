@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.84928,
-    "geom:area_square_m":7289825272.651014,
+    "geom:area_square_m":7289825000.217173,
     "geom:bbox":"104.228313,45.457585,105.554625,46.589146",
     "geom:latitude":46.038402,
     "geom:longitude":104.955587,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DU.ER",
         "wd:id":"Q1000390"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898023,
-    "wof:geomhash":"75c85eed5db200cdf3b7b51b5e9239ac",
+    "wof:geomhash":"5452b8911151b16a87b75976dbbe839c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092037217,
-    "wof:lastmodified":1690939761,
+    "wof:lastmodified":1695886023,
     "wof:name":"Erdenedalai",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

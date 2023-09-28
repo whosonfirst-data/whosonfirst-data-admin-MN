@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MN.UV.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897997,
     "wof:geomhash":"66885caadbb4a22372e12af8ce60a990",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092036665,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886284,
     "wof:name":"Davst",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

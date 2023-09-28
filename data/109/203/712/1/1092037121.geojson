@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.33541,
-    "geom:area_square_m":2750203661.92065,
+    "geom:area_square_m":2750203360.680536,
     "geom:bbox":"90.654385,48.197754,91.681866,48.708334",
     "geom:latitude":48.462218,
     "geom:longitude":91.195973,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.HD.ER",
         "wd:id":"Q3300811"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898014,
-    "wof:geomhash":"fc5f6a74c5523bb7fe3bccb2694fe81c",
+    "wof:geomhash":"83fdc28fe00e2a1261e236a3a252c8d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092037121,
-    "wof:lastmodified":1690939743,
+    "wof:lastmodified":1695886847,
     "wof:name":"Erdenebu'ren",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

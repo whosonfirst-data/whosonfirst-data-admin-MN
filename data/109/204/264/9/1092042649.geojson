@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.740158,
-    "geom:area_square_m":5991308043.778498,
+    "geom:area_square_m":5991308280.78193,
     "geom:bbox":"87.812034,48.204838,89.836789,49.557974",
     "geom:latitude":49.10761,
     "geom:longitude":88.927575,
@@ -125,9 +125,10 @@
         "hasc:id":"MN.BO.UH",
         "wd:id":"Q2089793"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898230,
-    "wof:geomhash":"9762d8a489c298a5185fe3db9065e123",
+    "wof:geomhash":"156cb5e64f66059ea1f776f4d02392c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1092042649,
-    "wof:lastmodified":1690939721,
+    "wof:lastmodified":1695886844,
     "wof:name":"Ulaanxus",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

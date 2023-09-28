@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.938139,
-    "geom:area_square_m":8421921466.141516,
+    "geom:area_square_m":8421920974.277326,
     "geom:bbox":"108.848846,42.833215,110.958146,44.013686",
     "geom:latitude":43.446363,
     "geom:longitude":109.901235,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DG.HO",
         "wd:id":"Q3410111"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898262,
-    "wof:geomhash":"4fa8ef87a4537ede77df50e088c546a1",
+    "wof:geomhash":"9abfde4f094d668f509b7b7f25394d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092043555,
-    "wof:lastmodified":1690939702,
+    "wof:lastmodified":1695886843,
     "wof:name":"Xo'vsgol",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.859913,
-    "geom:area_square_m":6998034715.411454,
+    "geom:area_square_m":6998034087.858441,
     "geom:bbox":"109.08034,48.241928,110.412614,49.355252",
     "geom:latitude":48.841071,
     "geom:longitude":109.812703,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.HN.BS",
         "wd:id":"Q3404203"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897835,
-    "wof:geomhash":"f84ceb2a3219c5a53d292c07b0bafef4",
+    "wof:geomhash":"fb056454a21f1eaca579e592a85437d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092032725,
-    "wof:lastmodified":1690939734,
+    "wof:lastmodified":1695886846,
     "wof:name":"Batshireet",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

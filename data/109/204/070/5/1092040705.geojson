@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.084694,
-    "geom:area_square_m":9510750054.131153,
+    "geom:area_square_m":9510749732.344849,
     "geom:bbox":"108.394076,44.218486,110.084142,45.343489",
     "geom:latitude":44.837851,
     "geom:longitude":109.234865,
@@ -113,9 +113,10 @@
         "hasc:id":"MN.DG.SD",
         "wd:id":"Q3410079"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898154,
-    "wof:geomhash":"182f4add40837eaae8eea93568f174a8",
+    "wof:geomhash":"80dd9540752430c4824f53657d7120c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1092040705,
-    "wof:lastmodified":1690939704,
+    "wof:lastmodified":1695886024,
     "wof:name":"Saixandulaan",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

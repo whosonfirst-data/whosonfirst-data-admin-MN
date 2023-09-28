@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.303608,
-    "geom:area_square_m":11614634653.47447,
+    "geom:area_square_m":11614635061.137821,
     "geom:bbox":"109.15286,43.281321,111.440266,44.591443",
     "geom:latitude":43.900247,
     "geom:longitude":110.278718,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DG.UB",
         "wd:id":"Q3410077"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898229,
-    "wof:geomhash":"f19b18e7499230e20460e907bf21aecd",
+    "wof:geomhash":"d605a62fa0a4b3ada8be5ef5b2ebb7ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092042609,
-    "wof:lastmodified":1690939707,
+    "wof:lastmodified":1695886029,
     "wof:name":"Ulaanbadrax",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

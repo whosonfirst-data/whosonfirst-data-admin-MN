@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.299924,
-    "geom:area_square_m":2534210316.612985,
+    "geom:area_square_m":2534210312.025124,
     "geom:bbox":"98.814338,46.581012,99.558223,47.269199",
     "geom:latitude":46.895408,
     "geom:longitude":99.158491,
@@ -110,9 +110,10 @@
         "hasc:id":"MN.BH.ZA",
         "wd:id":"Q2093530"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898296,
-    "wof:geomhash":"782e7b93b70f82beebad606b39b7d29c",
+    "wof:geomhash":"8432f1251ad196eeccdfe698f50cd204",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092044381,
-    "wof:lastmodified":1690939709,
+    "wof:lastmodified":1695886032,
     "wof:name":"Zag",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

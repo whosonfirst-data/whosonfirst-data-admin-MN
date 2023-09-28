@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.674625,
-    "geom:area_square_m":5605027086.931211,
+    "geom:area_square_m":5605026712.134016,
     "geom:bbox":"90.048519,47.281703,91.253553,48.206888",
     "geom:latitude":47.784568,
     "geom:longitude":90.623033,
@@ -116,9 +116,10 @@
         "hasc:id":"MN.BO.DE",
         "wd:id":"Q2089882"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898007,
-    "wof:geomhash":"c36a070ab163305d4ffea72cb1997192",
+    "wof:geomhash":"adb662f83586e7deac0ba9c1ed600c05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1092036931,
-    "wof:lastmodified":1690939737,
+    "wof:lastmodified":1695886846,
     "wof:name":"Delu'un",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

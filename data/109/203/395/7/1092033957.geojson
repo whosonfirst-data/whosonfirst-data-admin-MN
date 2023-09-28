@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105691,
-    "geom:area_square_m":896286231.66827,
+    "geom:area_square_m":896286533.964501,
     "geom:bbox":"107.893595,46.504719,108.50285,46.830848",
     "geom:latitude":46.700133,
     "geom:longitude":108.279572,
@@ -92,9 +92,10 @@
         "hasc:id":"MN.GS.BT",
         "wd:id":"Q3410043"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897884,
-    "wof:geomhash":"b6bf9794cde1b26f474d1aba749134da",
+    "wof:geomhash":"82d83bcd951751d549a277bfa0e636de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1092033957,
-    "wof:lastmodified":1690939745,
+    "wof:lastmodified":1695886013,
     "wof:name":"Bayantal",
     "wof:parent_id":85674779,
     "wof:placetype":"county",

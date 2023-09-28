@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389345,
-    "geom:area_square_m":3190887464.038523,
+    "geom:area_square_m":3190887261.688654,
     "geom:bbox":"88.624922,47.97526,90.025664,49.060015",
     "geom:latitude":48.486291,
     "geom:longitude":89.255967,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.BO.SA",
         "wd:id":"Q2089863"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898141,
-    "wof:geomhash":"7ae772a34909cc436e0aa3cc4f69823c",
+    "wof:geomhash":"985175d6accd7490313e84c0f37cb72b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092040419,
-    "wof:lastmodified":1690939704,
+    "wof:lastmodified":1695886843,
     "wof:name":"Sagsai",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.702477,
-    "geom:area_square_m":22735477807.597282,
+    "geom:area_square_m":22735477866.324825,
     "geom:bbox":"114.445912,46.285924,116.995509,47.9177",
     "geom:latitude":47.126827,
     "geom:longitude":115.897985,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.DD.MA",
         "wd:id":"Q3410012"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898081,
-    "wof:geomhash":"0be348e4aaa132d080d1c31b2e802264",
+    "wof:geomhash":"8869a5c9930d5cd4cfb487595d3184fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092038813,
-    "wof:lastmodified":1690939734,
+    "wof:lastmodified":1695886021,
     "wof:name":"Matad",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.626811,
-    "geom:area_square_m":5401482870.824541,
+    "geom:area_square_m":5401482079.840452,
     "geom:bbox":"94.211759,45.25903,95.432858,46.199306",
     "geom:latitude":45.820224,
     "geom:longitude":94.851385,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.GA.TG",
         "wd:id":"Q3404055"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898203,
-    "wof:geomhash":"74711140d65ec1da6ff374655e00fabc",
+    "wof:geomhash":"d39239784c919c0813df1529b5e157a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092041923,
-    "wof:lastmodified":1690939701,
+    "wof:lastmodified":1695886027,
     "wof:name":"To'grog",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

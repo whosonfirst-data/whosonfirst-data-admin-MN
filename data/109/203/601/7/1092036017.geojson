@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010898,
-    "geom:area_square_m":90122659.652527,
+    "geom:area_square_m":90122582.555065,
     "geom:bbox":"106.831531,47.91611,106.931145,48.138586",
     "geom:latitude":48.026869,
     "geom:longitude":106.882561,
@@ -110,9 +110,10 @@
         "hasc:id":"MN.UB.CH",
         "wd:id":"Q2637612"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897972,
-    "wof:geomhash":"623d93c40b69956885e9f5a25d85b3a7",
+    "wof:geomhash":"e4cf0703febeb00eb600b4c574ea4577",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092036017,
-    "wof:lastmodified":1690939757,
+    "wof:lastmodified":1695886015,
     "wof:name":"Chingeltei",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

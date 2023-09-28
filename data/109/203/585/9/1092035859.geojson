@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.383511,
-    "geom:area_square_m":3183385015.046121,
+    "geom:area_square_m":3183384368.074433,
     "geom:bbox":"108.408157,47.562902,109.332127,48.252418",
     "geom:latitude":47.833028,
     "geom:longitude":108.911944,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.HN.TS",
         "wd:id":"Q3404259"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897966,
-    "wof:geomhash":"1adde254617a54de4ecc7a07166d7432",
+    "wof:geomhash":"b6355808f90bd92b67ec69b2a171a395",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092035859,
-    "wof:lastmodified":1690939760,
+    "wof:lastmodified":1695886848,
     "wof:name":"Cenxermandal",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

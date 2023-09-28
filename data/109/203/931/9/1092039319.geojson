@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.400788,
-    "geom:area_square_m":3259759619.05757,
+    "geom:area_square_m":3259759603.997206,
     "geom:bbox":"96.474325,48.568384,97.349771,49.210352",
     "geom:latitude":48.870202,
     "geom:longitude":96.981462,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.DZ.NO",
         "wd:id":"Q3403853"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898101,
-    "wof:geomhash":"477ceeddc71f166e00d42a46247b9893",
+    "wof:geomhash":"5b3410661be067aeeccc4b3e8cd90781",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092039319,
-    "wof:lastmodified":1690939726,
+    "wof:lastmodified":1695886021,
     "wof:name":"No'mrog",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

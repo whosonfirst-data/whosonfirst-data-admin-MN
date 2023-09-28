@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054725,
-    "geom:area_square_m":437607549.576516,
+    "geom:area_square_m":437607340.873972,
     "geom:bbox":"105.831499,49.519688,106.240385,49.920553",
     "geom:latitude":49.707624,
     "geom:longitude":106.029969,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.DA.OR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898129,
-    "wof:geomhash":"5934266bce10967a8464267e2f35f9b1",
+    "wof:geomhash":"b46985c73bbab31ab44ea2f4999dc50d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092040117,
-    "wof:lastmodified":1627522374,
+    "wof:lastmodified":1695886023,
     "wof:name":"Orxon",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

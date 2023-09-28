@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147708,
-    "geom:area_square_m":1180256247.957817,
+    "geom:area_square_m":1180256444.986718,
     "geom:bbox":"106.028649,49.523198,106.616729,49.955894",
     "geom:latitude":49.743582,
     "geom:longitude":106.359151,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.SL.JA",
         "wd:id":"Q2747990"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898067,
-    "wof:geomhash":"ad3a1640da230b129c11f4899b0eb57e",
+    "wof:geomhash":"56a9466f1627665b9a308fe6e83ade3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092038413,
-    "wof:lastmodified":1690939750,
+    "wof:lastmodified":1695886847,
     "wof:name":"Javxlant",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

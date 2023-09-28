@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.254497,
-    "geom:area_square_m":2063067470.623796,
+    "geom:area_square_m":2063067091.495975,
     "geom:bbox":"99.094371,48.827654,100.072792,49.250119",
     "geom:latitude":49.035806,
     "geom:longitude":99.511768,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.HG.SI",
         "wd:id":"Q2607747"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898173,
-    "wof:geomhash":"8e8a90b0964cf938e211fd635368cf22",
+    "wof:geomhash":"27f25c20a73bd51a2fc1712219d23f2b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092041227,
-    "wof:lastmodified":1690939724,
+    "wof:lastmodified":1695886845,
     "wof:name":"Shine-Ider",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

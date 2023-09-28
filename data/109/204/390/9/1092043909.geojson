@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.386823,
-    "geom:area_square_m":12637005203.731953,
+    "geom:area_square_m":12637005546.243517,
     "geom:bbox":"103.008761,41.799409,104.395769,43.484421",
     "geom:latitude":42.528161,
     "geom:longitude":103.830295,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.OG.HU",
         "wd:id":"Q3403822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898280,
-    "wof:geomhash":"28571aaf56f6787cd34b9c17da6096ec",
+    "wof:geomhash":"17f1c48776f897007b580667493eae83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092043909,
-    "wof:lastmodified":1690939703,
+    "wof:lastmodified":1695886031,
     "wof:name":"Xu'rmen",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

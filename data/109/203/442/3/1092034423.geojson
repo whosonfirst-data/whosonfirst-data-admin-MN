@@ -109,6 +109,7 @@
         "hasc:id":"MN.HG.BZ",
         "wd:id":"Q2607977"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897903,
     "wof:geomhash":"07a83ff052b3900359d71ab419589253",
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":1092034423,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886847,
     "wof:name":"Bayanzu'rx",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

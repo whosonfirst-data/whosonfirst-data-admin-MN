@@ -94,6 +94,7 @@
         "hasc:id":"MN.SL.MA",
         "wd:id":"Q2748006"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898309,
     "wof:geomhash":"d889720f6829710295de242b4ddcf710",
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1092044757,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886844,
     "wof:name":"Zu'unxaraa",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

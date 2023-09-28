@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.15411,
-    "geom:area_square_m":10327260665.832394,
+    "geom:area_square_m":10327260938.324472,
     "geom:bbox":"103.839381,43.114291,105.389724,44.273099",
     "geom:latitude":43.641499,
     "geom:longitude":104.635502,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.OG.HH",
         "wd:id":"Q3402358"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898251,
-    "wof:geomhash":"8a8bfcc81893e109c986c13eff312097",
+    "wof:geomhash":"f53a029c1b09e510ccaa295cd8cd436c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092043239,
-    "wof:lastmodified":1690939710,
+    "wof:lastmodified":1695886030,
     "wof:name":"Xanxongor",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

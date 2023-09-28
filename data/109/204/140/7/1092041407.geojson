@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.439535,
-    "geom:area_square_m":3740448127.988245,
+    "geom:area_square_m":3740448034.339782,
     "geom:bbox":"108.143995,46.004292,109.115129,46.999113",
     "geom:latitude":46.509962,
     "geom:longitude":108.649667,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.GS.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898184,
-    "wof:geomhash":"f2cb5d9fb99ac32ab3e95bcfe7b2d417",
+    "wof:geomhash":"a9b5981601d199d794b352da67c5c648",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092041407,
-    "wof:lastmodified":1627522376,
+    "wof:lastmodified":1695886025,
     "wof:name":"Su'mber",
     "wof:parent_id":85674779,
     "wof:placetype":"county",

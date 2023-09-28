@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.871064,
-    "geom:area_square_m":7211308597.901757,
+    "geom:area_square_m":7211308859.154507,
     "geom:bbox":"93.262098,47.551019,95.437657,48.550154",
     "geom:latitude":47.969636,
     "geom:longitude":94.095149,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DZ.DO",
         "wd:id":"Q3402346"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898011,
-    "wof:geomhash":"fe5f24595032905f8b17ec8482b001e8",
+    "wof:geomhash":"48164f96925d200a435ecd9fd0142faa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092037039,
-    "wof:lastmodified":1690939749,
+    "wof:lastmodified":1695886017,
     "wof:name":"Do'rvoljin",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

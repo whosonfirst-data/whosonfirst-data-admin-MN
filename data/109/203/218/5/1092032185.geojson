@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005953,
-    "geom:area_square_m":50902473.210625,
+    "geom:area_square_m":50902627.094011,
     "geom:bbox":"102.749094,46.207055,102.857957,46.294698",
     "geom:latitude":46.252609,
     "geom:longitude":102.798429,
@@ -167,9 +167,10 @@
         "hasc:id":"MN.OH.AR",
         "wd:id":"Q717684"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897815,
-    "wof:geomhash":"1ba3127538f51a2f364be6f9b5859672",
+    "wof:geomhash":"425629a72fc0f420a9dd7d83e80ab897",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":1092032185,
-    "wof:lastmodified":1690939731,
+    "wof:lastmodified":1695886846,
     "wof:name":"Arvaixeer",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298035,
-    "geom:area_square_m":2418301106.253175,
+    "geom:area_square_m":2418301252.887331,
     "geom:bbox":"95.426264,48.727804,96.26244,49.250986",
     "geom:latitude":48.988481,
     "geom:longitude":95.841634,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DZ.SO",
         "wd:id":"Q3403993"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898183,
-    "wof:geomhash":"034aee88191dca630a700d0bfeaef692",
+    "wof:geomhash":"786ba0861416d47189daba0710477c39",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092041367,
-    "wof:lastmodified":1690939712,
+    "wof:lastmodified":1695886025,
     "wof:name":"Songino",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

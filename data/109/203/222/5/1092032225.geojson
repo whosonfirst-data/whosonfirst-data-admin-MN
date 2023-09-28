@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.098396,
-    "geom:area_square_m":822401896.965295,
+    "geom:area_square_m":822402019.925656,
     "geom:bbox":"107.683623,47.31908,108.147899,47.618745",
     "geom:latitude":47.472842,
     "geom:longitude":107.947566,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.TO.AH",
         "wd:id":"Q3875058"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897817,
-    "wof:geomhash":"6aba08f69e059b66b8429a1bdc70fa9a",
+    "wof:geomhash":"a5a8ce22dfa3083cb4caa7b7c9cf032b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092032225,
-    "wof:lastmodified":1690939753,
+    "wof:lastmodified":1695886009,
     "wof:name":"Arxust",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

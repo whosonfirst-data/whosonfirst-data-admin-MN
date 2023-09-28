@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30494,
-    "geom:area_square_m":2618192496.313841,
+    "geom:area_square_m":2618192658.017687,
     "geom:bbox":"103.278821,45.718094,104.297111,46.253488",
     "geom:latitude":46.023425,
     "geom:longitude":103.829505,
@@ -92,9 +92,10 @@
         "hasc:id":"MN.OH.SA",
         "wd:id":"Q3403754"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898159,
-    "wof:geomhash":"f5b8c02633bdcf240e7ff7cedd744695",
+    "wof:geomhash":"cc5e9f65fefa8e85e63d25661bfe28a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1092040827,
-    "wof:lastmodified":1690939705,
+    "wof:lastmodified":1695886024,
     "wof:name":"Sant",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

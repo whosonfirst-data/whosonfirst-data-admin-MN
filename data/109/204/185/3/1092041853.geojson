@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MN.UV.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898200,
     "wof:geomhash":"bec06402d8c792ee1b6032decd57fa3f",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092041853,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886411,
     "wof:name":"Tes",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.448549,
-    "geom:area_square_m":3698255133.873488,
+    "geom:area_square_m":3698254459.961829,
     "geom:bbox":"97.042743,47.840951,98.067362,48.530802",
     "geom:latitude":48.180399,
     "geom:longitude":97.55656,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.DZ.ID",
         "wd:id":"Q3402189"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898048,
-    "wof:geomhash":"13b65cddec609a51e77ae623caa9e08b",
+    "wof:geomhash":"12f3b1b726fb1cb102945a74700f367f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092037897,
-    "wof:lastmodified":1690939761,
+    "wof:lastmodified":1695886019,
     "wof:name":"Ider",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

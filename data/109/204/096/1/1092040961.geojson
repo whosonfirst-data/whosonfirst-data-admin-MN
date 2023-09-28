@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.509155,
-    "geom:area_square_m":4160550490.195018,
+    "geom:area_square_m":4160550721.217708,
     "geom:bbox":"113.624442,48.190847,114.554068,49.079008",
     "geom:latitude":48.635276,
     "geom:longitude":114.108153,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DD.SE",
         "wd:id":"Q3410035"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898163,
-    "wof:geomhash":"feb9e133a015147193844f6bd7202a0b",
+    "wof:geomhash":"694c0d8d46f8034647be0a9e13948180",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092040961,
-    "wof:lastmodified":1690939706,
+    "wof:lastmodified":1695886024,
     "wof:name":"Sergelen",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

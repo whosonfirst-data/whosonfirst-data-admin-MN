@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.392965,
-    "geom:area_square_m":12401038684.773638,
+    "geom:area_square_m":12401038436.620543,
     "geom:bbox":"106.304752,43.373185,107.989203,44.530164",
     "geom:latitude":43.946937,
     "geom:longitude":107.128768,
@@ -92,9 +92,10 @@
         "hasc:id":"MN.OG.MA",
         "wd:id":"Q3403922"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898078,
-    "wof:geomhash":"8b401930c18e56d3415025e99ba4c7e5",
+    "wof:geomhash":"29522c885e024cccf7bd0098d21381f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1092038737,
-    "wof:lastmodified":1690939732,
+    "wof:lastmodified":1695886020,
     "wof:name":"Manlai",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

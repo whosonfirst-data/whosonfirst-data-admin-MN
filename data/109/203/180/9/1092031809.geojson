@@ -97,6 +97,7 @@
         "hasc:id":"MN.DZ.AL",
         "wd:id":"Q3403731"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897800,
     "wof:geomhash":"2cfa432e178ae32c2f363534a26d1ecd",
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":1092031809,
-    "wof:lastmodified":1694498059,
+    "wof:lastmodified":1695886009,
     "wof:name":"Aldarxaan",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

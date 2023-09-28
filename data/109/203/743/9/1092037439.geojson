@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.504058,
-    "geom:area_square_m":4157583749.412865,
+    "geom:area_square_m":4157583478.155667,
     "geom:bbox":"94.942378,47.791159,96.478779,48.554333",
     "geom:latitude":48.159886,
     "geom:longitude":95.794103,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.DZ.ER",
         "wd:id":"Q3402183"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898032,
-    "wof:geomhash":"171403c479cb8f5e3062daafc022941d",
+    "wof:geomhash":"b69226c55bba8b4b458e6962d886f41b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092037439,
-    "wof:lastmodified":1690939759,
+    "wof:lastmodified":1695886018,
     "wof:name":"Erdenexairxan",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

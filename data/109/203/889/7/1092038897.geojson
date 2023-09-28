@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.877609,
-    "geom:area_square_m":7383682327.220707,
+    "geom:area_square_m":7383681997.33577,
     "geom:bbox":"111.389169,46.688776,113.173136,47.645942",
     "geom:latitude":47.123908,
     "geom:longitude":112.256841,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.SB.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898084,
-    "wof:geomhash":"3fc8f49c65edde6f6031bf1a5eeb2b67",
+    "wof:geomhash":"c30f09231e8077341a82ddcaa1495e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092038897,
-    "wof:lastmodified":1627522372,
+    "wof:lastmodified":1695886021,
     "wof:name":"Mo'nxxaan",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

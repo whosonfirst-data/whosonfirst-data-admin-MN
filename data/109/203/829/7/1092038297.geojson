@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.321638,
-    "geom:area_square_m":2632915017.891091,
+    "geom:area_square_m":2632914947.304802,
     "geom:bbox":"99.065563,48.252978,99.790901,48.862235",
     "geom:latitude":48.546036,
     "geom:longitude":99.395633,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.HG.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898063,
-    "wof:geomhash":"c66a45baf5976df7d4a551fe0eb13f45",
+    "wof:geomhash":"c54ba0aecdcc27a58ac33d83b9159e08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092038297,
-    "wof:lastmodified":1627522371,
+    "wof:lastmodified":1695886020,
     "wof:name":"Jargalant",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

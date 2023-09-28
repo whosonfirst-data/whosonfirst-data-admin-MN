@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.630701,
-    "geom:area_square_m":5464048743.930033,
+    "geom:area_square_m":5464049093.128974,
     "geom:bbox":"106.384917,45.227704,107.822294,45.939792",
     "geom:latitude":45.522013,
     "geom:longitude":107.115257,
@@ -110,9 +110,10 @@
         "hasc:id":"MN.DU.GS",
         "wd:id":"Q3404406"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898044,
-    "wof:geomhash":"6ab911a71c170bb2296d629c21da1a07",
+    "wof:geomhash":"193c56db8e9f51cd0047731c4a24c389",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092037785,
-    "wof:lastmodified":1690939741,
+    "wof:lastmodified":1695886019,
     "wof:name":"Gurvansaixan",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

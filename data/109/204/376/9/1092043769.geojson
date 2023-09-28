@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.343795,
-    "geom:area_square_m":2839123141.441184,
+    "geom:area_square_m":2839123366.84573,
     "geom:bbox":"90.806381,47.703052,91.904834,48.361309",
     "geom:latitude":48.097927,
     "geom:longitude":91.316079,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.HD.HO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898276,
-    "wof:geomhash":"c1b039f1e89e0e7ff9e11c3adfe8537e",
+    "wof:geomhash":"979fa3e6389506d9d77850fbe6db157f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092043769,
-    "wof:lastmodified":1627522380,
+    "wof:lastmodified":1695886031,
     "wof:name":"Xovd",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

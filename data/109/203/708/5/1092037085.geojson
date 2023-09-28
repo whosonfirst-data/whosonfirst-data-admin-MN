@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25563,
-    "geom:area_square_m":2135250889.208084,
+    "geom:area_square_m":2135250877.371281,
     "geom:bbox":"91.171721,47.240636,91.886601,47.851679",
     "geom:latitude":47.505583,
     "geom:longitude":91.484686,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.HD.DU",
         "wd:id":"Q3300822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898013,
-    "wof:geomhash":"ecea70c272931cbdac82d56080ffb420",
+    "wof:geomhash":"b7c084589afd51a45c88442f97880976",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092037085,
-    "wof:lastmodified":1690939729,
+    "wof:lastmodified":1695886845,
     "wof:name":"Duut",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

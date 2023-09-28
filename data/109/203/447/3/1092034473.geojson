@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.662571,
-    "geom:area_square_m":5418806017.353071,
+    "geom:area_square_m":5418805778.20073,
     "geom:bbox":"110.286506,47.893751,111.032314,49.255053",
     "geom:latitude":48.591649,
     "geom:longitude":110.643929,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.HN.BI",
         "wd:id":"Q3404134"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897906,
-    "wof:geomhash":"aec9bbb4848fea11cd0dc335bb09bdbd",
+    "wof:geomhash":"0a28bd0b833b3458999e279e96db3a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092034473,
-    "wof:lastmodified":1690939731,
+    "wof:lastmodified":1695886846,
     "wof:name":"Binder",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

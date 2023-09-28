@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.444781,
-    "geom:area_square_m":3801266448.514312,
+    "geom:area_square_m":3801266358.685515,
     "geom:bbox":"112.441819,45.96895,113.471785,46.635123",
     "geom:latitude":46.27751,
     "geom:longitude":113.000588,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.SB.HA",
         "wd:id":"Q3396596"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898243,
-    "wof:geomhash":"035bb9193510ea7c574e42cb75f0e2ac",
+    "wof:geomhash":"cf074116e47f58a0d0da3a1efec198f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092043027,
-    "wof:lastmodified":1690939714,
+    "wof:lastmodified":1695886030,
     "wof:name":"Xalzan",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

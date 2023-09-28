@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.695327,
-    "geom:area_square_m":6067731627.099205,
+    "geom:area_square_m":6067732073.571606,
     "geom:bbox":"105.016905,44.688409,106.135957,45.670092",
     "geom:latitude":45.111251,
     "geom:longitude":105.502068,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.DU.HU",
         "wd:id":"Q3404270"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898283,
-    "wof:geomhash":"12662cb2e7d03cc6c64ea9be9acbed63",
+    "wof:geomhash":"bd6b2988da8c6ec378c790b56ae17012",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092043987,
-    "wof:lastmodified":1690939701,
+    "wof:lastmodified":1695886031,
     "wof:name":"Xuld",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

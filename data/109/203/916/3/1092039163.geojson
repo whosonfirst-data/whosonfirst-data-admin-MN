@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083106,
-    "geom:area_square_m":690103834.562821,
+    "geom:area_square_m":690103409.340553,
     "geom:bbox":"107.214773,47.645311,107.617978,47.997778",
     "geom:latitude":47.812702,
     "geom:longitude":107.421284,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.UB.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898095,
-    "wof:geomhash":"0ce9fc607a9d226e3112a0f477804dda",
+    "wof:geomhash":"e30e1a5dfad73128518257be53f587bc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092039163,
-    "wof:lastmodified":1627522372,
+    "wof:lastmodified":1695886021,
     "wof:name":"Nalaix",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

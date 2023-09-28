@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.468135,
-    "geom:area_square_m":4021460482.93153,
+    "geom:area_square_m":4021460067.506562,
     "geom:bbox":"108.507987,45.518737,109.683668,46.504077",
     "geom:latitude":45.994418,
     "geom:longitude":108.96006,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DG.DA",
         "wd:id":"Q3396380"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897984,
-    "wof:geomhash":"347f452bfbcfc468463bd0598a295ff3",
+    "wof:geomhash":"4da7a34123153d16c93ecf87d26aae9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092036325,
-    "wof:lastmodified":1690939738,
+    "wof:lastmodified":1695886016,
     "wof:name":"Dalanjargalan",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

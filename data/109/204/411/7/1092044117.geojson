@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401182,
-    "geom:area_square_m":3219084716.817281,
+    "geom:area_square_m":3219084705.57299,
     "geom:bbox":"93.385922,49.180076,94.315949,49.846143",
     "geom:latitude":49.539669,
     "geom:longitude":93.844034,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.UV.HY",
         "wd:id":"Q3402411"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898287,
-    "wof:geomhash":"8a591791c2babcd1f8cd78addb8ae9d3",
+    "wof:geomhash":"11c15fdea62a5d8309877dcb30ef16e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092044117,
-    "wof:lastmodified":1690939717,
+    "wof:lastmodified":1695886032,
     "wof:name":"Xyargas",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

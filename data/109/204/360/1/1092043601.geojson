@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.750904,
-    "geom:area_square_m":6281445201.216448,
+    "geom:area_square_m":6281444729.498436,
     "geom:bbox":"93.513113,46.989935,95.185257,47.791517",
     "geom:latitude":47.428243,
     "geom:longitude":94.374216,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.GA.HO",
         "wd:id":"Q3404372"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898264,
-    "wof:geomhash":"9afb3ebba6262a450cb58b91ab4188ac",
+    "wof:geomhash":"aafd42e171e75e6b2a64fd30ce25d842",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092043601,
-    "wof:lastmodified":1690939714,
+    "wof:lastmodified":1695886031,
     "wof:name":"Xo'xmorit",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.057885,
-    "geom:area_square_m":18619623059.389172,
+    "geom:area_square_m":18619623304.296589,
     "geom:bbox":"107.988036,42.396397,110.464382,43.651885",
     "geom:latitude":42.967834,
     "geom:longitude":109.007985,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DG.HA",
         "wd:id":"Q3410020"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898257,
-    "wof:geomhash":"23ca3fe1ebe20eea55aca22caaec281e",
+    "wof:geomhash":"58e3ed39d908a6fb4e76452583fe8a46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092043405,
-    "wof:lastmodified":1690939711,
+    "wof:lastmodified":1695886030,
     "wof:name":"Xatanbulag",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

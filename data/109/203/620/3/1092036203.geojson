@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.741445,
-    "geom:area_square_m":6556780893.023735,
+    "geom:area_square_m":6556780858.990539,
     "geom:bbox":"104.476363,43.957848,105.825608,44.71479",
     "geom:latitude":44.342347,
     "geom:longitude":105.116084,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.OG.TO",
         "wd:id":"Q3403847"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897979,
-    "wof:geomhash":"638408d41ba4602b410b2ce0c87eb0aa",
+    "wof:geomhash":"b8e0ede72b725a970902120d928b04c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092036203,
-    "wof:lastmodified":1690939734,
+    "wof:lastmodified":1695886028,
     "wof:name":"Cogt-Ovoo",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

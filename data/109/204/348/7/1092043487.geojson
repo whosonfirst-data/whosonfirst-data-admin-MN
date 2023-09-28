@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.295893,
-    "geom:area_square_m":2438499718.675908,
+    "geom:area_square_m":2438499519.378287,
     "geom:bbox":"103.134375,47.841547,103.997302,48.576547",
     "geom:latitude":48.203869,
     "geom:longitude":103.509652,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.BU.HO",
         "wd:id":"Q2606152"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898260,
-    "wof:geomhash":"9ac218c429db688ae994e1958df6a9e6",
+    "wof:geomhash":"b1d8b522e9f7d6cae56dde67aa86c4c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092043487,
-    "wof:lastmodified":1690939709,
+    "wof:lastmodified":1695886030,
     "wof:name":"Xishig-O'ndor",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

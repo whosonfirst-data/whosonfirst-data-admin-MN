@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.393508,
-    "geom:area_square_m":3186060267.734704,
+    "geom:area_square_m":3186059681.094832,
     "geom:bbox":"102.95728,48.825225,104.029558,49.384597",
     "geom:latitude":49.096392,
     "geom:longitude":103.44054,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.BU.BG",
         "wd:id":"Q2605809"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897923,
-    "wof:geomhash":"fded7b18f14b4a0a397975240da3b2bd",
+    "wof:geomhash":"e4aa719d201d0a599d0d5fcecaa3dde3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092034835,
-    "wof:lastmodified":1690939733,
+    "wof:lastmodified":1695886014,
     "wof:name":"Bugat",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

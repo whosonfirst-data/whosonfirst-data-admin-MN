@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.504591,
-    "geom:area_square_m":4003923342.40625,
+    "geom:area_square_m":4003923405.78399,
     "geom:bbox":"93.326871,49.820647,94.611499,50.415713",
     "geom:latitude":50.079709,
     "geom:longitude":93.991243,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.UV.ZG",
         "wd:id":"Q3403984"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898306,
-    "wof:geomhash":"cb99c78dfc7bb0f55e82c0ce97264a0d",
+    "wof:geomhash":"7b14e44d0d7127492c52e6b51e822cb0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092044677,
-    "wof:lastmodified":1690939719,
+    "wof:lastmodified":1695886033,
     "wof:name":"Zu'ungovi",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

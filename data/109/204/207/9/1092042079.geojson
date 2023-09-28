@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361421,
-    "geom:area_square_m":2967288123.850345,
+    "geom:area_square_m":2967288239.120199,
     "geom:bbox":"89.899097,48.084773,90.851108,48.683001",
     "geom:latitude":48.396869,
     "geom:longitude":90.371356,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.BO.TO",
         "wd:id":"Q2429961"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898210,
-    "wof:geomhash":"2cb0d825c3056151794b4c94c756adac",
+    "wof:geomhash":"dbb66a6a17383fa7881a59277d63a93c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092042079,
-    "wof:lastmodified":1690939720,
+    "wof:lastmodified":1695886844,
     "wof:name":"Tolbo",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

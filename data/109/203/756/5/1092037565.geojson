@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.592688,
-    "geom:area_square_m":5021263724.269717,
+    "geom:area_square_m":5021263573.131748,
     "geom:bbox":"99.355857,46.301187,100.670952,47.195376",
     "geom:latitude":46.752208,
     "geom:longitude":100.126737,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.BH.GA",
         "wd:id":"Q2089823"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898036,
-    "wof:geomhash":"a41277f7e10c6720a6704dfacbadb07d",
+    "wof:geomhash":"83cd3f101463218c59aa681ea642bf4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092037565,
-    "wof:lastmodified":1690939747,
+    "wof:lastmodified":1695886018,
     "wof:name":"Galuut",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

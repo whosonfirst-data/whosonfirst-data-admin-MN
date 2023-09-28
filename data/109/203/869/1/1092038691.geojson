@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.425363,
-    "geom:area_square_m":12641232034.284426,
+    "geom:area_square_m":12641232206.599579,
     "geom:bbox":"107.654808,43.489555,109.192446,44.900147",
     "geom:latitude":44.172107,
     "geom:longitude":108.376211,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DG.MA",
         "wd:id":"Q3396693"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898077,
-    "wof:geomhash":"1ff507b6bea45937afcac34b6018c41d",
+    "wof:geomhash":"ed671817c66a7b6817508483eb68559f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092038691,
-    "wof:lastmodified":1690939737,
+    "wof:lastmodified":1695886020,
     "wof:name":"Mandax",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074796,
-    "geom:area_square_m":620970000.119025,
+    "geom:area_square_m":620970000.118998,
     "geom:bbox":"108.206938829,47.6671043094,108.496240818,47.9885228518",
     "geom:latitude":47.823372,
     "geom:longitude":108.343882,
@@ -112,9 +112,10 @@
     "wof:concordances":{
         "hasc:id":"MN.UB.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897822,
-    "wof:geomhash":"8934cce31010c6efc84901647ca05301",
+    "wof:geomhash":"266db4698518855e803d183d3f6dd3c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":1092032381,
-    "wof:lastmodified":1566611734,
+    "wof:lastmodified":1695886847,
     "wof:name":"Baganuur",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.422383,
-    "geom:area_square_m":3468785274.502752,
+    "geom:area_square_m":3468785349.725522,
     "geom:bbox":"103.638218,47.935631,104.558005,48.741701",
     "geom:latitude":48.382161,
     "geom:longitude":104.091011,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.BU.BR",
         "wd:id":"Q2605763"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897917,
-    "wof:geomhash":"4c31f1dfbeeb61585b0ba4a86992166b",
+    "wof:geomhash":"f0aa179da0db7921b464d2287f65613d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092034707,
-    "wof:lastmodified":1690939733,
+    "wof:lastmodified":1695886014,
     "wof:name":"Bu'regxangai",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

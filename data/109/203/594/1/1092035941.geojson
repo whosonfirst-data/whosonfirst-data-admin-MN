@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.531743,
-    "geom:area_square_m":4610273302.606404,
+    "geom:area_square_m":4610273352.860121,
     "geom:bbox":"97.484783,45.040169,98.490249,45.832905",
     "geom:latitude":45.478686,
     "geom:longitude":98.01083,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.GA.CH",
         "wd:id":"Q3410073"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897969,
-    "wof:geomhash":"a4e73ad34c4d94d8d0b0829bf5089626",
+    "wof:geomhash":"897fc7537bc1f443348ba2ea88317265",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092035941,
-    "wof:lastmodified":1690939726,
+    "wof:lastmodified":1695886015,
     "wof:name":"Chandmani",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

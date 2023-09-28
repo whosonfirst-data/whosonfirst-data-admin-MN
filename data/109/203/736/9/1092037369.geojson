@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.36885,
-    "geom:area_square_m":3094270742.898978,
+    "geom:area_square_m":3094270808.419432,
     "geom:bbox":"104.035931,46.921238,104.975564,47.630078",
     "geom:latitude":47.278363,
     "geom:longitude":104.476198,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.TO.ES",
         "wd:id":"Q3396427"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898029,
-    "wof:geomhash":"70afb0f557feec36c1dafb9ea538dd68",
+    "wof:geomhash":"b34d216b53166ca7aec8f9db9a59e398",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092037369,
-    "wof:lastmodified":1690939730,
+    "wof:lastmodified":1695886018,
     "wof:name":"Erdenesant",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

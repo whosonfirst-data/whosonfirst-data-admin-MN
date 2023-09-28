@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.422043,
-    "geom:area_square_m":3500425196.082372,
+    "geom:area_square_m":3500425564.042575,
     "geom:bbox":"101.345183,47.512867,102.434153,48.247152",
     "geom:latitude":47.874593,
     "geom:longitude":101.876591,
@@ -116,9 +116,10 @@
         "hasc:id":"MN.AR.BA",
         "wd:id":"Q4079574"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897833,
-    "wof:geomhash":"7b1f9bb6ac37676613bd89cdaa4e0c71",
+    "wof:geomhash":"98bda4c8d9dce3c17a91c17797c014eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":1092032647,
-    "wof:lastmodified":1690939758,
+    "wof:lastmodified":1695886848,
     "wof:name":"Batcengel",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

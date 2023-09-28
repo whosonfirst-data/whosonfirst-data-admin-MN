@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.984794,
-    "geom:area_square_m":7632657984.133314,
+    "geom:area_square_m":7632657564.071146,
     "geom:bbox":"98.740621,50.374288,100.328257,51.776361",
     "geom:latitude":51.184792,
     "geom:longitude":99.729803,
@@ -125,9 +125,10 @@
         "hasc:id":"MN.HG.RE",
         "wd:id":"Q2607950"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898138,
-    "wof:geomhash":"a8886986c82d830ce1f64bb50c8f018b",
+    "wof:geomhash":"e15c34e58a68aab82fbe8e58e2f3898b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1092040355,
-    "wof:lastmodified":1690939720,
+    "wof:lastmodified":1695886844,
     "wof:name":"Renchinlxu'mbe",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

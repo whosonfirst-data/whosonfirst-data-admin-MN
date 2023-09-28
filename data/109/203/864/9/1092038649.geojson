@@ -94,6 +94,7 @@
         "hasc:id":"MN.SL.MA",
         "wd:id":"Q2748006"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898075,
     "wof:geomhash":"afd8d2be5a149c6693e3937a8c668730",
@@ -106,7 +107,7 @@
         }
     ],
     "wof:id":1092038649,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886848,
     "wof:name":"Mandal",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

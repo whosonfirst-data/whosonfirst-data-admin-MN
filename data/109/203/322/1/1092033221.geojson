@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.692103,
-    "geom:area_square_m":5829899601.88321,
+    "geom:area_square_m":5829900273.93145,
     "geom:bbox":"94.159897,46.706162,95.749974,47.586396",
     "geom:latitude":47.060315,
     "geom:longitude":95.048825,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.GA.BU",
         "wd:id":"Q2353241"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897854,
-    "wof:geomhash":"f1913e282eb405da990d3391c37860e5",
+    "wof:geomhash":"fde0a9fec68cef30e373b180b69421cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092033221,
-    "wof:lastmodified":1690939744,
+    "wof:lastmodified":1695886011,
     "wof:name":"Bayan-Uul",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

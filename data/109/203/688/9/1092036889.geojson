@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.711174,
-    "geom:area_square_m":6204879617.611087,
+    "geom:area_square_m":6204879330.752348,
     "geom:bbox":"104.080083,44.690272,105.212894,45.594943",
     "geom:latitude":45.121859,
     "geom:longitude":104.663387,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DU.DH",
         "wd:id":"Q3404319"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898006,
-    "wof:geomhash":"399d95c0020c678c35efc06691d1e970",
+    "wof:geomhash":"bdd363947dba5c0089f920cdcb16453a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092036889,
-    "wof:lastmodified":1690939731,
+    "wof:lastmodified":1695886017,
     "wof:name":"Delgerxangai",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

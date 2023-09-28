@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.372067,
-    "geom:area_square_m":3146202434.526225,
+    "geom:area_square_m":3146202181.135696,
     "geom:bbox":"97.632146,46.510872,98.591915,47.236363",
     "geom:latitude":46.854141,
     "geom:longitude":98.074155,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.BH.BB",
         "wd:id":"Q2089873"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897855,
-    "wof:geomhash":"250a3f54ff4dcdd4e81d8a91e4147884",
+    "wof:geomhash":"a87a4fc753c0ed941f37fa8cd99085ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092033269,
-    "wof:lastmodified":1690939762,
+    "wof:lastmodified":1695886011,
     "wof:name":"Bayanbulag",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

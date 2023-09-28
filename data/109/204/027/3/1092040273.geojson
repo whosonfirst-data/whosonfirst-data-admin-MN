@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116355,
-    "geom:area_square_m":973702673.388212,
+    "geom:area_square_m":973702706.109868,
     "geom:bbox":"103.593376,47.236981,104.214112,47.600529",
     "geom:latitude":47.408156,
     "geom:longitude":103.882218,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.BU.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898135,
-    "wof:geomhash":"509837b54d502cd5826c3dc947e6da08",
+    "wof:geomhash":"b7bd81b39f0fc83d76b7d1514f68c4be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092040273,
-    "wof:lastmodified":1627522374,
+    "wof:lastmodified":1695886023,
     "wof:name":"Rashaant",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

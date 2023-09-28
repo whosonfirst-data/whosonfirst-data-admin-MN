@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.303692,
-    "geom:area_square_m":2560074063.760705,
+    "geom:area_square_m":2560073925.485723,
     "geom:bbox":"91.405858,46.688238,92.248538,47.317575",
     "geom:latitude":47.020213,
     "geom:longitude":91.792337,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.HD.MH",
         "wd:id":"Q374592"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898086,
-    "wof:geomhash":"f1a0e04dd94b9362fbe3863ee8258e8c",
+    "wof:geomhash":"7a3f08ce7fb1dea5e06af754ac4c6218",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092038923,
-    "wof:lastmodified":1690939735,
+    "wof:lastmodified":1695886846,
     "wof:name":"Mo'nxxairxan",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

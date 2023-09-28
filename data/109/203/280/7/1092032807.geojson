@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.38041,
-    "geom:area_square_m":3080131804.230461,
+    "geom:area_square_m":3080131275.852672,
     "geom:bbox":"101.612056,48.784617,102.622628,49.443489",
     "geom:latitude":49.094494,
     "geom:longitude":102.098916,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.BU.BA",
         "wd:id":"Q2606143"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897838,
-    "wof:geomhash":"1fe33686ca8afdbdbad741a3bf18a8cc",
+    "wof:geomhash":"2ef2b2f644fa029cf92739338dfcdcfe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092032807,
-    "wof:lastmodified":1690939732,
+    "wof:lastmodified":1695886010,
     "wof:name":"Bayan agt",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

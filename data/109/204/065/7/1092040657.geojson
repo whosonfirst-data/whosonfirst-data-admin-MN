@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.32986,
-    "geom:area_square_m":2693963968.046395,
+    "geom:area_square_m":2693964403.434113,
     "geom:bbox":"102.158539,48.255386,103.014711,48.939984",
     "geom:latitude":48.663094,
     "geom:longitude":102.538314,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.BU.SA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898153,
-    "wof:geomhash":"4ba78d87536ed7713130769fd3cc5529",
+    "wof:geomhash":"2ea33050266564c28a23ea984e2f48db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092040657,
-    "wof:lastmodified":1627522374,
+    "wof:lastmodified":1695886024,
     "wof:name":"Saixan",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

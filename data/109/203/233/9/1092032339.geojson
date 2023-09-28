@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.855704,
-    "geom:area_square_m":7399046548.763973,
+    "geom:area_square_m":7399046386.721609,
     "geom:bbox":"98.750484,45.1561,100.33108,46.081696",
     "geom:latitude":45.630393,
     "geom:longitude":99.484805,
@@ -110,9 +110,10 @@
         "hasc:id":"MN.BH.BA",
         "wd:id":"Q2593925"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897821,
-    "wof:geomhash":"a9f00f66c61090a3b38b63f1666e3506",
+    "wof:geomhash":"01bf0d4c8c82142fe14920860c191669",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092032339,
-    "wof:lastmodified":1690939739,
+    "wof:lastmodified":1695886012,
     "wof:name":"Baacagaan",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

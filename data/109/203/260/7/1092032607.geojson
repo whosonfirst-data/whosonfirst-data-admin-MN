@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301751,
-    "geom:area_square_m":2554596422.436975,
+    "geom:area_square_m":2554596377.53736,
     "geom:bbox":"101.331113,46.531165,102.453907,47.041153",
     "geom:latitude":46.791264,
     "geom:longitude":101.932918,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.OH.BZ",
         "wd:id":"Q3402310"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897831,
-    "wof:geomhash":"1ffdfadd5e50e25cad74b6f5adf587bc",
+    "wof:geomhash":"5abe210ed767ba13e5e1827d009343f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092032607,
-    "wof:lastmodified":1690939737,
+    "wof:lastmodified":1695886010,
     "wof:name":"Bat-O'lzii",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.311985,
-    "geom:area_square_m":2687304272.902048,
+    "geom:area_square_m":2687304576.21465,
     "geom:bbox":"101.224917,45.510254,101.856474,46.207639",
     "geom:latitude":45.845024,
     "geom:longitude":101.542311,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.OH.NA",
         "wd:id":"Q3402273"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898099,
-    "wof:geomhash":"abfd3ab3f5cd0d30bdb05eb1059256d6",
+    "wof:geomhash":"420b7ea54e1e3c4ca7cb532f5692b0c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092039295,
-    "wof:lastmodified":1690939759,
+    "wof:lastmodified":1695886021,
     "wof:name":"Nariinteel",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

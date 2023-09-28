@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.362138,
-    "geom:area_square_m":2950284719.798239,
+    "geom:area_square_m":2950284802.469042,
     "geom:bbox":"104.500621,48.531821,105.473186,49.121058",
     "geom:latitude":48.78738,
     "geom:longitude":105.003253,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.SL.OT",
         "wd:id":"Q2748146"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898132,
-    "wof:geomhash":"15afea74e11819ccdfb1f72587062c43",
+    "wof:geomhash":"71889b25ffaea6ee117fbc26b3a33082",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092040193,
-    "wof:lastmodified":1690939718,
+    "wof:lastmodified":1695886844,
     "wof:name":"Orxontuul",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

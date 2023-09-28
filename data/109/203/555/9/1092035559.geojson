@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.408841,
-    "geom:area_square_m":3488944804.906132,
+    "geom:area_square_m":3488944807.596988,
     "geom:bbox":"92.839292,45.9076,93.641869,46.773777",
     "geom:latitude":46.358344,
     "geom:longitude":93.261853,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.HD.TS",
         "wd:id":"Q3404189"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897954,
-    "wof:geomhash":"bcfd74b57e4b61a976de3161d1983e6c",
+    "wof:geomhash":"cee3cc67060190248fb5d7e6057dc706",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092035559,
-    "wof:lastmodified":1690939746,
+    "wof:lastmodified":1695886847,
     "wof:name":"Ceceg",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

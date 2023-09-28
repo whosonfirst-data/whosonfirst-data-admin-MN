@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.4262,
-    "geom:area_square_m":3473562837.899247,
+    "geom:area_square_m":3473562876.221645,
     "geom:bbox":"99.53521,48.384135,100.594902,49.109108",
     "geom:latitude":48.767472,
     "geom:longitude":100.054941,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.HG.GA",
         "wd:id":"Q2607761"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898035,
-    "wof:geomhash":"b175100c0dfa54b78bb6cc93bdf6f458",
+    "wof:geomhash":"920a3cc341924785f2faa67f8a5b4f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092037525,
-    "wof:lastmodified":1690939726,
+    "wof:lastmodified":1695886845,
     "wof:name":"Galt",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

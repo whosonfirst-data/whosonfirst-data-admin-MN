@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22337,
-    "geom:area_square_m":1826977564.628042,
+    "geom:area_square_m":1826977781.196262,
     "geom:bbox":"89.308046,48.300732,90.084102,48.879841",
     "geom:latitude":48.588206,
     "geom:longitude":89.765504,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"MN.BO.BY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897936,
-    "wof:geomhash":"1c1f1a1f2c0c821437f479380cd5f575",
+    "wof:geomhash":"78aec20d867c1b71b28b3588aceed0e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1092035101,
-    "wof:lastmodified":1627522367,
+    "wof:lastmodified":1695886015,
     "wof:name":"Buyant",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

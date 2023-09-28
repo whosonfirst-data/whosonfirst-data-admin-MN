@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457226,
-    "geom:area_square_m":3835840273.465295,
+    "geom:area_square_m":3835839994.944194,
     "geom:bbox":"108.404512,46.944223,109.514979,47.638328",
     "geom:latitude":47.275845,
     "geom:longitude":108.966101,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.HN.DE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898004,
-    "wof:geomhash":"580d8325d34ee237fc81046fbaa05f80",
+    "wof:geomhash":"a131178127c5bfc78f3a7c3ff221abfd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092036851,
-    "wof:lastmodified":1627522369,
+    "wof:lastmodified":1695886017,
     "wof:name":"Delgerxaan",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

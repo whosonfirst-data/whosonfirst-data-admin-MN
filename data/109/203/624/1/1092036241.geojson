@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.890899,
-    "geom:area_square_m":16673373116.070469,
+    "geom:area_square_m":16673372759.455961,
     "geom:bbox":"96.010402,42.724006,97.325756,45.722662",
     "geom:latitude":44.506489,
     "geom:longitude":96.607442,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.GA.TS",
         "wd:id":"Q3410067"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897981,
-    "wof:geomhash":"f8c03e33965d228629a93788ca85b9ad",
+    "wof:geomhash":"7aa3546f57035e92ae6924e56896de67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092036241,
-    "wof:lastmodified":1690939752,
+    "wof:lastmodified":1695886028,
     "wof:name":"Cogt",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

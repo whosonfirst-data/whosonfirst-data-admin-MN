@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.338994,
-    "geom:area_square_m":2854625468.50702,
+    "geom:area_square_m":2854625373.516201,
     "geom:bbox":"107.807435,46.79035,108.845739,47.367137",
     "geom:latitude":47.076853,
     "geom:longitude":108.374637,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"MN.TO.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897877,
-    "wof:geomhash":"11a0577b11edda2bd9c84ba5b2552de1",
+    "wof:geomhash":"17fa8e7e717532303fbb028312ed8f52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1092033771,
-    "wof:lastmodified":1627522365,
+    "wof:lastmodified":1695886013,
     "wof:name":"Bayanjargalan",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

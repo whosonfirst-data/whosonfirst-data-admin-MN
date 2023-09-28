@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.104719,
-    "geom:area_square_m":898519072.242579,
+    "geom:area_square_m":898519196.790183,
     "geom:bbox":"108.216998,45.882688,108.745812,46.284249",
     "geom:latitude":46.059878,
     "geom:longitude":108.515357,
@@ -89,9 +89,10 @@
         "hasc:id":"MN.GS.SH",
         "wd:id":"Q2093470"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898180,
-    "wof:geomhash":"a375f353f4bd5475df26e9cac91406a7",
+    "wof:geomhash":"eaeccd20651c84b775d312dd0528cce0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1092041295,
-    "wof:lastmodified":1690939710,
+    "wof:lastmodified":1695886025,
     "wof:name":"Shiveegovi",
     "wof:parent_id":85674779,
     "wof:placetype":"county",
