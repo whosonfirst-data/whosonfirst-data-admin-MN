@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.408734,
-    "geom:area_square_m":3502715561.181336,
+    "geom:area_square_m":3502714803.43314,
     "geom:bbox":"102.240603,45.711154,103.173916,46.469646",
     "geom:latitude":46.127872,
     "geom:longitude":102.695648,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.OH.TA",
         "wd:id":"Q3403786"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898191,
-    "wof:geomhash":"8716c1f32015208cf5147e67e6ddfac6",
+    "wof:geomhash":"d4247b471e23777ea924bbb13a41f2be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092041601,
-    "wof:lastmodified":1690939702,
+    "wof:lastmodified":1695886025,
     "wof:name":"Taragt",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

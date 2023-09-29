@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.311374,
-    "geom:area_square_m":2512187515.86227,
+    "geom:area_square_m":2512187749.73247,
     "geom:bbox":"99.72953,49.030938,100.69607,49.50053",
     "geom:latitude":49.270949,
     "geom:longitude":100.207442,
@@ -125,9 +125,10 @@
         "hasc:id":"MN.HG.TM",
         "wd:id":"Q2607735"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898206,
-    "wof:geomhash":"1794f4815ae9eca12cc560c4e736a6ca",
+    "wof:geomhash":"68d44ab3e68774f5363c93d55651956f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1092041979,
-    "wof:lastmodified":1690939713,
+    "wof:lastmodified":1695886844,
     "wof:name":"To'morbulag",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

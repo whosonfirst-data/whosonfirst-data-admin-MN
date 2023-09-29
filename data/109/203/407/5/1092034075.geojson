@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.045948,
-    "geom:area_square_m":8642655784.074036,
+    "geom:area_square_m":8642655893.574266,
     "geom:bbox":"113.66092,47.47,115.813796,48.618798",
     "geom:latitude":48.067671,
     "geom:longitude":114.974453,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.DD.BT",
         "wd:id":"Q3404293"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897889,
-    "wof:geomhash":"cf2480c73d5af7958b61a16df844b2a8",
+    "wof:geomhash":"8db2b897c1b18abd53e45881177045bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092034075,
-    "wof:lastmodified":1690939737,
+    "wof:lastmodified":1695886846,
     "wof:name":"Bayantu'men",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

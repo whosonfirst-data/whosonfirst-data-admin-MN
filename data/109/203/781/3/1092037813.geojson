@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.094694,
-    "geom:area_square_m":27851743980.238823,
+    "geom:area_square_m":27851744039.843792,
     "geom:bbox":"99.42928,42.503632,102.017111,44.160335",
     "geom:latitude":43.293285,
     "geom:longitude":100.661945,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.OG.GU",
         "wd:id":"Q3402176"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898045,
-    "wof:geomhash":"648b1f9b34c7c99f7abbe0db391d3c37",
+    "wof:geomhash":"da42692e4f27f0f66cd7fbbd98a13f6b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092037813,
-    "wof:lastmodified":1690939760,
+    "wof:lastmodified":1695886019,
     "wof:name":"Gurvantes",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

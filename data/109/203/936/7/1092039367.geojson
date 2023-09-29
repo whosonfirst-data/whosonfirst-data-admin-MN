@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.653782,
-    "geom:area_square_m":5248376782.751307,
+    "geom:area_square_m":5248377119.618529,
     "geom:bbox":"89.18172,49.066422,90.686722,50.001541",
     "geom:latitude":49.516921,
     "geom:longitude":89.993721,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.BO.NO",
         "wd:id":"Q2593901"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898102,
-    "wof:geomhash":"45788096556aa0a094293a064ee54438",
+    "wof:geomhash":"48bbed085cff49628caff015b68ecbfb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092039367,
-    "wof:lastmodified":1690939725,
+    "wof:lastmodified":1695886845,
     "wof:name":"Nogoonnuur",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

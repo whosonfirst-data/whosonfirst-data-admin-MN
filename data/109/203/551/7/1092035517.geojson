@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.397342,
-    "geom:area_square_m":3289997279.516418,
+    "geom:area_square_m":3289997223.010496,
     "geom:bbox":"98.171942,47.641617,99.19992,48.309922",
     "geom:latitude":47.961916,
     "geom:longitude":98.660187,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.AR.TK",
         "wd:id":"Q2089887"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897952,
-    "wof:geomhash":"7dd1b842474998dbbf1aefcafc3449a4",
+    "wof:geomhash":"8dd34c0cc85b70cdac74b648b7dd8880",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092035517,
-    "wof:lastmodified":1690939725,
+    "wof:lastmodified":1695886027,
     "wof:name":"Caxir",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

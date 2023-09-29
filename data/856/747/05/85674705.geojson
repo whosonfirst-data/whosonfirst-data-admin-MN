@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.575631,
-    "geom:area_square_m":45640244057.204483,
+    "geom:area_square_m":45640244515.213341,
     "geom:bbox":"87.73762,46.550602,91.921412,50.001541",
     "geom:latitude":48.543623,
     "geom:longitude":89.850613,
@@ -345,17 +345,19 @@
         "gn:id":1516278,
         "gp:id":2346159,
         "hasc:id":"MN.BO",
+        "iso:code":"MN-071",
         "iso:id":"MN-071",
         "qs_pg:id":211643,
         "unlc:id":"MN-071",
         "wd:id":"Q191792",
         "wk:page":"Bayan-\u00d6lgii Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a7295627104fdfb85638169e99ae549",
+    "wof:geomhash":"f6c3bbcbad8cfbe6e5f93733bb367f5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -370,7 +372,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939693,
+    "wof:lastmodified":1695884375,
     "wof:name":"Bayan-\u00d6lgiy",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

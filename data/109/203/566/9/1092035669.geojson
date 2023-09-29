@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.916545,
-    "geom:area_square_m":7365472879.137969,
+    "geom:area_square_m":7365473053.887023,
     "geom:bbox":"96.838046,48.973549,98.701555,50.035246",
     "geom:latitude":49.465574,
     "geom:longitude":97.681896,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.HG.TT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897958,
-    "wof:geomhash":"27693ff577b243a3ea407cb27be40419",
+    "wof:geomhash":"098a7a64ec09643f3f746f0b7f5bc6b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092035669,
-    "wof:lastmodified":1627522367,
+    "wof:lastmodified":1695886015,
     "wof:name":"Cecerleg",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

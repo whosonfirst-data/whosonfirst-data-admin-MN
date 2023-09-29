@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.649945,
-    "geom:area_square_m":5535253431.899208,
+    "geom:area_square_m":5535253765.09479,
     "geom:bbox":"107.893595,45.882688,109.115129,46.999113",
     "geom:latitude":46.468369,
     "geom:longitude":108.567844,
@@ -325,14 +325,16 @@
         "gn:id":2055112,
         "gp:id":-2346172,
         "hasc:id":"MN.GS",
+        "iso:code":"MN-064",
         "iso:id":"MN-064",
         "wd:id":"Q236333"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a380e16854a2b406c074b8da6c6fbdc3",
+    "wof:geomhash":"519984c96c2b50644e356e0a357961e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -347,7 +349,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939698,
+    "wof:lastmodified":1695884377,
     "wof:name":"Gov\u012d-S\u00fcmber",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

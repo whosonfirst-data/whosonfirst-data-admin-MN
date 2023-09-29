@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.553998,
-    "geom:area_square_m":4806154395.671762,
+    "geom:area_square_m":4806154319.821815,
     "geom:bbox":"113.477854,45.030374,114.734334,45.842958",
     "geom:latitude":45.444411,
     "geom:longitude":114.13084,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.SB.DA",
         "wd:id":"Q3403796"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897987,
-    "wof:geomhash":"aea6d799cab9c9bd73232977281388df",
+    "wof:geomhash":"87256bab946e8fa7088d288b3fcb80db",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092036391,
-    "wof:lastmodified":1690939756,
+    "wof:lastmodified":1695886016,
     "wof:name":"Dariganga",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

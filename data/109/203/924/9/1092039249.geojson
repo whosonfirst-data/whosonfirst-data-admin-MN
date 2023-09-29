@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.385132,
-    "geom:area_square_m":3364995162.240104,
+    "geom:area_square_m":3364995057.847372,
     "geom:bbox":"113.117726,44.742889,114.172909,45.504548",
     "geom:latitude":45.040849,
     "geom:longitude":113.598388,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.SB.NA",
         "wd:id":"Q3402144"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898098,
-    "wof:geomhash":"f6d358f2c90581e0f951204a72b399dc",
+    "wof:geomhash":"65a695f6e1789dcf10219785959d7669",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092039249,
-    "wof:lastmodified":1690939742,
+    "wof:lastmodified":1695886021,
     "wof:name":"Naran",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

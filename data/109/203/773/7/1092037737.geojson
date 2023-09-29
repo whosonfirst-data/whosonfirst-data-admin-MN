@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322386,
-    "geom:area_square_m":2679693996.395889,
+    "geom:area_square_m":2679693709.64047,
     "geom:bbox":"102.958259,47.389965,103.822094,48.098536",
     "geom:latitude":47.761542,
     "geom:longitude":103.422583,
@@ -73,9 +73,10 @@
     "wof:concordances":{
         "hasc:id":"MN.BU.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898042,
-    "wof:geomhash":"cfcf3794b2e486a1022b23fc44f99e4b",
+    "wof:geomhash":"0c02443ffa2328bd3f3e29afcc0b0f51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":1092037737,
-    "wof:lastmodified":1627522370,
+    "wof:lastmodified":1695886019,
     "wof:name":"Gurvanbulag",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

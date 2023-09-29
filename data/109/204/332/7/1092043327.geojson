@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272169,
-    "geom:area_square_m":2289665806.330057,
+    "geom:area_square_m":2289666077.392655,
     "geom:bbox":"102.537708,46.884987,103.507075,47.426653",
     "geom:latitude":47.12891,
     "geom:longitude":102.999481,
@@ -143,9 +143,10 @@
         "hasc:id":"MN.OH.HR",
         "wd:id":"Q932069"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898254,
-    "wof:geomhash":"618401d2ae2ba9116b0496f3c395fd96",
+    "wof:geomhash":"8d720f130122e57d52cc60ce3df74db2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1092043327,
-    "wof:lastmodified":1690939712,
+    "wof:lastmodified":1695886844,
     "wof:name":"Xarxorin",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

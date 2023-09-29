@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.423115,
-    "geom:area_square_m":3447130453.658625,
+    "geom:area_square_m":3447130771.446176,
     "geom:bbox":"97.033199,48.354687,97.943068,49.214372",
     "geom:latitude":48.786052,
     "geom:longitude":97.576217,
@@ -92,9 +92,10 @@
         "hasc:id":"MN.DZ.TM",
         "wd:id":"Q3403868"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898197,
-    "wof:geomhash":"7726d95a4194f61df47f70684a3e4470",
+    "wof:geomhash":"afb7ed623bbabafcdf27a355601da0e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1092041771,
-    "wof:lastmodified":1690939723,
+    "wof:lastmodified":1695886026,
     "wof:name":"Telmen",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

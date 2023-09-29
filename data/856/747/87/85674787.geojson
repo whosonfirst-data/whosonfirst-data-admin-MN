@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":14.925789,
-    "geom:area_square_m":123096467407.309387,
+    "geom:area_square_m":123096467536.930313,
     "geom:bbox":"112.074754,46.285924,119.931949,50.285431",
     "geom:latitude":48.158079,
     "geom:longitude":115.465365,
@@ -346,17 +346,19 @@
         "gn:id":2031799,
         "gp:id":2346160,
         "hasc:id":"MN.DD",
+        "iso:code":"MN-061",
         "iso:id":"MN-061",
         "qs_pg:id":211644,
         "unlc:id":"MN-061",
         "wd:id":"Q207795",
         "wk:page":"Dornod Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe10fe5eea43cddb21caa549154bb25c",
+    "wof:geomhash":"fa7694ba3574f1d11177efe43ced3d5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -371,7 +373,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939695,
+    "wof:lastmodified":1695884377,
     "wof:name":"Dornod",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

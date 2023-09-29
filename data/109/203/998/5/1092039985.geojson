@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.960522,
-    "geom:area_square_m":8391793359.535257,
+    "geom:area_square_m":8391792982.783985,
     "geom:bbox":"110.153854,44.571889,111.986236,45.519809",
     "geom:latitude":45.044186,
     "geom:longitude":111.125813,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DG.OR",
         "wd:id":"Q3874907"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898125,
-    "wof:geomhash":"503948d48a8f0537cf1fd38cf9054a2c",
+    "wof:geomhash":"e1c0e80c84378a364ed68dabb248ebed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092039985,
-    "wof:lastmodified":1690939728,
+    "wof:lastmodified":1695886022,
     "wof:name":"O'rgon",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

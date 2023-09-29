@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.374231,
-    "geom:area_square_m":3205229603.128653,
+    "geom:area_square_m":3205229398.149702,
     "geom:bbox":"99.879451,45.76085,100.730065,46.57886",
     "geom:latitude":46.158877,
     "geom:longitude":100.315608,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.BH.BV",
         "wd:id":"Q2089871"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897848,
-    "wof:geomhash":"354ce30b88fe6a29f00c73c32cec8c0b",
+    "wof:geomhash":"cd8cd2f42dfb8c51ea25cccf2460fefd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092033065,
-    "wof:lastmodified":1690939730,
+    "wof:lastmodified":1695886011,
     "wof:name":"Bayan-Ovoo",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.444775,
-    "geom:area_square_m":3839321674.759513,
+    "geom:area_square_m":3839321613.776022,
     "geom:bbox":"96.729175,45.334879,97.634639,46.094351",
     "geom:latitude":45.725489,
     "geom:longitude":97.173283,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.GA.BI",
         "wd:id":"Q2353177"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897905,
-    "wof:geomhash":"e966fe7df00443c82e38cc66e21060cb",
+    "wof:geomhash":"d66269e0c763e3d82d874a4e45e2b25b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092034443,
-    "wof:lastmodified":1690939751,
+    "wof:lastmodified":1695886013,
     "wof:name":"Biger",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.638069,
-    "geom:area_square_m":5558882933.105061,
+    "geom:area_square_m":5558883016.409651,
     "geom:bbox":"98.326165,44.787523,99.643913,45.80805",
     "geom:latitude":45.205344,
     "geom:longitude":98.906602,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.BH.BS",
         "wd:id":"Q3874647"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897857,
-    "wof:geomhash":"e5e8689255ba44d089b5a097783c18f4",
+    "wof:geomhash":"bf7577f9081b2f879a55d948018a944e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092033311,
-    "wof:lastmodified":1690939727,
+    "wof:lastmodified":1695886011,
     "wof:name":"Bayancagaan",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

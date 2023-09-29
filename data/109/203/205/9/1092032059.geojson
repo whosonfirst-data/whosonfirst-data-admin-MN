@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.824528,
-    "geom:area_square_m":7149278606.615673,
+    "geom:area_square_m":7149278404.424603,
     "geom:bbox":"109.788109,44.911302,111.025644,46.132013",
     "geom:latitude":45.474215,
     "geom:longitude":110.463487,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.DG.AL",
         "wd:id":"Q3396306"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897811,
-    "wof:geomhash":"fb5fc0ad62724d76c22fd873a34003ee",
+    "wof:geomhash":"88c5cf23c263550b3cfe541885c0244f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092032059,
-    "wof:lastmodified":1690939739,
+    "wof:lastmodified":1695886009,
     "wof:name":"Altanshiree",
     "wof:parent_id":85674709,
     "wof:placetype":"county",

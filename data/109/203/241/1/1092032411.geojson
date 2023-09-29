@@ -85,6 +85,7 @@
         "hasc:id":"MN.TO.BA",
         "wd:id":"Q3396325"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897824,
     "wof:geomhash":"b6277913bbf1093ca1ba32b72e2210fe",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092032411,
-    "wof:lastmodified":1694498059,
+    "wof:lastmodified":1695886010,
     "wof:name":"Bagaxangai",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

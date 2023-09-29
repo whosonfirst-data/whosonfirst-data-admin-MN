@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.493566,
-    "geom:area_square_m":3899594493.572033,
+    "geom:area_square_m":3899594408.285109,
     "geom:bbox":"90.457633,49.96614,91.990369,50.68201",
     "geom:latitude":50.285604,
     "geom:longitude":91.272987,
@@ -110,9 +110,10 @@
         "hasc:id":"MN.UV.SA",
         "wd:id":"Q3403906"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898140,
-    "wof:geomhash":"5ac5f6703ad98d0b370a8d0803054791",
+    "wof:geomhash":"8abccf2d0ff5032d79c1be12f42258e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092040399,
-    "wof:lastmodified":1690939709,
+    "wof:lastmodified":1695886023,
     "wof:name":"Sagil",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

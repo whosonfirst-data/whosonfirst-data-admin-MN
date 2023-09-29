@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13561,
-    "geom:area_square_m":1124453648.504796,
+    "geom:area_square_m":1124453717.201038,
     "geom:bbox":"105.644602,47.709941,106.53451,47.995096",
     "geom:latitude":47.888368,
     "geom:longitude":106.079648,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.TO.AG",
         "wd:id":"Q3875068"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897814,
-    "wof:geomhash":"f1386b7ecad027882b5dec4ec74c4be0",
+    "wof:geomhash":"4da65831d5fc5e5ca0771c5d472984a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092032141,
-    "wof:lastmodified":1690939754,
+    "wof:lastmodified":1695886009,
     "wof:name":"Argalant",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

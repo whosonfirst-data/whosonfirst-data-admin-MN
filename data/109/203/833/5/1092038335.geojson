@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MN.HD.BY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898064,
     "wof:geomhash":"371c5f5d15198b469e0a7551820099a6",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092038335,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886308,
     "wof:name":"Jargalant",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

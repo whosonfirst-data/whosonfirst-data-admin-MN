@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070401,
-    "geom:area_square_m":565128537.144366,
+    "geom:area_square_m":565128504.103385,
     "geom:bbox":"96.503154,49.374607,96.923786,49.647472",
     "geom:latitude":49.519941,
     "geom:longitude":96.710823,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DZ.AS",
         "wd:id":"Q3403829"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897820,
-    "wof:geomhash":"2a8b8a86c9e4833c13092206c91adde1",
+    "wof:geomhash":"1b5396f173434965ca89cfd831b894a0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092032305,
-    "wof:lastmodified":1690939758,
+    "wof:lastmodified":1695886010,
     "wof:name":"Asgat",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

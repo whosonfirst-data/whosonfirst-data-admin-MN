@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.8466,
-    "geom:area_square_m":6880698461.807062,
+    "geom:area_square_m":6880698787.312225,
     "geom:bbox":"92.536319,48.419928,94.061722,49.34029",
     "geom:latitude":48.906605,
     "geom:longitude":93.205979,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.UV.ZV",
         "wd:id":"Q3402369"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898300,
-    "wof:geomhash":"57a8d481e29b1c061c2fd97959634f41",
+    "wof:geomhash":"ff2f013174731ede49d5e1aadddd83f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092044515,
-    "wof:lastmodified":1690939720,
+    "wof:lastmodified":1695886032,
     "wof:name":"Zavxan",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

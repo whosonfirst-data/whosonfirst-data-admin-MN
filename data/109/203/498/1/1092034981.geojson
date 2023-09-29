@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.848434,
-    "geom:area_square_m":7065220871.028399,
+    "geom:area_square_m":7065221010.769159,
     "geom:bbox":"113.375419,47.149319,114.921669,48.054441",
     "geom:latitude":47.66554,
     "geom:longitude":114.206718,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.DD.BG",
         "wd:id":"Q3410062"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897930,
-    "wof:geomhash":"4404ae6feccd2343e7334e70033e0b97",
+    "wof:geomhash":"94d3703d569f43c8e73ce70e15ee1d79",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092034981,
-    "wof:lastmodified":1690939739,
+    "wof:lastmodified":1695886158,
     "wof:name":"Bulgan",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

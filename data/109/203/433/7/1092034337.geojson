@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.718273,
-    "geom:area_square_m":6037049841.106245,
+    "geom:area_square_m":6037049210.57833,
     "geom:bbox":"110.043383,46.803932,111.815925,47.605868",
     "geom:latitude":47.177434,
     "geom:longitude":110.979571,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.HN.BH",
         "wd:id":"Q3410102"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897900,
-    "wof:geomhash":"567c042cf79c50995dacca6eb1da8fe2",
+    "wof:geomhash":"1b55466eb7acbfe66a88b1c55634d4a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092034337,
-    "wof:lastmodified":1690939756,
+    "wof:lastmodified":1695886848,
     "wof:name":"Bayanxutag",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

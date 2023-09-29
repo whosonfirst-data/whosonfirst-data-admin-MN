@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.145399,
-    "geom:area_square_m":1201419744.66996,
+    "geom:area_square_m":1201419965.678471,
     "geom:bbox":"106.366278,47.846677,106.874291,48.27025",
     "geom:latitude":48.068446,
     "geom:longitude":106.643479,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.UB.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898181,
-    "wof:geomhash":"2bd3ecb44632b54bfa1d34cd4acc83ab",
+    "wof:geomhash":"5d9ad261df61dfa5bc03c7e5bf063feb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092041323,
-    "wof:lastmodified":1627522375,
+    "wof:lastmodified":1695886025,
     "wof:name":"Songinoxairxan",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

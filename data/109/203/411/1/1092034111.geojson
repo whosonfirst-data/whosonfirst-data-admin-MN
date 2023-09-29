@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.322009,
-    "geom:area_square_m":2593469958.919725,
+    "geom:area_square_m":2593470013.716167,
     "geom:bbox":"95.668561,49.161099,97.126061,49.553924",
     "geom:latitude":49.356752,
     "geom:longitude":96.29049,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DZ.BY",
         "wd:id":"Q3402255"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897890,
-    "wof:geomhash":"170d005ac3eece8be7f511f900ee46e3",
+    "wof:geomhash":"4279d3673c2ee231067f9fa220bca025",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092034111,
-    "wof:lastmodified":1690939752,
+    "wof:lastmodified":1695886013,
     "wof:name":"Bayanxairxan",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

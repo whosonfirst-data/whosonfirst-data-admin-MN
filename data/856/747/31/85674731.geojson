@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":16.276683,
-    "geom:area_square_m":141429049417.770233,
+    "geom:area_square_m":141429048195.421722,
     "geom:bbox":"93.100193,42.701953,98.490249,47.791517",
     "geom:latitude":45.34389,
     "geom:longitude":95.94606,
@@ -336,17 +336,19 @@
         "gn:id":1515917,
         "gp:id":2346164,
         "hasc:id":"MN.GA",
+        "iso:code":"MN-065",
         "iso:id":"MN-065",
         "qs_pg:id":219573,
         "unlc:id":"MN-065",
         "wd:id":"Q192945",
         "wk:page":"Govi-Altai Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ead344ae78bd08f78db3588823008ec",
+    "wof:geomhash":"4731b9d4e91940680b61788cacabeb3f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -361,7 +363,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939696,
+    "wof:lastmodified":1695884377,
     "wof:name":"Govi-Altay",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

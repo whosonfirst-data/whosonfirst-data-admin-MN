@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.602054,
-    "geom:area_square_m":74520150635.409897,
+    "geom:area_square_m":74520151161.475769,
     "geom:bbox":"103.608888,44.166209,108.67,46.779329",
     "geom:latitude":45.521877,
     "geom:longitude":106.273748,
@@ -331,17 +331,19 @@
         "gn:id":2031740,
         "gp:id":2346162,
         "hasc:id":"MN.DU",
+        "iso:code":"MN-059",
         "iso:id":"MN-059",
         "qs_pg:id":423801,
         "unlc:id":"MN-059",
         "wd:id":"Q211835",
         "wk:page":"Dundgovi Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8342d14bd671c1379e6e2e827ff24467",
+    "wof:geomhash":"c7755ab36f921abfd6da51dcde52c343",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -356,7 +358,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939692,
+    "wof:lastmodified":1695884375,
     "wof:name":"Dundgovi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

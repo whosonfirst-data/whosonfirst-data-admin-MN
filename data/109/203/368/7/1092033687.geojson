@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.532897,
-    "geom:area_square_m":4685452082.505515,
+    "geom:area_square_m":4685452232.7267,
     "geom:bbox":"99.618643,43.986685,100.579476,45.074799",
     "geom:latitude":44.678185,
     "geom:longitude":100.043554,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.BH.BG",
         "wd:id":"Q2093444"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897874,
-    "wof:geomhash":"fa7a7cf63e2be96f4420e8bcb4399c4d",
+    "wof:geomhash":"efde3527d7e4be6e0f32602f14634c03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092033687,
-    "wof:lastmodified":1690939746,
+    "wof:lastmodified":1695886012,
     "wof:name":"Bayangovi",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

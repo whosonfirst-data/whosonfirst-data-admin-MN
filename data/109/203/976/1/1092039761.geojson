@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.320607,
-    "geom:area_square_m":10848924718.70118,
+    "geom:area_square_m":10848925460.243731,
     "geom:bbox":"108.510001,47.629875,110.550132,49.347618",
     "geom:latitude":48.364165,
     "geom:longitude":109.539196,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.HN.OM",
         "wd:id":"Q8078978"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898116,
-    "wof:geomhash":"4d47363f750758435ee2a7bee36f6c2a",
+    "wof:geomhash":"d6988d3fc92d78db2e24460bb6c9c3ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092039761,
-    "wof:lastmodified":1690939744,
+    "wof:lastmodified":1695886847,
     "wof:name":"O'mnodelger",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

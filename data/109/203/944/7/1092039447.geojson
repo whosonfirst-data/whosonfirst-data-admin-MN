@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.668252,
-    "geom:area_square_m":5471204643.990554,
+    "geom:area_square_m":5471204137.060021,
     "geom:bbox":"111.546645,48.047137,112.576939,49.118747",
     "geom:latitude":48.53717,
     "geom:longitude":112.074444,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.HN.NO",
         "wd:id":"Q3404104"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898105,
-    "wof:geomhash":"065eef57a1896412053f9a2eb38bcd99",
+    "wof:geomhash":"e93d3a46b00e307e67d11f386d7fc589",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092039447,
-    "wof:lastmodified":1690939762,
+    "wof:lastmodified":1695886848,
     "wof:name":"Norovlin",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

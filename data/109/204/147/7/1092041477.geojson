@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MN.SL.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898187,
     "wof:geomhash":"3f85e4b44eeb5abacbfae7f9aaefae51",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092041477,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886404,
     "wof:name":"Su'xbaatar",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

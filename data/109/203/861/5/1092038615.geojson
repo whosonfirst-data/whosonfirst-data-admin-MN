@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.737856,
-    "geom:area_square_m":6487050410.383017,
+    "geom:area_square_m":6487050426.235472,
     "geom:bbox":"103.255798,44.213852,104.681043,45.173947",
     "geom:latitude":44.682574,
     "geom:longitude":104.003812,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.OG.MO",
         "wd:id":"Q3403970"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898074,
-    "wof:geomhash":"4761bb59411cf13866f2f0a45678ce29",
+    "wof:geomhash":"55dc64a9cb132710b0166cbb3e360131",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092038615,
-    "wof:lastmodified":1690939736,
+    "wof:lastmodified":1695886020,
     "wof:name":"Mandal-Ovoo",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.278773,
-    "geom:area_square_m":2339410059.528104,
+    "geom:area_square_m":2339410013.880127,
     "geom:bbox":"102.02832,46.911409,102.74745,47.581609",
     "geom:latitude":47.260561,
     "geom:longitude":102.39691,
@@ -128,9 +128,10 @@
         "hasc:id":"MN.AR.HO",
         "wd:id":"Q2089849"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898267,
-    "wof:geomhash":"733bea0d9b632a7203e5449338518485",
+    "wof:geomhash":"3772b5a45ecf7b8372986b89bba328f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092043691,
-    "wof:lastmodified":1690939713,
+    "wof:lastmodified":1695886844,
     "wof:name":"Xotont",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

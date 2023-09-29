@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293856,
-    "geom:area_square_m":2411897150.327185,
+    "geom:area_square_m":2411897249.119812,
     "geom:bbox":"106.355097,48.184399,107.287371,48.649308",
     "geom:latitude":48.411148,
     "geom:longitude":106.857433,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.TO.BS",
         "wd:id":"Q3396615"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897837,
-    "wof:geomhash":"a38b55f32bebcaaf1ca8838f26c97c55",
+    "wof:geomhash":"4088e5c047c8551499bcfe39ce635ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092032769,
-    "wof:lastmodified":1690939753,
+    "wof:lastmodified":1695886010,
     "wof:name":"Batsu'mber",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

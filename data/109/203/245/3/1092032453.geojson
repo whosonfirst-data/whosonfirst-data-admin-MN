@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.511355,
-    "geom:area_square_m":12755791362.435726,
+    "geom:area_square_m":12755791362.435677,
     "geom:bbox":"112.874464907,46.3700870475,114.944179718,47.5977767743",
     "geom:latitude":46.955401,
     "geom:longitude":113.775742,
@@ -148,9 +148,10 @@
     "wof:concordances":{
         "hasc:id":"MN.SB.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897825,
-    "wof:geomhash":"0052f86fda9d8a3ae9fd05122eee6502",
+    "wof:geomhash":"3597345544c43a1308f48509d118710d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -160,7 +161,7 @@
         }
     ],
     "wof:id":1092032453,
-    "wof:lastmodified":1566611708,
+    "wof:lastmodified":1695886846,
     "wof:name":"Baruun-Urt",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.786585,
-    "geom:area_square_m":6453845738.242027,
+    "geom:area_square_m":6453845709.163239,
     "geom:bbox":"112.399821,48.008975,113.858084,48.846942",
     "geom:latitude":48.428708,
     "geom:longitude":113.22926,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DD.TO",
         "wd:id":"Q3404226"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897939,
-    "wof:geomhash":"3ff2193ac7f42851ca82b158e89348f2",
+    "wof:geomhash":"f3eed2de5856f7ac900ac3a628b4ffef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092035175,
-    "wof:lastmodified":1690939740,
+    "wof:lastmodified":1695886026,
     "wof:name":"Cagaan-Ovoo",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

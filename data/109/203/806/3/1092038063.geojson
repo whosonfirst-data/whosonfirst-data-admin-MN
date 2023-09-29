@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.584126,
-    "geom:area_square_m":4874075279.02202,
+    "geom:area_square_m":4874075304.043197,
     "geom:bbox":"100.359862,46.867781,101.567272,48.209642",
     "geom:latitude":47.559593,
     "geom:longitude":100.963405,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.AR.IT",
         "wd:id":"Q2089519"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898054,
-    "wof:geomhash":"fd647e5c5d494be3defbf1c1e2d66cfd",
+    "wof:geomhash":"d7eee67a3ee7b3a5924b13679eadce9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092038063,
-    "wof:lastmodified":1690939757,
+    "wof:lastmodified":1695886848,
     "wof:name":"Ixtamir",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

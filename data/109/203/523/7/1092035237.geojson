@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.721131,
-    "geom:area_square_m":5784424540.681587,
+    "geom:area_square_m":5784424487.102039,
     "geom:bbox":"98.008446,49.019486,99.213007,50.01575",
     "geom:latitude":49.555807,
     "geom:longitude":98.57547,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.HG.TL",
         "wd:id":"Q2607936"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897942,
-    "wof:geomhash":"7e4eedbbc611231d07c2610a791a7dad",
+    "wof:geomhash":"3d954847109000619410310ed93a9dd2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092035237,
-    "wof:lastmodified":1690939762,
+    "wof:lastmodified":1695886848,
     "wof:name":"Cagaan-Uul",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

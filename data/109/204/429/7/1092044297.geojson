@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.260914,
-    "geom:area_square_m":2216331925.26554,
+    "geom:area_square_m":2216331972.106756,
     "geom:bbox":"103.257215,46.2415,104.100267,46.993711",
     "geom:latitude":46.608999,
     "geom:longitude":103.709834,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.OH.EZ",
         "wd:id":"Q3403943"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898293,
-    "wof:geomhash":"eeced9e52a8671b6b7202f634747cb0c",
+    "wof:geomhash":"b97bf4350001ec6b265b902b91d1010e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092044297,
-    "wof:lastmodified":1690939717,
+    "wof:lastmodified":1695886032,
     "wof:name":"Yeso'nzu'il",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.861003,
-    "geom:area_square_m":73767379293.044373,
+    "geom:area_square_m":73767379205.88353,
     "geom:bbox":"104.035931,46.38516,109.054574,49.154561",
     "geom:latitude":47.677484,
     "geom:longitude":106.56622,
@@ -341,17 +341,19 @@
         "gn:id":2028849,
         "gp:id":2346172,
         "hasc:id":"MN.TO",
+        "iso:code":"MN-047",
         "iso:id":"MN-047",
         "qs_pg:id":1285283,
         "unlc:id":"MN-047",
         "wd:id":"Q276195",
         "wk:page":"T\u00f6v Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b7acff1ba52d67243b2b0c5ff7dff87b",
+    "wof:geomhash":"07d68850e2a11271bfa02df262221901",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -366,7 +368,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939699,
+    "wof:lastmodified":1695884535,
     "wof:name":"T\u00f6v",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

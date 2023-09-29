@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.80165,
-    "geom:area_square_m":6393739468.299227,
+    "geom:area_square_m":6393739385.877744,
     "geom:bbox":"114.439666,49.51991,116.714072,50.233912",
     "geom:latitude":49.833165,
     "geom:longitude":115.57267,
@@ -125,9 +125,10 @@
         "hasc:id":"MN.DD.CH",
         "wd:id":"Q1771883"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897975,
-    "wof:geomhash":"2295f0fe8e18591f2ed25706c8bd8ae3",
+    "wof:geomhash":"0ebb78eb76e120f6e16fcb64ea7f9313",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1092036079,
-    "wof:lastmodified":1690939758,
+    "wof:lastmodified":1695886848,
     "wof:name":"Chuluunxoroot",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

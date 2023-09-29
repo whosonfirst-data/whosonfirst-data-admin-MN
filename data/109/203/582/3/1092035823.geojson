@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375999,
-    "geom:area_square_m":3161040536.495788,
+    "geom:area_square_m":3161040332.387682,
     "geom:bbox":"100.655102,46.832882,101.625979,47.550234",
     "geom:latitude":47.164296,
     "geom:longitude":101.13333,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.AR.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897964,
-    "wof:geomhash":"1f995fc7858d40b653d40a35550cacb7",
+    "wof:geomhash":"c5c9dc41aaae5a1b506fb203f276749e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092035823,
-    "wof:lastmodified":1627522367,
+    "wof:lastmodified":1695886015,
     "wof:name":"Cenxer",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

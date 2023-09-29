@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.556993,
-    "geom:area_square_m":4850318024.216765,
+    "geom:area_square_m":4850318112.480696,
     "geom:bbox":"107.600539,44.857622,108.67,45.676327",
     "geom:latitude":45.231664,
     "geom:longitude":108.168247,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DU.ON",
         "wd:id":"Q3404249"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898121,
-    "wof:geomhash":"0f85129dee0a77c75e0181cba6535f54",
+    "wof:geomhash":"9f93f084989be63ed02e093b45582b9f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092039859,
-    "wof:lastmodified":1690939743,
+    "wof:lastmodified":1695886022,
     "wof:name":"O'ndorshil",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

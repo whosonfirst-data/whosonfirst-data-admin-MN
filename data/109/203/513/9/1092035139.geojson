@@ -63,6 +63,7 @@
     "wof:concordances":{
         "hasc:id":"MN.HD.BY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897938,
     "wof:geomhash":"537e9ee98151380be19c39f4cfbe220b",
@@ -75,7 +76,7 @@
         }
     ],
     "wof:id":1092035139,
-    "wof:lastmodified":1694498071,
+    "wof:lastmodified":1695886270,
     "wof:name":"Buyant",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

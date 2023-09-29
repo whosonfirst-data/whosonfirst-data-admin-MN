@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.474772,
-    "geom:area_square_m":4037472320.342413,
+    "geom:area_square_m":4037472945.30317,
     "geom:bbox":"100.531902,46.22957,101.55217,46.870893",
     "geom:latitude":46.548438,
     "geom:longitude":101.023246,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.BH.ER",
         "wd:id":"Q2093804"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898021,
-    "wof:geomhash":"3622ad00b9a965492a40fc021367a031",
+    "wof:geomhash":"09e4bf712bde6d012b7969a66323d1a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092037209,
-    "wof:lastmodified":1690939763,
+    "wof:lastmodified":1695886018,
     "wof:name":"Erdenecogt",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

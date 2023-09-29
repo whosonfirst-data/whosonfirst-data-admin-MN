@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103195,
-    "geom:area_square_m":836394818.464542,
+    "geom:area_square_m":836395149.688684,
     "geom:bbox":"103.959526,48.902604,104.629473,49.170793",
     "geom:latitude":49.044604,
     "geom:longitude":104.296556,
@@ -340,16 +340,18 @@
         "gn:id":2055113,
         "gp:id":20070015,
         "hasc:id":"MN.ER",
+        "iso:code":"MN-035",
         "iso:id":"MN-035",
         "qs_pg:id":484685,
         "unlc:id":"MN-035",
         "wd:id":"Q234710"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"01155c888955490572ac87e62f8c0ef6",
+    "wof:geomhash":"6d2ff895944cfbea054b92f8f0740c54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -364,7 +366,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939692,
+    "wof:lastmodified":1695884956,
     "wof:name":"Orhon",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

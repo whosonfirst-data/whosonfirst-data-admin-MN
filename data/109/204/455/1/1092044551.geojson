@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298891,
-    "geom:area_square_m":2514477864.120055,
+    "geom:area_square_m":2514478081.712521,
     "geom:bbox":"92.412479,46.820964,93.221646,47.447324",
     "geom:latitude":47.128639,
     "geom:longitude":92.851551,
@@ -125,9 +125,10 @@
         "hasc:id":"MN.HD.ZE",
         "wd:id":"Q3404073"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898302,
-    "wof:geomhash":"25ed1504226f68547ad22bf30e69ffa1",
+    "wof:geomhash":"1ef687a4646eb45340c80bac80b4afc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -137,7 +138,7 @@
         }
     ],
     "wof:id":1092044551,
-    "wof:lastmodified":1690939707,
+    "wof:lastmodified":1695886844,
     "wof:name":"Zereg",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

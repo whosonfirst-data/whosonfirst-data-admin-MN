@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25574,
-    "geom:area_square_m":2134216319.912626,
+    "geom:area_square_m":2134216766.526982,
     "geom:bbox":"112.075966,47.308924,112.723848,47.825797",
     "geom:latitude":47.55355,
     "geom:longitude":112.410927,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.SB.TT",
         "wd:id":"Q3402392"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898217,
-    "wof:geomhash":"73bf074219fd734f19b1da9a42e7bd36",
+    "wof:geomhash":"56fbf40046ec8cfee2c5f703e1dee729",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092042269,
-    "wof:lastmodified":1690939705,
+    "wof:lastmodified":1695886028,
     "wof:name":"Tu'mencogt",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

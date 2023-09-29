@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.772776,
-    "geom:area_square_m":6614858866.521749,
+    "geom:area_square_m":6614858829.413115,
     "geom:bbox":"96.73377,45.705477,98.454625,46.725198",
     "geom:latitude":46.19068,
     "geom:longitude":97.52169,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.GA.DE",
         "wd:id":"Q3404324"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898001,
-    "wof:geomhash":"99c3871b945e241d7d21e2934761b366",
+    "wof:geomhash":"cecf06068d26a3699b94724ba0494914",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092036777,
-    "wof:lastmodified":1690939754,
+    "wof:lastmodified":1695886017,
     "wof:name":"Delger",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

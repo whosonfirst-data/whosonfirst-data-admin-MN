@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.712294,
-    "geom:area_square_m":80521443993.616135,
+    "geom:area_square_m":80521442708.289078,
     "geom:bbox":"108.404512,46.059307,112.723034,49.414212",
     "geom:latitude":47.890056,
     "geom:longitude":110.445603,
@@ -324,17 +324,19 @@
         "gn:id":2030783,
         "gp:id":2346165,
         "hasc:id":"MN.HN",
+        "iso:code":"MN-039",
         "iso:id":"MN-039",
         "qs_pg:id":423802,
         "unlc:id":"MN-039",
         "wd:id":"Q239040",
         "wk:page":"Khentii Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b6eada989fd245b88a463f6ddd744251",
+    "wof:geomhash":"c28f8b5667e864bde5bb6882659cb971",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -349,7 +351,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939695,
+    "wof:lastmodified":1695884376,
     "wof:name":"Hentiy",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

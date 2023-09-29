@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.178949,
-    "geom:area_square_m":10644821702.999882,
+    "geom:area_square_m":10644820318.482906,
     "geom:bbox":"102.707158,42.029731,104.045964,43.857068",
     "geom:latitude":43.094672,
     "geom:longitude":103.26702,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.OG.BD",
         "wd:id":"Q3402231"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897863,
-    "wof:geomhash":"04d51e32815c20c5bbbb96b0a5163df1",
+    "wof:geomhash":"d5afee43af2d3e50d88c6592b88a4ac9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092033481,
-    "wof:lastmodified":1690939741,
+    "wof:lastmodified":1695886012,
     "wof:name":"Bayandalai",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

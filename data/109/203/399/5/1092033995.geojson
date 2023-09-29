@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.547151,
-    "geom:area_square_m":4370407309.531939,
+    "geom:area_square_m":4370406974.849747,
     "geom:bbox":"95.44844,49.496124,97.131756,50.043986",
     "geom:latitude":49.76134,
     "geom:longitude":96.269497,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.DZ.BT",
         "wd:id":"Q3402167"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897886,
-    "wof:geomhash":"ba93e1c74267261eb30bbaaaffd68f33",
+    "wof:geomhash":"7261b95cab5cfb5b69cf0198458bc090",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092033995,
-    "wof:lastmodified":1690939730,
+    "wof:lastmodified":1695886013,
     "wof:name":"Bayantes",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

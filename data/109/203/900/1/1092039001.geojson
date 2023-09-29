@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012822,
-    "geom:area_square_m":102674040.240908,
+    "geom:area_square_m":102673939.330739,
     "geom:bbox":"100.068686,49.569047,100.225334,49.701561",
     "geom:latitude":49.640174,
     "geom:longitude":100.149269,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.HG.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898089,
-    "wof:geomhash":"9bc8c11938b20f43f97081d3669723f2",
+    "wof:geomhash":"0cbcc014ece79de4044dfd217cd89e9c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092039001,
-    "wof:lastmodified":1627522372,
+    "wof:lastmodified":1695886021,
     "wof:name":"Mo'ron",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

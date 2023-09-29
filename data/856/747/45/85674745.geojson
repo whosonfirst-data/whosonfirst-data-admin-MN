@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.662818,
-    "geom:area_square_m":69374164507.607712,
+    "geom:area_square_m":69374163501.300049,
     "geom:bbox":"89.999186,48.419928,95.686895,50.884476",
     "geom:latitude":49.633507,
     "geom:longitude":92.939983,
@@ -337,17 +337,19 @@
         "gn:id":1514967,
         "gp:id":2346173,
         "hasc:id":"MN.UV",
+        "iso:code":"MN-046",
         "iso:id":"MN-046",
         "qs_pg:id":1168590,
         "unlc:id":"MN-046",
         "wd:id":"Q192942",
         "wk:page":"Uvs Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d0c9195dc93eb7bbbbaac0892b76602d",
+    "wof:geomhash":"e4c2d8d46ba4f4be79f71c24ae8e4474",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -362,7 +364,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939694,
+    "wof:lastmodified":1695884376,
     "wof:name":"Uvs",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002449,
-    "geom:area_square_m":21940517.272499,
+    "geom:area_square_m":21940620.869264,
     "geom:bbox":"104.397483,43.549928,104.461541,43.604161",
     "geom:latitude":43.577381,
     "geom:longitude":104.426917,
@@ -218,9 +218,10 @@
         "hasc:id":"MN.OG.DA",
         "wd:id":"Q822808"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897985,
-    "wof:geomhash":"175d8300eff33e1299bb0c3ac651f686",
+    "wof:geomhash":"dc85b51c147d45f72def157ef1ed92b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":1092036353,
-    "wof:lastmodified":1690939738,
+    "wof:lastmodified":1695886846,
     "wof:name":"Dalanzadgad",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

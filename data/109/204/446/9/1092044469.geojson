@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.435468,
-    "geom:area_square_m":3592109899.743741,
+    "geom:area_square_m":3592109809.311275,
     "geom:bbox":"94.38751,47.847293,95.575806,48.428691",
     "geom:latitude":48.156051,
     "geom:longitude":94.897963,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.DZ.ZA",
         "wd:id":"Q3403766"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898299,
-    "wof:geomhash":"68695803af7ab41d0fb623b5629520e7",
+    "wof:geomhash":"cfcd4a07a1fc0b19ede987db62e0f26f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092044469,
-    "wof:lastmodified":1690939705,
+    "wof:lastmodified":1695886032,
     "wof:name":"Zavxanmandal",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

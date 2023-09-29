@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.091771,
-    "geom:area_square_m":8736894354.311903,
+    "geom:area_square_m":8736894154.390358,
     "geom:bbox":"113.544152,49.053454,115.044205,50.285431",
     "geom:latitude":49.670102,
     "geom:longitude":114.228849,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.DD.DA",
         "wd:id":"Q3404356"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897994,
-    "wof:geomhash":"582d368522cb20666779b58d82529ad2",
+    "wof:geomhash":"02dcd007c74e79eebded812612c64c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092036595,
-    "wof:lastmodified":1690939738,
+    "wof:lastmodified":1695886846,
     "wof:name":"Dashbalbar",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

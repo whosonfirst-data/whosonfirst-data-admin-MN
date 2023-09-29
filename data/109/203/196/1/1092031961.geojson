@@ -60,6 +60,7 @@
     "wof:concordances":{
         "hasc:id":"MN.SL.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897806,
     "wof:geomhash":"ef70886d7213ef244c70d36857702dcb",
@@ -72,7 +73,7 @@
         }
     ],
     "wof:id":1092031961,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886249,
     "wof:name":"Altanbulag",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.796155,
-    "geom:area_square_m":6913220040.240145,
+    "geom:area_square_m":6913220040.239408,
     "geom:bbox":"112.423028648,44.7973177019,113.523261541,46.082394978",
     "geom:latitude":45.392653,
     "geom:longitude":113.043007,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"MN.SB.ON"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898127,
-    "wof:geomhash":"c112554b8fec24ea2d292665fd34769f",
+    "wof:geomhash":"1c1042ed045f493913e91a086eace1c3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1092040031,
-    "wof:lastmodified":1566611691,
+    "wof:lastmodified":1695886844,
     "wof:name":"Ongon",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

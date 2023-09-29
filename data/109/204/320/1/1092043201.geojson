@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198589,
-    "geom:area_square_m":1599372114.441288,
+    "geom:area_square_m":1599372217.691914,
     "geom:bbox":"104.0651,49.079693,104.697106,49.668876",
     "geom:latitude":49.358746,
     "geom:longitude":104.397231,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.BU.HL",
         "wd:id":"Q2993306"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898249,
-    "wof:geomhash":"2f24ebdf9fd90bbc841429bd37915cdc",
+    "wof:geomhash":"f0c8f46664383d24ab0c47ff5363ab97",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092043201,
-    "wof:lastmodified":1690939723,
+    "wof:lastmodified":1695886030,
     "wof:name":"Xangal",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470531,
-    "geom:area_square_m":3989900444.656427,
+    "geom:area_square_m":3989900751.401114,
     "geom:bbox":"91.94879,46.380563,93.247299,46.9947",
     "geom:latitude":46.704405,
     "geom:longitude":92.592224,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.HD.MS",
         "wd:id":"Q10950043"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898090,
-    "wof:geomhash":"1603849a7065b56d42142a1c2308fa96",
+    "wof:geomhash":"d7f964c4bdb61ae289d2910d1720d379",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092039033,
-    "wof:lastmodified":1690939747,
+    "wof:lastmodified":1695886847,
     "wof:name":"Mo'st",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

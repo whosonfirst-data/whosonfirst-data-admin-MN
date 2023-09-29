@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.314005,
-    "geom:area_square_m":2696506116.960979,
+    "geom:area_square_m":2696505879.22993,
     "geom:bbox":"107.12626,45.69178,107.818707,46.304192",
     "geom:latitude":46.013415,
     "geom:longitude":107.466339,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.DU.GU",
         "wd:id":"Q3404210"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898038,
-    "wof:geomhash":"90da8395893dab3a56a99a4ed652f113",
+    "wof:geomhash":"40346b51741715b82fc0d43f58dac33e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092037607,
-    "wof:lastmodified":1690939747,
+    "wof:lastmodified":1695886019,
     "wof:name":"Govi-Ugtaal",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

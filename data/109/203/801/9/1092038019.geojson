@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.462143,
-    "geom:area_square_m":3773914857.593782,
+    "geom:area_square_m":3773914366.382784,
     "geom:bbox":"98.383707,48.226353,99.20779,49.158627",
     "geom:latitude":48.668336,
     "geom:longitude":98.832653,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.DZ.IU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898053,
-    "wof:geomhash":"c9c249f58f7473fc8ae4e5d7ef2e4bc0",
+    "wof:geomhash":"7a1de41a971f9201d4fbd75ba6f2709a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092038019,
-    "wof:lastmodified":1627522370,
+    "wof:lastmodified":1695886019,
     "wof:name":"Ix-Uul",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

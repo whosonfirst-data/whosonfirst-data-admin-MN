@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142289,
-    "geom:area_square_m":1190243688.500644,
+    "geom:area_square_m":1190243603.007952,
     "geom:bbox":"101.78168,47.12574,102.34143,47.713472",
     "geom:latitude":47.429623,
     "geom:longitude":102.063696,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.AR.TU",
         "wd:id":"Q1025028"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898208,
-    "wof:geomhash":"bb79e1df88ecaac3f2eeb17b93746e6a",
+    "wof:geomhash":"29f1ee448922f12e580e2ade66f53e56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092042021,
-    "wof:lastmodified":1690939709,
+    "wof:lastmodified":1695886028,
     "wof:name":"To'vshru'ulex",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

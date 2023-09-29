@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.873345,
-    "geom:area_square_m":7550966787.655869,
+    "geom:area_square_m":7550966903.851898,
     "geom:bbox":"111.732013,45.061011,112.991422,46.206984",
     "geom:latitude":45.634744,
     "geom:longitude":112.339392,
@@ -92,9 +92,10 @@
         "hasc:id":"MN.SB.BD",
         "wd:id":"Q3402329"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897864,
-    "wof:geomhash":"19f4f58a44a59a2822db1c06d8982238",
+    "wof:geomhash":"062e806b5ea28b6a526c30e5ffca3d27",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +105,7 @@
         }
     ],
     "wof:id":1092033509,
-    "wof:lastmodified":1690939745,
+    "wof:lastmodified":1695886012,
     "wof:name":"Bayandelger",
     "wof:parent_id":85674793,
     "wof:placetype":"county",

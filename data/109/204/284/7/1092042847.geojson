@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.318087,
-    "geom:area_square_m":2603132396.855739,
+    "geom:area_square_m":2603132830.401776,
     "geom:bbox":"101.606948,48.226631,102.372762,48.898707",
     "geom:latitude":48.559803,
     "geom:longitude":101.970099,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.AR.HH",
         "wd:id":"Q2089868"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898238,
-    "wof:geomhash":"cb0808787b78e3e0d0f44e9c4eade484",
+    "wof:geomhash":"37d2656626b0d9bf4d96ca41c4a31e63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092042847,
-    "wof:lastmodified":1690939715,
+    "wof:lastmodified":1695886029,
     "wof:name":"Xairxan",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

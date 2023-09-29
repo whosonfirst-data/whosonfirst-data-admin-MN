@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.367415,
-    "geom:area_square_m":3011075536.024902,
+    "geom:area_square_m":3011075733.687373,
     "geom:bbox":"110.8028,48.112542,111.676897,48.874684",
     "geom:latitude":48.48816,
     "geom:longitude":111.203814,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.HN.BA",
         "wd:id":"Q3404063"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897840,
-    "wof:geomhash":"565535d9537acc2851ccf981ffa2d2a8",
+    "wof:geomhash":"b7e8b991f50be0abf0127f167a7c4136",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092032845,
-    "wof:lastmodified":1690939750,
+    "wof:lastmodified":1695886847,
     "wof:name":"Bayan-Adraga",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

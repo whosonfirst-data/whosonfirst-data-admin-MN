@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.749406,
-    "geom:area_square_m":15351347375.411058,
+    "geom:area_square_m":15351347551.529621,
     "geom:bbox":"105.476712,44.166209,107.870227,45.423966",
     "geom:latitude":44.791434,
     "geom:longitude":106.698035,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.DU.OL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898113,
-    "wof:geomhash":"36129ddd1b8d0a66600fd6bf9bf16a86",
+    "wof:geomhash":"2121d958ad4ac3c1d1574fe80bfd9222",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092039685,
-    "wof:lastmodified":1627522373,
+    "wof:lastmodified":1695886022,
     "wof:name":"O'lziit",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

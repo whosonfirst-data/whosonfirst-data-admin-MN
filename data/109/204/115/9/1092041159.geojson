@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011966,
-    "geom:area_square_m":96624009.774499,
+    "geom:area_square_m":96624047.185048,
     "geom:bbox":"106.379396,49.174729,106.532744,49.291954",
     "geom:latitude":49.228793,
     "geom:longitude":106.46079,
@@ -113,9 +113,10 @@
         "hasc:id":"MN.DA.SH",
         "wd:id":"Q2667639"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898170,
-    "wof:geomhash":"15af8b1500470edafbe0a68fbbc82b09",
+    "wof:geomhash":"6b238cf3cb615f216b3bc0cf6b08b834",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1092041159,
-    "wof:lastmodified":1690939723,
+    "wof:lastmodified":1695886024,
     "wof:name":"Sharyngol",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

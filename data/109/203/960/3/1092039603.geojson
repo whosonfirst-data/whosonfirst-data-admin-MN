@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.292741,
-    "geom:area_square_m":2378453011.490938,
+    "geom:area_square_m":2378452522.237994,
     "geom:bbox":"91.86369,48.600291,92.609449,49.373995",
     "geom:latitude":48.923186,
     "geom:longitude":92.222519,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.UV.OL",
         "wd:id":"Q3403716"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898111,
-    "wof:geomhash":"aff9d3b7ba7fadaafef5861211b73327",
+    "wof:geomhash":"422089f34c9fef1b05d179cf918dd841",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092039603,
-    "wof:lastmodified":1690939748,
+    "wof:lastmodified":1695886022,
     "wof:name":"O'lgii",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

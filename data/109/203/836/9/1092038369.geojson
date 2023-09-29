@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.34085,
-    "geom:area_square_m":2848316686.311897,
+    "geom:area_square_m":2848316686.31135,
     "geom:bbox":"109.06675,47.142823,109.903206,47.886895",
     "geom:latitude":47.482812,
     "geom:longitude":109.514084,
@@ -111,9 +111,10 @@
         "hasc:id":"MN.HN.JA",
         "wd:id":"Q1025038"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898065,
-    "wof:geomhash":"9c29a1205e6b3c4d20f2f4b9f79590a8",
+    "wof:geomhash":"03494924fa44acc51eafcc8ef79570a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -123,7 +124,7 @@
         }
     ],
     "wof:id":1092038369,
-    "wof:lastmodified":1690939755,
+    "wof:lastmodified":1695886287,
     "wof:name":"Jargaltxaan",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

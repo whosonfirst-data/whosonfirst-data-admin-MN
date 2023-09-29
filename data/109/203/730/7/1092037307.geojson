@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.801222,
-    "geom:area_square_m":24912421194.051945,
+    "geom:area_square_m":24912420747.300159,
     "geom:bbox":"96.650001,42.701953,98.326091,45.372296",
     "geom:latitude":44.004326,
     "geom:longitude":97.442778,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.GA.ER",
         "wd:id":"Q3404218"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898026,
-    "wof:geomhash":"009967f40ab24d051217c0fd5db2e07a",
+    "wof:geomhash":"0c2b4bff7d1183e5e8ef95caaab273e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092037307,
-    "wof:lastmodified":1690939728,
+    "wof:lastmodified":1695886018,
     "wof:name":"Erdene",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

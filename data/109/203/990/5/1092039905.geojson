@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.312694,
-    "geom:area_square_m":2615127592.365582,
+    "geom:area_square_m":2615127426.097279,
     "geom:bbox":"104.481692,47.164535,105.474366,47.709721",
     "geom:latitude":47.440761,
     "geom:longitude":105.020732,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.TO.ON",
         "wd:id":"Q3396418"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898122,
-    "wof:geomhash":"197a1d680b9b516ab214a272ba3eb194",
+    "wof:geomhash":"3bbe593e6289b090ab3562bc3c9efdb1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092039905,
-    "wof:lastmodified":1690939730,
+    "wof:lastmodified":1695886022,
     "wof:name":"O'ndorshireet",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

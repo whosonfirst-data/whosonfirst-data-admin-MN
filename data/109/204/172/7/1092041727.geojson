@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.493201,
-    "geom:area_square_m":4063148841.429075,
+    "geom:area_square_m":4063148992.472919,
     "geom:bbox":"99.06098,47.954588,100.567835,48.528886",
     "geom:latitude":48.221502,
     "geom:longitude":99.858508,
@@ -128,9 +128,10 @@
         "hasc:id":"MN.AR.TA",
         "wd:id":"Q1025040"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898196,
-    "wof:geomhash":"64a8541a359ff684e03790965fba1b20",
+    "wof:geomhash":"a6ee211733f145d74cece29e0487a033",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092041727,
-    "wof:lastmodified":1690939711,
+    "wof:lastmodified":1695886844,
     "wof:name":"Tariat",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

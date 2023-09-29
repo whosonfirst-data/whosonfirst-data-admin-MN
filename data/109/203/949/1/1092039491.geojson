@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.1637,
-    "geom:area_square_m":10561730509.836664,
+    "geom:area_square_m":10561731222.538843,
     "geom:bbox":"101.800157,42.14242,102.948849,43.377528",
     "geom:latitude":42.776667,
     "geom:longitude":102.371721,
@@ -95,9 +95,10 @@
         "hasc:id":"MN.OG.NY",
         "wd:id":"Q3402294"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898106,
-    "wof:geomhash":"b80c644a2f2e31f1a7b8de0ec9f90868",
+    "wof:geomhash":"4f088bc4b36bdddf4643a9bae8565f59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":1092039491,
-    "wof:lastmodified":1690939743,
+    "wof:lastmodified":1695886021,
     "wof:name":"Noyon",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

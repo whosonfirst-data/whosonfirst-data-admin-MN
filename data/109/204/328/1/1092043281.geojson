@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.807429,
-    "geom:area_square_m":6249446595.761477,
+    "geom:area_square_m":6249447091.997242,
     "geom:bbox":"100.038567,50.4529,101.214144,51.750232",
     "geom:latitude":51.247835,
     "geom:longitude":100.597792,
@@ -131,9 +131,10 @@
         "hasc:id":"MN.HG.HA",
         "wd:id":"Q2607700"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898252,
-    "wof:geomhash":"953e54bfa280ece4b63f794917522bd0",
+    "wof:geomhash":"595ff3744d38189a2b30244867625eab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1092043281,
-    "wof:lastmodified":1690939724,
+    "wof:lastmodified":1695886845,
     "wof:name":"Xanx",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

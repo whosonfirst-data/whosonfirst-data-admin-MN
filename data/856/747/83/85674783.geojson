@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.57053,
-    "geom:area_square_m":4728188446.062414,
+    "geom:area_square_m":4728188154.170774,
     "geom:bbox":"106.366278,47.303975,108.496241,48.27025",
     "geom:latitude":47.916005,
     "geom:longitude":107.164876,
@@ -643,6 +643,7 @@
         "gn:id":2028461,
         "gp:id":20070016,
         "hasc:id":"MN.UB",
+        "iso:code":"MN-1",
         "iso:id":"MN-1",
         "loc:id":"n82211486",
         "qs_pg:id":223783,
@@ -650,11 +651,12 @@
         "wd:id":"Q23430",
         "wk:page":"Ulaanbaatar"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc7b3af7abb175bb484b6811b2a7d8d1",
+    "wof:geomhash":"636787fd1a3fcc613a94943531eac5ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -669,7 +671,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939699,
+    "wof:lastmodified":1695884377,
     "wof:name":"Ulaanbaatar",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.644478,
-    "geom:area_square_m":5172337259.719457,
+    "geom:area_square_m":5172336889.40551,
     "geom:bbox":"92.007248,48.891779,92.983719,50.041683",
     "geom:latitude":49.529488,
     "geom:longitude":92.521394,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.UV.NA",
         "wd:id":"Q3403815"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898096,
-    "wof:geomhash":"4a14a6369f3bb071f5139e529737f299",
+    "wof:geomhash":"93506de0c42b6965abf0bb6cf4198809",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092039209,
-    "wof:lastmodified":1690939760,
+    "wof:lastmodified":1695886021,
     "wof:name":"Naranbulag",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

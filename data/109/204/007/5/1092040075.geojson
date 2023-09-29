@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MN.BU.OR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898128,
     "wof:geomhash":"b02feda3ee1b139ad6e66619d2f2757e",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092040075,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886368,
     "wof:name":"Orxon",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

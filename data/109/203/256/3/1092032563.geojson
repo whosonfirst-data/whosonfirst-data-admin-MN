@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401331,
-    "geom:area_square_m":3202970965.810404,
+    "geom:area_square_m":3202971062.588931,
     "geom:bbox":"94.243968,49.530948,95.491614,50.054869",
     "geom:latitude":49.801911,
     "geom:longitude":94.866986,
@@ -110,9 +110,10 @@
         "hasc:id":"MN.UV.BA",
         "wd:id":"Q3403748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897830,
-    "wof:geomhash":"5124aab9acc079870db998e3d4c672b1",
+    "wof:geomhash":"1b062afa9c836269caf4465ff72d46cb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092032563,
-    "wof:lastmodified":1690939738,
+    "wof:lastmodified":1695886846,
     "wof:name":"Baruunturuun",
     "wof:parent_id":85674745,
     "wof:placetype":"county",

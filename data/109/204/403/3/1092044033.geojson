@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250374,
-    "geom:area_square_m":2001680439.147557,
+    "geom:area_square_m":2001680344.820402,
     "geom:bbox":"104.894139,49.461358,105.896159,49.976528",
     "geom:latitude":49.717615,
     "geom:longitude":105.45162,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.SL.HZ",
         "wd:id":"Q2748155"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898284,
-    "wof:geomhash":"ca5ca1c117dce9054a3122d367ea2362",
+    "wof:geomhash":"eb60811e1e9de80244f4856f9256360e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092044033,
-    "wof:lastmodified":1690939722,
+    "wof:lastmodified":1695886845,
     "wof:name":"Xushaat",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.781394,
-    "geom:area_square_m":6644185983.306005,
+    "geom:area_square_m":6644185934.056881,
     "geom:bbox":"110.031861,46.059307,111.436264,46.955099",
     "geom:latitude":46.554834,
     "geom:longitude":110.797035,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.HN.GA",
         "wd:id":"Q3404262"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898033,
-    "wof:geomhash":"b78416de840bb4f9f1681b39d096d107",
+    "wof:geomhash":"93d223c54c993fe4b3f3cf9ce3c6e772",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092037487,
-    "wof:lastmodified":1690939744,
+    "wof:lastmodified":1695886847,
     "wof:name":"Galshir",
     "wof:parent_id":85674719,
     "wof:placetype":"county",

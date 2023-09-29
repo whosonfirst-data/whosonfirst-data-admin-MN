@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.435328,
-    "geom:area_square_m":3666034242.353164,
+    "geom:area_square_m":3666033686.613932,
     "geom:bbox":"95.424824,46.701133,96.347054,47.44",
     "geom:latitude":47.074032,
     "geom:longitude":95.881241,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.GA.JA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898055,
-    "wof:geomhash":"95f292e65c55a3b033ae863724967f2d",
+    "wof:geomhash":"029be05a7c862ad41e6dd7d14c207571",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092038087,
-    "wof:lastmodified":1627522370,
+    "wof:lastmodified":1695886019,
     "wof:name":"Jargalan",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

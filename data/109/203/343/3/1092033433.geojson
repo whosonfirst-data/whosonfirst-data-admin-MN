@@ -85,6 +85,7 @@
         "hasc:id":"MN.TO.BC",
         "wd:id":"Q3396606"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897861,
     "wof:geomhash":"8ac08770e5808fb2975d0739aa87c8af",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092033433,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886012,
     "wof:name":"Bayancogt",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

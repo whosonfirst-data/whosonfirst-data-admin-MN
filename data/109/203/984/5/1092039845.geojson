@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.525866,
-    "geom:area_square_m":4346912934.947636,
+    "geom:area_square_m":4346912555.208009,
     "geom:bbox":"100.081995,47.61079,101.425635,48.411381",
     "geom:latitude":48.047971,
     "geom:longitude":100.720843,
@@ -113,9 +113,10 @@
         "hasc:id":"MN.AR.OU",
         "wd:id":"Q2089903"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898119,
-    "wof:geomhash":"4f4f6e6beb620cff0f3c470476210e98",
+    "wof:geomhash":"b57545eb021eeaa433c8073ed503c345",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1092039845,
-    "wof:lastmodified":1690939740,
+    "wof:lastmodified":1695886022,
     "wof:name":"O'ndor-Ulaan",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

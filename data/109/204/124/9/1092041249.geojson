@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.838403,
-    "geom:area_square_m":16435721490.716743,
+    "geom:area_square_m":16435721693.5429,
     "geom:bbox":"98.605516,42.565788,99.990784,44.903406",
     "geom:latitude":43.692084,
     "geom:longitude":99.199965,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.BH.SN",
         "wd:id":"Q2093519"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898178,
-    "wof:geomhash":"713b10c7e7b73f5e7eb943daf5229336",
+    "wof:geomhash":"3b4dc89a23f88abee394337e42620fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092041249,
-    "wof:lastmodified":1690939723,
+    "wof:lastmodified":1695886025,
     "wof:name":"Shinejinst",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.67431,
-    "geom:area_square_m":5646786430.240847,
+    "geom:area_square_m":5646786608.006418,
     "geom:bbox":"97.363327,46.590203,98.412067,47.951646",
     "geom:latitude":47.371051,
     "geom:longitude":97.822899,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DZ.OT",
         "wd:id":"Q3403841"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898134,
-    "wof:geomhash":"397ae1b562efef16616b10910a7140d7",
+    "wof:geomhash":"87f96c1fac066cf3dff071a023306223",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092040235,
-    "wof:lastmodified":1690939703,
+    "wof:lastmodified":1695886023,
     "wof:name":"Otgon",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

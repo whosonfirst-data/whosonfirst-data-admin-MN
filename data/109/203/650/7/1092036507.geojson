@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012355,
-    "geom:area_square_m":99267080.774824,
+    "geom:area_square_m":99267097.195296,
     "geom:bbox":"105.89341,49.393089,106.020564,49.533772",
     "geom:latitude":49.473546,
     "geom:longitude":105.95209,
@@ -64,9 +64,10 @@
     "wof:concordances":{
         "hasc:id":"MN.DA.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897991,
-    "wof:geomhash":"a89f23f95a0c018d184c2c0635d13328",
+    "wof:geomhash":"e98ee9e45e2240e33aca2c69bb474d87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092036507,
-    "wof:lastmodified":1627522368,
+    "wof:lastmodified":1695886016,
     "wof:name":"Darxan",
     "wof:parent_id":85674769,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.384639,
-    "geom:area_square_m":3170749442.850809,
+    "geom:area_square_m":3170749442.850464,
     "geom:bbox":"89.1849739571,47.82541,90.0821756303,48.5673810299",
     "geom:latitude":48.189586,
     "geom:longitude":89.630413,
@@ -142,9 +142,10 @@
     "wof:concordances":{
         "hasc:id":"MN.BO.AI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897802,
-    "wof:geomhash":"808f4fe9dff217bdbbc6a8f1bd3b1611",
+    "wof:geomhash":"4cddb91a30c527c7a87adecc8721fde1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -154,7 +155,7 @@
         }
     ],
     "wof:id":1092031849,
-    "wof:lastmodified":1566611741,
+    "wof:lastmodified":1695886848,
     "wof:name":"Altai",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

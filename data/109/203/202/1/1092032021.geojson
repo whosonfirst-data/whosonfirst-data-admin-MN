@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.221509,
-    "geom:area_square_m":1798242518.754375,
+    "geom:area_square_m":1798242651.47377,
     "geom:bbox":"90.187241,48.625439,90.781521,49.323977",
     "geom:latitude":48.96381,
     "geom:longitude":90.508845,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.BO.AN",
         "wd:id":"Q2089829"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897809,
-    "wof:geomhash":"cbe3c07ba8d11b2cbbf006915fb2a1df",
+    "wof:geomhash":"8ef8efec9ec8497e22107335f3d51f99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092032021,
-    "wof:lastmodified":1690939739,
+    "wof:lastmodified":1695886846,
     "wof:name":"Altanco'gc",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

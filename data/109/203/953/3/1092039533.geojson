@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.203187,
-    "geom:area_square_m":1690221676.750499,
+    "geom:area_square_m":1690221702.660405,
     "geom:bbox":"102.235434,47.524694,103.062213,47.891787",
     "geom:latitude":47.721192,
     "geom:longitude":102.610446,
@@ -110,9 +110,10 @@
         "hasc:id":"MN.AR.UG",
         "wd:id":"Q2093495"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898108,
-    "wof:geomhash":"1e6a5b47d99c363ed470c87598046d51",
+    "wof:geomhash":"0259e85b73226179b6a6ef1c07863057",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +123,7 @@
         }
     ],
     "wof:id":1092039533,
-    "wof:lastmodified":1690939728,
+    "wof:lastmodified":1695886845,
     "wof:name":"O'giinuur",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

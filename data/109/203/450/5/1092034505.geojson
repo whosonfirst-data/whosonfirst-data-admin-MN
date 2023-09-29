@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.354053,
-    "geom:area_square_m":3027336777.908894,
+    "geom:area_square_m":3027336764.786787,
     "geom:bbox":"99.25416,45.881175,100.036914,46.611586",
     "geom:latitude":46.250881,
     "geom:longitude":99.586029,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.BH.BM",
         "wd:id":"Q2093539"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897908,
-    "wof:geomhash":"6a97dfcc7f212dcc114060cd5b85b41d",
+    "wof:geomhash":"bfce3eb99e29f69d1d11fb210bec2b3b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092034505,
-    "wof:lastmodified":1690939757,
+    "wof:lastmodified":1695886013,
     "wof:name":"Bo'mbogor",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

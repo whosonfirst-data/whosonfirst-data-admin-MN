@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293813,
-    "geom:area_square_m":2403608004.839311,
+    "geom:area_square_m":2403607950.098941,
     "geom:bbox":"94.63681,48.346395,95.648497,48.850377",
     "geom:latitude":48.578265,
     "geom:longitude":95.14072,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DZ.SA",
         "wd:id":"Q3402132"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898157,
-    "wof:geomhash":"9ee07578efb759642ebc7ab69fc1f2e8",
+    "wof:geomhash":"ff889d61e858faad7aa2fd5563b7f137",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092040783,
-    "wof:lastmodified":1690939706,
+    "wof:lastmodified":1695886024,
     "wof:name":"Santmargac",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

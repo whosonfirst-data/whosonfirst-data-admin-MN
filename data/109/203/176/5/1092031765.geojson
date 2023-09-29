@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.567723,
-    "geom:area_square_m":4490031097.563478,
+    "geom:area_square_m":4490031869.828754,
     "geom:bbox":"99.50634,49.828886,100.656367,50.809136",
     "geom:latitude":50.237312,
     "geom:longitude":100.078265,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.HG.AL",
         "wd:id":"Q2607722"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897799,
-    "wof:geomhash":"5369f93f8d17a53f77a5a3c888ccd48d",
+    "wof:geomhash":"5aa1aeeb475c31464ca3dc1d7b453eae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092031765,
-    "wof:lastmodified":1690939763,
+    "wof:lastmodified":1695886848,
     "wof:name":"Alag-Erdene",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

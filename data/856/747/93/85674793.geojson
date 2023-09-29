@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.600924,
-    "geom:area_square_m":82129617578.578476,
+    "geom:area_square_m":82129618126.220764,
     "geom:bbox":"111.220893,44.742889,116.575969,47.825797",
     "geom:latitude":46.222668,
     "geom:longitude":113.543028,
@@ -327,17 +327,19 @@
         "gn:id":2029155,
         "gp:id":2346171,
         "hasc:id":"MN.SB",
+        "iso:code":"MN-051",
         "iso:id":"MN-051",
         "qs_pg:id":984088,
         "unlc:id":"MN-051",
         "wd:id":"Q244804",
         "wk:page":"S\u00fckhbaatar Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5024a77e172519024b275ca25ab720e8",
+    "wof:geomhash":"942201c0c02f4ca58523f4658b317ae8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -352,7 +354,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939693,
+    "wof:lastmodified":1695884376,
     "wof:name":"S\u00fchbaatar",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

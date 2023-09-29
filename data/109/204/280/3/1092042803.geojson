@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.356918,
-    "geom:area_square_m":3041984583.410503,
+    "geom:area_square_m":3041984776.724557,
     "geom:bbox":"101.468684,46.090205,102.4332,46.729712",
     "geom:latitude":46.427677,
     "geom:longitude":101.931004,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.OH.UY",
         "wd:id":"Q3403953"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898236,
-    "wof:geomhash":"792b6ff5fee977c0372b3ea8cc422691",
+    "wof:geomhash":"6b22beaa02618847d86a598bf4687c8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092042803,
-    "wof:lastmodified":1690939703,
+    "wof:lastmodified":1695886029,
     "wof:name":"Uyanga",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.45225,
-    "geom:area_square_m":3939078583.460676,
+    "geom:area_square_m":3939078279.902875,
     "geom:bbox":"101.094219,44.840846,101.941036,45.552589",
     "geom:latitude":45.219178,
     "geom:longitude":101.506852,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.OH.BU",
         "wd:id":"Q2353307"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897827,
-    "wof:geomhash":"40f4142280dbc363c9c8238f71dcda34",
+    "wof:geomhash":"798937a60e58e6cd91c3c057a7da4141",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092032493,
-    "wof:lastmodified":1690939753,
+    "wof:lastmodified":1695886010,
     "wof:name":"Baruunbayan-Ulaan",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

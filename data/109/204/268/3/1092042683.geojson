@@ -141,6 +141,7 @@
     "wof:concordances":{
         "hasc:id":"MN.DZ.AL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898232,
     "wof:geomhash":"d83c2a374d79f74886ac8aceac7e8185",
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1092042683,
-    "wof:lastmodified":1694497833,
+    "wof:lastmodified":1695886844,
     "wof:name":"Uliastai",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

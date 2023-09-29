@@ -85,6 +85,7 @@
         "hasc:id":"MN.TO.SE",
         "wd:id":"Q3396295"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898164,
     "wof:geomhash":"3e3bc4f7d9c92627e6dc6a0519122ee6",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092041003,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886024,
     "wof:name":"Sergelen",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

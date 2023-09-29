@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.78009,
-    "geom:area_square_m":6287355134.255617,
+    "geom:area_square_m":6287355176.786438,
     "geom:bbox":"112.808791,48.789025,114.09812,49.97983",
     "geom:latitude":49.321071,
     "geom:longitude":113.420298,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.DD.BD",
         "wd:id":"Q3404398"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897867,
-    "wof:geomhash":"61c80d7bbbf0e0369593400c4725ad6c",
+    "wof:geomhash":"29d03884684f2b33581cef4c1ca86e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092033601,
-    "wof:lastmodified":1690939750,
+    "wof:lastmodified":1695886847,
     "wof:name":"Bayandun",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

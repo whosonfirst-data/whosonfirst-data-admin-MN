@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.627952,
-    "geom:area_square_m":5376554977.05946,
+    "geom:area_square_m":5376555303.215399,
     "geom:bbox":"98.182643,45.754877,99.380327,46.660893",
     "geom:latitude":46.176795,
     "geom:longitude":98.820429,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.BH.BU",
         "wd:id":"Q2089556"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897935,
-    "wof:geomhash":"9e8ea8ee359863ea34a7bb4cf9a85064",
+    "wof:geomhash":"bb63fd6dec73078f56f7174ba2f5954c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092035069,
-    "wof:lastmodified":1690939746,
+    "wof:lastmodified":1695886014,
     "wof:name":"Buucagaan",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

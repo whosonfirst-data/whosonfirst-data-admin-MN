@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.790902,
-    "geom:area_square_m":6435742018.07341,
+    "geom:area_square_m":6435741834.341399,
     "geom:bbox":"87.73762,48.360159,89.331448,49.182676",
     "geom:latitude":48.846553,
     "geom:longitude":88.517621,
@@ -131,9 +131,10 @@
         "hasc:id":"MN.BO.TS",
         "wd:id":"Q2667633"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897963,
-    "wof:geomhash":"5e03ccbb75f70665fc1233427718feb0",
+    "wof:geomhash":"898a52184f11a290887c16bd7e618bf5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1092035785,
-    "wof:lastmodified":1690939760,
+    "wof:lastmodified":1695886848,
     "wof:name":"Cengel",
     "wof:parent_id":85674705,
     "wof:placetype":"county",

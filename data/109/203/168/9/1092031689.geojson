@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388961,
-    "geom:area_square_m":3320932492.742298,
+    "geom:area_square_m":3320931913.906565,
     "geom:bbox":"105.345356,45.93078,106.149989,46.747467",
     "geom:latitude":46.331249,
     "geom:longitude":105.705274,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.DU.AD",
         "wd:id":"Q3404341"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897796,
-    "wof:geomhash":"0eb90cb8bfa165b993598326b9b1261e",
+    "wof:geomhash":"a13609ec535a7802eb56ce02ae8565f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092031689,
-    "wof:lastmodified":1690939727,
+    "wof:lastmodified":1695886007,
     "wof:name":"Adaacag",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

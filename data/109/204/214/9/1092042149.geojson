@@ -54,6 +54,7 @@
     "wof:concordances":{
         "hasc:id":"MN.HG.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898213,
     "wof:geomhash":"cc53f15d955e09d3dc5677a03df5e1c5",
@@ -66,7 +67,7 @@
         }
     ],
     "wof:id":1092042149,
-    "wof:lastmodified":1694498076,
+    "wof:lastmodified":1695886414,
     "wof:name":"Tosoncengel",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

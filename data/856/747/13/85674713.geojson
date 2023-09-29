@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":18.321519,
-    "geom:area_square_m":164902422410.173492,
+    "geom:area_square_m":164902422780.356995,
     "geom:bbox":"99.42928,41.58152,108.089203,45.173947",
     "geom:latitude":43.285594,
     "geom:longitude":104.122798,
@@ -338,16 +338,18 @@
         "gn:id":2029669,
         "gp:id":2346168,
         "hasc:id":"MN.OG",
+        "iso:code":"MN-053",
         "iso:id":"MN-053",
         "qs_pg:id":1252049,
         "unlc:id":"MN-053",
         "wd:id":"Q235579"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ca2d65d5b169d675bf34f7058d9c57f4",
+    "wof:geomhash":"09126ea447a5c6aebe8e3fbd0c8e59d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -362,7 +364,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939700,
+    "wof:lastmodified":1695884377,
     "wof:name":"\u00d6mn\u00f6govi",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

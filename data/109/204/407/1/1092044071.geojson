@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.696296,
-    "geom:area_square_m":5604505870.04579,
+    "geom:area_square_m":5604506376.066278,
     "geom:bbox":"102.210687,48.834766,103.73721,49.746106",
     "geom:latitude":49.387029,
     "geom:longitude":102.929477,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.BU.HU",
         "wd:id":"Q2606158"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898286,
-    "wof:geomhash":"26965f3f624dce7e126258feab3f7859",
+    "wof:geomhash":"a6bd1c090af09d0675ffde39995089a1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092044071,
-    "wof:lastmodified":1690939708,
+    "wof:lastmodified":1695886031,
     "wof:name":"Xutag-O'ndor",
     "wof:parent_id":85674749,
     "wof:placetype":"county",

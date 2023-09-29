@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401479,
-    "geom:area_square_m":3285321150.532558,
+    "geom:area_square_m":3285321497.836324,
     "geom:bbox":"91.339513,48.166322,92.342432,48.966417",
     "geom:latitude":48.56389,
     "geom:longitude":91.904296,
@@ -128,9 +128,10 @@
         "hasc:id":"MN.HD.MY",
         "wd:id":"Q3404082"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898093,
-    "wof:geomhash":"104b21456b41f3ef142574f388f4bb6c",
+    "wof:geomhash":"9348c0de13030e3d72fff8c488905624",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092039123,
-    "wof:lastmodified":1690939741,
+    "wof:lastmodified":1695886846,
     "wof:name":"Myangad",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

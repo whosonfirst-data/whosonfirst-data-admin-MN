@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.286001,
-    "geom:area_square_m":10032633009.669136,
+    "geom:area_square_m":10032632278.398367,
     "geom:bbox":"97.823064,50.277654,99.771539,51.476297",
     "geom:latitude":50.881664,
     "geom:longitude":98.73237,
@@ -122,9 +122,10 @@
         "hasc:id":"MN.HG.UU",
         "wd:id":"Q2607717"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898227,
-    "wof:geomhash":"43ffaed049977a36b4aa8ca024008c3f",
+    "wof:geomhash":"f34e11b6ae0389ac0bf5607082d81d32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,7 +135,7 @@
         }
     ],
     "wof:id":1092042557,
-    "wof:lastmodified":1690939722,
+    "wof:lastmodified":1695886845,
     "wof:name":"Ulaan uul",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470173,
-    "geom:area_square_m":3927015570.50218,
+    "geom:area_square_m":3927016082.335949,
     "geom:bbox":"99.685462,47.094226,100.644151,47.901504",
     "geom:latitude":47.509302,
     "geom:longitude":100.172331,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.AR.CH",
         "wd:id":"Q3410278"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897976,
-    "wof:geomhash":"60c7e5f9ff12a63a3eeffbd4fc463c86",
+    "wof:geomhash":"c87d08163ae6b3d7659f1aee7f83cf7f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092036119,
-    "wof:lastmodified":1690939735,
+    "wof:lastmodified":1695886016,
     "wof:name":"Chuluut",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

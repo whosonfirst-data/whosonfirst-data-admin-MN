@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.272678,
-    "geom:area_square_m":2332673991.210783,
+    "geom:area_square_m":2332673629.089063,
     "geom:bbox":"95.746352,45.940526,97.093918,46.474639",
     "geom:latitude":46.22431,
     "geom:longitude":96.327793,
@@ -83,9 +83,10 @@
         "hasc:id":"MN.GA.ES",
         "wd:id":"Q3404234"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898292,
-    "wof:geomhash":"e611d94d78b0eb918002e4335a7c3127",
+    "wof:geomhash":"1ac3aabf4d4f63d1567d6f05d8d49210",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1092044253,
-    "wof:lastmodified":1690939704,
+    "wof:lastmodified":1695886032,
     "wof:name":"Yeso'nbulag",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

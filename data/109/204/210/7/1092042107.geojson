@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.876763,
-    "geom:area_square_m":7549719090.566514,
+    "geom:area_square_m":7549719363.760677,
     "geom:bbox":"93.100193,44.955826,94.435686,46.635236",
     "geom:latitude":45.861379,
     "geom:longitude":93.682347,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.GA.TH",
         "wd:id":"Q3404388"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898211,
-    "wof:geomhash":"9ea4245b4ea185a91cc2410b517d660a",
+    "wof:geomhash":"9865b036c04d8de910637ec7b2a1c87f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092042107,
-    "wof:lastmodified":1690939705,
+    "wof:lastmodified":1695886028,
     "wof:name":"Tonkhil",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

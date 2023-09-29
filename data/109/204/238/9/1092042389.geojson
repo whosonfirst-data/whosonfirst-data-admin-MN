@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.323086,
-    "geom:area_square_m":2552372979.074148,
+    "geom:area_square_m":2552372677.101484,
     "geom:bbox":"104.43562,50.012687,106.140802,50.479269",
     "geom:latitude":50.290955,
     "geom:longitude":105.193412,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.SL.TU",
         "wd:id":"Q2748135"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898221,
-    "wof:geomhash":"3318db9da67f443dd4170973f1068434",
+    "wof:geomhash":"9123ea6fe6ea788dbfb66db09af3b322",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092042389,
-    "wof:lastmodified":1690939719,
+    "wof:lastmodified":1695886844,
     "wof:name":"Tu'shig",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

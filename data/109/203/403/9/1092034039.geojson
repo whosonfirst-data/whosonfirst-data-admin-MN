@@ -85,6 +85,7 @@
         "hasc:id":"MN.TO.BA",
         "wd:id":"Q3396325"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897887,
     "wof:geomhash":"49265e6d8cc6dbb5c29e8ca7e06d7959",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092034039,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886011,
     "wof:name":"Bayan",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

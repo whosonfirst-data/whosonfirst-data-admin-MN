@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.658997,
-    "geom:area_square_m":5555191202.695508,
+    "geom:area_square_m":5555191271.643879,
     "geom:bbox":"93.034927,46.600224,94.30601,47.571109",
     "geom:latitude":47.020371,
     "geom:longitude":93.671455,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"MN.HD.DA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897989,
-    "wof:geomhash":"f0b4991f89c93ec2c134256fba867f29",
+    "wof:geomhash":"ea7df4683fd063af525e7774e8e8e10a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1092036463,
-    "wof:lastmodified":1627522368,
+    "wof:lastmodified":1695886016,
     "wof:name":"Darvi",
     "wof:parent_id":85674737,
     "wof:placetype":"county",

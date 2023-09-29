@@ -64,6 +64,7 @@
     "wof:concordances":{
         "hasc:id":"MN.UB.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898245,
     "wof:geomhash":"9703d8530782b8f2bdbf7a8e3f9e057d",
@@ -76,7 +77,7 @@
         }
     ],
     "wof:id":1092043073,
-    "wof:lastmodified":1694492705,
+    "wof:lastmodified":1696023153,
     "wof:name":"Xan-Uul",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

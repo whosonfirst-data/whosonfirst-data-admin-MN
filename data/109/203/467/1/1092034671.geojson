@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30504,
-    "geom:area_square_m":2569570051.750676,
+    "geom:area_square_m":2569570016.816226,
     "geom:bbox":"103.369481,46.83609,104.360984,47.316257",
     "geom:latitude":47.059023,
     "geom:longitude":103.874754,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.OH.BR",
         "wd:id":"Q2353266"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897915,
-    "wof:geomhash":"3ba3d3a751f0b0636709c9ef80ccc964",
+    "wof:geomhash":"32aa268fdafc42cef1bad80583acaef8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092034671,
-    "wof:lastmodified":1690939754,
+    "wof:lastmodified":1695886014,
     "wof:name":"Bu'rd",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

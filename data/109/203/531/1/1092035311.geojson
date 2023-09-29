@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404958,
-    "geom:area_square_m":3454260028.867064,
+    "geom:area_square_m":3454260752.922152,
     "geom:bbox":"107.137883,46.02637,108.304155,46.779329",
     "geom:latitude":46.382856,
     "geom:longitude":107.858467,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DU.TD",
         "wd:id":"Q3410085"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897945,
-    "wof:geomhash":"bfd4c52a65e18c4957e7dd0f50d30d81",
+    "wof:geomhash":"69f7ec8d6028a9be321301d42a7b54e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092035311,
-    "wof:lastmodified":1690939749,
+    "wof:lastmodified":1695886027,
     "wof:name":"Cagaandelger",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

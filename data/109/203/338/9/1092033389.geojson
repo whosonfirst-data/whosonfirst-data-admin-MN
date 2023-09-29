@@ -85,6 +85,7 @@
         "hasc:id":"MN.TO.BC",
         "wd:id":"Q3396606"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897860,
     "wof:geomhash":"14a8839b6a7c547628a59c527c3df038",
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":1092033389,
-    "wof:lastmodified":1694498060,
+    "wof:lastmodified":1695886012,
     "wof:name":"Bayanchandmani",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

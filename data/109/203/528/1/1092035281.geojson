@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.307319,
-    "geom:area_square_m":2585916306.409132,
+    "geom:area_square_m":2585916252.151091,
     "geom:bbox":"96.237852,46.839971,97.17605,47.413481",
     "geom:latitude":47.117723,
     "geom:longitude":96.679004,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DZ.TC",
         "wd:id":"Q3404155"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897944,
-    "wof:geomhash":"754a9168c80effb60690f3de90fc5ade",
+    "wof:geomhash":"8e3c5d5e136b9a8c29c345c3ebbc0f81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092035281,
-    "wof:lastmodified":1690939741,
+    "wof:lastmodified":1695886027,
     "wof:name":"Cagaanchuluut",
     "wof:parent_id":85674727,
     "wof:placetype":"county",

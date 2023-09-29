@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.341961,
-    "geom:area_square_m":2815180834.800453,
+    "geom:area_square_m":2815180529.278987,
     "geom:bbox":"104.28525,47.913077,105.094297,48.643212",
     "geom:latitude":48.257844,
     "geom:longitude":104.699739,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.TO.ZA",
         "wd:id":"Q3396630"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898294,
-    "wof:geomhash":"f4e5c8ebb8c9a4990837c25f81019ec4",
+    "wof:geomhash":"62122b114411a3717f235e3a5348b0dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092044343,
-    "wof:lastmodified":1690939721,
+    "wof:lastmodified":1695886032,
     "wof:name":"Zaamar",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

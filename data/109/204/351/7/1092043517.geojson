@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457584,
-    "geom:area_square_m":3795377365.009418,
+    "geom:area_square_m":3795377208.979345,
     "geom:bbox":"112.500223,47.533875,113.695332,48.320138",
     "geom:latitude":47.872067,
     "geom:longitude":113.039229,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.DD.HO",
         "wd:id":"Q3404242"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898261,
-    "wof:geomhash":"f6c6b9d7f81fa39e7c95b2447dc87bf1",
+    "wof:geomhash":"3fea0f98c0066b6f9368fd045a7467a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092043517,
-    "wof:lastmodified":1690939713,
+    "wof:lastmodified":1695886030,
     "wof:name":"Xo'lonbuir",
     "wof:parent_id":85674787,
     "wof:placetype":"county",

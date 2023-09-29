@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.365069,
-    "geom:area_square_m":3158940973.792581,
+    "geom:area_square_m":3158940771.365969,
     "geom:bbox":"105.377676,45.229277,106.200618,45.985913",
     "geom:latitude":45.589904,
     "geom:longitude":105.787608,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DU.LU",
         "wd:id":"Q3409998"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898071,
-    "wof:geomhash":"fa33a442a0c96142aa0d25effbf9a75e",
+    "wof:geomhash":"9c3d553e7e8bda062ef91d063547b7f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092038529,
-    "wof:lastmodified":1690939758,
+    "wof:lastmodified":1695886020,
     "wof:name":"Luus",
     "wof:parent_id":85674757,
     "wof:placetype":"county",

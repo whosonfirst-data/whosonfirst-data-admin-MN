@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.134287,
-    "geom:area_square_m":9992291935.976082,
+    "geom:area_square_m":9992291935.9753,
     "geom:bbox":"101.499133946,44.0422150109,103.249437469,45.026507996",
     "geom:latitude":44.566715,
     "geom:longitude":102.304637,
@@ -82,9 +82,10 @@
     "wof:concordances":{
         "hasc:id":"MN.OH.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897912,
-    "wof:geomhash":"8c0d917d519e4335330798b150c8b0b4",
+    "wof:geomhash":"0a60d43a1639039b6ae038ad3f7d041a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,7 +95,7 @@
         }
     ],
     "wof:id":1092034601,
-    "wof:lastmodified":1566611734,
+    "wof:lastmodified":1695886847,
     "wof:name":"Bogd",
     "wof:parent_id":85674765,
     "wof:placetype":"county",

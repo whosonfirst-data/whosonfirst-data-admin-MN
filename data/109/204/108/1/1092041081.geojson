@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083507,
-    "geom:area_square_m":663164102.042549,
+    "geom:area_square_m":663164054.766112,
     "geom:bbox":"106.022305,49.87693,106.46009,50.191758",
     "geom:latitude":50.041167,
     "geom:longitude":106.243451,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.SL.SM",
         "wd:id":"Q3397359"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898167,
-    "wof:geomhash":"400588068c099512fd6e036f6d3a4acc",
+    "wof:geomhash":"531455f7248d431e5a8b6fcf8262beda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092041081,
-    "wof:lastmodified":1690939714,
+    "wof:lastmodified":1695886844,
     "wof:name":"Shaamar",
     "wof:parent_id":85674761,
     "wof:placetype":"county",

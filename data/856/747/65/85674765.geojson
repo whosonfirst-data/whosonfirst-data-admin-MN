@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":7.278931,
-    "geom:area_square_m":62699561136.432495,
+    "geom:area_square_m":62699561143.594261,
     "geom:bbox":"101.094219,44.042215,104.661369,47.426653",
     "geom:latitude":45.838031,
     "geom:longitude":102.712733,
@@ -338,17 +338,19 @@
         "gn:id":2029546,
         "gp:id":2346169,
         "hasc:id":"MN.OH",
+        "iso:code":"MN-055",
         "iso:id":"MN-055",
         "qs_pg:id":279891,
         "unlc:id":"MN-055",
         "wd:id":"Q234713",
         "wk:page":"\u00d6v\u00f6rkhangai Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MN",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a19a74920498aeea880c7ecbd3a00122",
+    "wof:geomhash":"9b4f0eb7f11baf898096e39321d2a5c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -363,7 +365,7 @@
     "wof:lang_x_spoken":[
         "mon"
     ],
-    "wof:lastmodified":1690939697,
+    "wof:lastmodified":1695884377,
     "wof:name":"\u00d6v\u00f6rhangay",
     "wof:parent_id":85632439,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120056,
-    "geom:area_square_m":996590555.001242,
+    "geom:area_square_m":996590625.390339,
     "geom:bbox":"105.358783,47.544882,105.891716,48.077682",
     "geom:latitude":47.830597,
     "geom:longitude":105.596158,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.TO.BH",
         "wd:id":"Q3396622"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897892,
-    "wof:geomhash":"77d56d60c96b7c1cae0b56093d8c1569",
+    "wof:geomhash":"a8b3f592045e115cc3e721884ca345d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092034267,
-    "wof:lastmodified":1690939750,
+    "wof:lastmodified":1695886013,
     "wof:name":"Bayanxangai",
     "wof:parent_id":85674777,
     "wof:placetype":"county",

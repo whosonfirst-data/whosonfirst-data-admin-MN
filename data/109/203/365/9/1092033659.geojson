@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002964,
-    "geom:area_square_m":24571417.370532,
+    "geom:area_square_m":24571417.370547,
     "geom:bbox":"106.785923101,47.8774591211,106.909516051,47.945469409",
     "geom:latitude":47.908736,
     "geom:longitude":106.844557,
@@ -79,9 +79,10 @@
     "wof:concordances":{
         "hasc:id":"MN.UB.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897872,
-    "wof:geomhash":"fe2dfd13a8c219ce692e7bd0e52c1393",
+    "wof:geomhash":"536ea9e875acd66b1a2a633c5bf2555a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +92,7 @@
         }
     ],
     "wof:id":1092033659,
-    "wof:lastmodified":1566611702,
+    "wof:lastmodified":1695886845,
     "wof:name":"Bayangol",
     "wof:parent_id":85674783,
     "wof:placetype":"county",

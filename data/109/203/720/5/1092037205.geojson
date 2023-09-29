@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.622293,
-    "geom:area_square_m":4924392483.565829,
+    "geom:area_square_m":4924392205.742538,
     "geom:bbox":"101.090014,49.770724,102.622839,50.667511",
     "geom:latitude":50.210455,
     "geom:longitude":101.844331,
@@ -113,9 +113,10 @@
         "hasc:id":"MN.HG.ER",
         "wd:id":"Q3410244"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898017,
-    "wof:geomhash":"ed1275555014b7634bf1144b550bd50d",
+    "wof:geomhash":"d2f658e9ce795784fb8de842b6045f66",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,7 +126,7 @@
         }
     ],
     "wof:id":1092037205,
-    "wof:lastmodified":1690939763,
+    "wof:lastmodified":1695886848,
     "wof:name":"Erdenebulgan",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

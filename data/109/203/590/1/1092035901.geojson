@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.565269,
-    "geom:area_square_m":4446323685.042424,
+    "geom:area_square_m":4446323316.7909,
     "geom:bbox":"100.389396,50.059924,101.300805,50.949934",
     "geom:latitude":50.495876,
     "geom:longitude":100.84704,
@@ -119,9 +119,10 @@
         "hasc:id":"MN.HG.CO",
         "wd:id":"Q2607753"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897967,
-    "wof:geomhash":"5c1ae3a73d0943e60daee53d368ce0cd",
+    "wof:geomhash":"b3028aeed003c9cb75c8ef0e72e22b5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -131,7 +132,7 @@
         }
     ],
     "wof:id":1092035901,
-    "wof:lastmodified":1690939747,
+    "wof:lastmodified":1695886847,
     "wof:name":"Chandmani-O'ndor",
     "wof:parent_id":85674741,
     "wof:placetype":"county",

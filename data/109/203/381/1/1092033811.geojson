@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.345975,
-    "geom:area_square_m":11907100590.878616,
+    "geom:area_square_m":11907100156.115919,
     "geom:bbox":"100.068547,43.82883,101.742119,44.94602",
     "geom:latitude":44.320766,
     "geom:longitude":100.922833,
@@ -104,9 +104,10 @@
         "hasc:id":"MN.BH.BL",
         "wd:id":"Q2093431"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897879,
-    "wof:geomhash":"da22ccfe700676cf6f4d4ad048c16218",
+    "wof:geomhash":"3292dee17a229136440b0e13e5d528ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":1092033811,
-    "wof:lastmodified":1690939762,
+    "wof:lastmodified":1695886019,
     "wof:name":"Bayanlig",
     "wof:parent_id":85674723,
     "wof:placetype":"county",

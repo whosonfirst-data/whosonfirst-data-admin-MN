@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466012,
-    "geom:area_square_m":3873169533.380247,
+    "geom:area_square_m":3873169127.510984,
     "geom:bbox":"98.760482,47.46068,100.090259,48.049581",
     "geom:latitude":47.766423,
     "geom:longitude":99.377958,
@@ -131,9 +131,10 @@
         "hasc:id":"MN.AR.HG",
         "wd:id":"Q2593940"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898248,
-    "wof:geomhash":"c8ee5fd4be85b758c32783112e0a3dd0",
+    "wof:geomhash":"8935dd45b644d21c8fda87ab694cbd32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1092043153,
-    "wof:lastmodified":1690939710,
+    "wof:lastmodified":1695886844,
     "wof:name":"Xangai",
     "wof:parent_id":85674721,
     "wof:placetype":"county",

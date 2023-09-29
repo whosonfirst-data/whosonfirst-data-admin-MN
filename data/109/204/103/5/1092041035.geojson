@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.916948,
-    "geom:area_square_m":8187430006.007954,
+    "geom:area_square_m":8187429783.931617,
     "geom:bbox":"101.741258,43.259264,103.019596,44.186037",
     "geom:latitude":43.770758,
     "geom:longitude":102.398902,
@@ -101,9 +101,10 @@
         "hasc:id":"MN.OG.SE",
         "wd:id":"Q3403897"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898166,
-    "wof:geomhash":"d144487ac0886fdc5ccf92f4bf788fe1",
+    "wof:geomhash":"5e4e13702b784b10aaf04e3a4d4521e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":1092041035,
-    "wof:lastmodified":1690939701,
+    "wof:lastmodified":1695886024,
     "wof:name":"Sevrei",
     "wof:parent_id":85674713,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.599865,
-    "geom:area_square_m":5154844689.256938,
+    "geom:area_square_m":5154845316.877081,
     "geom:bbox":"95.266369,45.6834,96.811092,46.350169",
     "geom:latitude":45.975631,
     "geom:longitude":96.027785,
@@ -107,9 +107,10 @@
         "hasc:id":"MN.GA.HA",
         "wd:id":"Q3410082"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473898241,
-    "wof:geomhash":"033d1554395645cf3cf6e067fdff4a22",
+    "wof:geomhash":"89275917abebff1b6c0b5c73e54b7674",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -119,7 +120,7 @@
         }
     ],
     "wof:id":1092042937,
-    "wof:lastmodified":1690939708,
+    "wof:lastmodified":1695886029,
     "wof:name":"Xaliun",
     "wof:parent_id":85674731,
     "wof:placetype":"county",

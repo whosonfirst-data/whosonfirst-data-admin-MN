@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.237662,
-    "geom:area_square_m":10054397620.202608,
+    "geom:area_square_m":10054397263.444218,
     "geom:bbox":"114.470808,48.134712,116.518134,49.652248",
     "geom:latitude":48.929054,
     "geom:longitude":115.491302,
@@ -98,9 +98,10 @@
         "hasc:id":"MN.DD.CB",
         "wd:id":"Q3404349"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"MN",
     "wof:created":1473897973,
-    "wof:geomhash":"338d2b1fbb72a007f735f4cf8aa42971",
+    "wof:geomhash":"a4e0f397ea4b8af23c0e01007aae81f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092036057,
-    "wof:lastmodified":1690939736,
+    "wof:lastmodified":1695886016,
     "wof:name":"Choibalsan",
     "wof:parent_id":85674787,
     "wof:placetype":"county",
