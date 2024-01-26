@@ -9,9 +9,21 @@
     "geom:bbox":"104.425,43.57083,104.425,43.57083",
     "geom:latitude":43.57083,
     "geom:longitude":104.425,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dalandzadgad",
     "gn:country":"MN",
+    "gn:country_code":"MN",
+    "gn:dem":1468,
     "gn:fcode":"PPLA",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2032006,
+    "gn:latitude":43.57243,
+    "gn:longitude":104.42299,
+    "gn:modification_date":"2013-06-16",
+    "gn:name":"Dalandzadgad",
     "gn:population":15093,
+    "gn:timezone":"Asia/Ulaanbaatar",
     "iso:country":"MN",
     "lbl:bbox":"104.405,43.55083,104.445,43.59083",
     "lbl:max_zoom":15.0,
@@ -312,7 +324,12 @@
         "wk:page":"Dalanzadgad"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":970007
+        "gn:id":[
+            2032006
+        ],
+        "qs_pg:id":[
+            970007
+        ]
     },
     "wof:country":"MN",
     "wof:created":1469052348,
@@ -330,7 +347,7 @@
         }
     ],
     "wof:id":890442035,
-    "wof:lastmodified":1690939770,
+    "wof:lastmodified":1706240354,
     "wof:name":"Dalandzadgad",
     "wof:parent_id":1092036353,
     "wof:placetype":"locality",
@@ -338,7 +355,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-mn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259356789
+    ],
     "wof:tags":[]
 },
   "bbox": [

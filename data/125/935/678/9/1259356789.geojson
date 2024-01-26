@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"104.42299,43.57243,104.42299,43.57243",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:heb_x_preferred":[
         "\u05d3\u05dc\u05e0\u05d3\u05d6\u05d3\u05d2\u05d0\u05d3"
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":1259356789,
-    "wof:lastmodified":1636504690,
+    "wof:lastmodified":1706240354,
     "wof:name":"Dalandzadgad",
     "wof:parent_id":1092036353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-mn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890442035
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
